@@ -1,0 +1,10 @@
+﻿voting_recommendation_type_id,identifier,notes,sources,translations_languages_code1,translations_name1,translations_notes1,translations_languages_code2,translations_name2,translations_notes2,translations_languages_code3,translations_name3,translations_notes3
+1,yes,,,de-CH,Ja,,en-US,Yes,,fr-CH,Oui,
+2,no,,,de-CH,Nein,,en-US,No,,fr-CH,Non,
+3,none,,,de-CH,Keine Parole,,en-US,No recommendation,,fr-CH,Aucun mot d'ordre,
+4,blank,,,de-CH,Leer einlegen,,fr-CH,Voter blanc,,en-US,Vote blank,
+5,free-vote,,,de-CH,Stimmfreigabe,,fr-CH,Liberté de vote,,en-US,Free vote,
+6,prefer-counter-proposal,,,en-US,Preference for the counter-proposal,,de-CH,Bevorzugung des Gegenentwurfs,,fr-CH,Préférence pour le contre-projet,
+7,prefer-initiative,,,en-US,Preference for the popular initiative,,fr-CH,Préférence pour l'initiative populaire,,de-CH,Bevorzugung der Volksinitiative,
+8,unknown,,,de-CH,Unbekannt,,en-US,Unknown,,fr-CH,Inconnu,
+9,neutral,,,de-CH,Neutral,,fr-CH,Neutre,,en-US,Neutral,

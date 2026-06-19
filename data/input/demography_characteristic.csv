@@ -1,0 +1,8 @@
+﻿demography_characteristic_id,type,identifier,notes,sources,translations_languages_code1,translations_description1,translations_notes1,translations_sources1,translations_languages_code2,translations_description2,translations_notes2,translations_sources2,translations_languages_code3,translations_description3,translations_notes3,translations_sources3
+1,gender,female,,,de-CH,Frauen,,,fr-CH,Femmes,,,en-US,Women,,
+2,gender,male,,,de-CH,Männer,,,fr-CH,Hommes,,,en-US,Men,,
+3,age,agegroup-18-29,,,de-CH,Altersgruppe 18-29,,,,,,,,,,
+4,age,agegroup-30-39,,,de-CH,Altersgruppe 30-39,,,,,,,,,,
+5,age,agegroup-40-49,,,de-CH,Altersgruppe 40-49,,,,,,,,,,
+6,age,agegroup-50-59,,,de-CH,Altersgruppe 50-59,,,,,,,,,,
+7,age,agegroup-60-99,,,de-CH,Altersgruppe 60-99,,,,,,,,,,

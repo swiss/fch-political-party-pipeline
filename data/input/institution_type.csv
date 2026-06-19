@@ -1,0 +1,4 @@
+﻿institution_type_id,identifier,translations,notes,sources,translations_languages_code1,translations_value1,translations_notes1,translations_sources1
+1,leg,[1],,,de-CH,Legislative,,
+2,exe,[2],,,de-CH,Exekutive,,
+3,jud,[3],,,de-CH,Judikative,,

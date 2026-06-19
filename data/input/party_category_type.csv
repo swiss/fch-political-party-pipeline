@@ -1,0 +1,6 @@
+﻿party_category_type_id,identifier,notes,sources,translations_languages_code1,translations_label1,translations_notes1,translations_sources1
+1,party-like,,,de-CH,Partei oder parteiähnliche Organisation,,
+2,party-confederation,,,de-CH,Parteienkonföderation,,
+3,precursor,,,de-CH,Vorläufer einer späteren Partei,,
+4,electoral-actor,,,de-CH,Akteur bei Wahlen ohne feste Organisation,,
+5,unclear,,,de-CH,Unklarer Organisationstyp,,

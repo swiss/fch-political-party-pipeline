@@ -1,0 +1,4 @@
+﻿election_result_type_id,identifier,value_type,notes,sources,translations_languages_code1,translations_description1,translations_notes1,translations_sources1
+1,seats,absolute,,,de-CH,Anzahl Sitze,,
+2,voteshare,relative,,,de-CH,Wählendenanteil,,
+3,seatshare,relative,,,de-CH,Sitzanteil,,

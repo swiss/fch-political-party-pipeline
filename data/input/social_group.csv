@@ -1,0 +1,8 @@
+﻿social_group_id,identifier,notes,sources,translations_languages_code1,translations_name1,translations_notes1,translations_sources1,translations_languages_code2,translations_name2,translations_notes2,translations_sources2,translations_languages_code3,translations_name3,translations_notes3,translations_sources3
+1,general,,,de-CH,Allgemein,,,en-US,General,,,fr-CH,Général,,
+2,women,,,de-CH,Frauen,,,en-US,Women,,,fr-CH,Femmes,,
+3,youth,,,de-CH,Junge,,,en-US,Young,,,fr-CH,Jeunes,,
+4,seniors,,,de-CH,Senior:innen,,,en-US,Elderly,,,fr-CH,Personnes âgées,,
+5,abroad,,,de-CH,Auslandschweizer:innen,,,en-US,Swiss abroad,,,fr-CH,Suisses à l'étranger,,
+6,migrants,,,de-CH,Personen mit Migrationshintergrund,,,en-US,Persons with a migration background,,,fr-CH,Personnes issues de la migration,,
+7,queer,,,de-CH,LGBTQIA+,,,en-US,LGBTQIA+,,,fr-CH,LGBTQIA+,,

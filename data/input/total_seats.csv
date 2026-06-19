@@ -1,0 +1,152 @@
+﻿total_seats_id,count,public_role_id,notes,sources,from_date_precision,from_date_datetime,from_date_notes,from_date_sources,to_date_precision,to_date_datetime,to_date_notes,to_date_sources
+1,200,1,,,exact,1963-12-02T12:00:00,"note_translations: languages_code: de-CH
+note: Seit der 37. Legislatur, die am 2. Dezember 1963 startete, ist die Sitzanzahl fixiert bei 200 Sitzen.","page_number_string: 
+notes: 
+source_full_citation: <p>BBl 1967 II 1053 ff. Abgerufen am 16. September 2025 von https://www.amtsdruckschriften.bar.admin.ch/viewOrigDoc.do?id=10043825</p>
+source_comment: ",,,,
+2,44,2,,,year,1848-07-01T12:00:00,,,year,1979-07-01T12:00:00,,
+3,46,2,,,year,1979-07-01T12:00:00,,,,,,
+4,220,3,,,year,1926-01-01T12:00:00,,"page_number_string: 262
+notes: 
+source_full_citation: <p>Statistisches Amt des Kantons Z&uuml;rich. (2021). <em>Statistisches Jahrbuch des Kantons Z&uuml;rich 2021</em>. Statistisches Amt des Kantons Z&uuml;rich. https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/124@statistisches-amt-kanton-zuerich</p>
+source_comment: ",year,1934-12-31T12:00:00,,"page_number_string: 262
+notes: 
+source_full_citation: <p>Statistisches Amt des Kantons Z&uuml;rich. (2021). <em>Statistisches Jahrbuch des Kantons Z&uuml;rich 2021</em>. Statistisches Amt des Kantons Z&uuml;rich. https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/124@statistisches-amt-kanton-zuerich</p>
+source_comment: "
+5,180,3,,,year,1935-01-01T12:00:00,,"page_number_string: 262
+notes: 
+source_full_citation: <p>Statistisches Amt des Kantons Z&uuml;rich. (2021). <em>Statistisches Jahrbuch des Kantons Z&uuml;rich 2021</em>. Statistisches Amt des Kantons Z&uuml;rich. https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/124@statistisches-amt-kanton-zuerich</p>
+source_comment: ",,,,
+6,9,4,,,year,1849-07-01T12:00:00,,,year,1869-07-01T12:00:00,,
+7,7,4,,,year,1869-07-01T12:00:00,,,,,,
+8,7,5,,,exact,1848-11-16T12:00:00,,"page_number_string: 
+notes: 
+source_full_citation: <p>Bundesrat. (2025).&nbsp;<em>Alle Bundesr&auml;tinnen und Bundesr&auml;te</em>. Abgerufen am 7. November 2025 von <a href=""https://www.admin.ch/gov/de/start/bundesrat/geschichte-des-bundesrats/bundesraete-und-ihre-wahl/alle-bundesraete-liste.html""><span style=""color: windowtext; text-decoration: none; text-underline: none;"">https://www.admin.ch/gov/de/start/bundesrat/geschichte-des-bundesrats/bundesraete-und-ihre-wahl.html</span></a></p>
+source_comment: ",,,,
+9,160,6,,,year,2006-07-01T12:00:00,,,,,,
+10,9,7,,,year,1846-07-01T12:00:00,,,year,1990-07-01T12:00:00,,
+11,7,7,,,year,1990-07-01T12:00:00,,,,,,
+12,7,8,,,unknown,1848-07-01T12:00:00,,,year,2002-07-01T12:00:00,,
+13,100,,,,exact,1814-03-29T12:00:00,,,,,,
+14,5,8,,,year,2002-07-01T12:00:00,,,,,,
+15,120,9,,,year,1999-07-01T12:00:00,,,,,,
+16,170,9,,,year,1963-07-01T12:00:00,,,year,1999-07-01T12:00:00,,
+17,168,9,,,year,1955-07-01T12:00:00,,,year,1963-07-01T12:00:00,,
+18,167,9,,,year,1943-07-01T12:00:00,,,year,1955-07-01T12:00:00,,
+19,151,9,,,year,1931-07-01T12:00:00,,,year,1943-07-01T12:00:00,,
+20,168,9,,,year,1923-07-01T12:00:00,,,year,1931-07-01T12:00:00,,
+21,157,9,,,year,1911-07-01T12:00:00,,,year,1923-07-01T12:00:00,,
+22,64,10,,,year,1972-07-01T12:00:00,,,,,,
+23,7,11,,,unknown,1980-01-01T12:00:00,,,,,,
+24,100,12,,,year,2008-07-01T12:00:00,,,,,,
+25,130,12,,,year,1902-07-01T12:00:00,,,year,2008-07-01T12:00:00,,
+26,7,13,,,year,1875-07-01T12:00:00,,,,,,
+27,257,3,,,year,1923-01-01T12:00:00,,"page_number_string: 262
+notes: 
+source_full_citation: <p>Statistisches Amt des Kantons Z&uuml;rich. (2021). <em>Statistisches Jahrbuch des Kantons Z&uuml;rich 2021</em>. Statistisches Amt des Kantons Z&uuml;rich. https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/124@statistisches-amt-kanton-zuerich</p>
+source_comment: ",year,1925-12-31T12:00:00,,"page_number_string: 262
+notes: 
+source_full_citation: <p>Statistisches Amt des Kantons Z&uuml;rich. (2021). <em>Statistisches Jahrbuch des Kantons Z&uuml;rich 2021</em>. Statistisches Amt des Kantons Z&uuml;rich. https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/124@statistisches-amt-kanton-zuerich</p>
+source_comment: "
+28,223,3,,,year,1917-01-01T12:00:00,,"page_number_string: 262
+notes: 
+source_full_citation: <p>Statistisches Amt des Kantons Z&uuml;rich. (2021). <em>Statistisches Jahrbuch des Kantons Z&uuml;rich 2021</em>. Statistisches Amt des Kantons Z&uuml;rich. https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/124@statistisches-amt-kanton-zuerich</p>
+source_comment: ",year,1922-12-31T12:00:00,,"page_number_string: 262
+notes: 
+source_full_citation: <p>Statistisches Amt des Kantons Z&uuml;rich. (2021). <em>Statistisches Jahrbuch des Kantons Z&uuml;rich 2021</em>. Statistisches Amt des Kantons Z&uuml;rich. https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/124@statistisches-amt-kanton-zuerich</p>
+source_comment: "
+29,196,3,,,year,1878-07-01T12:00:00,,"page_number_string: 115
+notes: 
+source_full_citation: <p>Hohl, A. (2000). Der Kampf um die Gr&ouml;sse des Kantonsrates. In Staatsarchiv des Kantons Z&uuml;rich (Hrsg.), <em>Kleine Z&uuml;rcher Verfassungsgeschichte 1218-2000</em> (S. 115-117). Chronos.</p>
+source_comment: ",multiyear,1890-07-01T12:00:00,,"page_number_string: 115
+notes: 
+source_full_citation: <p>Hohl, A. (2000). Der Kampf um die Gr&ouml;sse des Kantonsrates. In Staatsarchiv des Kantons Z&uuml;rich (Hrsg.), <em>Kleine Z&uuml;rcher Verfassungsgeschichte 1218-2000</em> (S. 115-117). Chronos.</p>
+source_comment: "
+30,222,3,,,year,1869-07-01T12:00:00,,,multiyear,1878-07-01T12:00:00,,
+31,243,3,,,year,1902-07-01T12:00:00,,,multiyear,1911-07-01T12:00:00,,
+32,219,3,,,year,1911-07-01T12:00:00,,,exact,1916-12-31T12:00:00,,
+33,80,14,,,year,1926-07-01T12:00:00,,,year,1981-07-01T12:00:00,,
+34,84,14,,,year,1981-07-01T12:00:00,,,year,1984-07-01T12:00:00,,
+35,90,14,,,year,1984-07-01T12:00:00,,,,,,
+36,5,15,,,year,1832-07-01T12:00:00,,,,,,
+37,60,16,,,exact,1979-01-01T12:00:00,,,,,,
+38,5,17,,,exact,1979-01-01T12:00:00,,,,,,
+39,90,18,,,year,1971-07-01T12:00:00,,,,,,
+40,65,18,,,year,1923-07-01T12:00:00,,,year,1971-07-01T12:00:00,,
+41,75,18,,,year,1921-07-01T12:00:00,,,year,1923-07-01T12:00:00,,
+42,5,19,,,year,1923-07-01T12:00:00,,,,,,
+43,7,19,,,year,1921-07-01T12:00:00,,,exact,1923-07-01T12:00:00,,
+44,100,21,,,year,1964-07-01T12:00:00,,,,,,
+45,105,21,,,year,1952-07-01T12:00:00,,,year,1964-07-01T12:00:00,,
+46,99,21,,,year,1944-07-01T12:00:00,,,year,1952-07-01T12:00:00,,
+47,103,21,,,year,1928-07-01T12:00:00,,,year,1944-07-01T12:00:00,,
+48,102,21,,,year,1912-07-01T12:00:00,,,year,1928-07-01T12:00:00,,
+49,95,21,,,year,1904-07-01T12:00:00,,,year,1912-07-01T12:00:00,,
+50,85,21,,,year,1900-07-01T12:00:00,,,year,1904-07-01T12:00:00,,
+51,7,22,,,year,1848-07-01T12:00:00,,,,,,
+52,55,23,,,year,1990-07-01T12:00:00,,,,,,
+53,52,23,,,year,1982-07-01T12:00:00,,,year,1990-07-01T12:00:00,,
+54,51,23,,,year,1974-07-01T12:00:00,,,year,1982-07-01T12:00:00,,
+55,45,23,,,year,1966-07-01T12:00:00,,,year,1974-07-01T12:00:00,,
+56,5,24,,,year,2002-07-01T12:00:00,,,,,,
+57,7,24,,,unknown,1900-01-01T12:00:00,,,year,2002-07-01T12:00:00,,
+58,60,25,,,year,1955-07-01T12:00:00,,,,,,
+59,58,25,,,year,1943-07-01T12:00:00,,,year,1955-07-01T12:00:00,,
+60,7,26,,,unknown,1900-01-01T12:00:00,,,,,,
+61,80,27,,,unknown,1935-01-01T12:00:00,,,year,2011-07-01T12:00:00,,
+62,60,27,,,year,2011-07-01T12:00:00,,,,,,
+63,7,28,,,year,1887-07-01T12:00:00,,,year,2006-07-01T12:00:00,,
+64,5,28,,,year,2006-07-01T12:00:00,,,,,,
+65,80,29,,,year,1974-07-01T12:00:00,,,,,,
+66,78,29,,,year,1962-07-01T12:00:00,,,year,1974-07-01T12:00:00,,
+67,77,29,,,year,1954-07-01T12:00:00,,,year,1962-07-01T12:00:00,,
+68,78,29,,,year,1934-07-01T12:00:00,,,year,1954-07-01T12:00:00,,
+69,79,29,,,year,1922-07-01T12:00:00,,,year,1934-07-01T12:00:00,,
+70,72,29,,,year,1902-07-01T12:00:00,,,year,1922-07-01T12:00:00,,
+71,67,29,,,year,1894-07-01T12:00:00,,,year,1902-07-01T12:00:00,,
+72,7,30,,,unknown,1900-01-01T12:00:00,,,,,,
+73,110,31,,,year,2006-07-01T12:00:00,,,,,,
+74,130,31,,,year,1961-07-01T12:00:00,,,year,2006-07-01T12:00:00,,
+75,131,31,,,year,1951-07-01T12:00:00,,,year,1961-07-01T12:00:00,,
+76,127,31,,,year,1946-07-01T12:00:00,,,year,1951-07-01T12:00:00,,
+77,118,31,,,year,1921-07-01T12:00:00,,,year,1946-07-01T12:00:00,,
+78,115,31,,,year,1911-07-01T12:00:00,,,year,1921-07-01T12:00:00,,
+79,105,31,,,year,1906-07-01T12:00:00,,,year,1911-07-01T12:00:00,,
+80,7,32,,,unknown,1900-01-01T12:00:00,,,,,,
+81,100,33,,,year,2005-07-01T12:00:00,,,,,,
+82,144,33,,,year,1961-07-01T12:00:00,,,year,2005-07-01T12:00:00,,
+83,142,33,,,year,1953-07-01T12:00:00,,,year,1961-07-01T12:00:00,,
+84,130,33,,,year,1945-07-01T12:00:00,,,year,1953-07-01T12:00:00,,
+85,146,33,,,year,1933-07-01T12:00:00,,,year,1945-07-01T12:00:00,,
+86,131,33,,,year,1925-07-01T12:00:00,,,year,1933-07-01T12:00:00,,
+87,130,33,,,year,1921-07-01T12:00:00,,,year,1925-07-01T12:00:00,,
+88,147,33,,,year,1912-07-01T12:00:00,,,year,1921-07-01T12:00:00,,
+89,125,33,,,year,1904-07-01T12:00:00,,,year,1912-07-01T12:00:00,,
+90,108,33,,,year,1896-07-01T12:00:00,,,year,1904-07-01T12:00:00,,
+91,5,34,,,year,1856-07-01T12:00:00,,,,,,
+92,60,35,,,year,2008-07-01T12:00:00,,,,,,
+93,80,35,,,year,1964-07-01T12:00:00,,,year,2008-07-01T12:00:00,,
+94,82,35,,,year,1956-07-01T12:00:00,,,year,1964-07-01T12:00:00,,
+95,85,35,,,year,1952-07-01T12:00:00,,,year,1956-07-01T12:00:00,,
+96,80,35,,,year,1944-07-01T12:00:00,,,year,1952-07-01T12:00:00,,
+97,76,35,,,year,1932-07-01T12:00:00,,,year,1944-07-01T12:00:00,,
+98,77,35,,,year,1924-07-01T12:00:00,,,year,1932-07-01T12:00:00,,
+99,78,35,,,year,1912-07-01T12:00:00,,,year,1924-07-01T12:00:00,,
+100,86,35,,,year,1904-07-01T12:00:00,,,year,1912-07-01T12:00:00,,
+101,5,36,,,unknown,1900-01-01T12:00:00,,,,,,
+102,65,37,,,unknown,1900-01-01T12:00:00,,,,,,
+103,5,38,,,unknown,1900-01-01T12:00:00,,,,,,
+104,50,39,,,year,2015-07-01T12:00:00,,,,,,
+105,7,40,,,year,1995-07-01T12:00:00,,,,,,
+106,9,40,,,unknown,1950-01-01T12:00:00,,,year,1995-07-01T12:00:00,,
+107,120,41,,,year,2008-07-01T12:00:00,,,,,,
+108,180,41,,,year,1972-07-01T12:00:00,,,year,2008-07-01T12:00:00,,
+109,204,41,,,year,1964-07-01T12:00:00,,,year,1972-07-01T12:00:00,,
+110,193,41,,,year,1954-07-01T12:00:00,,,year,1964-07-01T12:00:00,,
+111,191,41,,,year,1951-07-01T12:00:00,,,year,1954-07-01T12:00:00,,
+112,177,41,,,year,1942-07-01T12:00:00,,,year,1951-07-01T12:00:00,,
+113,174,41,,,year,1933-07-01T12:00:00,,,year,1942-07-01T12:00:00,,
+114,173,41,,,year,1921-07-01T12:00:00,,,year,1933-07-01T12:00:00,,
+115,202,41,,,year,1912-07-01T12:00:00,,,year,1921-07-01T12:00:00,,
+116,172,41,,,year,1906-07-01T12:00:00,,,year,1912-07-01T12:00:00,,
+117,7,42,,,unknown,1900-01-01T12:00:00,,,,,,

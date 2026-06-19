@@ -1,0 +1,7 @@
+﻿area_type_id,identifier,notes,sources,translations_languages_code1,translations_value1,translations_notes1,translations_sources1
+1,country,,,de-CH,Land,,
+2,intercantonal,,,de-CH,Interkantonal,,
+3,canton,,,de-CH,Kanton,,
+4,region,,,de-CH,Subkantonale Region,,
+5,municipality,,,de-CH,Gemeinde,,
+6,district,,,de-CH,Bezirk,,

@@ -1,0 +1,6 @@
+﻿key_figure_type_id,identifier,notes,sources,translations_languages_code1,translations_name1,translations_notes1,translations_sources1,translations_languages_code2,translations_name2,translations_notes2,translations_sources2
+1,fractionalization-effective,,,de-CH,Fragmentierung: Effektive Parteienzahl,,,en-US,Fractionalization: Effective number of parties,,
+2,fractionalization-hyper,,,de-CH,Fragmentierung: Hyperfraktionalisierungs-Index,,,en-US,Fractionalization: Hyperfractionalization index,,
+3,volatility,,,de-CH,Volatilität,,,en-US,Volatility,,
+4,dominance,,,de-CH,Dominanzgrad,,,en-US,Degree of dominance,,
+5,turnout,,,de-CH,Wahlbeteiligung,,,en-US,Electoral turnout,,

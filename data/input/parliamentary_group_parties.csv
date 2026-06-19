@@ -1,0 +1,32 @@
+﻿parliamentary_group_parties_id,parliamentary_group_id,party_id,parliamentary_group_parties_date_id,notes,sources
+1,1,1,[1],,
+2,2,10,[2],,
+3,2,4,[3],,
+4,3,9,[4],,
+5,3,3,[5],,
+6,4,2,[6],,
+7,5,2,[7],,
+8,4,16,[8],,"page_number_string: 
+notes: 
+source_full_citation: <p>B&uuml;rgi, M. (2010). Demokratische Partei. In <em>Historisches Lexikon der Schweiz (HLS)</em>. Abgerufen am 03. Oktober 2025 von https://hls-dhs-dss.ch/de/articles/017383/2010-05-07/</p>
+source_comment: "
+9,4,17,[9],,
+10,3,19,[10],,"page_number_string: 
+notes: 
+source_full_citation: <p>Eidgen&ouml;ssisches Statistisches Amt. (1929). <em>Statistik der Nationalratswahlen 1919, 1922, 1925 und 1928</em>. A. Francke.</p>
+source_comment: "
+11,5,14,[11],,"page_number_string: 
+notes: 
+source_full_citation: <p>M&uuml;ller, E. (1995). Parteien. In <em>Ann&eacute;e Politique Suisse 1995</em>. Abgerufen am 05. Januar 2026 von https://anneepolitique.swiss/APS/de/APS_1995/APS1995_III_a.html#ref2</p>
+source_comment: "
+12,2,6,[12],,
+13,6,6,[13],,
+14,7,5,[14],,
+15,7,14,"[15,16]",,
+16,2,7,[17],,
+17,1,8,"[18,19,20]",,
+18,3,15,[21],,
+19,8,15,"[22,25]",,
+20,9,15,[23],,
+21,9,7,[24],,
+22,2,13,[26],,

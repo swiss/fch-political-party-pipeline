@@ -1,0 +1,13 @@
+﻿policy_area_id,identifier,notes,sources,translations_languages_code1,translations_name1,translations_notes1,translations_sources1,translations_languages_code2,translations_name2,translations_notes2,translations_sources2,translations_languages_code3,translations_name3,translations_notes3,translations_sources3
+1,state-organisation,,,de-CH,Staatsordnung,,,en-US,State organisation,,,fr-CH,Régime politique,,
+2,foreign-policy,,,de-CH,Aussenpolitik,,,en-US,Foreign policy,,,fr-CH,Politique étrangère,,
+3,security-policy,,,de-CH,Sicherheitspolitik,,,en-US,Security policy,,,fr-CH,Politique de sécurité,,
+4,economy,,,de-CH,Wirtschaft,,,en-US,Economy,,,fr-CH,Économie,,
+5,agriculture,,,de-CH,Landwirtschaft,,,en-US,Agriculture,,,fr-CH,Agriculture,,
+6,public-finance,,,de-CH,Öffentliche Finanzen,,,en-US,Public finance,,,fr-CH,Finances publiques,,
+7,energy,,,de-CH,Energie,,,en-US,Energy,,,fr-CH,Énergie,,
+8,transport-infrastructure,,,de-CH,Verkehr und Infrastruktur,,,en-US,Transport and infrastructure,,,fr-CH,Transports et infrastructures,,
+9,environment-living-space,,,de-CH,Umwelt und Lebensraum,,,en-US,Environment and living space,,,fr-CH,Environnement naturel et bâti,,
+10,social-societal-policy,,,de-CH,Sozial- und Gesellschaftspolitik,,,en-US,Social and societal policy,,,fr-CH,Politique sociale et sociétale,,
+11,education-research,,,de-CH,Bildung und Forschung,,,en-US,Education and research,,,fr-CH,Formation et recherche,,
+12,culture-religion-media,,,de-CH,"Kultur, Religion, Medien",,,en-US,"Culture, religion and media",,,fr-CH,"Culture, religion, médias",,
