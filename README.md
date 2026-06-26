@@ -12,6 +12,7 @@ This repository contains all the necessary code to convert the CSV Party Atlas f
 - How to determine the number of versions per row in party.csv: Working hypothesis: for each `party_name_id` a version, for each `relationship_id_1` a version and for each `relationship_id_2` a version if it is on the same hierarchical level (country or canton). For all these event, there should be a date extractable.
 - Is it enough to use only each line individually or are there cases where we need to combine multiple lines to get a complete picture of a party's identity?
 - What about the different identifiers from `party_code_id`. In the CSV, these are only given for the *identity* but we should not have information on the *identity* that is not present in a *version*.
+- At the moment, if it is a succession, there is also an entry in the `chronology` generated for the party that is not the successor but ended.
 
 ## Questions to the University of Bern
 
