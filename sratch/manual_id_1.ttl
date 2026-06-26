@@ -18,7 +18,7 @@
     vl:successor <https://politics.ld.admin.ch/party-version/1_2008-11-01> ,
                  <https://politics.ld.admin.ch/party-version/13_2008-11-01> .
 
-# hard to get this version from the data, it is needed because of the seccession of the BDP
+# harder to get this version from the data, it is needed because of the seccession of the BDP
 <https://politics.ld.admin.ch/party-version/1_2008-11-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/1> ;
     schema:identifier "1_2008-11-01" ;  #from party_id and schema:validFrom
