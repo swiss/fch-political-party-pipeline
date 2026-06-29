@@ -20,7 +20,8 @@
 
 <https://politics.ld.admin.ch/party-version/104_1913-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/104> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/104_1921-07-01> .
+    vl:successor <https://politics.ld.admin.ch/party-version/104_1921-07-01>,
+        <https://politics.ld.admin.ch/party-version/120_1921-07-01> .
 
 <https://politics.ld.admin.ch/party-version/105_1919-08-03> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/105> ;
@@ -30,49 +31,39 @@
     vl:identity <https://politics.ld.admin.ch/party-id/107> ;
     vl:successor <https://politics.ld.admin.ch/party-version/107_1967-07-01> .
 
-<https://politics.ld.admin.ch/party-version/108_1994-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/108> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/108_2000-07-01> .
-
 <https://politics.ld.admin.ch/party-version/109_1991-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/109> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/109_1994-07-01> .
+    vl:successor <https://politics.ld.admin.ch/party-version/108_1994-07-01>,
+        <https://politics.ld.admin.ch/party-version/109_1994-07-01> .
 
 <https://politics.ld.admin.ch/party-version/10_1912-04-22> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/10> ;
     vl:successor <https://politics.ld.admin.ch/party-version/10_1957-07-01> .
 
 <https://politics.ld.admin.ch/party-version/110_1988-06-27> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/110> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/110_1991-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/110> .
 
 <https://politics.ld.admin.ch/party-version/111_1988-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/111> ;
     vl:successor <https://politics.ld.admin.ch/party-version/111_1988-10-30> .
 
 <https://politics.ld.admin.ch/party-version/112_1983-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/112> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/112_1991-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/112> .
 
 <https://politics.ld.admin.ch/party-version/116_2010-03-25> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/116> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/116_2022-01-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/116> .
 
 <https://politics.ld.admin.ch/party-version/119_1975-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/119> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/119_1988-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/119> .
 
 <https://politics.ld.admin.ch/party-version/11_1936-12-23> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/11> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/11_1971-09-22> .
+    vl:identity <https://politics.ld.admin.ch/party-id/11> .
 
 <https://politics.ld.admin.ch/party-version/121_1979-12-06> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/121> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/121_1986-06-17> .
+    vl:identity <https://politics.ld.admin.ch/party-id/121> .
 
 <https://politics.ld.admin.ch/party-version/122_1986-06-17> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/122> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/122_1988-06-27> .
+    vl:identity <https://politics.ld.admin.ch/party-id/122> .
 
 <https://politics.ld.admin.ch/party-version/125_1912-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/125> ;
@@ -91,36 +82,28 @@
     vl:successor <https://politics.ld.admin.ch/party-version/130_2001-07-01> .
 
 <https://politics.ld.admin.ch/party-version/136_1967-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/136> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/136_2013-01-15> .
+    vl:identity <https://politics.ld.admin.ch/party-id/136> .
 
 <https://politics.ld.admin.ch/party-version/137_1977-05-15> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/137> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/137_2013-01-15> .
+    vl:identity <https://politics.ld.admin.ch/party-id/137> .
 
 <https://politics.ld.admin.ch/party-version/139_1999-07-15> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/139> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/139_2002-09-27> .
-
-<https://politics.ld.admin.ch/party-version/13_2008-11-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/13> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/13_2021-01-01> .
+    vl:successor <https://politics.ld.admin.ch/party-version/139_2002-09-27>,
+        <https://politics.ld.admin.ch/party-version/140_2002-09-27> .
 
 <https://politics.ld.admin.ch/party-version/141_1919-12-07> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/141> ;
     vl:successor <https://politics.ld.admin.ch/party-version/141_1982-05-01> .
 
 <https://politics.ld.admin.ch/party-version/142_1971-09-23> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/142> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/142_1982-05-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/142> .
 
 <https://politics.ld.admin.ch/party-version/147_2008-02-21> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/147> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/147_2013-09-12> .
+    vl:identity <https://politics.ld.admin.ch/party-id/147> .
 
 <https://politics.ld.admin.ch/party-version/148_1849-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/148> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/148_2008-02-21> .
+    vl:identity <https://politics.ld.admin.ch/party-id/148> .
 
 <https://politics.ld.admin.ch/party-version/149_1979-09-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/149> ;
@@ -136,11 +119,8 @@
 
 <https://politics.ld.admin.ch/party-version/152_1919-04-23> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/152> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/152_1949-07-01> .
-
-<https://politics.ld.admin.ch/party-version/153_1949-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/153> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/153_2023-03-01> .
+    vl:successor <https://politics.ld.admin.ch/party-version/152_1949-07-01>,
+        <https://politics.ld.admin.ch/party-version/153_1949-07-01> .
 
 <https://politics.ld.admin.ch/party-version/154_1960-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/154> ;
@@ -163,8 +143,7 @@
     vl:successor <https://politics.ld.admin.ch/party-version/15_1961-07-01> .
 
 <https://politics.ld.admin.ch/party-version/160_1988-03-20> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/160> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/160_2008-02-21> .
+    vl:identity <https://politics.ld.admin.ch/party-id/160> .
 
 <https://politics.ld.admin.ch/party-version/161_1919-12-19> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/161> ;
@@ -172,39 +151,27 @@
 
 <https://politics.ld.admin.ch/party-version/163_1900-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/163> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/163_1969-04-27> .
+    vl:successor <https://politics.ld.admin.ch/party-version/163_1969-04-27>,
+        <https://politics.ld.admin.ch/party-version/165_1969-04-27> .
 
 <https://politics.ld.admin.ch/party-version/164_1992-10-18> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/164> ;
     vl:successor <https://politics.ld.admin.ch/party-version/164_2020-02-16> .
 
-<https://politics.ld.admin.ch/party-version/165_1969-04-27> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/165> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/165_1988-01-24> .
-
 <https://politics.ld.admin.ch/party-version/166_1988-01-24> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/166> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/166_1992-10-18> .
+    vl:identity <https://politics.ld.admin.ch/party-id/166> .
 
 <https://politics.ld.admin.ch/party-version/168_1855-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/168> ;
     vl:successor <https://politics.ld.admin.ch/party-version/168_1913-07-01> .
 
 <https://politics.ld.admin.ch/party-version/16_1880-01-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/16> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/16_1905-03-19> .
+    vl:identity <https://politics.ld.admin.ch/party-id/16> .
 
 <https://politics.ld.admin.ch/party-version/170_1984-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/170> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/170_1990-03-25> .
-
-<https://politics.ld.admin.ch/party-version/171_1990-03-25> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/171> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/171_1994-07-01> .
-
-<https://politics.ld.admin.ch/party-version/172_1990-05-20> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/172> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/172_1990-10-26> .
+    vl:successor <https://politics.ld.admin.ch/party-version/170_1990-03-25>,
+        <https://politics.ld.admin.ch/party-version/171_1990-03-25> .
 
 <https://politics.ld.admin.ch/party-version/173_2013-02-22> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/173> ;
@@ -215,24 +182,16 @@
     vl:successor <https://politics.ld.admin.ch/party-version/175_1963-07-01> .
 
 <https://politics.ld.admin.ch/party-version/177_1934-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/177> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/177_1946-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/177> .
 
 <https://politics.ld.admin.ch/party-version/178_1934-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/178> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/178_1946-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/178> .
 
 <https://politics.ld.admin.ch/party-version/179_1894-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/179> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/179_1934-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/179> .
 
 <https://politics.ld.admin.ch/party-version/17_1905-03-19> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/17> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/17_1941-07-01> .
-
-<https://politics.ld.admin.ch/party-version/180_1986-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/180> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/180_1988-01-24> .
+    vl:identity <https://politics.ld.admin.ch/party-id/17> .
 
 <https://politics.ld.admin.ch/party-version/183_1912-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/183> ;
@@ -243,20 +202,17 @@
     vl:successor <https://politics.ld.admin.ch/party-version/184_2021-08-26> .
 
 <https://politics.ld.admin.ch/party-version/185_1946-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/185> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/185_1971-11-27> .
+    vl:identity <https://politics.ld.admin.ch/party-id/185> .
 
 <https://politics.ld.admin.ch/party-version/186_1900-01-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/186> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/186_1971-11-27> .
+    vl:identity <https://politics.ld.admin.ch/party-id/186> .
 
 <https://politics.ld.admin.ch/party-version/188_1983-05-28> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/188> ;
     vl:successor <https://politics.ld.admin.ch/party-version/188_1988-07-01> .
 
 <https://politics.ld.admin.ch/party-version/18_1941-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/18> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/18_1971-09-22> .
+    vl:identity <https://politics.ld.admin.ch/party-id/18> .
 
 <https://politics.ld.admin.ch/party-version/194_1992-10-15> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/194> ;
@@ -270,17 +226,13 @@
     vl:identity <https://politics.ld.admin.ch/party-id/196> ;
     vl:successor <https://politics.ld.admin.ch/party-version/196_1943-07-01> .
 
-<https://politics.ld.admin.ch/party-version/199_1956-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/199> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/199_2005-07-01> .
-
 <https://politics.ld.admin.ch/party-version/19_1848-01-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/19> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/19_1894-02-25> .
+    vl:identity <https://politics.ld.admin.ch/party-id/19> .
 
 <https://politics.ld.admin.ch/party-version/1_1971-09-22> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/1> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/1_2008-11-01> .
+    vl:successor <https://politics.ld.admin.ch/party-version/13_2008-11-01>,
+        <https://politics.ld.admin.ch/party-version/1_2008-11-01> .
 
 <https://politics.ld.admin.ch/party-version/202_1942-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/202> ;
@@ -296,23 +248,15 @@
 
 <https://politics.ld.admin.ch/party-version/205_1896-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/205> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/205_1946-07-01> .
-
-<https://politics.ld.admin.ch/party-version/206_1946-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/206> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/206_1970-07-01> .
+    vl:successor <https://politics.ld.admin.ch/party-version/205_1946-07-01>,
+        <https://politics.ld.admin.ch/party-version/206_1946-07-01> .
 
 <https://politics.ld.admin.ch/party-version/207_1982-01-08> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/207> ;
     vl:successor <https://politics.ld.admin.ch/party-version/207_2001-07-01> .
 
 <https://politics.ld.admin.ch/party-version/209_1920-01-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/209> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/209_1936-12-23> .
-
-<https://politics.ld.admin.ch/party-version/20_1917-03-04> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/20> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/20_1951-06-24> .
+    vl:identity <https://politics.ld.admin.ch/party-id/209> .
 
 <https://politics.ld.admin.ch/party-version/210_1928-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/210> ;
@@ -335,16 +279,14 @@
     vl:successor <https://politics.ld.admin.ch/party-version/215_2000-07-01> .
 
 <https://politics.ld.admin.ch/party-version/218_2008-08-28> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/218> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/218_2021-05-12> .
+    vl:identity <https://politics.ld.admin.ch/party-id/218> .
 
 <https://politics.ld.admin.ch/party-version/219_1902-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/219> ;
     vl:successor <https://politics.ld.admin.ch/party-version/219_1927-07-01> .
 
 <https://politics.ld.admin.ch/party-version/220_1838-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/220> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/220_1927-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/220> .
 
 <https://politics.ld.admin.ch/party-version/222_1889-09-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/222> ;
@@ -363,24 +305,21 @@
     vl:successor <https://politics.ld.admin.ch/party-version/225_2007-07-01> .
 
 <https://politics.ld.admin.ch/party-version/226_1986-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/226> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/226_2005-08-27> .
+    vl:identity <https://politics.ld.admin.ch/party-id/226> .
 
 <https://politics.ld.admin.ch/party-version/231_1945-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/231> ;
     vl:successor <https://politics.ld.admin.ch/party-version/231_1971-01-01> .
 
 <https://politics.ld.admin.ch/party-version/233_1894-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/233> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/233_2006-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/233> .
 
 <https://politics.ld.admin.ch/party-version/234_2006-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/234> ;
     vl:successor <https://politics.ld.admin.ch/party-version/234_2010-01-01> .
 
 <https://politics.ld.admin.ch/party-version/235_1981-04-25> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/235> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/235_2006-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/235> .
 
 <https://politics.ld.admin.ch/party-version/236_1857-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/236> ;
@@ -402,17 +341,11 @@
     vl:identity <https://politics.ld.admin.ch/party-id/242> ;
     vl:successor <https://politics.ld.admin.ch/party-version/242_2014-01-11> .
 
-<https://politics.ld.admin.ch/party-version/243_1966-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/243> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/243_1980-09-15> .
-
 <https://politics.ld.admin.ch/party-version/245_2010-04-28> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/245> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/245_2021-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/245> .
 
 <https://politics.ld.admin.ch/party-version/247_1985-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/247> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/247_1990-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/247> .
 
 <https://politics.ld.admin.ch/party-version/248_1838-05-20> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/248> ;
@@ -431,8 +364,7 @@
     vl:successor <https://politics.ld.admin.ch/party-version/251_1890-09-14> .
 
 <https://politics.ld.admin.ch/party-version/252_1883-02-25> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/252> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/252_1890-09-13> .
+    vl:identity <https://politics.ld.admin.ch/party-id/252> .
 
 <https://politics.ld.admin.ch/party-version/253_1872-10-06> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/253> ;
@@ -443,8 +375,7 @@
     vl:successor <https://politics.ld.admin.ch/party-version/254_1972-07-01> .
 
 <https://politics.ld.admin.ch/party-version/255_2009-06-17> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/255> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/255_2021-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/255> .
 
 <https://politics.ld.admin.ch/party-version/258_1989-11-14> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/258> ;
@@ -466,17 +397,12 @@
     vl:identity <https://politics.ld.admin.ch/party-id/263> ;
     vl:successor <https://politics.ld.admin.ch/party-version/263_1990-07-01> .
 
-<https://politics.ld.admin.ch/party-version/265_1918-12-19> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/265> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/265_1956-07-01> .
-
 <https://politics.ld.admin.ch/party-version/266_1935-07-07> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/266> ;
     vl:successor <https://politics.ld.admin.ch/party-version/266_1961-11-12> .
 
 <https://politics.ld.admin.ch/party-version/267_1921-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/267> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/267_1935-07-07> .
+    vl:identity <https://politics.ld.admin.ch/party-id/267> .
 
 <https://politics.ld.admin.ch/party-version/268_1911-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/268> ;
@@ -484,7 +410,8 @@
 
 <https://politics.ld.admin.ch/party-version/269_1904-01-24> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/269> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/269_1918-12-19> .
+    vl:successor <https://politics.ld.admin.ch/party-version/265_1918-12-19>,
+        <https://politics.ld.admin.ch/party-version/269_1918-12-19> .
 
 <https://politics.ld.admin.ch/party-version/26_1978-08-31> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/26> ;
@@ -499,8 +426,7 @@
     vl:successor <https://politics.ld.admin.ch/party-version/271_2012-07-01> .
 
 <https://politics.ld.admin.ch/party-version/274_1919-01-13> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/274> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/274_1922-04-02> .
+    vl:identity <https://politics.ld.admin.ch/party-id/274> .
 
 <https://politics.ld.admin.ch/party-version/275_1905-06-26> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/275> ;
@@ -513,10 +439,6 @@
 <https://politics.ld.admin.ch/party-version/279_1972-12-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/279> ;
     vl:successor <https://politics.ld.admin.ch/party-version/279_1974-07-01> .
-
-<https://politics.ld.admin.ch/party-version/27_2004-06-25> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/27> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/27_2004-11-02> .
 
 <https://politics.ld.admin.ch/party-version/282_1874-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/282> ;
@@ -588,27 +510,20 @@
 
 <https://politics.ld.admin.ch/party-version/33_1961-06-15> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/33> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/33_1975-09-03> .
-
-<https://politics.ld.admin.ch/party-version/35_1918-09-28> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/35> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/35_1921-01-01> .
+    vl:successor <https://politics.ld.admin.ch/party-version/33_1975-09-03>,
+        <https://politics.ld.admin.ch/party-version/8_1975-09-03> .
 
 <https://politics.ld.admin.ch/party-version/37_1889-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/37> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/37_1918-09-28> .
+    vl:successor <https://politics.ld.admin.ch/party-version/35_1918-09-28>,
+        <https://politics.ld.admin.ch/party-version/37_1918-09-28> .
 
 <https://politics.ld.admin.ch/party-version/39_1956-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/39> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/39_2021-03-24> .
+    vl:identity <https://politics.ld.admin.ch/party-id/39> .
 
 <https://politics.ld.admin.ch/party-version/40_2006-05-15> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/40> ;
     vl:successor <https://politics.ld.admin.ch/party-version/40_2010-01-01> .
-
-<https://politics.ld.admin.ch/party-version/41_1983-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/41> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/41_1997-07-01> .
 
 <https://politics.ld.admin.ch/party-version/42_1987-06-03> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/42> ;
@@ -626,10 +541,6 @@
     vl:identity <https://politics.ld.admin.ch/party-id/45> ;
     vl:successor <https://politics.ld.admin.ch/party-version/45_2011-07-01> .
 
-<https://politics.ld.admin.ch/party-version/49_2008-06-21> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/49> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/49_2021-03-24> .
-
 <https://politics.ld.admin.ch/party-version/50_2003-05-05> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/50> ;
     vl:successor <https://politics.ld.admin.ch/party-version/50_2018-07-01> .
@@ -639,24 +550,20 @@
     vl:successor <https://politics.ld.admin.ch/party-version/51_2003-05-05> .
 
 <https://politics.ld.admin.ch/party-version/52_1882-12-15> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/52> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/52_1921-01-01> .
-
-<https://politics.ld.admin.ch/party-version/55_1895-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/55> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/55_1950-01-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/52> .
 
 <https://politics.ld.admin.ch/party-version/56_1831-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/56> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/56_1895-07-01> .
+    vl:successor <https://politics.ld.admin.ch/party-version/55_1895-07-01>,
+        <https://politics.ld.admin.ch/party-version/56_1895-07-01> .
 
 <https://politics.ld.admin.ch/party-version/57_1871-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/57> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/57_1956-07-01> .
+    vl:successor <https://politics.ld.admin.ch/party-version/57_1956-07-01>,
+        <https://politics.ld.admin.ch/party-version/62_1956-07-01> .
 
 <https://politics.ld.admin.ch/party-version/58_1840-11-05> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/58> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/58_1871-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/58> .
 
 <https://politics.ld.admin.ch/party-version/59_1987-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/59> ;
@@ -673,10 +580,6 @@
 <https://politics.ld.admin.ch/party-version/65_1976-05-22> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/65> ;
     vl:successor <https://politics.ld.admin.ch/party-version/65_1997-06-21> .
-
-<https://politics.ld.admin.ch/party-version/66_1997-06-21> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/66> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/66_2005-07-01> .
 
 <https://politics.ld.admin.ch/party-version/68_1907-10-16> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/68> ;
@@ -700,11 +603,13 @@
 
 <https://politics.ld.admin.ch/party-version/75_1890-06-26> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/75> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/75_1921-07-01> .
+    vl:successor <https://politics.ld.admin.ch/party-version/75_1921-07-01>,
+        <https://politics.ld.admin.ch/party-version/96_1921-07-01> .
 
 <https://politics.ld.admin.ch/party-version/76_1894-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/76> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/76_1911-01-15> .
+    vl:successor <https://politics.ld.admin.ch/party-version/76_1911-01-15>,
+        <https://politics.ld.admin.ch/party-version/86_1911-01-15> .
 
 <https://politics.ld.admin.ch/party-version/77_1905-05-15> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/77> ;
@@ -723,8 +628,7 @@
     vl:successor <https://politics.ld.admin.ch/party-version/7_2003-01-01> .
 
 <https://politics.ld.admin.ch/party-version/80_1988-06-27> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/80> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/80_1989-06-20> .
+    vl:identity <https://politics.ld.admin.ch/party-id/80> .
 
 <https://politics.ld.admin.ch/party-version/81_1995-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/81> ;
@@ -738,25 +642,15 @@
     vl:identity <https://politics.ld.admin.ch/party-id/84> ;
     vl:successor <https://politics.ld.admin.ch/party-version/84_1948-12-17> .
 
-<https://politics.ld.admin.ch/party-version/86_1911-01-15> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/86> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/86_1920-07-01> .
-
 <https://politics.ld.admin.ch/party-version/87_2011-08-24> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/87> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/87_2021-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/87> .
 
 <https://politics.ld.admin.ch/party-version/88_1944-04-17> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/88> ;
     vl:successor <https://politics.ld.admin.ch/party-version/88_1991-01-01> .
 
-<https://politics.ld.admin.ch/party-version/89_1991-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/89> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/89_2019-07-01> .
-
 <https://politics.ld.admin.ch/party-version/91_1905-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/91> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/91_1957-03-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/91> .
 
 <https://politics.ld.admin.ch/party-version/92_1957-03-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/92> ;
@@ -766,17 +660,11 @@
     vl:identity <https://politics.ld.admin.ch/party-id/94> ;
     vl:successor <https://politics.ld.admin.ch/party-version/94_1990-07-01> .
 
-<https://politics.ld.admin.ch/party-version/96_1921-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/96> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/96_1944-04-17> .
-
 <https://politics.ld.admin.ch/party-version/97_1987-02-21> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/97> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/97_1989-06-20> .
+    vl:identity <https://politics.ld.admin.ch/party-id/97> .
 
 <https://politics.ld.admin.ch/party-version/9_1894-02-25> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/9> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/9_2009-01-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/9> .
 
 <https://politics.ld.admin.ch/party-id/100> a vl:Identity ;
     vl:version <https://politics.ld.admin.ch/party-version/100_1932-07-01> .
@@ -1152,6 +1040,10 @@
     vl:identity <https://politics.ld.admin.ch/party-id/107> ;
     vl:successor <https://politics.ld.admin.ch/party-version/107_2022-01-01> .
 
+<https://politics.ld.admin.ch/party-version/108_1994-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/108> ;
+    vl:successor <https://politics.ld.admin.ch/party-version/108_2000-07-01> .
+
 <https://politics.ld.admin.ch/party-version/108_2000-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/108> ;
     vl:successor <https://politics.ld.admin.ch/party-version/108_2020-01-01> .
@@ -1162,15 +1054,26 @@
 
 <https://politics.ld.admin.ch/party-version/10_1970-12-12> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/10> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/10_1997-06-21> .
+    vl:successor <https://politics.ld.admin.ch/party-version/10_1997-06-21>,
+        <https://politics.ld.admin.ch/party-version/66_1997-06-21> .
 
 <https://politics.ld.admin.ch/party-version/10_1997-06-21> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/10> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/10_2021-01-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/10> .
+
+<https://politics.ld.admin.ch/party-version/10_2021-01-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/10> .
+
+<https://politics.ld.admin.ch/party-version/110_1991-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/110> .
 
 <https://politics.ld.admin.ch/party-version/111_1988-10-30> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/111> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/111_1991-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/111> .
+
+<https://politics.ld.admin.ch/party-version/111_1991-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/111> .
+
+<https://politics.ld.admin.ch/party-version/112_1991-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/112> .
 
 <https://politics.ld.admin.ch/party-version/113_2007-09-18> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/113> .
@@ -1181,14 +1084,26 @@
 <https://politics.ld.admin.ch/party-version/115_1989-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/115> .
 
+<https://politics.ld.admin.ch/party-version/116_2022-01-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/116> .
+
 <https://politics.ld.admin.ch/party-version/117_1944-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/117> .
 
 <https://politics.ld.admin.ch/party-version/118_1974-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/118> .
 
-<https://politics.ld.admin.ch/party-version/120_1921-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/120> .
+<https://politics.ld.admin.ch/party-version/119_1988-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/119> .
+
+<https://politics.ld.admin.ch/party-version/11_1971-09-22> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/11> .
+
+<https://politics.ld.admin.ch/party-version/121_1986-06-17> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/121> .
+
+<https://politics.ld.admin.ch/party-version/122_1988-06-27> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/122> .
 
 <https://politics.ld.admin.ch/party-version/123_1979-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/123> .
@@ -1198,14 +1113,12 @@
 
 <https://politics.ld.admin.ch/party-version/125_1955-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/125> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/125_1974-03-01> .
+    vl:successor <https://politics.ld.admin.ch/party-version/125_1974-03-01>,
+        <https://politics.ld.admin.ch/party-version/127_1974-03-01> .
 
 <https://politics.ld.admin.ch/party-version/125_1974-03-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/125> ;
     vl:successor <https://politics.ld.admin.ch/party-version/125_2009-01-01> .
-
-<https://politics.ld.admin.ch/party-version/127_1974-03-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/127> .
 
 <https://politics.ld.admin.ch/party-version/128_1890-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/128> ;
@@ -1217,7 +1130,8 @@
 
 <https://politics.ld.admin.ch/party-version/128_1919-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/128> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/128_1958-01-26> .
+    vl:successor <https://politics.ld.admin.ch/party-version/128_1958-01-26>,
+        <https://politics.ld.admin.ch/party-version/134_1958-01-26> .
 
 <https://politics.ld.admin.ch/party-version/128_1958-01-26> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/128> ;
@@ -1252,17 +1166,26 @@
 <https://politics.ld.admin.ch/party-version/132_2011-09-22> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/132> .
 
-<https://politics.ld.admin.ch/party-version/134_1958-01-26> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/134> .
-
 <https://politics.ld.admin.ch/party-version/135_1967-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/135> .
+
+<https://politics.ld.admin.ch/party-version/136_2013-01-15> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/136> .
+
+<https://politics.ld.admin.ch/party-version/137_2013-01-15> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/137> .
 
 <https://politics.ld.admin.ch/party-version/138_2013-01-15> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/138> .
 
-<https://politics.ld.admin.ch/party-version/140_2002-09-27> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/140> .
+<https://politics.ld.admin.ch/party-version/13_2008-11-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/13> .
+
+<https://politics.ld.admin.ch/party-version/13_2021-01-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/13> .
+
+<https://politics.ld.admin.ch/party-version/142_1982-05-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/142> .
 
 <https://politics.ld.admin.ch/party-version/143_1982-05-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/143> .
@@ -1273,9 +1196,17 @@
 <https://politics.ld.admin.ch/party-version/145_2013-09-12> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/145> .
 
+<https://politics.ld.admin.ch/party-version/147_2013-09-12> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/147> .
+
+<https://politics.ld.admin.ch/party-version/148_2008-02-21> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/148> .
+
 <https://politics.ld.admin.ch/party-version/149_2010-01-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/149> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/149_2013-09-12> .
+    vl:identity <https://politics.ld.admin.ch/party-id/149> .
+
+<https://politics.ld.admin.ch/party-version/149_2013-09-12> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/149> .
 
 <https://politics.ld.admin.ch/party-version/14_1944-10-14> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/14> .
@@ -1291,6 +1222,10 @@
 <https://politics.ld.admin.ch/party-version/152_1971-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/152> ;
     vl:successor <https://politics.ld.admin.ch/party-version/152_2022-05-19> .
+
+<https://politics.ld.admin.ch/party-version/153_1949-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/153> ;
+    vl:successor <https://politics.ld.admin.ch/party-version/153_2023-03-01> .
 
 <https://politics.ld.admin.ch/party-version/155_1987-09-26> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/155> ;
@@ -1311,16 +1246,33 @@
     vl:successor <https://politics.ld.admin.ch/party-version/15_1977-07-01> .
 
 <https://politics.ld.admin.ch/party-version/15_1977-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/15> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/15_2009-01-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/15> .
+
+<https://politics.ld.admin.ch/party-version/15_2009-01-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/15> .
+
+<https://politics.ld.admin.ch/party-version/160_2008-02-21> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/160> .
 
 <https://politics.ld.admin.ch/party-version/163_1969-04-27> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/163> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/163_1986-07-01> .
+    vl:successor <https://politics.ld.admin.ch/party-version/163_1986-07-01>,
+        <https://politics.ld.admin.ch/party-version/180_1986-07-01> .
 
 <https://politics.ld.admin.ch/party-version/163_1986-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/163> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/163_1992-10-18> .
+    vl:identity <https://politics.ld.admin.ch/party-id/163> .
+
+<https://politics.ld.admin.ch/party-version/163_1992-10-18> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/163> .
+
+<https://politics.ld.admin.ch/party-version/165_1969-04-27> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/165> .
+
+<https://politics.ld.admin.ch/party-version/165_1988-01-24> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/165> .
+
+<https://politics.ld.admin.ch/party-version/166_1992-10-18> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/166> .
 
 <https://politics.ld.admin.ch/party-version/167_1946-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/167> .
@@ -1336,17 +1288,35 @@
 <https://politics.ld.admin.ch/party-version/169_1994-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/169> .
 
+<https://politics.ld.admin.ch/party-version/16_1905-03-19> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/16> .
+
 <https://politics.ld.admin.ch/party-version/170_1990-03-25> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/170> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/170_1990-05-20> .
+    vl:successor <https://politics.ld.admin.ch/party-version/170_1990-05-20>,
+        <https://politics.ld.admin.ch/party-version/172_1990-05-20> .
 
 <https://politics.ld.admin.ch/party-version/170_1990-05-20> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/170> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/170_1994-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/170> .
+
+<https://politics.ld.admin.ch/party-version/170_1994-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/170> .
+
+<https://politics.ld.admin.ch/party-version/171_1990-03-25> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/171> .
+
+<https://politics.ld.admin.ch/party-version/171_1994-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/171> .
+
+<https://politics.ld.admin.ch/party-version/172_1990-05-20> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/172> ;
+    vl:successor <https://politics.ld.admin.ch/party-version/172_1990-10-26> .
 
 <https://politics.ld.admin.ch/party-version/172_1990-10-26> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/172> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/172_1994-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/172> .
+
+<https://politics.ld.admin.ch/party-version/172_1994-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/172> .
 
 <https://politics.ld.admin.ch/party-version/174_2005-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/174> .
@@ -1358,6 +1328,24 @@
 <https://politics.ld.admin.ch/party-version/176_2015-01-25> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/176> .
 
+<https://politics.ld.admin.ch/party-version/177_1946-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/177> .
+
+<https://politics.ld.admin.ch/party-version/178_1946-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/178> .
+
+<https://politics.ld.admin.ch/party-version/179_1934-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/179> .
+
+<https://politics.ld.admin.ch/party-version/17_1941-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/17> .
+
+<https://politics.ld.admin.ch/party-version/180_1986-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/180> .
+
+<https://politics.ld.admin.ch/party-version/180_1988-01-24> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/180> .
+
 <https://politics.ld.admin.ch/party-version/181_1972-04-10> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/181> .
 
@@ -1367,6 +1355,12 @@
 <https://politics.ld.admin.ch/party-version/183_2000-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/183> ;
     vl:successor <https://politics.ld.admin.ch/party-version/183_2008-01-01> .
+
+<https://politics.ld.admin.ch/party-version/185_1971-11-27> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/185> .
+
+<https://politics.ld.admin.ch/party-version/186_1971-11-27> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/186> .
 
 <https://politics.ld.admin.ch/party-version/187_2007-06-21> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/187> .
@@ -1381,6 +1375,9 @@
 
 <https://politics.ld.admin.ch/party-version/189_2012-08-22> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/189> .
+
+<https://politics.ld.admin.ch/party-version/18_1971-09-22> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/18> .
 
 <https://politics.ld.admin.ch/party-version/190_2009-08-31> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/190> .
@@ -1400,7 +1397,8 @@
 
 <https://politics.ld.admin.ch/party-version/196_1943-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/196> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/196_1956-07-01> .
+    vl:successor <https://politics.ld.admin.ch/party-version/196_1956-07-01>,
+        <https://politics.ld.admin.ch/party-version/199_1956-07-01> .
 
 <https://politics.ld.admin.ch/party-version/196_1956-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/196> ;
@@ -1420,6 +1418,13 @@
 <https://politics.ld.admin.ch/party-version/198_2021-06-11> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/198> .
 
+<https://politics.ld.admin.ch/party-version/199_1956-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/199> ;
+    vl:successor <https://politics.ld.admin.ch/party-version/199_2005-07-01> .
+
+<https://politics.ld.admin.ch/party-version/19_1894-02-25> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/19> .
+
 <https://politics.ld.admin.ch/party-version/200_2008-11-19> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/200> .
 
@@ -1431,8 +1436,16 @@
     vl:successor <https://politics.ld.admin.ch/party-version/203_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-version/205_1946-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/205> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/205_1970-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/205> .
+
+<https://politics.ld.admin.ch/party-version/205_1970-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/205> .
+
+<https://politics.ld.admin.ch/party-version/206_1946-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/206> .
+
+<https://politics.ld.admin.ch/party-version/206_1970-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/206> .
 
 <https://politics.ld.admin.ch/party-version/207_2001-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/207> ;
@@ -1440,6 +1453,13 @@
 
 <https://politics.ld.admin.ch/party-version/208_2021-06-21> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/208> .
+
+<https://politics.ld.admin.ch/party-version/209_1936-12-23> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/209> .
+
+<https://politics.ld.admin.ch/party-version/20_1917-03-04> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/20> ;
+    vl:successor <https://politics.ld.admin.ch/party-version/20_1951-06-24> .
 
 <https://politics.ld.admin.ch/party-version/20_1951-06-24> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/20> ;
@@ -1461,8 +1481,10 @@
     vl:successor <https://politics.ld.admin.ch/party-version/212_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-version/214_1970-01-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/214> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/214_2021-05-12> .
+    vl:identity <https://politics.ld.admin.ch/party-id/214> .
+
+<https://politics.ld.admin.ch/party-version/214_2021-05-12> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/214> .
 
 <https://politics.ld.admin.ch/party-version/216_2013-03-14> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/216> .
@@ -1470,12 +1492,20 @@
 <https://politics.ld.admin.ch/party-version/217_1991-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/217> .
 
+<https://politics.ld.admin.ch/party-version/218_2021-05-12> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/218> .
+
 <https://politics.ld.admin.ch/party-version/219_1927-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/219> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/219_1928-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/219> .
+
+<https://politics.ld.admin.ch/party-version/219_1928-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/219> .
 
 <https://politics.ld.admin.ch/party-version/21_1902-04-13> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/21> .
+
+<https://politics.ld.admin.ch/party-version/220_1927-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/220> .
 
 <https://politics.ld.admin.ch/party-version/221_1991-09-11> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/221> .
@@ -1504,6 +1534,9 @@
     vl:identity <https://politics.ld.admin.ch/party-id/225> ;
     vl:successor <https://politics.ld.admin.ch/party-version/225_2009-07-01> .
 
+<https://politics.ld.admin.ch/party-version/226_2005-08-27> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/226> .
+
 <https://politics.ld.admin.ch/party-version/227_2007-11-28> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/227> .
 
@@ -1526,9 +1559,16 @@
 <https://politics.ld.admin.ch/party-version/232_1908-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/232> .
 
+<https://politics.ld.admin.ch/party-version/233_2006-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/233> .
+
+<https://politics.ld.admin.ch/party-version/235_2006-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/235> .
+
 <https://politics.ld.admin.ch/party-version/236_1957-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/236> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/236_1966-07-01> .
+    vl:successor <https://politics.ld.admin.ch/party-version/236_1966-07-01>,
+        <https://politics.ld.admin.ch/party-version/243_1966-07-01> .
 
 <https://politics.ld.admin.ch/party-version/236_1966-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/236> ;
@@ -1539,15 +1579,19 @@
     vl:successor <https://politics.ld.admin.ch/party-version/236_2021-03-15> .
 
 <https://politics.ld.admin.ch/party-version/236_2021-03-15> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/236> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/236_2021-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/236> .
+
+<https://politics.ld.admin.ch/party-version/236_2021-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/236> .
 
 <https://politics.ld.admin.ch/party-version/237_2021-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/237> .
 
 <https://politics.ld.admin.ch/party-version/238_1986-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/238> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/238_1990-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/238> .
+
+<https://politics.ld.admin.ch/party-version/238_1990-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/238> .
 
 <https://politics.ld.admin.ch/party-version/239_1993-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/239> ;
@@ -1563,11 +1607,14 @@
 
 <https://politics.ld.admin.ch/party-version/23_1917-02-11> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/23> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/23_1917-03-04> .
+    vl:successor <https://politics.ld.admin.ch/party-version/20_1917-03-04>,
+        <https://politics.ld.admin.ch/party-version/23_1917-03-04> .
 
 <https://politics.ld.admin.ch/party-version/23_1917-03-04> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/23> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/23_1971-08-18> .
+    vl:identity <https://politics.ld.admin.ch/party-id/23> .
+
+<https://politics.ld.admin.ch/party-version/23_1971-08-18> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/23> .
 
 <https://politics.ld.admin.ch/party-version/240_2009-05-08> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/240> .
@@ -1579,15 +1626,29 @@
     vl:identity <https://politics.ld.admin.ch/party-id/242> ;
     vl:successor <https://politics.ld.admin.ch/party-version/242_2025-09-10> .
 
+<https://politics.ld.admin.ch/party-version/243_1966-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/243> .
+
+<https://politics.ld.admin.ch/party-version/243_1980-09-15> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/243> .
+
 <https://politics.ld.admin.ch/party-version/244_1993-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/244> .
+
+<https://politics.ld.admin.ch/party-version/245_2021-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/245> .
 
 <https://politics.ld.admin.ch/party-version/246_1972-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/246> .
 
+<https://politics.ld.admin.ch/party-version/247_1990-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/247> .
+
 <https://politics.ld.admin.ch/party-version/248_1901-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/248> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/248_1925-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/248> .
+
+<https://politics.ld.admin.ch/party-version/248_1925-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/248> .
 
 <https://politics.ld.admin.ch/party-version/249_1991-06-20> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/249> .
@@ -1595,6 +1656,9 @@
 <https://politics.ld.admin.ch/party-version/251_1890-09-14> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/251> ;
     vl:successor <https://politics.ld.admin.ch/party-version/251_1897-07-01> .
+
+<https://politics.ld.admin.ch/party-version/252_1890-09-13> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/252> .
 
 <https://politics.ld.admin.ch/party-version/253_1904-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/253> ;
@@ -1607,6 +1671,9 @@
 <https://politics.ld.admin.ch/party-version/254_2021-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/254> ;
     vl:successor <https://politics.ld.admin.ch/party-version/254_2022-01-01> .
+
+<https://politics.ld.admin.ch/party-version/255_2021-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/255> .
 
 <https://politics.ld.admin.ch/party-version/256_1990-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/256> .
@@ -1635,17 +1702,26 @@
 <https://politics.ld.admin.ch/party-version/264_2006-03-04> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/264> .
 
+<https://politics.ld.admin.ch/party-version/265_1918-12-19> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/265> ;
+    vl:successor <https://politics.ld.admin.ch/party-version/265_1956-07-01> .
+
 <https://politics.ld.admin.ch/party-version/265_1956-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/265> ;
     vl:successor <https://politics.ld.admin.ch/party-version/265_1971-01-01> .
+
+<https://politics.ld.admin.ch/party-version/267_1935-07-07> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/267> .
 
 <https://politics.ld.admin.ch/party-version/268_1921-06-20> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/268> ;
     vl:successor <https://politics.ld.admin.ch/party-version/268_1930-10-23> .
 
 <https://politics.ld.admin.ch/party-version/268_1930-10-23> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/268> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/268_1935-07-07> .
+    vl:identity <https://politics.ld.admin.ch/party-id/268> .
+
+<https://politics.ld.admin.ch/party-version/268_1935-07-07> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/268> .
 
 <https://politics.ld.admin.ch/party-version/269_1918-12-19> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/269> ;
@@ -1653,7 +1729,8 @@
 
 <https://politics.ld.admin.ch/party-version/26_2000-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/26> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/26_2004-06-25> .
+    vl:successor <https://politics.ld.admin.ch/party-version/26_2004-06-25>,
+        <https://politics.ld.admin.ch/party-version/27_2004-06-25> .
 
 <https://politics.ld.admin.ch/party-version/270_1922-05-28> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/270> ;
@@ -1669,21 +1746,24 @@
 
 <https://politics.ld.admin.ch/party-version/271_2012-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/271> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/271_2014-06-30> .
+    vl:successor <https://politics.ld.admin.ch/party-version/271_2014-06-30>,
+        <https://politics.ld.admin.ch/party-version/272_2014-06-30> .
 
 <https://politics.ld.admin.ch/party-version/271_2014-06-30> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/271> ;
     vl:successor <https://politics.ld.admin.ch/party-version/271_2017-01-01> .
 
-<https://politics.ld.admin.ch/party-version/272_2014-06-30> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/272> .
-
 <https://politics.ld.admin.ch/party-version/273_1922-04-02> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/273> .
 
+<https://politics.ld.admin.ch/party-version/274_1922-04-02> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/274> .
+
 <https://politics.ld.admin.ch/party-version/275_1915-02-15> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/275> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/275_1922-04-02> .
+    vl:identity <https://politics.ld.admin.ch/party-id/275> .
+
+<https://politics.ld.admin.ch/party-version/275_1922-04-02> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/275> .
 
 <https://politics.ld.admin.ch/party-version/276_1985-04-27> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/276> .
@@ -1692,8 +1772,14 @@
     vl:identity <https://politics.ld.admin.ch/party-id/278> .
 
 <https://politics.ld.admin.ch/party-version/279_1974-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/279> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/279_1987-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/279> .
+
+<https://politics.ld.admin.ch/party-version/279_1987-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/279> .
+
+<https://politics.ld.admin.ch/party-version/27_2004-06-25> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/27> ;
+    vl:successor <https://politics.ld.admin.ch/party-version/27_2004-11-02> .
 
 <https://politics.ld.admin.ch/party-version/280_1975-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/280> .
@@ -1702,8 +1788,10 @@
     vl:identity <https://politics.ld.admin.ch/party-id/281> .
 
 <https://politics.ld.admin.ch/party-version/282_1910-07-03> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/282> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/282_1919-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/282> .
+
+<https://politics.ld.admin.ch/party-version/282_1919-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/282> .
 
 <https://politics.ld.admin.ch/party-version/283_1946-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/283> ;
@@ -1724,7 +1812,8 @@
 
 <https://politics.ld.admin.ch/party-version/28_1919-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/28> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/28_1975-09-03> .
+    vl:successor <https://politics.ld.admin.ch/party-version/28_1975-09-03>,
+        <https://politics.ld.admin.ch/party-version/29_1975-09-03> .
 
 <https://politics.ld.admin.ch/party-version/290_1914-03-29> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/290> .
@@ -1752,9 +1841,6 @@
 
 <https://politics.ld.admin.ch/party-version/299_1905-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/299> .
-
-<https://politics.ld.admin.ch/party-version/29_1975-09-03> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/29> .
 
 <https://politics.ld.admin.ch/party-version/2_1901-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/2> ;
@@ -1800,18 +1886,18 @@
 
 <https://politics.ld.admin.ch/party-version/311_2008-06-16> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/311> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/311_2008-06-19> .
+    vl:successor <https://politics.ld.admin.ch/party-version/311_2008-06-19>,
+        <https://politics.ld.admin.ch/party-version/312_2008-06-19> .
 
 <https://politics.ld.admin.ch/party-version/311_2008-06-19> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/311> ;
     vl:successor <https://politics.ld.admin.ch/party-version/311_2008-07-02> .
 
-<https://politics.ld.admin.ch/party-version/312_2008-06-19> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/312> .
-
 <https://politics.ld.admin.ch/party-version/31_2009-05-02> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/31> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/31_2021-03-27> .
+    vl:identity <https://politics.ld.admin.ch/party-id/31> .
+
+<https://politics.ld.admin.ch/party-version/31_2021-03-27> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/31> .
 
 <https://politics.ld.admin.ch/party-version/33_1975-09-03> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/33> ;
@@ -1824,6 +1910,10 @@
 <https://politics.ld.admin.ch/party-version/34_1936-12-30> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/34> .
 
+<https://politics.ld.admin.ch/party-version/35_1918-09-28> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/35> ;
+    vl:successor <https://politics.ld.admin.ch/party-version/35_1921-01-01> .
+
 <https://politics.ld.admin.ch/party-version/35_1921-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/35> ;
     vl:successor <https://politics.ld.admin.ch/party-version/35_1921-07-01> .
@@ -1834,7 +1924,8 @@
 
 <https://politics.ld.admin.ch/party-version/35_1973-01-13> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/35> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/35_2008-06-21> .
+    vl:successor <https://politics.ld.admin.ch/party-version/35_2008-06-21>,
+        <https://politics.ld.admin.ch/party-version/49_2008-06-21> .
 
 <https://politics.ld.admin.ch/party-version/36_1905-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/36> .
@@ -1849,7 +1940,8 @@
 
 <https://politics.ld.admin.ch/party-version/37_1923-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/37> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/37_1983-07-01> .
+    vl:successor <https://politics.ld.admin.ch/party-version/37_1983-07-01>,
+        <https://politics.ld.admin.ch/party-version/41_1983-07-01> .
 
 <https://politics.ld.admin.ch/party-version/37_1983-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/37> ;
@@ -1858,20 +1950,33 @@
 <https://politics.ld.admin.ch/party-version/38_2021-03-24> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/38> .
 
+<https://politics.ld.admin.ch/party-version/39_2021-03-24> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/39> .
+
 <https://politics.ld.admin.ch/party-version/3_2009-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/3> .
 
-<https://politics.ld.admin.ch/party-version/41_1997-07-01> a vl:Version ;
+<https://politics.ld.admin.ch/party-version/41_1983-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/41> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/41_2006-05-15> .
+    vl:successor <https://politics.ld.admin.ch/party-version/41_1997-07-01> .
+
+<https://politics.ld.admin.ch/party-version/41_1997-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/41> .
+
+<https://politics.ld.admin.ch/party-version/41_2006-05-15> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/41> .
 
 <https://politics.ld.admin.ch/party-version/42_2001-03-15> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/42> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/42_2006-05-15> .
+    vl:identity <https://politics.ld.admin.ch/party-id/42> .
+
+<https://politics.ld.admin.ch/party-version/42_2006-05-15> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/42> .
 
 <https://politics.ld.admin.ch/party-version/44_1985-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/44> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/44_1990-07-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/44> .
+
+<https://politics.ld.admin.ch/party-version/44_1990-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/44> .
 
 <https://politics.ld.admin.ch/party-version/45_2011-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/45> ;
@@ -1886,11 +1991,24 @@
 <https://politics.ld.admin.ch/party-version/48_1975-09-05> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/48> .
 
+<https://politics.ld.admin.ch/party-version/49_2008-06-21> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/49> .
+
+<https://politics.ld.admin.ch/party-version/49_2021-03-24> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/49> .
+
 <https://politics.ld.admin.ch/party-version/4_2021-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/4> .
 
+<https://politics.ld.admin.ch/party-version/52_1921-01-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/52> .
+
 <https://politics.ld.admin.ch/party-version/54_1992-04-30> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/54> .
+
+<https://politics.ld.admin.ch/party-version/55_1895-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/55> ;
+    vl:successor <https://politics.ld.admin.ch/party-version/55_1950-01-01> .
 
 <https://politics.ld.admin.ch/party-version/56_1895-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/56> ;
@@ -1907,6 +2025,9 @@
 <https://politics.ld.admin.ch/party-version/57_1972-03-23> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/57> ;
     vl:successor <https://politics.ld.admin.ch/party-version/57_2021-09-06> .
+
+<https://politics.ld.admin.ch/party-version/58_1871-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/58> .
 
 <https://politics.ld.admin.ch/party-version/59_1989-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/59> ;
@@ -1985,6 +2106,10 @@
 <https://politics.ld.admin.ch/party-version/63_2010-04-22> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/63> .
 
+<https://politics.ld.admin.ch/party-version/66_1997-06-21> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/66> ;
+    vl:successor <https://politics.ld.admin.ch/party-version/66_2005-07-01> .
+
 <https://politics.ld.admin.ch/party-version/66_2005-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/66> ;
     vl:successor <https://politics.ld.admin.ch/party-version/66_2014-01-11> .
@@ -2019,7 +2144,8 @@
 
 <https://politics.ld.admin.ch/party-version/75_1970-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/75> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/75_1982-06-29> .
+    vl:successor <https://politics.ld.admin.ch/party-version/75_1982-06-29>,
+        <https://politics.ld.admin.ch/party-version/98_1982-06-29> .
 
 <https://politics.ld.admin.ch/party-version/76_1911-01-15> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/76> ;
@@ -2050,14 +2176,23 @@
     vl:successor <https://politics.ld.admin.ch/party-version/78_2022-01-01> .
 
 <https://politics.ld.admin.ch/party-version/79_1989-06-28> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/79> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/79_1991-01-24> .
+    vl:identity <https://politics.ld.admin.ch/party-id/79> .
+
+<https://politics.ld.admin.ch/party-version/79_1991-01-24> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/79> .
+
+<https://politics.ld.admin.ch/party-version/80_1989-06-20> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/80> .
 
 <https://politics.ld.admin.ch/party-version/82_2008-02-26> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/82> .
 
 <https://politics.ld.admin.ch/party-version/85_1986-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/85> .
+
+<https://politics.ld.admin.ch/party-version/86_1911-01-15> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/86> ;
+    vl:successor <https://politics.ld.admin.ch/party-version/86_1920-07-01> .
 
 <https://politics.ld.admin.ch/party-version/86_1920-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/86> ;
@@ -2068,22 +2203,32 @@
     vl:successor <https://politics.ld.admin.ch/party-version/86_1941-07-01> .
 
 <https://politics.ld.admin.ch/party-version/86_1941-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/86> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/86_1957-03-01> .
+    vl:identity <https://politics.ld.admin.ch/party-id/86> .
+
+<https://politics.ld.admin.ch/party-version/86_1957-03-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/86> .
+
+<https://politics.ld.admin.ch/party-version/87_2021-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/87> .
 
 <https://politics.ld.admin.ch/party-version/88_1991-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/88> ;
-    vl:successor <https://politics.ld.admin.ch/party-version/88_1991-07-01> .
+    vl:successor <https://politics.ld.admin.ch/party-version/88_1991-07-01>,
+        <https://politics.ld.admin.ch/party-version/89_1991-07-01> .
 
 <https://politics.ld.admin.ch/party-version/88_1991-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/88> ;
     vl:successor <https://politics.ld.admin.ch/party-version/88_2014-07-01> .
 
-<https://politics.ld.admin.ch/party-version/8_1975-09-03> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/8> .
+<https://politics.ld.admin.ch/party-version/89_1991-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/89> ;
+    vl:successor <https://politics.ld.admin.ch/party-version/89_2019-07-01> .
 
 <https://politics.ld.admin.ch/party-version/90_2019-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/90> .
+
+<https://politics.ld.admin.ch/party-version/91_1957-03-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/91> .
 
 <https://politics.ld.admin.ch/party-version/94_1990-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/94> ;
@@ -2092,11 +2237,18 @@
 <https://politics.ld.admin.ch/party-version/95_1970-01-15> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/95> .
 
-<https://politics.ld.admin.ch/party-version/98_1982-06-29> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/98> .
+<https://politics.ld.admin.ch/party-version/96_1921-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/96> ;
+    vl:successor <https://politics.ld.admin.ch/party-version/96_1944-04-17> .
+
+<https://politics.ld.admin.ch/party-version/97_1989-06-20> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/97> .
 
 <https://politics.ld.admin.ch/party-version/99_1991-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/99> .
+
+<https://politics.ld.admin.ch/party-version/9_2009-01-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/9> .
 
 <https://politics.ld.admin.ch/party-id/1> a vl:Identity ;
     vl:version <https://politics.ld.admin.ch/party-version/1_2008-11-01> .
@@ -2437,32 +2589,8 @@
 <https://politics.ld.admin.ch/party-version/109_1994-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/109> .
 
-<https://politics.ld.admin.ch/party-version/10_2021-01-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/10> .
-
-<https://politics.ld.admin.ch/party-version/110_1991-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/110> .
-
-<https://politics.ld.admin.ch/party-version/111_1991-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/111> .
-
-<https://politics.ld.admin.ch/party-version/112_1991-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/112> .
-
-<https://politics.ld.admin.ch/party-version/116_2022-01-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/116> .
-
-<https://politics.ld.admin.ch/party-version/119_1988-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/119> .
-
-<https://politics.ld.admin.ch/party-version/11_1971-09-22> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/11> .
-
-<https://politics.ld.admin.ch/party-version/121_1986-06-17> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/121> .
-
-<https://politics.ld.admin.ch/party-version/122_1988-06-27> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/122> .
+<https://politics.ld.admin.ch/party-version/120_1921-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/120> .
 
 <https://politics.ld.admin.ch/party-version/125_2009-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/125> .
@@ -2470,38 +2598,26 @@
 <https://politics.ld.admin.ch/party-version/126_1974-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/126> .
 
+<https://politics.ld.admin.ch/party-version/127_1974-03-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/127> .
+
 <https://politics.ld.admin.ch/party-version/128_2022-12-08> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/128> .
 
 <https://politics.ld.admin.ch/party-version/130_2021-08-13> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/130> .
 
-<https://politics.ld.admin.ch/party-version/136_2013-01-15> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/136> .
-
-<https://politics.ld.admin.ch/party-version/137_2013-01-15> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/137> .
+<https://politics.ld.admin.ch/party-version/134_1958-01-26> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/134> .
 
 <https://politics.ld.admin.ch/party-version/139_2002-09-27> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/139> .
 
-<https://politics.ld.admin.ch/party-version/13_2021-01-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/13> .
+<https://politics.ld.admin.ch/party-version/140_2002-09-27> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/140> .
 
 <https://politics.ld.admin.ch/party-version/141_1982-05-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/141> .
-
-<https://politics.ld.admin.ch/party-version/142_1982-05-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/142> .
-
-<https://politics.ld.admin.ch/party-version/147_2013-09-12> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/147> .
-
-<https://politics.ld.admin.ch/party-version/148_2008-02-21> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/148> .
-
-<https://politics.ld.admin.ch/party-version/149_2013-09-12> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/149> .
 
 <https://politics.ld.admin.ch/party-version/150_2022-03-24> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/150> .
@@ -2527,41 +2643,14 @@
 <https://politics.ld.admin.ch/party-version/158_2019-10-08> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/158> .
 
-<https://politics.ld.admin.ch/party-version/15_2009-01-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/15> .
-
-<https://politics.ld.admin.ch/party-version/160_2008-02-21> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/160> .
-
 <https://politics.ld.admin.ch/party-version/161_1970-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/161> .
-
-<https://politics.ld.admin.ch/party-version/163_1992-10-18> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/163> .
 
 <https://politics.ld.admin.ch/party-version/164_2020-02-16> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/164> .
 
-<https://politics.ld.admin.ch/party-version/165_1988-01-24> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/165> .
-
-<https://politics.ld.admin.ch/party-version/166_1992-10-18> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/166> .
-
 <https://politics.ld.admin.ch/party-version/168_2022-06-25> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/168> .
-
-<https://politics.ld.admin.ch/party-version/16_1905-03-19> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/16> .
-
-<https://politics.ld.admin.ch/party-version/170_1994-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/170> .
-
-<https://politics.ld.admin.ch/party-version/171_1994-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/171> .
-
-<https://politics.ld.admin.ch/party-version/172_1994-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/172> .
 
 <https://politics.ld.admin.ch/party-version/173_2023-05-20> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/173> .
@@ -2569,38 +2658,14 @@
 <https://politics.ld.admin.ch/party-version/175_2007-09-16> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/175> .
 
-<https://politics.ld.admin.ch/party-version/177_1946-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/177> .
-
-<https://politics.ld.admin.ch/party-version/178_1946-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/178> .
-
-<https://politics.ld.admin.ch/party-version/179_1934-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/179> .
-
-<https://politics.ld.admin.ch/party-version/17_1941-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/17> .
-
-<https://politics.ld.admin.ch/party-version/180_1988-01-24> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/180> .
-
 <https://politics.ld.admin.ch/party-version/183_2008-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/183> .
 
 <https://politics.ld.admin.ch/party-version/184_2021-08-26> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/184> .
 
-<https://politics.ld.admin.ch/party-version/185_1971-11-27> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/185> .
-
-<https://politics.ld.admin.ch/party-version/186_1971-11-27> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/186> .
-
 <https://politics.ld.admin.ch/party-version/188_2007-06-21> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/188> .
-
-<https://politics.ld.admin.ch/party-version/18_1971-09-22> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/18> .
 
 <https://politics.ld.admin.ch/party-version/194_1998-02-02> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/194> .
@@ -2614,9 +2679,6 @@
 <https://politics.ld.admin.ch/party-version/199_2005-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/199> .
 
-<https://politics.ld.admin.ch/party-version/19_1894-02-25> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/19> .
-
 <https://politics.ld.admin.ch/party-version/1_2008-11-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/1> .
 
@@ -2629,17 +2691,8 @@
 <https://politics.ld.admin.ch/party-version/204_2021-05-12> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/204> .
 
-<https://politics.ld.admin.ch/party-version/205_1970-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/205> .
-
-<https://politics.ld.admin.ch/party-version/206_1970-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/206> .
-
 <https://politics.ld.admin.ch/party-version/207_2009-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/207> .
-
-<https://politics.ld.admin.ch/party-version/209_1936-12-23> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/209> .
 
 <https://politics.ld.admin.ch/party-version/20_1976-11-15> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/20> .
@@ -2653,20 +2706,8 @@
 <https://politics.ld.admin.ch/party-version/213_2022-05-28> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/213> .
 
-<https://politics.ld.admin.ch/party-version/214_2021-05-12> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/214> .
-
 <https://politics.ld.admin.ch/party-version/215_2000-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/215> .
-
-<https://politics.ld.admin.ch/party-version/218_2021-05-12> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/218> .
-
-<https://politics.ld.admin.ch/party-version/219_1928-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/219> .
-
-<https://politics.ld.admin.ch/party-version/220_1927-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/220> .
 
 <https://politics.ld.admin.ch/party-version/222_1912-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/222> .
@@ -2680,47 +2721,17 @@
 <https://politics.ld.admin.ch/party-version/225_2009-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/225> .
 
-<https://politics.ld.admin.ch/party-version/226_2005-08-27> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/226> .
-
 <https://politics.ld.admin.ch/party-version/231_1986-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/231> .
-
-<https://politics.ld.admin.ch/party-version/233_2006-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/233> .
 
 <https://politics.ld.admin.ch/party-version/234_2010-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/234> .
 
-<https://politics.ld.admin.ch/party-version/235_2006-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/235> .
-
-<https://politics.ld.admin.ch/party-version/236_2021-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/236> .
-
-<https://politics.ld.admin.ch/party-version/238_1990-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/238> .
-
 <https://politics.ld.admin.ch/party-version/239_2020-11-13> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/239> .
 
-<https://politics.ld.admin.ch/party-version/23_1971-08-18> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/23> .
-
 <https://politics.ld.admin.ch/party-version/242_2025-09-10> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/242> .
-
-<https://politics.ld.admin.ch/party-version/243_1980-09-15> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/243> .
-
-<https://politics.ld.admin.ch/party-version/245_2021-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/245> .
-
-<https://politics.ld.admin.ch/party-version/247_1990-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/247> .
-
-<https://politics.ld.admin.ch/party-version/248_1925-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/248> .
 
 <https://politics.ld.admin.ch/party-version/24_2008-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/24> .
@@ -2731,17 +2742,11 @@
 <https://politics.ld.admin.ch/party-version/251_1897-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/251> .
 
-<https://politics.ld.admin.ch/party-version/252_1890-09-13> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/252> .
-
 <https://politics.ld.admin.ch/party-version/253_2010-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/253> .
 
 <https://politics.ld.admin.ch/party-version/254_2022-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/254> .
-
-<https://politics.ld.admin.ch/party-version/255_2021-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/255> .
 
 <https://politics.ld.admin.ch/party-version/258_2004-03-12> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/258> .
@@ -2764,12 +2769,6 @@
 <https://politics.ld.admin.ch/party-version/266_1961-11-12> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/266> .
 
-<https://politics.ld.admin.ch/party-version/267_1935-07-07> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/267> .
-
-<https://politics.ld.admin.ch/party-version/268_1935-07-07> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/268> .
-
 <https://politics.ld.admin.ch/party-version/269_2009-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/269> .
 
@@ -2782,23 +2781,14 @@
 <https://politics.ld.admin.ch/party-version/271_2017-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/271> .
 
-<https://politics.ld.admin.ch/party-version/274_1922-04-02> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/274> .
-
-<https://politics.ld.admin.ch/party-version/275_1922-04-02> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/275> .
+<https://politics.ld.admin.ch/party-version/272_2014-06-30> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/272> .
 
 <https://politics.ld.admin.ch/party-version/277_1994-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/277> .
 
-<https://politics.ld.admin.ch/party-version/279_1987-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/279> .
-
 <https://politics.ld.admin.ch/party-version/27_2004-11-02> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/27> .
-
-<https://politics.ld.admin.ch/party-version/282_1919-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/282> .
 
 <https://politics.ld.admin.ch/party-version/283_2009-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/283> .
@@ -2817,6 +2807,9 @@
 
 <https://politics.ld.admin.ch/party-version/294_2022-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/294> .
+
+<https://politics.ld.admin.ch/party-version/29_1975-09-03> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/29> .
 
 <https://politics.ld.admin.ch/party-version/2_1925-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/2> .
@@ -2842,8 +2835,8 @@
 <https://politics.ld.admin.ch/party-version/311_2008-07-02> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/311> .
 
-<https://politics.ld.admin.ch/party-version/31_2021-03-27> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/31> .
+<https://politics.ld.admin.ch/party-version/312_2008-06-19> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/312> .
 
 <https://politics.ld.admin.ch/party-version/32_1991-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/32> .
@@ -2857,38 +2850,20 @@
 <https://politics.ld.admin.ch/party-version/37_2008-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/37> .
 
-<https://politics.ld.admin.ch/party-version/39_2021-03-24> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/39> .
-
 <https://politics.ld.admin.ch/party-version/40_2010-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/40> .
-
-<https://politics.ld.admin.ch/party-version/41_2006-05-15> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/41> .
-
-<https://politics.ld.admin.ch/party-version/42_2006-05-15> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/42> .
 
 <https://politics.ld.admin.ch/party-version/43_1987-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/43> .
 
-<https://politics.ld.admin.ch/party-version/44_1990-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/44> .
-
 <https://politics.ld.admin.ch/party-version/45_2017-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/45> .
-
-<https://politics.ld.admin.ch/party-version/49_2021-03-24> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/49> .
 
 <https://politics.ld.admin.ch/party-version/50_2018-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/50> .
 
 <https://politics.ld.admin.ch/party-version/51_2003-05-05> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/51> .
-
-<https://politics.ld.admin.ch/party-version/52_1921-01-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/52> .
 
 <https://politics.ld.admin.ch/party-version/55_1950-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/55> .
@@ -2899,17 +2874,11 @@
 <https://politics.ld.admin.ch/party-version/57_2021-09-06> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/57> .
 
-<https://politics.ld.admin.ch/party-version/58_1871-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/58> .
-
 <https://politics.ld.admin.ch/party-version/59_2006-05-09> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/59> .
 
 <https://politics.ld.admin.ch/party-version/5_2021-03-27> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/5> .
-
-<https://politics.ld.admin.ch/party-version/62_1956-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/62> .
 
 <https://politics.ld.admin.ch/party-version/65_1997-06-21> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/65> .
@@ -2944,14 +2913,8 @@
 <https://politics.ld.admin.ch/party-version/78_2022-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/78> .
 
-<https://politics.ld.admin.ch/party-version/79_1991-01-24> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/79> .
-
 <https://politics.ld.admin.ch/party-version/7_2003-01-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/7> .
-
-<https://politics.ld.admin.ch/party-version/80_1989-06-20> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/80> .
 
 <https://politics.ld.admin.ch/party-version/81_1996-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/81> .
@@ -2962,20 +2925,14 @@
 <https://politics.ld.admin.ch/party-version/84_1948-12-17> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/84> .
 
-<https://politics.ld.admin.ch/party-version/86_1957-03-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/86> .
-
-<https://politics.ld.admin.ch/party-version/87_2021-07-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/87> .
-
 <https://politics.ld.admin.ch/party-version/88_2014-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/88> .
 
 <https://politics.ld.admin.ch/party-version/89_2019-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/89> .
 
-<https://politics.ld.admin.ch/party-version/91_1957-03-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/91> .
+<https://politics.ld.admin.ch/party-version/8_1975-09-03> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/8> .
 
 <https://politics.ld.admin.ch/party-version/92_1978-07-01> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/92> .
@@ -2986,11 +2943,8 @@
 <https://politics.ld.admin.ch/party-version/96_1944-04-17> a vl:Version ;
     vl:identity <https://politics.ld.admin.ch/party-id/96> .
 
-<https://politics.ld.admin.ch/party-version/97_1989-06-20> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/97> .
-
-<https://politics.ld.admin.ch/party-version/9_2009-01-01> a vl:Version ;
-    vl:identity <https://politics.ld.admin.ch/party-id/9> .
+<https://politics.ld.admin.ch/party-version/98_1982-06-29> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/98> .
 
 <https://politics.ld.admin.ch/party-id/101> a vl:Identity ;
     vl:version <https://politics.ld.admin.ch/party-version/101_2021-10-04> .
@@ -3138,6 +3092,9 @@
 
 <https://politics.ld.admin.ch/party-id/94> a vl:Identity ;
     vl:version <https://politics.ld.admin.ch/party-version/94_1995-01-01> .
+
+<https://politics.ld.admin.ch/party-version/62_1956-07-01> a vl:Version ;
+    vl:identity <https://politics.ld.admin.ch/party-id/62> .
 
 <https://politics.ld.admin.ch/party-id/107> a vl:Identity ;
     vl:version <https://politics.ld.admin.ch/party-version/107_2022-01-01> .
