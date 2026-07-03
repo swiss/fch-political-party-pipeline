@@ -26,3 +26,7 @@ This repository contains all the necessary code to convert the CSV Party Atlas f
 ## Scratchpad
 
 - We do not work with events because the raw data does not easily allow to determine the events. Idea: use vl:successor <new_version> and ex:splitTo <new_version> to indicate not only the successor but also the process which took place. Is this easy enough to query? No, it is not easy!
+
+## To Do
+
+- Probably, the relations child-of, observer-in, affiliated-with are more "hierarchical" and do not create new versions on the other side of the relationship (e.g. child-of, observer-in, affiliated-with). We need to check this and remove it from the chronology of the other party.
