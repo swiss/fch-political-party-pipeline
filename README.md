@@ -22,3 +22,7 @@ This repository contains all the necessary code to convert the CSV Party Atlas f
 ## Possible Data Errors
 
 - ID 248 "Grütliverein", was associated with SP from 1901 to 1916 (according to HLS). However, in the CSV it is listed as associated with SP from 1901 to 1906.
+
+## Scratchpad
+
+- We do not work with events because the raw data does not easily allow to determine the events. Idea: use vl:successor <new_version> and ex:splitTo <new_version> to indicate not only the successor but also the process which took place. Is this easy enough to query? No, it is not easy!
