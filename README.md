@@ -23,6 +23,33 @@ This repository contains all the necessary code to convert the CSV Party Atlas f
 
 - ID 248 "Grütliverein", was associated with SP from 1901 to 1916 (according to HLS). However, in the CSV it is listed as associated with SP from 1901 to 1906.
 
+## Relationships
+
+There are two main kinds of relationships between parties:
+
+- shape-changing relationships
+- hierarchical relationships
+
+### Shape-Changing Relationships
+
+These relationships change the "shape" of the party in that it creates really a new party. The following relationships are shape-changing:
+
+- successor-of
+- split-from
+- accessed
+
+Shape-changing relationships have to be considered on both sides of the relationship. For example, if a party is a split-from another party, then both parties have to have a new version. Also the one that exists before the split has to have a new version, because it is not the same party anymore after the split.
+
+### Hierarchical Relationships
+
+These relationships are more "hierarchical" and do not create new versions on the other side of the relationship, because otherwise, it would always create an avalanche of new versions (basically all parties would have to have a new version, if they are connected to a mutual root party). The following relationships are hierarchical:
+
+- child-of
+- observer-in
+- affiliated-with
+
+Hierarchical relationships have to be only considered of the party that is on the "lower" side of the hierarchy. For example, if a party is a child-of another party, then only the child party has to have a new version, but not the parent party.
+
 ## Scratchpad
 
 - We do not work with events because the raw data does not easily allow to determine the events. Idea: use vl:successor <new_version> and ex:splitTo <new_version> to indicate not only the successor but also the process which took place. Is this easy enough to query? No, it is not easy!
