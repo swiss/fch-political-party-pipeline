@@ -21,7 +21,8 @@ This repository contains all the necessary code to convert the CSV Party Atlas f
 
 ## Possible Data Errors
 
-- ID 248 "Grütliverein", was associated with SP from 1901 to 1916 (according to HLS). However, in the CSV it is listed as associated with SP from 1901 to 1906.
+- Party ID 248 "Grütliverein", was associated with SP from 1901 to 1916 (according to HLS). However, in the CSV it is listed as associated with SP from 1901 to 1906.
+- Relation ID 126 / Name ID 137: to_date should probably be 2021-01-01 instead of 2020-12-31.
 
 ## Relationships
 
@@ -54,6 +55,13 @@ Hierarchical relationships have to be only considered of the party that is on th
 
 - We do not work with events because the raw data does not easily allow to determine the events. Idea: use vl:successor <new_version> and ex:splitTo <new_version> to indicate not only the successor but also the process which took place. Is this easy enough to query? No, it is not easy!
 
+## Dates
+
+Dates are always given as "YYYY-MM-DDT12:00:00". Dates are read from the CSV files and converted to date objects. If a date is not given, it is set to None. Beginning Dates are taken as given, ending dates are set to the day before.
+
 ## To Do
 
 - Probably, the relations child-of, observer-in, affiliated-with are more "hierarchical" and do not create new versions on the other side of the relationship (e.g. child-of, observer-in, affiliated-with). We need to check this and remove it from the chronology of the other party.
+
+successor-of, split-from, accessed: do not have `to_date`
+child-of, observer-in, affiliated-with: can have `to_date`
