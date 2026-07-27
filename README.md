@@ -66,3 +66,7 @@ Dates are always given as "YYYY-MM-DDT12:00:00". Dates are read from the CSV fil
 
 successor-of, split-from, accessed: do not have `to_date`
 child-of, observer-in, affiliated-with: can have `to_date`
+
+## Currently Wrong
+
+- Child Of Relationships: https://politics.ld.admin.ch/party-version/59_1987-07-01 is a child of https://politics.ld.admin.ch/party-version/43_1983-06-15 but this version ends on 1987-07-01 so it should not be a child of this version --> others are probably affected as well. Reason is probably a wrong <= comparison of the dates. We need to check this and fix it.
