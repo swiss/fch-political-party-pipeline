@@ -1,751 +1,1015 @@
 ﻿number_of_employees_id,party_id,number_of_employees,notes,sources,date_precision,date_datetime,date_notes,date_sources
 1,1,5.5,,"page_number_string: 39
 notes: 
-source_full_citation: <p>Ladner, A. (2002a). <em>Politische Ideen und ihre Tr&auml;ger</em> [Vorlesungsskript]. Institut f&uuml;r Politikwissenschaft der Universit&auml;t Bern.</p>
+source_full_citation: Ladner, A. (2002a). Politische Ideen und ihre Träger [Vorlesungsskript]. Institut für Politikwissenschaft der Universität Bern.
 source_comment: ",year,1980-07-01T12:00:00,,
 2,1,6,,"page_number_string: 39
 notes: 
-source_full_citation: <p>Ladner, A. (2002a). <em>Politische Ideen und ihre Tr&auml;ger</em> [Vorlesungsskript]. Institut f&uuml;r Politikwissenschaft der Universit&auml;t Bern.</p>
+source_full_citation: Ladner, A. (2002a). Politische Ideen und ihre Träger [Vorlesungsskript]. Institut für Politikwissenschaft der Universität Bern.
 source_comment: ",year,1990-07-01T00:00:00,,
 3,1,8.1,,"page_number_string: 39
 notes: 
-source_full_citation: <p>Ladner, A. (2002a). <em>Politische Ideen und ihre Tr&auml;ger</em> [Vorlesungsskript]. Institut f&uuml;r Politikwissenschaft der Universit&auml;t Bern.</p>
+source_full_citation: Ladner, A. (2002a). Politische Ideen und ihre Träger [Vorlesungsskript]. Institut für Politikwissenschaft der Universität Bern.
 source_comment: ",year,1997-07-01T00:00:00,,
 4,1,8.1,,"page_number_string: 14
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (1999b). <em>Parteienf&ouml;rderung in der Schweiz: Analysen und Vorschl&auml;ge. Schlussbericht</em>. Institut f&uuml;r Politikwissenschaft der Universit&auml;t Bern.</p>
+source_full_citation: Ladner, A. & Brändle, M. (1999b). Parteienförderung in der Schweiz: Analysen und Vorschläge. Schlussbericht. Institut für Politikwissenschaft der Universität Bern.
 source_comment: ",year,1998-07-01T00:00:00,,
 5,1,12.2,,"page_number_string: 12
 notes: 
-source_full_citation: <p>SVP Schweiz. (2010). <em>Jahresbericht 2010</em>. Abgerufen am 12. September 2025 von https://www.svp.ch/wp-content/uploads/Jahresbericht_2010.pdf</p>
+source_full_citation: SVP Schweiz. (2010). Jahresbericht 2010. Abgerufen am 12. September 2025 von https://www.svp.ch/wp-content/uploads/Jahresbericht_2010.pdf
 source_comment: ",year,2010-07-01T00:00:00,,
 6,1,13,,"page_number_string: 124
 notes: 
-source_full_citation: <p>Vatter, A. (2024). <em>Das politische System der Schweiz</em> (5. Auflage). Nomos.</p>
+source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
 source_comment: ",year,2012-07-01T00:00:00,,
 7,1,12.6,,"page_number_string: 124
 notes: 
-source_full_citation: <p>Vatter, A. (2024). <em>Das politische System der Schweiz</em> (5. Auflage). Nomos.</p>
+source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
 source_comment: ",year,2015-07-01T00:00:00,,
 8,1,15.5,,"page_number_string: 124
 notes: 
-source_full_citation: <p>Vatter, A. (2024). <em>Das politische System der Schweiz</em> (5. Auflage). Nomos.</p>
-source_comment: ",exact,2019-04-30T00:00:00,,
+source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
+source_comment: ",year,2019-07-01T00:00:00,,
 9,1,12,,"page_number_string: 124
 notes: 
-source_full_citation: <p>Vatter, A. (2024). <em>Das politische System der Schweiz</em> (5. Auflage). Nomos.</p>
+source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
 source_comment: ",year,2023-07-01T00:00:00,,
 10,2,8.5,,"page_number_string: 124
 notes: 
-source_full_citation: <p>Vatter, A. (2024). <em>Das politische System der Schweiz</em> (5. Auflage). Nomos.</p>
+source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
 source_comment: ",year,1970-07-01T00:00:00,,
 11,2,9.9,,"page_number_string: 124
 notes: 
-source_full_citation: <p>Vatter, A. (2024). <em>Das politische System der Schweiz</em> (5. Auflage). Nomos.</p>
+source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
 source_comment: ",year,1980-07-01T00:00:00,,
 12,2,11.1,,"page_number_string: 124
 notes: 
-source_full_citation: <p>Vatter, A. (2024). <em>Das politische System der Schweiz</em> (5. Auflage). Nomos.</p>
+source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
 source_comment: ",year,1990-07-01T00:00:00,,
 13,2,7.9,,"page_number_string: 39
 notes: 
-source_full_citation: <p>Ladner, A. (2002a). <em>Politische Ideen und ihre Tr&auml;ger</em> [Vorlesungsskript]. Institut f&uuml;r Politikwissenschaft der Universit&auml;t Bern.</p>
+source_full_citation: Ladner, A. (2002a). Politische Ideen und ihre Träger [Vorlesungsskript]. Institut für Politikwissenschaft der Universität Bern.
 source_comment: ",multimonth,1997-01-01T12:00:00,,
 14,2,11.9,,"page_number_string: 124
 notes: 
-source_full_citation: <p>Vatter, A. (2024). <em>Das politische System der Schweiz</em> (5. Auflage). Nomos.</p>
+source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
 source_comment: ",year,1997-07-01T00:00:00,,
 15,2,11.9,,"page_number_string: 14
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (1999b). <em>Parteienf&ouml;rderung in der Schweiz: Analysen und Vorschl&auml;ge. Schlussbericht</em>. Institut f&uuml;r Politikwissenschaft der Universit&auml;t Bern.</p>
+source_full_citation: Ladner, A. & Brändle, M. (1999b). Parteienförderung in der Schweiz: Analysen und Vorschläge. Schlussbericht. Institut für Politikwissenschaft der Universität Bern.
 source_comment: ",year,1998-07-01T00:00:00,,
 16,2,15,,"page_number_string: 124
 notes: 
-source_full_citation: <p>Vatter, A. (2024). <em>Das politische System der Schweiz</em> (5. Auflage). Nomos.</p>
+source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
 source_comment: ",year,2012-07-01T00:00:00,,
 17,2,14.5,,"page_number_string: 124
 notes: 
-source_full_citation: <p>Vatter, A. (2024). <em>Das politische System der Schweiz</em> (5. Auflage). Nomos.</p>
+source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
 source_comment: ",year,2015-07-01T00:00:00,,
 18,20,1.5,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1960-07-01T12:00:00,,
 19,20,1.5,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T12:00:00,,
 20,20,2,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T12:00:00,,
 21,20,3,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 22,20,3,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 23,23,4,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T12:00:00,,
 24,24,4.2,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T12:00:00,,
 25,24,4.5,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 26,24,4.1,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 27,25,1.5,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1960-07-01T12:00:00,,
 28,25,2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T12:00:00,,
 29,25,2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T12:00:00,,
 30,25,1.8,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 31,25,1.2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 32,36,2,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1960-07-01T12:00:00,,
 33,36,2.5,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T00:00:00,,
 34,36,3.2,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 35,36,3.5,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 36,36,3.5,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 37,37,3.5,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 38,37,2.5,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 39,37,2.2,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
-40,37,2.2,,,exact,2018-12-31T00:00:00,,
-41,37,2.2,,,exact,2019-04-30T00:00:00,,
+40,37,2.2,,,year,2018-07-01T12:00:00,,
+41,37,2.2,,,year,2019-07-01T00:00:00,,
 42,37,2.25,,,year,2020-07-01T00:00:00,,
 43,37,2.25,,,year,2021-07-01T00:00:00,,
 44,37,2.2,,,year,2022-07-01T00:00:00,,
 45,37,2.2,,,year,2023-07-01T00:00:00,,
 46,47,1.45,,,year,2019-07-01T12:00:00,,"page_number_string: 
 notes: 
-source_full_citation: <p>EVP Kanton Bern. (2021). <em>Die Anf&auml;nge der EVP: Erfolgreicher Start und langer Atem</em>. Abgerufen am 24. November 2025 von https://www.evp-be.ch/fileadmin/user_upload/bern/PDF/Geschichte/Geschichte_EVP_BE_Anfaenge.pdf</p>
+source_full_citation: EVP Kanton Bern. (2021). Die Anfänge der EVP: Erfolgreicher Start und langer Atem. Abgerufen am 24. November 2025 von https://www.evp-be.ch/fileadmin/user_upload/bern/PDF/Geschichte/Geschichte_EVP_BE_Anfaenge.pdf
 source_comment: "
 47,35,2,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1960-07-01T12:00:00,,
 48,35,2,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T12:00:00,,
 49,35,3,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T12:00:00,,
 50,35,3,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 51,35,3,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 52,55,1,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T12:00:00,,
 53,55,1,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T12:00:00,,
 54,55,1,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 55,55,1,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 56,56,1.4,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 57,57,1.8,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1960-07-01T00:00:00,,
 58,57,2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T00:00:00,,
 59,57,1.5,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 60,57,2.3,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 61,57,2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 62,70,0.25,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 63,75,1,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 64,75,1.2,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 65,75,1.6,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 66,76,0.8,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 67,76,0.9,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 68,77,0.5,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T00:00:00,,
 69,77,0.5,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 70,77,1,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 71,77,1,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 72,104,0.2,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 73,104,0.5,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 74,104,1.1,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 76,105,0.4,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1960-07-01T00:00:00,,
 77,105,0.4,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T00:00:00,,
 78,105,0.8,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 79,105,1,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 80,105,1.5,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 81,107,0.2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T12:00:00,,
 82,107,0.25,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 83,107,0.25,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 84,21,2.4,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 85,21,3.2,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 86,68,0,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 87,124,0.25,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T12:00:00,,
 88,124,0.25,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 89,124,0.5,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 90,125,0.25,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T12:00:00,,
 91,125,0.25,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 92,125,0.25,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 93,128,0.5,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 94,141,0.3,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T12:00:00,,
 95,148,0.2,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1960-07-01T00:00:00,,
 96,148,0.3,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T00:00:00,,
 97,148,0.8,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 98,148,0.8,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 99,148,0.8,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 100,153,0.5,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 101,153,0.5,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 102,152,0.2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T00:00:00,,
 103,152,0.2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 104,152,0.2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 105,152,0.3,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 106,154,0.5,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1960-07-01T00:00:00,,
 107,154,0.5,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T00:00:00,,
 108,154,0.5,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 109,154,0.5,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 110,154,0.5,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 111,163,0.6,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 112,164,1.2,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 113,167,1,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T00:00:00,,
 114,167,4.5,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 115,167,2.6,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 116,168,1,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T00:00:00,,
 117,168,2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 118,168,2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 119,168,2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 120,181,0,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 121,182,0.1,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 122,182,0.15,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 123,183,0.35,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 124,183,0.4,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 125,183,0.25,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 126,184,0.1,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T12:00:00,,
 127,184,0.2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 128,184,0.2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 129,202,0,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 130,203,0.5,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 131,211,0,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 132,212,0.2,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T00:00:00,,
 133,212,0.2,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 134,212,0.2,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 135,212,0.2,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 136,222,0.1,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 137,223,0.25,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 138,223,0.5,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 139,224,0.2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T12:00:00,,
 140,224,0.2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 141,224,0.2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 142,232,0.3,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 143,232,0.3,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 144,232,0.4,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 145,233,0.2,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1960-07-01T00:00:00,,
 146,233,0.2,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T00:00:00,,
 147,233,0.3,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 148,233,0.5,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 149,233,0.5,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 150,236,1,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T00:00:00,,
 151,236,1,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 152,236,1,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 153,236,1.5,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 154,251,1,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T00:00:00,,
 155,251,1,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 156,251,1,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 157,251,1.1,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 191,253,1,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1960-07-01T00:00:00,,
 192,253,1,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T00:00:00,,
 193,253,3,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 194,253,3,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 195,253,3,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 196,254,0.2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T12:00:00,,
 197,254,0.2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 198,254,0.6,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 199,265,0.1,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 200,265,0.2,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 201,266,0.4,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1960-07-01T12:00:00,,
 202,266,0.4,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T12:00:00,,
 203,266,0.2,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 204,269,1.5,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1960-07-01T00:00:00,,
 205,269,1.5,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T00:00:00,,
 206,269,1.3,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 207,269,0.8,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 208,269,0.5,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 209,281,0,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 210,283,0,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 211,298,0.2,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 212,299,0.5,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1960-07-01T00:00:00,,
 213,299,0.5,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T00:00:00,,
 214,299,1,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 215,299,1.2,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 216,299,1.2,,"page_number_string: 360
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 217,300,2.3,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 218,300,2,,"page_number_string: 357
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,
 219,301,2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T00:00:00,,
 220,301,2,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T00:00:00,,
 221,301,2.5,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T00:00:00,,
 222,301,1.8,,"page_number_string: 358
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
 223,311,0.1,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1970-07-01T12:00:00,,
 224,311,0.2,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1980-07-01T12:00:00,,
 225,311,0.2,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1990-07-01T12:00:00,,
 226,311,0.2,,"page_number_string: 359
 notes: 
-source_full_citation: <p>Ladner, A. &amp; Br&auml;ndle, M. (2001). <em>Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten W&auml;hlerorganisationen?</em> Seismo Verlag.</p>
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1997-07-01T12:00:00,,
+227,317,0.2,,"page_number_string: 360
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1990-07-01T12:00:00,,
+228,317,0.3,,"page_number_string: 360
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1997-07-01T12:00:00,,
+229,318,0.5,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1980-07-01T12:00:00,,
+230,318,0.5,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1990-07-01T12:00:00,,
+231,318,0.2,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1997-07-01T12:00:00,,
+232,320,0.25,,"page_number_string: 358
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1980-07-01T12:00:00,,
+233,320,0.25,,"page_number_string: 358
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1990-07-01T12:00:00,,
+234,320,0.25,,"page_number_string: 358
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1997-07-01T12:00:00,,
+235,328,0.25,,"page_number_string: 359
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1960-07-01T00:00:00,,
+236,328,0.25,,"page_number_string: 359
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1970-07-01T00:00:00,,
+237,328,0.25,,"page_number_string: 359
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1980-07-01T00:00:00,,
+238,328,0.25,,"page_number_string: 359
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1990-07-01T00:00:00,,
+239,328,0.25,,"page_number_string: 359
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1997-07-01T00:00:00,,
+240,329,0.5,,"page_number_string: 360
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1960-07-01T00:00:00,,
+241,329,0.5,,"page_number_string: 360
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1970-07-01T00:00:00,,
+242,329,1,,"page_number_string: 360
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1980-07-01T00:00:00,,
+243,329,1.4,,"page_number_string: 360
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1990-07-01T00:00:00,,
+244,329,1.4,,"page_number_string: 360
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1997-07-01T00:00:00,,
+245,330,0.8,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1960-07-01T00:00:00,,
+246,330,1.2,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1970-07-01T00:00:00,,
+247,330,1.5,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1980-07-01T00:00:00,,
+248,330,1.9,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1990-07-01T00:00:00,,
+249,330,1.7,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1997-07-01T00:00:00,,
+250,332,0.5,,"page_number_string: 358
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1960-07-01T00:00:00,,
+251,332,0.5,,"page_number_string: 358
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1970-07-01T00:00:00,,
+252,332,0.5,,"page_number_string: 358
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1980-07-01T00:00:00,,
+253,332,1.3,,"page_number_string: 358
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1990-07-01T00:00:00,,
+254,332,0.9,,"page_number_string: 358
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1997-07-01T00:00:00,,
+255,341,0.25,,"page_number_string: 360
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1997-07-01T12:00:00,,
+256,342,0.2,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1960-07-01T00:00:00,,
+257,342,0.3,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1970-07-01T00:00:00,,
+258,342,0.6,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1980-07-01T00:00:00,,
+259,342,0.7,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1990-07-01T00:00:00,,
+260,342,0.7,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1997-07-01T00:00:00,,
+261,359,0.6,,"page_number_string: 359
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1960-07-01T00:00:00,,
+262,359,0.8,,"page_number_string: 359
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1970-07-01T00:00:00,,
+263,359,0.8,,"page_number_string: 359
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1980-07-01T00:00:00,,
+264,359,1.1,,"page_number_string: 359
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1990-07-01T00:00:00,,
+265,359,1,,"page_number_string: 359
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1997-07-01T00:00:00,,
+266,360,1.5,,"page_number_string: 360
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1980-07-01T00:00:00,,
+267,360,1.8,,"page_number_string: 360
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1990-07-01T00:00:00,,
+268,360,1.8,,"page_number_string: 360
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1997-07-01T00:00:00,,
+269,361,2,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1970-07-01T00:00:00,,
+270,361,2.5,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1980-07-01T00:00:00,,
+271,361,2.5,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1990-07-01T00:00:00,,
+272,361,2,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1997-07-01T00:00:00,,
+273,365,0.2,,"page_number_string: 358
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1990-07-01T12:00:00,,
+274,379,0.5,,"page_number_string: 
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1960-07-01T00:00:00,,
+275,379,0.5,,"page_number_string: 
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1970-07-01T00:00:00,,
+276,379,0.5,,"page_number_string: 
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1980-07-01T00:00:00,,
+277,379,0.9,,"page_number_string: 
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1990-07-01T00:00:00,,
+278,379,0.8,,"page_number_string: 
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1997-07-01T00:00:00,,
+279,380,0.5,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1960-07-01T00:00:00,,
+280,380,0.5,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1970-07-01T00:00:00,,
+281,380,0.5,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1980-07-01T00:00:00,,
+282,380,1.2,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1990-07-01T00:00:00,,
+283,380,1.1,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1997-07-01T00:00:00,,
+284,395,1.5,,"page_number_string: 360
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1990-07-01T12:00:00,,
+285,395,1.35,,"page_number_string: 360
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1997-07-01T12:00:00,,
+286,396,0.8,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1960-07-01T00:00:00,,
+287,396,0.8,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1970-07-01T00:00:00,,
+288,396,0.8,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1980-07-01T00:00:00,,
+289,396,1,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1990-07-01T00:00:00,,
+290,396,1,,"page_number_string: 357
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1997-07-01T00:00:00,,
+291,399,2.75,,"page_number_string: 358
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1990-07-01T12:00:00,,
+292,399,2.5,,"page_number_string: 358
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T12:00:00,,

@@ -1,49 +1,49 @@
 ﻿public_role_id,institution_id,identifier,public_role_type_id,election_id,total_seats_id,notes,sources,translations_languages_code1,translations_name1,translations_notes1,translations_sources1,translations_languages_code2,translations_name2,translations_notes2,translations_sources2,translations_languages_code3,translations_name3,translations_notes3,translations_sources3
-1,1,ch-fedparl-nat-member,1,"[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,199,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,516,517,518,519,520,521,522,523,524,525,526,527,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,641,642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,662,663,664,665,666,667,668,727,728,729,730,731,732,733,734,735,736,737,738,739,740,741,742,743,744,745,746,747,748,749,750,751,752,753,754,798,799,800,801,802,803,804,805,806,807,808,809,810,811,812,813,814,815,816,817,818,819,820,821,822,823,824,825,873,874,875,876,877,878,879,880,881,882,883,884,885,886,887,888,889,890,891,892,893,894,895,896,897,898,899,900,952,953,954,955,956,957,958,959,960,961,962,963,964,965,966,967,968,969,970,971,972,973,974,975,976,977,978,979,1028,1029,1030,1031,1032,1033,1034,1035,1036,1037,1038,1039,1040,1041,1042,1043,1044,1045,1046,1047,1048,1049,1050,1051,1052,1053,1054,1055,1101,1102,1103,1104,1105,1106,1107,1108,1109,1110,1111,1112,1113,1114,1115,1116,1117,1118,1119,1120,1121,1122,1123,1124,1125,1126,1127,1128,1186,1187,1188,1189,1190,1191,1192,1193,1194,1195,1196,1197,1198,1199,1200,1201,1202,1203,1204,1205,1206,1207,1208,1209,1210,1211,1212,1213,1263,1264,1265,1266,1267,1268,1269,1270,1271,1272,1273,1274,1275,1276,1277,1278,1279,1280,1281,1282,1283,1284,1285,1286,1287,1288,1289,1290,1337,1338,1339,1340,1341,1342,1343,1344,1345,1346,1347,1348,1349,1350,1351,1352,1353,1354,1355,1356,1357,1358,1359,1360,1361,1362,1363,1364,1424,1425,1426,1427,1428,1429,1430,1431,1432,1433,1434,1435,1436,1437,1438,1439,1440,1441,1442,1443,1444,1445,1446,1447,1448,1449,1450,1451]",[1],,,de-CH,Nationalratsmitglied,,,,,,,,,,
-2,2,ch-fedparl-states-member,1,"[29,30,31,32,33,34,35,36,37,38,39,40,41,42,107,108,109,110,111,112,113,114,115,116,117,118,119,120,148,149,150,151,152,153,154,155,156,157,158,159,160,161,229,230,231,232,233,234,235,236,237,238,239,240,241,242,311,312,313,314,315,316,317,318,319,320,321,322,323,324,389,390,391,392,393,394,395,396,397,398,399,400,401,402,471,472,473,474,475,476,477,478,479,480,481,482,483,484,528,529,530,531,532,533,534,535,536,537,538,539,589,590,591,592,593,594,595,596,597,598,599,600,601,602,669,670,671,672,673,674,675,676,677,678,679,680,681,682,755,756,757,758,759,760,761,762,763,764,765,766,767,768,826,827,828,829,830,831,832,833,834,835,836,837,838,839,901,902,903,904,905,906,907,908,909,910,911,912,913,914,980,981,982,983,984,985,986,987,988,989,990,991,992,993,1056,1057,1058,1059,1060,1061,1062,1063,1064,1065,1066,1067,1068,1069,1129,1130,1131,1132,1133,1134,1135,1136,1137,1138,1139,1140,1141,1142,1214,1215,1216,1217,1218,1219,1220,1221,1222,1223,1224,1225,1226,1227,1291,1292,1293,1294,1295,1296,1297,1298,1299,1300,1301,1302,1303,1304,1365,1366,1367,1368,1369,1370,1371,1372,1373,1374,1375,1376,1377,1378,1452,1453,1454,1455,1456,1457,1458,1459,1460,1461,1462,1463,1464,1465]","[2,3]",,"page_number_string: 
+1,1,ch-fedparl-nat-member,1,"[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28]","[1,134,135,136,137,138,139,140,141,142,143,144,145]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Schweizer Parlament. (2025). <em>St&auml;nderat</em>. Abgerufen am 16. September 2025 von https://www.parlament.ch/de/%C3%BCber-das-parlament/parlamentsportraet/organisation-der-bundesversammlung/staenderat-und-seine-organe/staenderat</p>
-source_comment: ",de-CH,Ständeratsmitglied,,,,,,,,,,
+source_full_citation: Wikipedia. (2026). Nationalrat (Schweiz). Abgerufen am 19. Mai 2026 von https://de.wikipedia.org/wiki/Nationalrat_(Schweiz)#Entwicklung_der_Sitzzahlen
+source_comment: ",de-CH,Nationalratsmitglied,,,fr-CH,Membre du Conseil national,,,en-US,Member of the National Council,,
+2,2,ch-fedparl-states-member,1,"[29,30,31,32,33,34,35,36,37,38,39,40,41,42,1511,1512,1513,1514,1515,1516,1517,1518,1519,1520,1521,1522,1523,1524]","[2,3]",,"page_number_string: 
+notes: 
+source_full_citation: Schweizer Parlament. (2025). Ständerat. Abgerufen am 16. September 2025 von https://www.parlament.ch/de/%C3%BCber-das-parlament/parlamentsportraet/organisation-der-bundesversammlung/staenderat-und-seine-organe/staenderat
+source_comment: ",de-CH,Ständeratsmitglied,,,fr-CH,Membre du Conseil des États,,,en-US,Member of the Council of States,,
 3,3,zh-cantparl-member,1,"[43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65]","[4,5,27,28,29,30,31,32]","note_translations: languages_code: de-CH
-note: Bis 1926 war die Sitzanzahl im Kantonsrat variabel.
-
-note_translations: languages_code: de-CH
-note: GELB von HP: Vor 1917 besser keine Totalsitzzahl erfassen als eine ""geschätzte"". Wir können die genauen Zahlen wohl gut noch von BFS und Kantonsstatistik zusammentragen","page_number_string: 
+note: Bis 1926 war die Sitzanzahl im Kantonsrat variabel.","page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2025). <em>Kantonsrat (Z&uuml;rich)</em>. Abgerufen am 06. Oktober 2025 von https://de.wikipedia.org/wiki/Kantonsrat_(Z%C3%BCrich)</p>
+source_full_citation: Wikipedia. (2025). Kantonsrat (Zürich). Abgerufen am 06. Oktober 2025 von https://de.wikipedia.org/wiki/Kantonsrat_(Z%C3%BCrich)
 source_comment: 
 
 page_number_string: 262
 notes: 
-source_full_citation: <p>Statistisches Amt des Kantons Z&uuml;rich. (2021). <em>Statistisches Jahrbuch des Kantons Z&uuml;rich 2021</em>. Statistisches Amt des Kantons Z&uuml;rich. https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/124@statistisches-amt-kanton-zuerich</p>
+source_full_citation: Statistisches Amt des Kantons Zürich. (2021). Statistisches Jahrbuch des Kantons Zürich 2021. Statistisches Amt des Kantons Zürich. https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/124@statistisches-amt-kanton-zuerich
 source_comment: 
 
 page_number_string: 115
 notes: 
-source_full_citation: <p>Hohl, A. (2000). Der Kampf um die Gr&ouml;sse des Kantonsrates. In Staatsarchiv des Kantons Z&uuml;rich (Hrsg.), <em>Kleine Z&uuml;rcher Verfassungsgeschichte 1218-2000</em> (S. 115-117). Chronos.</p>
+source_full_citation: Hohl, A. (2000). Der Kampf um die Grösse des Kantonsrates. In Staatsarchiv des Kantons Zürich (Hrsg.), Kleine Zürcher Verfassungsgeschichte 1218-2000 (S. 115-117). Chronos.
 source_comment: ",de-CH,Kantonsratsmitglied Zürich,,,,,,,,,,
 4,4,zh-cantgov-member,1,"[66,67,68,69,70,71,72,73,74,75,76]","[6,7]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2025). <em>Regierungsrat (Z&uuml;rich)</em>. Abgerufen am 06. Oktober 2025 von https://de.wikipedia.org/wiki/Regierungsrat_(Z%C3%BCrich)</p>
+source_full_citation: Wikipedia. (2025). Regierungsrat (Zürich). Abgerufen am 06. Oktober 2025 von https://de.wikipedia.org/wiki/Regierungsrat_(Z%C3%BCrich)
 source_comment: ",de-CH,Regierungsratsmitglied Zürich,,,,,,,,,,
 5,5,ch-fedgov-member,1,[],[8],,,de-CH,Bundesratsmitglied,,,fr-CH,Membre du Conseil fédéral,,,en-US,Member of the Federal Council,,
 6,6,be-cantparl-member,1,"[162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187]",[9],,,de-CH,Grossratsmitglied Bern,,,,,,,,,,
 7,7,be-cantgov-member,1,"[188,189,190,191,192,193,194,195,196,197,198]","[10,11]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2025).&nbsp;<em>Regierungsrat (Bern)</em>. Abgerufen am 25. November 2025 von https://de.wikipedia.org/wiki/Regierungsrat_(Bern)</p>
+source_full_citation: Wikipedia. (2025). Regierungsrat (Bern). Abgerufen am 25. November 2025 von https://de.wikipedia.org/wiki/Regierungsrat_(Bern)
 source_comment: ",de-CH,Regierungsratsmitglied Bern,,,,,,,,,,
 8,9,lu-cantgov-member,1,"[272,273,274,275,276,277,278,279,280,281,282]","[12,14]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Kiener, F. (2018). Luzern (Kanton). In&nbsp;<em>Historisches Lexikon der Schweiz (HLS)</em>. Abgerufen am 05. Dezember 2025 von https://hls-dhs-dss.ch/de/articles/007382/2018-02-07/</p>
+source_full_citation: Kiener, F. (2018). Luzern (Kanton). In Historisches Lexikon der Schweiz (HLS). Abgerufen am 05. Dezember 2025 von https://hls-dhs-dss.ch/de/articles/007382/2018-02-07/
 source_comment: ",de-CH,Regierungsratsmitglied Luzern,,,,,,,,,,
 9,8,lu-cantparl-member,1,"[243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271]","[15,16,17,18,19,20,21]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Kiener, F. (2018). Luzern (Kanton). In&nbsp;<em>Historisches Lexikon der Schweiz (HLS)</em>. Abgerufen am 05. Dezember 2025 von https://hls-dhs-dss.ch/de/articles/007382/2018-02-07/</p>
+source_full_citation: Kiener, F. (2018). Luzern (Kanton). In Historisches Lexikon der Schweiz (HLS). Abgerufen am 05. Dezember 2025 von https://hls-dhs-dss.ch/de/articles/007382/2018-02-07/
 source_comment: 
 
 page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2025). <em>Kantonsrat (Luzern)</em>. Abgerufen am 12. Dezember 2025 von https://de.wikipedia.org/wiki/Kantonsrat_(Luzern)</p>
+source_full_citation: Wikipedia. (2025). Kantonsrat (Luzern). Abgerufen am 12. Dezember 2025 von https://de.wikipedia.org/wiki/Kantonsrat_(Luzern)
 source_comment: ",de-CH,Kantonsratsmitglied Luzern,,,,,,,,,,
 10,10,ur-cantparl-member,1,"[325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348]",[22],,,de-CH,Landratsmitglied Uri,,,,,,,,,,
 11,11,ur-cantgov-member,1,"[349,350,351,352,353,354,355,356,357,358,359,360]",[23],,,de-CH,Regierungsratsmitglied Uri,,,,,,,,,,
@@ -51,78 +51,255 @@ source_comment: ",de-CH,Kantonsratsmitglied Luzern,,,,,,,,,,
 13,13,bs-cantgov-member,1,"[431,432,433,434,435,436,437,438,439,440,441,442]",[26],,,de-CH,Regierungsratsmitglied Basel-Stadt,,,,,,,,,,
 14,14,bl-cantparl-member,1,"[486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,503,504]","[33,34,35]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2026). <em>L<span class=""mw-page-title-main"">andrat (Basel-Landschaft)</span></em><span class=""mw-page-title-main"">. Abgerufen am 05. Februar 2026 von https://de.wikipedia.org/wiki/Landrat_(Basel-Landschaft)</span></p>
+source_full_citation: Wikipedia. (2026). Landrat (Basel-Landschaft). Abgerufen am 05. Februar 2026 von https://de.wikipedia.org/wiki/Landrat_(Basel-Landschaft)
 source_comment: ",de-CH,Landratsmitglied Basel-Landschaft,,,,,,,,,,
 15,15,bl-cantgov-member,,"[505,506,507,508,509,510,511,512,513,514,515]",[36],,,de-CH,Regierungsratsmitglied Basel-Landschaft,,,,,,,,,,
 16,16,ju-cantparl-member,1,"[540,541,542,543,544,545,546,547,548,549,550]",[37],,,fr-CH,Membre du Parlement jurassien,,,,,,,,,,
 17,17,ju-cantgov-member,1,"[551,552,553,554,555,556,557,558,559,560]",[38],,,fr-CH,Membre du Gouvernement jurassien,,,,,,,,,,
 18,18,ti-cantparl-member,1,"[603,604,605,606,607,608,609,610,611,612,613,614,615,616,617,618,619,620,621,622,623,624,625,626,627,628,629]","[39,40,41]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2026). <em>Grosser Rat (Tessin)</em>. Abgerufen amm 03. M&auml;rz 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Tessin)</p>
+source_full_citation: Wikipedia. (2026). Grosser Rat (Tessin). Abgerufen amm 03. März 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Tessin)
 source_comment: ",it-CH,Membro del Gran Consiglio del Canton Ticino,,,,,,,,,,
 19,19,ti-cantgov-member,1,"[630,631,632,633,634,635,636,637,638,639,640]","[42,43]",,,it-CH,Membro del Consiglio di Stato del Canton Ticino,,,,,,,,,,
-20,20,ch-fedcourt-member,1,[],[],,,de-CH,Mitglied des Bundesgerichts,,,fr-CH,Membre du Tribunal fédéral,,,en-US,Member of the Federal Supreme Court,,
+20,20,ch-fedcourt-member,1,[],"[146,147,148,149,150,151,152,153,154]",,"page_number_string: 
+notes: 
+source_full_citation: Vatter, A., Flick-Witzig, M., & Fuchs, O. 2025. Datensatz zur parteipolitischen Zusammensetzung des Bundesgerichts 1918-2024. Unveröffentlichtes Dokument.
+source_comment: ",de-CH,Mitglied des Bundesgerichts,,,fr-CH,Membre du Tribunal fédéral,,,en-US,Member of the Federal Supreme Court,,
 21,21,sz-cantparl-member,1,"[683,684,685,686,687,688,689,690,691,692,693,694,695,696,697,698,699,700,701,702,703,704,705,706,707,708,709,710,711,712,713,714]","[44,45,46,47,48,49,50]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2026). <em>Kantonsrat (Schwyz)</em>. Abgerufen am 19. M&auml;rz 2026 von https://de.wikipedia.org/wiki/Kantonsrat_(Schwyz)</p>
+source_full_citation: Wikipedia. (2026). Kantonsrat (Schwyz). Abgerufen am 19. März 2026 von https://de.wikipedia.org/wiki/Kantonsrat_(Schwyz)
 source_comment: ",de-CH,Kantonsratsmitglied Schwyz,,,,,,,,,,
 22,22,sz-cantgov-member,1,"[715,716,717,718,719,720,721,722,723,724,725,726]",[51],,,de-CH,Regierungsratsmitglied Schwyz,,,,,,,,,,
 23,23,ow-cantparl-member,1,"[769,770,771,772,773,774,775,776,777,778,779,780,781,782,783,784]","[52,53,54,55]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2026). <em>Kantonsrat (Obwalden)</em>. Abgerufen am 26. M&auml;rz 2026 von https://de.wikipedia.org/wiki/Kantonsrat_(Obwalden)</p>
+source_full_citation: Wikipedia. (2026). Kantonsrat (Obwalden). Abgerufen am 26. März 2026 von https://de.wikipedia.org/wiki/Kantonsrat_(Obwalden)
 source_comment: ",de-CH,Kantonsratsmitglied Obwalden,,,,,,,,,,
 24,24,ow-cantgov-member,1,"[785,786,787,788,789,790,791,792,793,794,795,796,797]","[56,57]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2026). <em><span class=""mw-page-title-main"">Liste der Regierungsr&auml;te des Kantons Obwalden</span></em><span class=""mw-page-title-main"">. Abgerufen am 26. M&auml;rz 2026 von https://de.wikipedia.org/wiki/Liste_der_Regierungsr%C3%A4te_des_Kantons_Obwalden</span></p>
+source_full_citation: Wikipedia. (2026). Liste der Regierungsräte des Kantons Obwalden. Abgerufen am 26. März 2026 von https://de.wikipedia.org/wiki/Liste_der_Regierungsr%C3%A4te_des_Kantons_Obwalden
 source_comment: ",de-CH,Regierungsratsmitglied Obwalden,,,,,,,,,,
 25,25,nw-cantparl-member,1,"[840,841,842,843,844,845,846,847,848,849,850,851,852,853,854,855,856,857,858,859,860]","[58,59]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2026). <em>Landrat (Nidwalden)</em>. Abgerufen am 27. M&auml;rz 2026 von https://de.wikipedia.org/wiki/Landrat_(Nidwalden)</p>
+source_full_citation: Wikipedia. (2026). Landrat (Nidwalden). Abgerufen am 27. März 2026 von https://de.wikipedia.org/wiki/Landrat_(Nidwalden)
 source_comment: ",de-CH,Landratsmitglied Nidwalden,,,,,,,,,,
 26,26,nw-cantgov-member,1,"[861,862,863,864,865,866,867,868,869,870,871,872]",[60],,,de-CH,Regierungsratsmitglied Nidwalden,,,,,,,,,,
 27,27,gl-cantparl-member,1,"[915,916,917,918,919,920,921,922,923,924,925,926,927,928,929,930,931,932,933,934,935,936,937,938,939,940]","[61,62]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2026).<em> Landrat (Glarus)</em>. Abgerufen am 07. April 2026 von https://de.wikipedia.org/wiki/Landrat_(Glarus)</p>
+source_full_citation: Wikipedia. (2026). Landrat (Glarus). Abgerufen am 07. April 2026 von https://de.wikipedia.org/wiki/Landrat_(Glarus)
 source_comment: ",de-CH,Landratsmitglied Glarus,,,,,,,,,,
 28,28,gl-cantgov-member,1,"[941,942,943,944,945,946,947,948,949,950,951]","[63,64]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2026). <em><span class=""mw-page-title-main"">Liste der Regierungsr&auml;te des Kantons Glarus</span></em><span class=""mw-page-title-main"">. Abgerufen am 07. April 2026 von https://de.wikipedia.org/wiki/Liste_der_Regierungsr%C3%A4te_des_Kantons_Glarus</span></p>
+source_full_citation: Wikipedia. (2026). Liste der Regierungsräte des Kantons Glarus. Abgerufen am 07. April 2026 von https://de.wikipedia.org/wiki/Liste_der_Regierungsr%C3%A4te_des_Kantons_Glarus
 source_comment: ",de-CH,Regierungsratsmitglied Glarus,,,,,,,,,,
 29,29,zg-cantparl-member,1,"[994,995,996,997,998,999,1000,1001,1002,1003,1004,1005,1006,1007,1008,1009,1010,1011,1012,1013,1014,1015,1016]","[65,66,67,68,69,70,71]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2026). <em>Kantonsrat (Zug)</em>. Abgerufen am 14. April 2026 von https://de.wikipedia.org/wiki/Kantonsrat_(Zug)</p>
+source_full_citation: Wikipedia. (2026). Kantonsrat (Zug). Abgerufen am 14. April 2026 von https://de.wikipedia.org/wiki/Kantonsrat_(Zug)
 source_comment: ",de-CH,Kantonsratsmitglied Zug,,,,,,,,,,
 30,30,zg-cantgov-member,1,"[1017,1018,1019,1020,1021,1022,1023,1024,1025,1026,1027]",[72],,,de-CH,Regierungsratsmitglied Zug,,,,,,,,,,
 31,31,fr-cantparl-member,1,"[1070,1071,1072,1073,1074,1075,1076,1077,1078,1079,1080,1081,1082,1083,1084,1085,1086,1087,1088,1089,1090,1091]","[73,74,75,76,77,78,79]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2026).<em> Grosser Rat (Freiburg)</em>. Abgerufen am 20. April 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Freiburg)</p>
+source_full_citation: Wikipedia. (2026). Grosser Rat (Freiburg). Abgerufen am 20. April 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Freiburg)
 source_comment: ",de-CH,Grossratsmitglied Kanton Freiburg,,,fr-CH,Membre du Grand Conseil du canton de Fribourg,,,,,,
 32,32,fr-cantgov-member,1,"[1092,1093,1094,1095,1096,1097,1098,1099,1100]",[80],,,de-CH,Staatsratsmitglied Freiburg,,,fr-CH,Conseillers d'État du canton de Fribourg,,,,,,
 33,33,so-cantparl-member,1,"[1143,1144,1145,1146,1147,1148,1149,1150,1151,1152,1153,1154,1155,1156,1157,1158,1159,1160,1161,1162,1163,1164,1165,1166,1167,1168,1169,1170,1171,1172,1173,1174]","[81,82,83,84,85,86,87,88,89,90]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2026). <em>Kantonsrat (Solothurn)</em>. Abgerufen am 22. April 2026 von https://de.wikipedia.org/wiki/Kantonsrat_(Solothurn)</p>
+source_full_citation: Wikipedia. (2026). Kantonsrat (Solothurn). Abgerufen am 22. April 2026 von https://de.wikipedia.org/wiki/Kantonsrat_(Solothurn)
 source_comment: ",de-CH,Kantonsratsmitglied Solothurn,,,,,,,,,,
 34,34,so-cantgov-member,1,"[1175,1176,1177,1178,1179,1180,1181,1182,1183,1184,1185]",[91],,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2026). <em>Liste der Regierungsr&auml;te des Kantons Solothurn</em>. Abgerufen am 22. April 2026 von https://de.wikipedia.org/wiki/Liste_der_Regierungsr%C3%A4te_des_Kantons_Solothurn</p>
+source_full_citation: Wikipedia. (2026). Liste der Regierungsräte des Kantons Solothurn. Abgerufen am 22. April 2026 von https://de.wikipedia.org/wiki/Liste_der_Regierungsr%C3%A4te_des_Kantons_Solothurn
 source_comment: ",de-CH,Regierungsratsmitglied Solothurn,,,,,,,,,,
 35,35,sh-cantparl-member,1,"[1228,1229,1230,1231,1232,1233,1234,1235,1236,1237,1238,1239,1240,1241,1242,1243,1244,1245,1246,1247,1248,1249,1250]","[92,93,94,95,96,97,98,99,100]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2026). <em>Kantonsrat (Schaffhausen)</em>. Abgerufen am 28. April 2026 von https://de.wikipedia.org/wiki/Kantonsrat_(Schaffhausen)</p>
+source_full_citation: Wikipedia. (2026). Kantonsrat (Schaffhausen). Abgerufen am 28. April 2026 von https://de.wikipedia.org/wiki/Kantonsrat_(Schaffhausen)
 source_comment: ",de-CH,Kantonsratsmitglied Schaffhausen,,,,,,,,,,
 36,36,sh-cantgov-member,1,"[1251,1252,1253,1254,1255,1256,1257,1258,1259,1260,1261,1262]",[101],,,de-CH,Regierungsratsmitglied Schaffhausen,,,,,,,,,,
 37,37,ar-cantparl-member,1,"[1305,1306,1307,1308,1309,1310]",[102],,,de-CH,Kantonsratsmitglied Appenzell Ausserrhoden,,,,,,,,,,
 38,38,ar-cantgov-member,1,"[1311,1312,1313,1314,1315,1316,1317,1318,1319,1320,1321,1322,1323,1324,1325,1326,1327,1328,1329,1330,1331,1332,1333,1334,1335,1336]",[103],,,de-CH,Regierungsratsmitglied Appenzell Ausserrhoden,,,,,,,,,,
 39,39,ai-cantparl-member,1,[],[104],,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2026). <em>Grosser Rat (Appenzell Innerrhoden)</em>. Abgerufen am 05. Mai 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Appenzell_Innerrhoden)</p>
+source_full_citation: Wikipedia. (2026). Grosser Rat (Appenzell Innerrhoden). Abgerufen am 05. Mai 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Appenzell_Innerrhoden)
 source_comment: ",de-CH,Grossratsmitglied Appenzell Innerrhoden,,,,,,,,,,
 40,40,ai-cantgov-member,1,"[1379,1380,1381,1382,1383,1384,1385,1386,1387,1388,1389,1390,1391,1392,1393,1394,1395,1396,1397,1398,1399,1400,1401,1402,1403,1404,1405,1406,1407,1408,1409,1410,1411,1412,1413,1414,1415,1416,1417,1418,1419,1420,1421,1422,1423]","[105,106]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2026). <em>Grosser Rat (Appenzell Innerrhoden)</em>. Abgerufen am 05. Mai 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Appenzell_Innerrhoden)</p>
+source_full_citation: Wikipedia. (2026). Grosser Rat (Appenzell Innerrhoden). Abgerufen am 05. Mai 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Appenzell_Innerrhoden)
 source_comment: ",de-CH,Standeskommissionsmitglied Appenzell Innerrhoden,,,,,,,,,,
 41,41,sg-cantparl-member,1,"[1466,1467,1468,1469,1470,1471,1472,1473,1474,1475,1476,1477,1478,1479,1480,1481,1482,1483,1484,1485,1486,1487,1488,1489,1490,1491,1492,1493,1494,1495,1496,1497,1498]","[107,108,109,110,111,112,113,114,115,116]",,"page_number_string: 
 notes: 
-source_full_citation: <p>Wikipedia. (2026). <em><span dir=""ltr"" lang=""de""><span class=""mw-page-title-main"">Kantonsrat (St. Gallen)</span></span></em><span dir=""ltr"" lang=""de""><span class=""mw-page-title-main"">. Abgerufen am 12. Mai 2026 von https://de.wikipedia.org/wiki/Kantonsrat_(St._Gallen)</span></span></p>
+source_full_citation: Wikipedia. (2026). Kantonsrat (St. Gallen). Abgerufen am 12. Mai 2026 von https://de.wikipedia.org/wiki/Kantonsrat_(St._Gallen)
 source_comment: ",de-CH,Kantonsratsmitglied St. Gallen,,,,,,,,,,
 42,42,sg-cantgov-member,1,"[1499,1500,1501,1502,1503,1504,1505,1506,1507,1508,1509,1510]",[117],,,de-CH,Regierungsratsmitglied St. Gallen,,,,,,,,,,
+43,43,gr-cantparl-member,1,"[1567,1568,1569,1570,1571,1572,1573,1574,1575,1576,1577,1578,1579,1580,1581,1582,1583,1584,1585,1586,1587,1588,1589,1590,1591,1592,1593,1594,1595,1596,1597,1598,1599,1600,1601,1602,1603,1604,1605,1606,1607,1608,1609,1610,1611,1612]","[118,119,120,121,122,123,124,125,126,127,128,129,130,131,132]",,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Grosser Rat (Graubünden). Abgerufen am 19. Mai 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Graub%C3%BCnden)
+source_comment: ",de-CH,Grossratsmitglied Graubünden,,,,,,,,,,
+44,44,gr-cantgov-member,1,"[1613,1614,1615,1616,1617,1618,1619,1620,1621,1622,1623]",[133],,,de-CH,Regierungsratsmitglied Graubünden,,,,,,,,,,
+45,45,ag-cantparl-member,1,"[1666,1667,1668,1669,1670,1671,1672,1673,1674,1675,1676,1677,1678,1679,1680,1681,1682,1683,1684,1685,1686,1687,1688,1689]","[155,156,157,158,159,160]",,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Grosser Rat (Aargau). Abgerufen am 21. Mai 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Aargau)
+source_comment: ",de-CH,Grossratsmitglied Aargau,,,,,,,,,,
+46,46,ag-cantgov-member,1,"[1690,1691,1692,1693,1694,1695,1696,1697,1698,1699,1700,1701,1702]",[161],,,de-CH,Regierungsratsmitglied Aargau,,,,,,,,,,
+47,2,zh-fedparl-states-member,1,"[107,108,109,110,111,112,113,114,115,116,117,118,119,120]",[163],,,de-CH,Ständeratsmitglied für den Kanton Zürich,,,,,,,,,,
+48,47,tg-cantparl-member,1,"[1745,1746,1747,1748,1749,1750,1751,1752,1753,1754,1755,1756,1757,1758,1759,1760,1761,1762,1763,1764,1765,1766,1767,1768,1769,1770,1771,1772,1773,1774,1775]","[164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180]",,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Grosser Rat (Thurgau). Abgerufen am 26. Mai 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Thurgau)
+source_comment: ",de-CH,Grossratsmitglied Thurgau,,,,,,,,,,
+49,48,tg-cantgov-member,1,"[1776,1777,1778,1779,1780,1781,1782,1783,1784,1785,1786,1787]",[181],,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Regierungsrat (Thurgau). Abgerufen am 26. Mai 2026 von https://de.wikipedia.org/wiki/Regierungsrat_(Thurgau)
+source_comment: ",de-CH,Regierungsratsmitglied Thurgau,,,,,,,,,,
+50,2,be-fedparl-states-member,1,"[148,149,150,151,152,153,154,155,156,157,158,159,160,161]",[182],,,de-CH,Ständeratsmitglied für den Kanton Bern,,,,,,,,,,
+51,2,lu-fedparl-states-member,1,"[229,230,231,232,233,234,235,236,237,238,239,240,241,242]",[183],,,de-CH,Ständeratsmitglied für den Kanton Luzern,,,,,,,,,,
+52,2,ur-fedparl-states-member,1,"[311,312,313,314,315,316,317,318,319,320,321,322,323,324]",[184],,,de-CH,Ständeratsmitglied für den Kanton Uri,,,,,,,,,,
+53,2,sz-fedparl-states-member,1,"[669,670,671,672,673,674,675,676,677,678,679,680,681,682]",[185],,,de-CH,Ständeratsmitglied für den Kanton Schwyz,,,,,,,,,,
+54,2,ow-fedparl-states-member,1,"[755,756,757,758,759,760,761,762,763,764,765,766,767,768]",[186],,,de-CH,Ständeratsmitglied für den Kanton Obwalden,,,,,,,,,,
+55,2,nw-fedparl-states-member,1,"[826,827,828,829,830,831,832,833,834,835,836,837,838,839]",[187],,,de-CH,Ständeratsmitglied für den Kanton Nidwalden,,,,,,,,,,
+56,2,gl-fedparl-states-member,1,"[901,902,903,904,905,906,907,908,909,910,911,912,913,914]",[188],,,de-CH,Ständeratsmitglied für den Kanton Glarus,,,,,,,,,,
+57,2,zg-fedparl-states-member,1,"[980,981,982,983,984,985,986,987,988,989,990,991,992,993]",[189],,,de-CH,Ständeratsmitglied für den Kanton Zug,,,,,,,,,,
+58,2,fr-fedparl-states-member,1,"[1056,1057,1058,1059,1060,1061,1062,1063,1064,1065,1066,1067,1068,1069]",[190],,,de-CH,Ständeratsmitglied für den Kanton Freiburg,,,fr-CH,Membre du Conseil des États pour le canton de Fribourg,,,,,,
+59,2,so-fedparl-states-member,1,"[1129,1130,1131,1132,1133,1134,1135,1136,1137,1138,1139,1140,1141,1142]",[191],,,de-CH,Ständeratsmitglied für den Kanton Solothurn,,,,,,,,,,
+60,2,bs-fedparl-states-member,1,"[389,390,391,392,393,394,395,396,397,398,399,400,401,402]",[192],,,de-CH,Ständeratsmitglied für den Kanton Basel-Stadt,,,,,,,,,,
+61,2,bl-fedparl-states-member,1,"[471,472,473,474,475,476,477,478,479,480,481,482,483,484]",[193],,,de-CH,Ständeratsmitglied für den Kanton Basel-Landschaft,,,,,,,,,,
+62,2,sh-fedparl-states-member,1,"[1214,1215,1216,1217,1218,1219,1220,1221,1222,1223,1224,1225,1226,1227]",[194],,,de-CH,Ständeratsmitglied für den Kanton Schaffhausen,,,,,,,,,,
+63,2,ai-fedparl-states-member,1,"[1365,1366,1367,1368,1369,1370,1371,1372,1373,1374,1375,1376,1377,1378]",[195],,,de-CH,Ständeratsmitglied für den Kanton Appenzell Innerrhoden,,,,,,,,,,
+64,2,ar-fedparl-states-member,1,"[1291,1292,1293,1294,1295,1296,1297,1298,1299,1300,1301,1302,1303,1304]",[196],,,de-CH,Ständeratsmitglied für den Kanton Appenzell Innerrhoden,,,,,,,,,,
+65,2,sg-fedparl-states-member,1,"[1452,1453,1454,1455,1456,1457,1458,1459,1460,1461,1462,1463,1464,1465]",[197],,,de-CH,Ständeratsmitglied für den Kanton St. Gallen,,,,,,,,,,
+66,2,gr-fedparl-states-member,1,"[1553,1554,1555,1556,1557,1558,1559,1560,1561,1562,1563,1564,1565,1566]",[198],,,de-CH,Ständeratsmitglied für den Kanton Graubünden,,,,,,,,,,
+67,2,ag-fedparl-states-member,1,"[1652,1653,1654,1655,1656,1657,1658,1659,1660,1661,1662,1663,1664,1665]",[199],,,de-CH,Ständeratsmitglied für den Kanton Aargau,,,,,,,,,,
+68,2,tg-fedparl-states-member,1,"[1731,1732,1733,1734,1735,1736,1737,1738,1739,1740,1741,1742,1743,1744]",[200],,,de-CH,Ständeratsmitglied für den Kanton Thurgau,,,,,,,,,,
+69,2,ti-fedparl-states-member,1,"[589,590,591,592,593,594,595,596,597,598,599,600,601,602]",[201],,,de-CH,Ständeratsmitglied für den Kanton Tessin,,,it-CH,Membro del Consiglio degli Stati per il Cantone Ticino,,,,,,
+70,2,vd-fedparl-states-member,1,"[1816,1817,1818,1819,1820,1821,1822,1823,1824,1825,1826,1827,1828,1829]",[202],,,de-CH,Ständeratsmitglied für den Kanton Waadt,,,fr-CH,Membre du Conseil des États pour le canton de Vaud,,,,,,
+71,2,vs-fedparl-states-member,1,[],[203],,,fr-CH,Membre du Conseil des États pour le canton de Valais,,,de-CH,Ständeratsmitglied für den Kanton Wallis,,,,,,
+72,2,ne-fedparl-states-member,1,"[1887,1888,1889,1890,1891,1892,1893,1894,1895,1896,1897,1898,1899,1900]",[204],,,fr-CH,Membre du Conseil des États pour le canton de Neuchâtel,,,de-CH,Ständeratsmitglied für den Kanton Neuenburg,,,,,,
+73,2,ge-fedparl-states-member,1,"[1958,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969,1970,1971]",[205],,,de-CH,Ständeratsmitglied für den Kanton Genf,,,fr-CH,Membre du Conseil des États pour le canton de Genève,,,,,,
+74,2,ju-fedparl-states-member,1,"[528,529,530,531,532,533,534,535,536,537,538,539]",[206],,,de-CH,Ständeratsmitglied für den Kanton Jura,,,fr-CH,Membre du Conseil des États pour le canton de Jura,,,,,,
+75,1,zh-fedparl-nat-member,1,"[78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105]","[207,208,209,210,211,212,213,214,215,216,217,218,219,220,221]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Zürich,,,,,,,,,,
+76,1,be-fedparl-nat-member,1,"[121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,199]","[222,223,224,225,226,227,228,229,230,231,232,233,234,235,236]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Bern,,,,,,,,,,
+77,1,lu-fedparl-nat-member,1,"[201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228]","[237,238,239,240,241,242]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Luzern,,,,,,,,,,
+78,1,ur-fedparl-nat-member,1,"[283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310]",[243],,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Uri,,,,,,,,,,
+79,1,sz-fedparl-nat-member,1,"[641,642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,662,663,664,665,666,667,668]","[244,245,246]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Schwyz,,,,,,,,,,
+80,49,vd-cantparl-member,1,"[1830,1831,1832,1833,1834,1835,1836,1837,1838,1839,1840,1841,1842,1843,1844,1845,1846,1847,1848]","[247,248,249,250,251,252,253,254,255,256,257,258]",,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Grosser Rat (Waadt). Abgerufen am 08. Juni 2026 von de.wikipedia.org/wiki/Grosser_Rat_(Waadt)
+source_comment: ",fr-CH,Membre du Grand Conseil du canton de Vaud,,,,,,,,,,
+81,50,vd-cantgov-member,1,"[1849,1850,1851,1852,1853,1854,1855,1856,1857,1858]",[259],,"page_number_string: 
+notes: 
+source_full_citation: Wikipédia. (2026). Conseil d'État du canton de Vaud. Consulté le 08 juin 2026, sur https://fr.wikipedia.org/wiki/Conseil_d%27%C3%89tat_du_canton_de_Vaud
+source_comment: ",fr-CH,Membre du Conseil d'État du canton de Vaud,,,,,,,,,,
+82,1,ow-fedparl-nat-member,1,"[727,728,729,730,731,732,733,734,735,736,737,738,739,740,741,742,743,744,745,746,747,748,749,750,751,752,753,754]",[260],,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Obwalden,,,,,,,,,,
+83,1,nw-fedparl-nat-member,1,"[798,799,800,801,802,803,804,805,806,807,808,809,810,811,812,813,814,815,816,817,818,819,820,821,822,823,824,825]",[261],,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Nidwalden,,,,,,,,,,
+84,1,gl-fedparl-nat-member,1,"[873,874,875,876,877,878,879,880,881,882,883,884,885,886,887,888,889,890,891,892,893,894,895,896,897,898,899,900]","[262,263,264]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Glarus,,,,,,,,,,
+85,1,zg-fedparl-nat-member,1,"[952,953,954,955,956,957,958,959,960,961,962,963,964,965,966,967,968,969,970,971,972,973,974,975,976,977,978,979]","[265,266,267]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Zug,,,,,,,,,,
+86,1,fr-fedparl-nat-member,1,"[1028,1029,1030,1031,1032,1033,1034,1035,1036,1037,1038,1039,1040,1041,1042,1043,1044,1045,1046,1047,1048,1049,1050,1051,1052,1053,1054,1055]","[268,269,270,271,272,273]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Freiburg,,,fr-CH,Député au Conseil national pour le canton de Fribourg,,,,,,
+87,1,so-fedparl-nat-member,1,"[1101,1102,1103,1104,1105,1106,1107,1108,1109,1110,1111,1112,1113,1114,1115,1116,1117,1118,1119,1120,1121,1122,1123,1124,1125,1126,1127,1128]","[274,275,276,277,278,279]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Solothurn,,,,,,,,,,
+88,1,bs-fedparl-nat-member,1,"[361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388]","[280,281,282,283,284,285,286,287,288,289,290]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Basel-Stadt,,,,,,,,,,
+89,1,bl-fedparl-nat-member,1,"[443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470]","[291,292,293,294,295]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Basel-Landschaft,,,,,,,,,,
+90,1,sh-fedparl-nat-member,1,"[1186,1187,1188,1189,1190,1191,1192,1193,1194,1195,1196,1197,1198,1199,1200,1201,1202,1203,1204,1205,1206,1207,1208,1209,1210,1211,1212,1213]","[296,297,298]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Schaffhausen,,,,,,,,,,
+91,1,ar-fedparl-nat-member,1,"[1263,1264,1265,1266,1267,1268,1269,1270,1271,1272,1273,1274,1275,1276,1277,1278,1279,1280,1281,1282,1283,1284,1285,1286,1287,1288,1289,1290]","[299,300,301,302]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Appenzell-Ausserrhoden,,,,,,,,,,
+92,1,ai-fedparl-nat-member,1,"[1337,1338,1339,1340,1341,1342,1343,1344,1345,1346,1347,1348,1349,1350,1351,1352,1353,1354,1355,1356,1357,1358,1359,1360,1361,1362,1363,1364]",[303],,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Appenzell-Innerrhoden,,,,,,,,,,
+93,1,sg-fedparl-nat-member,1,"[1424,1425,1426,1427,1428,1429,1430,1431,1432,1433,1434,1435,1436,1437,1438,1439,1440,1441,1442,1443,1444,1445,1446,1447,1448,1449,1450,1451]","[304,305,306,307,308,309,310,311]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton St. Gallen,,,,,,,,,,
+94,1,gr-fedparl-nat-member,1,"[1525,1526,1527,1528,1529,1530,1531,1532,1533,1534,1535,1536,1537,1538,1539,1540,1541,1542,1543,1544,1545,1546,1547,1548,1549,1550,1551,1552]","[312,313,314,315,316]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Graubünden,,,,,,,,,,
+95,1,ag-fedparl-nat-member,1,"[1624,1625,1626,1627,1628,1629,1630,1631,1632,1633,1634,1635,1636,1637,1638,1639,1640,1641,1642,1643,1644,1645,1646,1647,1648,1649,1650,1651]","[317,318,319,320,321,322,323]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Aargau,,,,,,,,,,
+96,1,tg-fedparl-nat-member,1,"[1703,1704,1705,1706,1707,1708,1709,1710,1711,1712,1713,1714,1715,1716,1717,1718,1719,1720,1721,1722,1723,1724,1725,1726,1727,1728,1729,1730]","[324,325,326,327,328]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Thurgau,,,,,,,,,,
+97,1,ti-fedparl-nat-member,1,"[561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588]","[329,330,331,332,333,334,335]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Tessin,,,fr-CH,Deputato al Consiglio nazionale per il Cantone di Ticino,,,,,,
+98,1,vd-fedparl-nat-member,1,"[1788,1789,1790,1791,1792,1793,1794,1795,1796,1797,1798,1799,1800,1801,1802,1803,1804,1805,1806,1807,1808,1809,1810,1811,1812,1813,1814,1815]","[336,337,338,339,340,341,342,343,344,345,346]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Waadt,,,fr-CH,Député au Conseil national pour le canton de Vaud,,,,,,
+99,1,vs-fedparl-nat-member,1,[],"[347,348,349,350,351]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Wallis,,,fr-CH,Député au Conseil national pour le canton de Valais,,,,,,
+100,1,ne-fedparl-nat-member,1,"[1859,1860,1861,1862,1863,1864,1865,1866,1867,1868,1869,1870,1871,1872,1873,1874,1875,1876,1877,1878,1879,1880,1881,1882,1883,1884,1885,1886]","[352,353,354,355,356,357,358,359]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Neuenburg,,,fr-CH,Député au Conseil national pour le canton de Neuchâtel,,,,,,
+101,1,ge-fedparl-nat-member,1,"[1930,1931,1932,1933,1934,1935,1936,1937,1938,1939,1940,1941,1942,1943,1944,1945,1946,1947,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957]","[360,361,362,363,364,365,366,367,368,369]",,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Genf,,,fr-CH,Député au Conseil national pour le canton de Genève,,,,,,
+102,1,ju-fedparl-nat-member,1,"[516,517,518,519,520,521,522,523,524,525,526,527]",[370],,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
+source_comment: ",de-CH,Nationalratsmitglied für den Kanton Jura,,,fr-CH,Député au Conseil national pour le canton de Jura,,,,,,
+103,51,ne-cantparl-member,1,"[1901,1902,1903,1904,1905,1906,1907,1908,1909,1910,1911,1912,1913,1914,1915,1916,1917,1918]","[371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392]",,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Grosser Rat (Neuenburg). Abgerufen am 18. Juni 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Neuenburg)
+source_comment: ",fr-CH,Membre du Grand Conseil du canton de Neuchâtel,,,,,,,,,,
+104,52,ne-cantgov-member,1,"[1919,1920,1921,1922,1923,1924,1925,1926,1927,1928,1929]",[393],,"page_number_string: 
+notes: 
+source_full_citation: Wikipédia. (2026). Conseil d'État du canton de Neuchâtel. Consulté le 18 juin 2026, sur https://fr.wikipedia.org/wiki/Conseil_d%27%C3%89tat_du_canton_de_Neuch%C3%A2tel
+source_comment: ",fr-CH,Membre du Conseil d'État du canton de Neuchâtel,,,,,,,,,,
+105,53,ge-cantparl-member,1,"[1972,1973,1974,1975,1976,1977,1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000]",[394],,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Grosser Rat (Genf). Abgerufen am 26. Juni 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Genf)
+source_comment: ",fr-CH,Membre du Grand Conseil du canton de Genève,,,,,,,,,,
+106,54,ge-cantgov-member,1,"[2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011]",[395],,"page_number_string: 
+notes: 
+source_full_citation: Wikipédia. (2026). Conseil d'État du canton de Genève. Consulté le 26 juin 2026, sur https://fr.wikipedia.org/wiki/Conseil_d%27%C3%89tat_du_canton_de_Gen%C3%A8ve
+source_comment: ",fr-CH,Membre du Conseil d'État du canton de Genève,,,,,,,,,,
+107,55,vs-cantparl-member,1,[],[396],,,de-CH,Grossratsmitglied Wallis,,,fr-CH,Membre du Grand Conseil du canton du Valais,,,,,,
+108,56,vs-cantgov-member,1,[],[397],,,de-CH,Staatsratsmitglied Wallis,,,,,,,,,,
