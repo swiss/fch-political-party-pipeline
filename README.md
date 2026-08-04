@@ -76,3 +76,15 @@ child-of, observer-in, affiliated-with: can have `to_date`
 ## Good Examples
 
 - For different child-of relationships: Party 49
+
+## Uuups
+
+What is happening, if on the same day, a new party is forming from the split-ofs of two other parties?
+
+## 04.08.26
+
+- a split ends one version and starts two versions.
+- a accessed ends two versions and starts one version.
+
+Probably it is easier to create two events for a split (for the party that existed before and after the split), and the split that is ending the version, should somehow be connected to all the events that started this version --> every information that is needed to create a new version should be available right at the beginning of the version, otherwise there are complex operations needed. So this should be done already on the event creation
+
