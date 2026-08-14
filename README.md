@@ -90,4 +90,87 @@ Probably it is easier to create two events for a split (for the party that exist
 
 ## 07.08.26
 
-Complete new aproach: Only one version per identity. The version has got all the history, the identity only the currently valid data. This aproach is tried in `1_convert_b.ipynb`.
+Complete new approach: Only one version per identity. The version has got all the history, the identity only the currently valid data. This aproach is tried in `1_convert_b.ipynb`. --> The problem is, that this approach makes it difficult to build vl:successor and vl:predecessor relationships, because the vl:successor can be the same party (if a split happens, the new party is one follower, but the existing party is also a follower, because it is still existing). So we need to have a vl:successor and vl:predecessor relationship for each version, not only for the identity. So we need to have multiple versions per identity.
+
+## 10.08.26
+
+Steps:
+
+- get all the dates that are relevant
+- check whether last date creates a new version (then version history is open ended) or only ends the last version (then version history is closed)
+- then versions are known and can be created --> then we have dates and versions
+- check all the events for all dates and see if they have an opening effect on the new version or closing effects on the version before
+
+Example: Party 1 is founded in 1900-01-01, has a name change in 1950-01-01 and 2000-01-01, Party 2 splits from Party 1
+
+View Party 1:
+
+- relevant dates: 1900-01-01, 1950-01-01, 2000-01-01
+- 2001-01-01 creates a new version because after the split, party 1 still exists, so the version history is open ended. So we have three versions for Party 1: 1900-01-01, 1950-01-01 and 2000-01-01
+- Events:
+  - 1900-01-01 founding, starting event for version 1900-01-01
+  - 1950-01-01 name change, stop event for version 1900-01-01, starting event for version 1950-01-01
+  - 2000-01-01 split, stop event for version 1950-01-01, starting event for version 2000-01-01
+
+View Party 2:
+
+- relevant dates: 2000-01-01
+- 2000-01-01 creates a new version because it is the founding of Party 2, so the version history is open ended. So we have one version for Party 2: 2000-01-01
+- Events:
+  - 2000-01-01 founding, starting event for version 2000-01-01
+
+Questions for each party:
+
+- what are the relevant dates for this party?
+- what are the versions for this party?
+
+And then for each version in the party:
+
+- what are the starting events for this version?
+- what is the currently valid name for this version? (can only be one, otherwise it is an error)
+- what are the currently valid relationships for this version? (can be multiple at the same time)
+- what are the stopping events for this version?
+- what are the successors of this version? (can be multiple at the same time; predecessors to a version are not relevant here, this backwards-link will only be made in the RDFization)
+
+Events are instantaneous, e.g name-change, split, founding, dissolution, etc. Relationships are valid for a certain time period, e.g. child-of, observer-in, affiliated-with, etc.
+
+All Events:
+
+- founding
+  - starts always a new version
+  - stops never the previous version
+- dissolution
+  - starts never a new version
+  - stops always the previous version
+- name-change-start
+  - starts always a new version
+  - stops never the previous version
+- name-change-stop
+  - starts never a new version
+  - stops always the previous version
+- relationship-start (e.g. child-of, observer-in, affiliated-with)
+  - starts always a new version
+  - stops never the previous version
+- relationship-stop
+  - starts never a new version
+  - stops always a previous version
+
+- split for the before existing party
+  - starts always a new version
+  - stops always the previous version
+- split for the new party
+  - starts always a new version
+  - stops never the previous version
+- accessed for the party that gets accessed
+  - starts always a new version
+  - stops always the previous version
+- accessed for the party that accesses
+  - starts always a new version
+  - stops always the previous version
+- successor for the party that gets succeeded
+  - starts never a new version
+  - stops always the previous version
+- successor for the party that succeeds
+  - starts always a new version
+  - stops never the previous version
+  
