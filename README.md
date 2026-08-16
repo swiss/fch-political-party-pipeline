@@ -25,6 +25,7 @@ This repository contains all the necessary code to convert the CSV Party Atlas f
 - Relation ID 126 / Name ID 137: to_date should probably be 2021-01-01 instead of 2020-12-31.
 - Party ID 65: Missing name for dates after 1980-01-01.
 - Party ID 51: Dissolution in 1999-01-01 but has successor (ID 50) in 2003-05-05
+- https://politics.ld.admin.ch/party-version/123_1979-07-01: empty space in front of the name
 
 ## Relationships
 
