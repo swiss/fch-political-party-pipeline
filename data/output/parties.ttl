@@ -7,47 +7,61 @@
 <https://politics.ld.admin.ch/party-id/100> a vl:Deprecated,
         vl:Identity ;
     schema:name "Nationale Front"@de ;
+    schema:validFrom "1932-07-01"^^xsd:date ;
+    schema:validThrough "1940-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/100_1932-07-01> .
 
 <https://politics.ld.admin.ch/party-id/106> a vl:Identity ;
     schema:alternateName "Die Mitte BL"@de ;
     schema:name "Die Mitte Basel-Landschaft"@de ;
+    schema:validFrom "2022-01-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/106_2022-01-01> .
 
 <https://politics.ld.admin.ch/party-id/110> a vl:Deprecated,
         vl:Identity ;
     schema:name "Grüne Partei Baselland"@de ;
+    schema:validFrom "1988-06-27"^^xsd:date ;
+    schema:validThrough "1991-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/110_1988-06-27> .
 
 <https://politics.ld.admin.ch/party-id/112> a vl:Deprecated,
         vl:Identity ;
     schema:name "Grüne Liste Baselbiet"@de ;
+    schema:validFrom "1983-07-01"^^xsd:date ;
+    schema:validThrough "1991-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/112_1983-07-01> .
 
 <https://politics.ld.admin.ch/party-id/113> a vl:Identity ;
     schema:alternateName "Grünliberale BL"@de ;
     schema:name "Grünliberale Partei Basel-Landschaft "@de ;
+    schema:validFrom "2007-09-18"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/113_2007-09-18> .
 
 <https://politics.ld.admin.ch/party-id/114> a vl:Identity ;
     schema:alternateName "EVP BL"@de ;
     schema:name "Evangelische Volkspartei des Kantons Basel-Landschaft"@de ;
+    schema:validFrom "1922-01-14"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/114_1922-01-14> .
 
 <https://politics.ld.admin.ch/party-id/115> a vl:Identity ;
     schema:alternateName "EDU Kanton Basel-Land"@de ;
     schema:name "Eidgenössisch-Demokratische Union Kanton Basel-Landschaft"@de ;
+    schema:validFrom "1989-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/115_1989-07-01> .
 
 <https://politics.ld.admin.ch/party-id/117> a vl:Deprecated,
         vl:Identity ;
     schema:name "Partei der Arbeit"@de ;
+    schema:validFrom "1944-07-01"^^xsd:date ;
+    schema:validThrough "1989-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/117_1944-07-01> .
 
 <https://politics.ld.admin.ch/party-id/119> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "POBL"@de ;
     schema:name "Progressive Organisationen Baselland"@de ;
+    schema:validFrom "1975-07-01"^^xsd:date ;
+    schema:validThrough "1988-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/119_1975-07-01> .
 
 <https://politics.ld.admin.ch/party-id/12> a vl:Identity ;
@@ -58,60 +72,77 @@
     schema:name "Lega dei Ticinesi"@de,
         "Lega dei Ticinesi"@fr,
         "Lega dei Ticinesi"@it ;
+    schema:validFrom "1991-01-17"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q668101> ;
     vl:version <https://politics.ld.admin.ch/party-version/12_1991-01-17> .
 
 <https://politics.ld.admin.ch/party-id/120> a vl:Deprecated,
         vl:Identity ;
     schema:name "Kommunistische Partei Kanton Basel-Landschaft"@de ;
+    schema:validFrom "1921-07-01"^^xsd:date ;
+    schema:validThrough "1940-11-25"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/120_1921-07-01> .
 
 <https://politics.ld.admin.ch/party-id/122> a vl:Deprecated,
         vl:Identity ;
     schema:name "Grüne Partei BS/BL"@de ;
+    schema:validFrom "1986-06-17"^^xsd:date ;
+    schema:validThrough "1988-06-26"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/122_1986-06-17> .
 
 <https://politics.ld.admin.ch/party-id/123> a vl:Identity ;
     schema:alternateName "UDC Jura"@fr ;
     schema:name " Union Démocratique du Centre du canton du Jura"@fr ;
+    schema:validFrom "1979-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/123_1979-07-01> .
 
 <https://politics.ld.admin.ch/party-id/127> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "PRR"@fr ;
     schema:name "Parti radical-réformiste jurassien"@fr ;
+    schema:validFrom "1974-03-01"^^xsd:date ;
+    schema:validThrough "1988-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/127_1974-03-01> .
 
 <https://politics.ld.admin.ch/party-id/131> a vl:Identity ;
     schema:name "Parti vert’libéral jurassien"@fr ;
+    schema:validFrom "2020-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/131_2020-07-01> .
 
 <https://politics.ld.admin.ch/party-id/132> a vl:Identity ;
     schema:alternateName "PEV JU"@fr ;
     schema:name "Parti évangélique Jura"@fr ;
+    schema:validFrom "2011-09-22"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/132_2011-09-22> .
 
 <https://politics.ld.admin.ch/party-id/136> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "POP Jura"@fr ;
     schema:name "Parti Ouvrier Populaire Jurassien"@fr ;
+    schema:validFrom "1967-07-01"^^xsd:date ;
+    schema:validThrough "2013-01-14"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/136_1967-07-01> .
 
 <https://politics.ld.admin.ch/party-id/137> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "CS"@fr ;
     schema:name "Combat Socialiste"@fr ;
+    schema:validFrom "1977-05-15"^^xsd:date ;
+    schema:validThrough "2013-01-14"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/137_1977-05-15> .
 
 <https://politics.ld.admin.ch/party-id/140> a vl:Identity ;
     schema:alternateName "SVP Oberwallis"@de ;
     schema:name "Schweizerische Volkspartei Oberwallis"@de ;
+    schema:validFrom "2002-09-27"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/140_2002-09-27> .
 
 <https://politics.ld.admin.ch/party-id/142> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "KO"@de ;
     schema:name "Kritisches Oberwallis"@de ;
+    schema:validFrom "1971-09-23"^^xsd:date ;
+    schema:validThrough "1982-04-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/142_1971-09-23> .
 
 <https://politics.ld.admin.ch/party-id/143> a vl:Identity ;
@@ -119,11 +150,13 @@
         "SOPO"@fr ;
     schema:name "Sozialdemokratische Partei Oberwallis"@de,
         "Parti socialiste haut-valaisan"@fr ;
+    schema:validFrom "1982-05-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/143_1982-05-01> .
 
 <https://politics.ld.admin.ch/party-id/144> a vl:Identity ;
     schema:alternateName "PSVR"@fr ;
     schema:name "Parti socialiste du Valais romand"@fr ;
+    schema:validFrom "1982-05-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/144_1982-05-01> .
 
 <https://politics.ld.admin.ch/party-id/145> a vl:Identity ;
@@ -131,17 +164,21 @@
         "PLR.Les Libéraux-Radicaux Valais"@fr ;
     schema:name "Freisinnig Demokratische Partei Wallis"@de,
         "Parti Libéral-Radical Valaisan"@fr ;
+    schema:validFrom "2013-09-12"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/145_2013-09-12> .
 
 <https://politics.ld.admin.ch/party-id/159> a vl:Identity ;
     schema:alternateName "POP Valais"@fr ;
     schema:name "Parti Ouvrier Populaire valaisan"@fr ;
+    schema:validFrom "2019-10-08"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/159_2019-10-08> .
 
 <https://politics.ld.admin.ch/party-id/16> a vl:Deprecated,
         vl:Identity ;
     schema:name "Vorläufer der Demokraten"@de,
         "Précurseurs du parti démocratique"@fr ;
+    schema:validFrom "1880-01-01"^^xsd:date ;
+    schema:validThrough "1905-03-18"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/16_1880-01-01> .
 
 <https://politics.ld.admin.ch/party-id/160> a vl:Deprecated,
@@ -150,23 +187,30 @@
         "PLV"@fr ;
     schema:name "Liberale Partei des Kantons Wallis"@de,
         "Parti libéral valaisan"@fr ;
+    schema:validFrom "1988-03-20"^^xsd:date ;
+    schema:validThrough "2008-02-20"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/160_1988-03-20> .
 
 <https://politics.ld.admin.ch/party-id/165> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "PSA"@it ;
     schema:name "Partito socialista autonomo"@it ;
+    schema:validFrom "1969-04-27"^^xsd:date ;
+    schema:validThrough "1988-01-23"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/165_1969-04-27> .
 
 <https://politics.ld.admin.ch/party-id/166> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "PSU"@it ;
     schema:name "Partito socialista unitario"@it ;
+    schema:validFrom "1988-01-24"^^xsd:date ;
+    schema:validThrough "1992-10-17"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/166_1988-01-24> .
 
 <https://politics.ld.admin.ch/party-id/169> a vl:Identity ;
     schema:alternateName "I Verdi"@it ;
     schema:name "I Verdi del Cantone Ticino"@it ;
+    schema:validFrom "1994-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/169_1994-07-01> .
 
 <https://politics.ld.admin.ch/party-id/17> a vl:Deprecated,
@@ -174,169 +218,215 @@
     schema:color "#A4C8E5" ;
     schema:name "Schweizerische Demokratische Partei"@de,
         "Parti démocratique suisse"@fr ;
+    schema:validFrom "1905-03-19"^^xsd:date ;
+    schema:validThrough "1941-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/17_1905-03-19> .
 
 <https://politics.ld.admin.ch/party-id/171> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "SVEPO"@it ;
     schema:name "Svolta ecopolitica"@it ;
+    schema:validFrom "1990-03-25"^^xsd:date ;
+    schema:validThrough "1994-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/171_1990-03-25> .
 
 <https://politics.ld.admin.ch/party-id/174> a vl:Identity ;
     schema:alternateName "UDF Ticino"@it ;
     schema:name "Unione Democratica Federale del Cantone Ticino"@it ;
+    schema:validFrom "2005-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/174_2005-07-01> .
 
 <https://politics.ld.admin.ch/party-id/176> a vl:Identity ;
     schema:alternateName "POP Ticino"@it ;
     schema:name "Partito Operaio e Popolare Ticino"@it ;
+    schema:validFrom "2015-01-25"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q21234425> ;
     vl:version <https://politics.ld.admin.ch/party-version/176_2015-01-25> .
 
 <https://politics.ld.admin.ch/party-id/177> a vl:Deprecated,
         vl:Identity ;
     schema:name "Partito liberale radicale"@it ;
+    schema:validFrom "1934-07-01"^^xsd:date ;
+    schema:validThrough "1946-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/177_1934-07-01> .
 
 <https://politics.ld.admin.ch/party-id/178> a vl:Deprecated,
         vl:Identity ;
     schema:name "Partito liberale democratico"@it ;
+    schema:validFrom "1934-07-01"^^xsd:date ;
+    schema:validThrough "1946-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/178_1934-07-01> .
 
 <https://politics.ld.admin.ch/party-id/179> a vl:Deprecated,
         vl:Identity ;
     schema:name "Partito liberale"@it ;
+    schema:validFrom "1894-07-01"^^xsd:date ;
+    schema:validThrough "1934-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/179_1894-07-01> .
 
 <https://politics.ld.admin.ch/party-id/180> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "CST"@it ;
     schema:name "Comunità dei Socialisti Ticinesi"@it ;
+    schema:validFrom "1986-07-01"^^xsd:date ;
+    schema:validThrough "1988-01-23"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/180_1986-07-01> .
 
 <https://politics.ld.admin.ch/party-id/182> a vl:Identity ;
     schema:alternateName "SP-SZ"@de ;
     schema:name "Sozialdemokratische Partei des Kantons Schwyz"@de ;
+    schema:validFrom "1919-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/182_1919-07-01> .
 
 <https://politics.ld.admin.ch/party-id/185> a vl:Deprecated,
         vl:Identity ;
     schema:name "Christlichsoziale Volkspartei des Kantons Schwyz"@de ;
+    schema:validFrom "1946-07-01"^^xsd:date ;
+    schema:validThrough "1971-11-26"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/185_1946-07-01> .
 
 <https://politics.ld.admin.ch/party-id/189> a vl:Identity ;
     schema:alternateName "GLP SZ"@de ;
     schema:name "Grünliberale Partei Kanton Schwyz"@de ;
+    schema:validFrom "2012-08-22"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/189_2012-08-22> .
 
 <https://politics.ld.admin.ch/party-id/19> a vl:Deprecated,
         vl:Identity ;
     schema:name "Vorläufer der FDP"@de,
         "Précurseurs du PRD"@fr ;
+    schema:validFrom "1848-01-01"^^xsd:date ;
+    schema:validThrough "1894-02-24"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/19_1848-01-01> .
 
 <https://politics.ld.admin.ch/party-id/190> a vl:Identity ;
     schema:alternateName "EVP SZ"@de ;
     schema:name " Evangelische Volkspartei des Kantons Schwyz"@de ;
+    schema:validFrom "2009-08-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/190_2009-08-31> .
 
 <https://politics.ld.admin.ch/party-id/191> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "BDP Schwyz"@de ;
     schema:name "Bürgerlich-Demokratische Partei des Kantons Schwyz"@de ;
+    schema:validFrom "2009-08-17"^^xsd:date ;
+    schema:validThrough "2016-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/191_2009-08-17> .
 
 <https://politics.ld.admin.ch/party-id/192> a vl:Identity ;
     schema:alternateName "SVP Obwalden"@de ;
     schema:name "Schweizerische Volkspartei Obwalden"@de ;
+    schema:validFrom "1999-12-03"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/192_1999-12-03> .
 
 <https://politics.ld.admin.ch/party-id/193> a vl:Identity ;
     schema:alternateName "SP Obwalden"@de ;
     schema:name "Sozialdemokratische Partei des Kantons Obwalden"@de ;
+    schema:validFrom "1998-02-02"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/193_1998-02-02> .
 
 <https://politics.ld.admin.ch/party-id/197> a vl:Deprecated,
         vl:Identity ;
     schema:name "Grüne Obwalden"@de ;
+    schema:validFrom "2008-12-05"^^xsd:date ;
+    schema:validThrough "2009-11-29"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/197_2008-12-05> .
 
 <https://politics.ld.admin.ch/party-id/198> a vl:Identity ;
     schema:alternateName "glp"@de ;
     schema:name "Grünliberale Kanton Obwalden"@de ;
+    schema:validFrom "2021-06-11"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/198_2021-06-11> .
 
 <https://politics.ld.admin.ch/party-id/200> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "BDP Obwalden"@de ;
     schema:name "Bürgerlich-Demokratische Partei Kanton Obwalden"@de ;
+    schema:validFrom "2008-11-19"^^xsd:date ;
+    schema:validThrough "2009-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/200_2008-11-19> .
 
 <https://politics.ld.admin.ch/party-id/201> a vl:Identity ;
     schema:alternateName "SVP Nidwalden"@de ;
     schema:name "Schweizerische Volkspartei des Kantons Nidwalden"@de ;
+    schema:validFrom "1999-08-28"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/201_1999-08-28> .
 
 <https://politics.ld.admin.ch/party-id/206> a vl:Deprecated,
         vl:Identity ;
     schema:name "Christlichsoziale Partei Nidwalden"@de ;
+    schema:validFrom "1946-07-01"^^xsd:date ;
+    schema:validThrough "1970-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/206_1946-07-01> .
 
 <https://politics.ld.admin.ch/party-id/208> a vl:Identity ;
     schema:alternateName "glp NW"@de ;
     schema:name "Grünliberale Partei Nidwalden"@de ;
+    schema:validFrom "2021-06-21"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/208_2021-06-21> .
 
 <https://politics.ld.admin.ch/party-id/209> a vl:Deprecated,
         vl:Identity ;
     schema:name "Vorläufer der Bauern-, Gewerbe und Bürgerpartei"@de,
         "Précurseurs du parti des paysans, artisans et indépendants"@fr ;
+    schema:validFrom "1920-01-01"^^xsd:date ;
+    schema:validThrough "1936-12-22"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/209_1920-01-01> .
 
 <https://politics.ld.admin.ch/party-id/211> a vl:Identity ;
     schema:alternateName "SP Kanton Glarus"@de ;
     schema:name "Sozialdemokratische Partei des Kantons Glarus"@de ;
+    schema:validFrom "1917-12-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/211_1917-12-30> .
 
 <https://politics.ld.admin.ch/party-id/216> a vl:Identity ;
     schema:alternateName "GLP Glarus"@de ;
     schema:name "Grünliberale Glarus"@de ;
+    schema:validFrom "2013-03-14"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/216_2013-03-14> .
 
 <https://politics.ld.admin.ch/party-id/217> a vl:Identity ;
     schema:alternateName "EDU Glarus"@de ;
     schema:name "Eidgenössisch-Demokratische Union Kanton Glarus"@de ;
+    schema:validFrom "1991-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/217_1991-07-01> .
 
 <https://politics.ld.admin.ch/party-id/22> a vl:Deprecated,
         vl:Identity ;
     schema:name "Vorläufer der CVP"@de,
         "Précurseurs du PDC"@fr ;
+    schema:validFrom "1840-11-05"^^xsd:date ;
+    schema:validThrough "1912-04-21"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/22_1840-11-05> .
 
 <https://politics.ld.admin.ch/party-id/221> a vl:Identity ;
     schema:alternateName "SVP Kanton Zug"@de ;
     schema:name "Schweizerische Volkspartei des Kantons und Freistaates Zug"@de ;
+    schema:validFrom "1991-09-11"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/221_1991-09-11> .
 
 <https://politics.ld.admin.ch/party-id/227> a vl:Identity ;
     schema:alternateName "glp Zug"@de ;
     schema:name "Grünliberale Partei Kanton Zug"@de ;
+    schema:validFrom "2007-11-28"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/227_2007-11-28> .
 
 <https://politics.ld.admin.ch/party-id/228> a vl:Identity ;
     schema:alternateName "EVP Kanton Zug"@de ;
     schema:name "Evangelische Volkspartei Kanton Zug"@de ;
+    schema:validFrom "2021-12-09"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/228_2021-12-09> .
 
 <https://politics.ld.admin.ch/party-id/229> a vl:Identity ;
     schema:alternateName "CSP Zug"@de ;
     schema:name "Christlich Soziale Partei Zug"@de ;
+    schema:validFrom "2003-05-14"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/229_2003-05-14> .
 
 <https://politics.ld.admin.ch/party-id/230> a vl:Identity ;
     schema:alternateName "EDU Kanton Zug"@de ;
     schema:name "Eidgenössisch-Demokratische Union Kanton Zug"@de ;
+    schema:validFrom "2025-01-24"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/230_2025-01-24> .
 
 <https://politics.ld.admin.ch/party-id/233> a vl:Deprecated,
@@ -345,11 +435,14 @@
         "PRDF"@fr ;
     schema:name "Freisinnig-Demokratische Partei des Kantons Freiburg"@de,
         "Parti radical-démocratique fribourgeois"@fr ;
+    schema:validFrom "1894-07-01"^^xsd:date ;
+    schema:validThrough "2006-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/233_1894-07-01> .
 
 <https://politics.ld.admin.ch/party-id/237> a vl:Identity ;
     schema:name "Die Mitte Freiburg"@de,
         "Le Centre Fribourg"@fr ;
+    schema:validFrom "2021-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/237_2021-07-01> .
 
 <https://politics.ld.admin.ch/party-id/240> a vl:Identity ;
@@ -357,6 +450,7 @@
         "pvl fr"@fr ;
     schema:name "Grünliberale Partei Kanton Freiburg"@de,
         "Parti vert’libéral du canton de Fribourg"@fr ;
+    schema:validFrom "2009-05-08"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/240_2009-05-08> .
 
 <https://politics.ld.admin.ch/party-id/244> a vl:Identity ;
@@ -364,257 +458,323 @@
         "UDF FR"@fr ;
     schema:name "Eidgenössisch-Demokratische Union des Kantons Freiburg"@de,
         "Union Démocratique Féderale du canton de Fribourg"@fr ;
+    schema:validFrom "1993-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/244_1993-07-01> .
 
 <https://politics.ld.admin.ch/party-id/246> a vl:Identity ;
     schema:name "Partei der Arbeit Freiburg"@de,
         "Parti ouvrier et populaire Fribourg"@fr ;
+    schema:validFrom "1972-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/246_1972-07-01> .
 
 <https://politics.ld.admin.ch/party-id/247> a vl:Deprecated,
         vl:Identity ;
     schema:name "Ecologie et Solidarité"@fr ;
+    schema:validFrom "1985-07-01"^^xsd:date ;
+    schema:validThrough "1990-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/247_1985-07-01> .
 
 <https://politics.ld.admin.ch/party-id/249> a vl:Identity ;
     schema:alternateName "SVP Kanton Solothurn"@de ;
     schema:name "Schweizerische Volkspartei des Kantons Solothurn"@de ;
+    schema:validFrom "1991-06-20"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/249_1991-06-20> .
 
 <https://politics.ld.admin.ch/party-id/257> a vl:Identity ;
     schema:alternateName "glp des Kantons Solothurn"@de ;
     schema:name "Grünliberale Partei des Kantons Solothurn"@de ;
+    schema:validFrom "2008-11-03"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/257_2008-11-03> .
 
 <https://politics.ld.admin.ch/party-id/259> a vl:Identity ;
     schema:alternateName "EVP Kanton Solothurn"@de ;
     schema:name "Evangelische Volkspartei Kanton Solothurn"@de ;
+    schema:validFrom "2004-03-12"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/259_2004-03-12> .
 
 <https://politics.ld.admin.ch/party-id/261> a vl:Identity ;
     schema:alternateName "EDU Kanton Solothurn"@de ;
     schema:name "Eidgenössisch-Demokratische Union Kanton Solothurn"@de ;
+    schema:validFrom "2008-12-04"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/261_2008-12-04> .
 
 <https://politics.ld.admin.ch/party-id/264> a vl:Identity ;
     schema:name "Schweizer Demokraten Kanton Solothurn"@de ;
+    schema:validFrom "2006-03-04"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/264_2006-03-04> .
 
 <https://politics.ld.admin.ch/party-id/267> a vl:Deprecated,
         vl:Identity ;
     schema:name "Sozialdemokratische Partei"@de ;
+    schema:validFrom "1921-07-01"^^xsd:date ;
+    schema:validThrough "1935-07-06"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/267_1921-07-01> .
 
 <https://politics.ld.admin.ch/party-id/272> a vl:Identity ;
     schema:alternateName "glp SH"@de ;
     schema:name "Grünliberale Partei des Kantons Schaffhausen"@de ;
+    schema:validFrom "2014-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/272_2014-06-30> .
 
 <https://politics.ld.admin.ch/party-id/273> a vl:Identity ;
     schema:alternateName "EVP Kanton Schaffhausen"@de ;
     schema:name "Evangelische Volkspartei Kanton Schaffhausen"@de ;
+    schema:validFrom "1922-04-02"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/273_1922-04-02> .
 
 <https://politics.ld.admin.ch/party-id/276> a vl:Identity ;
     schema:alternateName "EDU Schaffhausen"@de ;
     schema:name "Eidgenössisch-Demokratische Union des Kantons Schaffhausen"@de ;
+    schema:validFrom "1985-04-27"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/276_1985-04-27> .
 
 <https://politics.ld.admin.ch/party-id/278> a vl:Deprecated,
         vl:Identity ;
     schema:name "Standesring Schaffhausen"@de ;
+    schema:validFrom "1937-03-15"^^xsd:date ;
+    schema:validThrough "1999-12-03"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/278_1937-03-15> .
 
 <https://politics.ld.admin.ch/party-id/280> a vl:Identity ;
     schema:alternateName "SVP AR"@de ;
     schema:name "Schweizerische Volkspartei von Appenzell Ausserrhoden"@de ;
+    schema:validFrom "1975-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/280_1975-07-01> .
 
 <https://politics.ld.admin.ch/party-id/281> a vl:Identity ;
     schema:alternateName "SP AR"@de ;
     schema:name "Sozialdemokratische Partei des Kantons Appenzell Ausserrhoden"@de ;
+    schema:validFrom "1913-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/281_1913-07-01> .
 
 <https://politics.ld.admin.ch/party-id/285> a vl:Identity ;
     schema:alternateName "EVP AR"@de ;
     schema:name "Evangelische Volkspartei des Kantons Appenzell Ausserrhoden"@de ;
+    schema:validFrom "1997-11-26"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/285_1997-11-26> .
 
 <https://politics.ld.admin.ch/party-id/287> a vl:Identity ;
     schema:alternateName "SVP AI"@de ;
     schema:name "Schweizerische Volkspartei Appenzell Innerrhoden"@de ;
+    schema:validFrom "1996-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/287_1996-07-01> .
 
 <https://politics.ld.admin.ch/party-id/29> a vl:Identity ;
     schema:alternateName "EDU Kanton Zürich"@de ;
     schema:name "Eidgenössisch-Demokratische Union Kanton Zürich"@de ;
+    schema:validFrom "1975-09-03"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/29_1975-09-03> .
 
 <https://politics.ld.admin.ch/party-id/291> a vl:Identity ;
     schema:alternateName "GFI"@de ;
     schema:name "Gruppe für Innerrhoden"@de ;
+    schema:validFrom "1969-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/291_1969-07-01> .
 
 <https://politics.ld.admin.ch/party-id/292> a vl:Identity ;
     schema:alternateName "SP AI"@de ;
     schema:name "Sozialdemokratische Partei des Kantons Appenzell lnnerrhoden"@de ;
+    schema:validFrom "2012-08-17"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/292_2012-08-17> .
 
 <https://politics.ld.admin.ch/party-id/296> a vl:Identity ;
     schema:alternateName "GLP Appenzellerland"@de ;
     schema:name "Grünliberale Partei Appenzellerland"@de ;
+    schema:validFrom "2021-08-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/296_2021-08-30> .
 
 <https://politics.ld.admin.ch/party-id/297> a vl:Identity ;
     schema:alternateName "EDU Appenzellerland"@de ;
     schema:name "Eidgenössisch-Demokratische Union Appenzellerland"@de ;
+    schema:validFrom "1997-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/297_1997-07-01> .
 
 <https://politics.ld.admin.ch/party-id/298> a vl:Identity ;
     schema:alternateName "SVP des Kantons St. Gallen"@de ;
     schema:name "Schweizerische Volkspartei des Kantons St. Gallen"@de ;
+    schema:validFrom "1992-11-23"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/298_1992-11-23> .
 
 <https://politics.ld.admin.ch/party-id/299> a vl:Identity ;
     schema:alternateName "SP Kanton St.Gallen"@de ;
     schema:name "Sozialdemokratische Partei des Kantons St.Gallen"@de ;
+    schema:validFrom "1905-01-15"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/299_1905-01-15> .
 
 <https://politics.ld.admin.ch/party-id/305> a vl:Identity ;
     schema:alternateName "EVP des Kantons St.Gallen"@de ;
     schema:name "Evangelische Volkspartei des Kantons St.Gallen"@de ;
+    schema:validFrom "1971-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/305_1971-07-01> .
 
 <https://politics.ld.admin.ch/party-id/306> a vl:Identity ;
     schema:alternateName "EDU Kanton St. Gallen"@de ;
     schema:name "Eidgenössisch-Demokratische Union Kanton St. Gallen"@de ;
+    schema:validFrom "1994-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/306_1994-07-01> .
 
 <https://politics.ld.admin.ch/party-id/307> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "BDP Kanton St. Gallen"@de ;
     schema:name "Bürgerlich-Demokratische Partei Kanton St. Gallen"@de ;
+    schema:validFrom "2009-01-30"^^xsd:date ;
+    schema:validThrough "2020-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/307_2009-01-30> .
 
 <https://politics.ld.admin.ch/party-id/309> a vl:Deprecated,
         vl:Identity ;
     schema:name "Partei der Arbeit St.Gallen"@de ;
+    schema:validFrom "2003-02-28"^^xsd:date ;
+    schema:validThrough "2019-12-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/309_2003-02-28> .
 
 <https://politics.ld.admin.ch/party-id/310> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "APSG"@de ;
     schema:name "Auto-Partei St.Gallen"@de ;
+    schema:validFrom "1987-07-01"^^xsd:date ;
+    schema:validThrough "2000-01-14"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/310_1987-07-01> .
 
 <https://politics.ld.admin.ch/party-id/312> a vl:Identity ;
     schema:alternateName "SVP Graubünden"@de ;
     schema:name "Schweizerische Volkspartei des Kantons Graubünden"@de ;
+    schema:validFrom "2008-06-19"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/312_2008-06-19> .
 
 <https://politics.ld.admin.ch/party-id/314> a vl:Deprecated,
         vl:Identity ;
     schema:name "Fortschrittliche Bürgerpartei"@de ;
+    schema:validFrom "1931-07-01"^^xsd:date ;
+    schema:validThrough "1945-12-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/314_1931-07-01> .
 
 <https://politics.ld.admin.ch/party-id/316> a vl:Deprecated,
         vl:Identity ;
     schema:name "Demokratische Fortschrittspartei"@de ;
+    schema:validFrom "1927-11-15"^^xsd:date ;
+    schema:validThrough "1934-12-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/316_1927-11-15> .
 
 <https://politics.ld.admin.ch/party-id/319> a vl:Identity ;
     schema:name "Die Mitte Graubünden"@de ;
+    schema:validFrom "2021-06-07"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/319_2021-06-07> .
 
 <https://politics.ld.admin.ch/party-id/323> a vl:Identity ;
     schema:name "Grünliberale Kanton Graubünden"@de ;
+    schema:validFrom "2008-02-27"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/323_2008-02-27> .
 
 <https://politics.ld.admin.ch/party-id/324> a vl:Identity ;
     schema:alternateName "EVP GR"@de ;
     schema:name "Evangelische Volkspartei Graubünden"@de ;
+    schema:validFrom "2007-05-12"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/324_2007-05-12> .
 
 <https://politics.ld.admin.ch/party-id/327> a vl:Identity ;
     schema:alternateName "EDU Graubünden"@de ;
     schema:name "Eidgenössische-Demokratische Union Graubünden"@de ;
+    schema:validFrom "1995-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/327_1995-07-01> .
 
 <https://politics.ld.admin.ch/party-id/331> a vl:Identity ;
     schema:name "Die Mitte Aargau"@de ;
+    schema:validFrom "2021-01-19"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/331_2021-01-19> .
 
 <https://politics.ld.admin.ch/party-id/335> a vl:Identity ;
     schema:alternateName "glp ag"@de ;
     schema:name "Grünliberale Partei Kanton Aargau"@de ;
+    schema:validFrom "2008-06-27"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/335_2008-06-27> .
 
 <https://politics.ld.admin.ch/party-id/336> a vl:Identity ;
     schema:name "Evangelische Volkspartei des Kantons Aargau"@de ;
+    schema:validFrom "1921-10-15"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/336_1921-10-15> .
 
 <https://politics.ld.admin.ch/party-id/337> a vl:Identity ;
     schema:alternateName "EDU Kanton Aargau"@de ;
     schema:name "Eidgenössisch-Demokratische Union Kanton Aargau"@de ;
+    schema:validFrom "1987-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/337_1987-07-01> .
 
 <https://politics.ld.admin.ch/party-id/338> a vl:Identity ;
     schema:alternateName "PdA Aargau"@de ;
     schema:name "Partei der Arbeit Aargau"@de ;
+    schema:validFrom "2022-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/338_2022-07-01> .
 
 <https://politics.ld.admin.ch/party-id/340> a vl:Identity ;
     schema:alternateName "SVP Thurgau"@de ;
     schema:name "Schweizerische Volkspartei des Kantons Thurgau"@de ;
+    schema:validFrom "1985-04-23"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/340_1985-04-23> .
 
 <https://politics.ld.admin.ch/party-id/341> a vl:Identity ;
     schema:alternateName "SP Thurgau"@de ;
     schema:name "Sozialdemokratische Partei des Kantons Thurgau"@de ;
+    schema:validFrom "1906-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/341_1906-07-01> .
 
 <https://politics.ld.admin.ch/party-id/345> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "CSP Thurgau"@de ;
     schema:name "Christlich-Soziale Partei Thurgau"@de ;
+    schema:validFrom "1947-07-01"^^xsd:date ;
+    schema:validThrough "1973-06-27"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/345_1947-07-01> .
 
 <https://politics.ld.admin.ch/party-id/348> a vl:Identity ;
     schema:name "Grünliberale Kanton Thurgau"@de ;
+    schema:validFrom "2008-01-09"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/348_2008-01-09> .
 
 <https://politics.ld.admin.ch/party-id/349> a vl:Identity ;
     schema:alternateName "EVP des Kantons Thurgau"@de ;
     schema:name "Evangelische Volkspartei des Kantons Thurgau"@de ;
+    schema:validFrom "1955-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/349_1955-07-01> .
 
 <https://politics.ld.admin.ch/party-id/350> a vl:Identity ;
     schema:alternateName "EDU Thurgau"@de ;
     schema:name "Eidgenössisch-Demokratische Union Thurgau"@de ;
+    schema:validFrom "1997-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/350_1997-07-01> .
 
 <https://politics.ld.admin.ch/party-id/351> a vl:Deprecated,
         vl:Identity ;
     schema:name "Partei der Arbeit Kanton Thurgau"@de ;
+    schema:validFrom "1945-07-01"^^xsd:date ;
+    schema:validThrough "1954-12-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/351_1945-07-01> .
 
 <https://politics.ld.admin.ch/party-id/352> a vl:Deprecated,
         vl:Identity ;
     schema:name "Demokratisch-Volkswirtschaftliche Partei des Kantons Thurgau"@de ;
+    schema:validFrom "1891-02-01"^^xsd:date ;
+    schema:validThrough "1932-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/352_1891-02-01> .
 
 <https://politics.ld.admin.ch/party-id/353> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1849-01-01"^^xsd:date ;
+    schema:validThrough "1902-05-03"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/353_1849-01-01> .
 
 <https://politics.ld.admin.ch/party-id/354> a vl:Deprecated,
         vl:Identity ;
     schema:name "Sozialdemokratische Partei von Appenzell"@de ;
+    schema:validFrom "1925-01-01"^^xsd:date ;
+    schema:validThrough "1946-12-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/354_1925-01-01> .
 
 <https://politics.ld.admin.ch/party-id/355> a vl:Deprecated,
         vl:Identity ;
     schema:name "Oberegger Verein"@de ;
+    schema:validFrom "1834-10-24"^^xsd:date ;
+    schema:validThrough "1834-12-27"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/355_1834-10-24> .
 
 <https://politics.ld.admin.ch/party-id/36> a vl:Identity ;
@@ -622,172 +782,217 @@
         "PS du canton de Berne"@fr ;
     schema:name "Sozialdemokratische Partei des Kantons Bern"@de,
         "Parti socialiste du canton de Berne"@fr ;
+    schema:validFrom "1905-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/36_1905-07-01> .
 
 <https://politics.ld.admin.ch/party-id/360> a vl:Identity ;
     schema:alternateName "PSV"@fr ;
     schema:name "Parti socialiste vaudois"@fr ;
+    schema:validFrom "1890-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/360_1890-07-01> .
 
 <https://politics.ld.admin.ch/party-id/362> a vl:Identity ;
     schema:alternateName "PLRV"@fr ;
     schema:name "PLR.Les Libéraux-Radicaux Vaud"@fr ;
+    schema:validFrom "2012-09-26"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/362_2012-09-26> .
 
 <https://politics.ld.admin.ch/party-id/363> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "PLV"@fr ;
     schema:name "Parti libéral vaudois"@fr ;
+    schema:validFrom "1913-07-01"^^xsd:date ;
+    schema:validThrough "2012-09-25"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/363_1913-07-01> .
 
 <https://politics.ld.admin.ch/party-id/364> a vl:Identity ;
     schema:alternateName "Le Centre-VD"@fr ;
     schema:name "Le Centre Vaud"@fr ;
+    schema:validFrom "2021-04-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/364_2021-04-30> .
 
 <https://politics.ld.admin.ch/party-id/367> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "MPE"@fr ;
     schema:name "Mouvement pour l'environment vaudois"@fr ;
+    schema:validFrom "1973-07-01"^^xsd:date ;
+    schema:validThrough "1974-01-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/367_1973-07-01> .
 
 <https://politics.ld.admin.ch/party-id/372> a vl:Identity ;
     schema:name "Parti vert'libéral vaudois"@fr ;
+    schema:validFrom "2010-02-18"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/372_2010-02-18> .
 
 <https://politics.ld.admin.ch/party-id/373> a vl:Identity ;
     schema:alternateName "PEVD"@fr ;
     schema:name "Le parti évangélique du canton de Vaud"@fr ;
+    schema:validFrom "2004-05-22"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/373_2004-05-22> .
 
 <https://politics.ld.admin.ch/party-id/374> a vl:Identity ;
     schema:alternateName "UDF Vaud"@fr ;
     schema:name "Union Démocratique Fédérale Canton de Vaud"@fr ;
+    schema:validFrom "1975-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/374_1975-07-01> .
 
 <https://politics.ld.admin.ch/party-id/376> a vl:Identity ;
     schema:alternateName "POP"@fr ;
     schema:name "Parti Ouvrier et Populaire Vaudois"@fr ;
+    schema:validFrom "1943-05-21"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/376_1943-05-21> .
 
 <https://politics.ld.admin.ch/party-id/378> a vl:Identity ;
     schema:alternateName "UDC Neuchâtel"@fr ;
     schema:name "Union Démocratique du Centre Neuchâtel"@fr ;
+    schema:validFrom "2001-10-18"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/378_2001-10-18> .
 
 <https://politics.ld.admin.ch/party-id/379> a vl:Identity ;
     schema:alternateName "PSN"@fr ;
     schema:name "Parti socialiste neuchâtelois"@fr ;
+    schema:validFrom "1896-09-15"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/379_1896-09-15> .
 
 <https://politics.ld.admin.ch/party-id/38> a vl:Identity ;
     schema:name "Die Mitte Kanton Bern"@de,
         "Le Centre Canton de Berne"@fr ;
+    schema:validFrom "2021-03-24"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/38_2021-03-24> .
 
 <https://politics.ld.admin.ch/party-id/384> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "PPN"@fr ;
     schema:name "Parti progressiste national"@fr ;
+    schema:validFrom "1919-07-01"^^xsd:date ;
+    schema:validThrough "1981-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/384_1919-07-01> .
 
 <https://politics.ld.admin.ch/party-id/385> a vl:Deprecated,
         vl:Identity ;
     schema:name "Parti démocratique populaire"@fr ;
+    schema:validFrom "1928-07-01"^^xsd:date ;
+    schema:validThrough "1969-12-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/385_1928-07-01> .
 
 <https://politics.ld.admin.ch/party-id/388> a vl:Identity ;
     schema:alternateName "PVL neuchâtelois"@fr ;
     schema:name "Parti vert'libéral neuchâtelois"@fr ;
+    schema:validFrom "2012-10-29"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/388_2012-10-29> .
 
 <https://politics.ld.admin.ch/party-id/389> a vl:Identity ;
     schema:name "Parti Evangélique du Canton de Neuchâtel"@fr ;
+    schema:validFrom "2006-05-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/389_2006-05-31> .
 
 <https://politics.ld.admin.ch/party-id/390> a vl:Identity ;
     schema:alternateName "UDF Neuchâtel"@fr ;
     schema:name "Union Démocratique Fédérale Neuchâtel"@fr ;
+    schema:validFrom "1992-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/390_1992-07-01> .
 
 <https://politics.ld.admin.ch/party-id/391> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "MCNE"@fr ;
     schema:name "Mouvement Citoyens Neuchâtelois"@fr ;
+    schema:validFrom "2010-06-03"^^xsd:date ;
+    schema:validThrough "2014-12-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/391_2010-06-03> .
 
 <https://politics.ld.admin.ch/party-id/392> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "PBD Canton de Neuchâtel"@fr ;
     schema:name "Parti Bourgeois Démocratique du canton de Neuchâtel"@fr ;
+    schema:validFrom "2010-10-14"^^xsd:date ;
+    schema:validThrough "2015-12-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/392_2010-10-14> .
 
 <https://politics.ld.admin.ch/party-id/393> a vl:Identity ;
     schema:alternateName "POP-NE"@fr ;
     schema:name "Parti Ouvrier et Populaire Neuchâtelois"@fr ;
+    schema:validFrom "1944-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/393_1944-07-01> .
 
 <https://politics.ld.admin.ch/party-id/397> a vl:Identity ;
     schema:alternateName "PLRG"@fr ;
     schema:name "Parti libéral-radical genevois"@fr ;
+    schema:validFrom "2011-05-24"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/397_2011-05-24> .
 
 <https://politics.ld.admin.ch/party-id/401> a vl:Identity ;
     schema:name "Parti vert'libéral genevois"@fr ;
+    schema:validFrom "2010-09-29"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/401_2010-09-29> .
 
 <https://politics.ld.admin.ch/party-id/402> a vl:Identity ;
     schema:alternateName "PEV GE"@de ;
     schema:name "Parti évangélique Genève"@de ;
+    schema:validFrom "2007-08-27"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/402_2007-08-27> .
 
 <https://politics.ld.admin.ch/party-id/403> a vl:Identity ;
     schema:alternateName "UDF Genève"@fr ;
     schema:name "Union Démocratique Fédérale Genève"@fr ;
+    schema:validFrom "1993-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/403_1993-07-01> .
 
 <https://politics.ld.admin.ch/party-id/409> a vl:Identity ;
     schema:name "Revolutionär Marxistische Liga BS"@de ;
+    schema:validFrom "1973-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/409_1973-07-01> .
 
 <https://politics.ld.admin.ch/party-id/410> a vl:Deprecated,
         vl:Identity ;
     schema:name "Vorläufer der SP"@de,
         "Précurseurs du PS"@fr ;
+    schema:validFrom "1850-01-01"^^xsd:date ;
+    schema:validThrough "1888-10-20"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/410_1850-01-01> .
 
 <https://politics.ld.admin.ch/party-id/413> a vl:Deprecated,
         vl:Identity ;
     schema:name "Vorläufer der LPS"@de,
         "Précurseurs du PLS"@fr ;
+    schema:validFrom "1850-01-01"^^xsd:date ;
+    schema:validThrough "1913-10-07"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/413_1850-01-01> .
 
 <https://politics.ld.admin.ch/party-id/414> a vl:Deprecated,
         vl:Identity ;
     schema:name "Vorläufer der LdU"@de,
         "Précurseurs d'AdI"@fr ;
+    schema:validFrom "1930-01-01"^^xsd:date ;
+    schema:validThrough "1936-12-29"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/414_1930-01-01> .
 
 <https://politics.ld.admin.ch/party-id/417> a vl:Deprecated,
         vl:Identity ;
     schema:name "Jungbauern"@de,
         "Jeunes Paysans"@fr ;
+    schema:validFrom "1935-11-09"^^xsd:date ;
+    schema:validThrough "1946-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/417_1935-11-09> .
 
 <https://politics.ld.admin.ch/party-id/421> a vl:Deprecated,
         vl:Identity ;
     schema:name "Freiwirtschaftliche Bewegung der Schweiz"@de ;
+    schema:validFrom "1943-09-15"^^xsd:date ;
+    schema:validThrough "1990-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/421_1943-09-15> .
 
 <https://politics.ld.admin.ch/party-id/423> a vl:Deprecated,
         vl:Identity ;
     schema:name "Demokratisch-Soziale Partei Baselland"@de ;
+    schema:validFrom "1995-09-23"^^xsd:date ;
+    schema:validThrough "2009-12-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/423_1995-09-23> .
 
 <https://politics.ld.admin.ch/party-id/46> a vl:Identity ;
     schema:alternateName "glp BE"@de ;
     schema:name "Grünliberale Partei des Kantons Bern"@de,
         "Vert'libéraux Canton de Berne"@fr ;
+    schema:validFrom "2007-09-25"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/46_2007-09-25> .
 
 <https://politics.ld.admin.ch/party-id/47> a vl:Identity ;
@@ -795,6 +1000,7 @@
         "PEV du canton de Berne"@fr ;
     schema:name "Evangelische Volkspartei Kanton Bern"@de,
         "Parti évangélique du canton de Berne"@fr ;
+    schema:validFrom "1921-01-29"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/47_1921-01-29> .
 
 <https://politics.ld.admin.ch/party-id/48> a vl:Identity ;
@@ -802,90 +1008,115 @@
         "UDF Canton de Berne"@fr ;
     schema:name "Eidgenössisch-Demokratische Union des Kantons Bern"@de,
         "Union Démocratique Fédérale du canton de Berne"@fr ;
+    schema:validFrom "1975-09-05"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/48_1975-09-05> .
 
 <https://politics.ld.admin.ch/party-id/52> a vl:Deprecated,
         vl:Identity ;
     schema:name "Bernische Volkspartei"@de ;
+    schema:validFrom "1882-12-15"^^xsd:date ;
+    schema:validThrough "1920-12-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/52_1882-12-15> .
 
 <https://politics.ld.admin.ch/party-id/54> a vl:Identity ;
     schema:alternateName "SVP Kanton Luzern"@de ;
     schema:name "Schweizerische Volkspartei des Kantons Luzern"@de ;
+    schema:validFrom "1992-04-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/54_1992-04-30> .
 
 <https://politics.ld.admin.ch/party-id/58> a vl:Deprecated,
         vl:Identity ;
     schema:name "Ruswiler Verein"@de ;
+    schema:validFrom "1840-11-05"^^xsd:date ;
+    schema:validThrough "1871-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/58_1840-11-05> .
 
 <https://politics.ld.admin.ch/party-id/60> a vl:Identity ;
     schema:alternateName "GLP Kanton Luzern"@de ;
     schema:name "Grünliberale Kanton Luzern"@de ;
+    schema:validFrom "2008-04-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/60_2008-04-01> .
 
 <https://politics.ld.admin.ch/party-id/61> a vl:Identity ;
     schema:alternateName "EVP Kanton Luzern"@de ;
     schema:name "Evangelische Volkspartei des Kantons Luzern"@de ;
+    schema:validFrom "2003-10-10"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/61_2003-10-10> .
 
 <https://politics.ld.admin.ch/party-id/63> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "BDP Kanton Luzern"@de ;
     schema:name "Bürgerlich-Demokratische Partei des Kantons Luzern"@de ;
+    schema:validFrom "2010-04-22"^^xsd:date ;
+    schema:validThrough "2020-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/63_2010-04-22> .
 
 <https://politics.ld.admin.ch/party-id/67> a vl:Identity ;
     schema:alternateName "SVP URI"@de ;
     schema:name "Schweizerische Volkspartei des Kantons Uri"@de ;
+    schema:validFrom "1998-12-05"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/67_1998-12-05> .
 
 <https://politics.ld.admin.ch/party-id/72> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "KFU"@de ;
     schema:name "Kritisches Forum Uri"@de ;
+    schema:validFrom "1983-07-01"^^xsd:date ;
+    schema:validThrough "1993-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/72_1983-07-01> .
 
 <https://politics.ld.admin.ch/party-id/73> a vl:Identity ;
     schema:alternateName "GLP UR"@de ;
     schema:name "Grünliberale Partei Kanton Uri"@de ;
+    schema:validFrom "2022-04-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/73_2022-04-01> .
 
 <https://politics.ld.admin.ch/party-id/74> a vl:Identity ;
     schema:alternateName "SVP Basel-Stadt"@de ;
     schema:name "Schweizerische Volkspartei Basel-Stadt"@de ;
+    schema:validFrom "1991-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/74_1991-07-01> .
 
 <https://politics.ld.admin.ch/party-id/80> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "GPBS"@de ;
     schema:name "Grüne Partei Baselstadt"@de ;
+    schema:validFrom "1988-06-27"^^xsd:date ;
+    schema:validThrough "1989-06-19"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/80_1988-06-27> .
 
 <https://politics.ld.admin.ch/party-id/82> a vl:Identity ;
     schema:alternateName "GLP BS"@de ;
     schema:name "Grünliberale Partei Basel-Stadt"@de ;
+    schema:validFrom "2008-02-26"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/82_2008-02-26> .
 
 <https://politics.ld.admin.ch/party-id/85> a vl:Identity ;
     schema:alternateName "EDU BS"@de ;
     schema:name "Eidgenössisch-Demokratische Union des Kantons Basel-Stadt"@de ;
+    schema:validFrom "1986-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/85_1986-07-01> .
 
 <https://politics.ld.admin.ch/party-id/91> a vl:Deprecated,
         vl:Identity ;
     schema:name "Liberale Partei des Kantons Basel-Stadt"@de ;
+    schema:validFrom "1905-07-01"^^xsd:date ;
+    schema:validThrough "1957-02-28"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/91_1905-07-01> .
 
 <https://politics.ld.admin.ch/party-id/93> a vl:Deprecated,
         vl:Identity ;
     schema:name "Standesring BS"@de ;
+    schema:validFrom "1937-07-01"^^xsd:date ;
+    schema:validThrough "1999-12-03"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/93_1937-07-01> .
 
 <https://politics.ld.admin.ch/party-id/99> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "FraB"@de ;
     schema:name "Frauenliste Basel"@de ;
+    schema:validFrom "1991-07-01"^^xsd:date ;
+    schema:validThrough "2002-10-13"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/99_1991-07-01> .
 
 <https://politics.ld.admin.ch/party-version/100_1932-07-01> a vl:Version ;
@@ -2915,68 +3146,89 @@
 <https://politics.ld.admin.ch/party-id/104> a vl:Identity ;
     schema:alternateName "SP BL"@de ;
     schema:name "Sozialdemokratische Partei Baselland"@de ;
+    schema:validFrom "1913-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/104_1921-07-01> .
 
 <https://politics.ld.admin.ch/party-id/109> a vl:Deprecated,
         vl:Identity ;
     schema:name "Grüne Baselbiet"@de ;
+    schema:validFrom "1991-07-01"^^xsd:date ;
+    schema:validThrough "2000-05-18"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/109_1994-07-01> .
 
 <https://politics.ld.admin.ch/party-id/116> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "BDP BL"@de ;
     schema:name "Bürgerlich-Demokratische Partei Kanton Basel-Landschaft"@de ;
+    schema:validFrom "2010-03-25"^^xsd:date ;
+    schema:validThrough "2021-12-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/116_2021-01-01> .
 
 <https://politics.ld.admin.ch/party-id/118> a vl:Deprecated,
         vl:Identity ;
     schema:name "Liberale Partei Baselland"@de ;
+    schema:validFrom "1974-07-01"^^xsd:date ;
+    schema:validThrough "1997-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/118_1975-07-01> .
 
 <https://politics.ld.admin.ch/party-id/121> a vl:Deprecated,
         vl:Identity ;
     schema:name "Grüne Partei Nordwestschweiz"@de ;
+    schema:validFrom "1979-12-06"^^xsd:date ;
+    schema:validThrough "1986-06-16"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/121_1983-07-01> .
 
 <https://politics.ld.admin.ch/party-id/124> a vl:Identity ;
     schema:alternateName "PSJ"@fr ;
     schema:name "Le Parti socialiste jurassien"@fr ;
+    schema:validFrom "1975-05-03"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/124_1983-03-25> .
 
 <https://politics.ld.admin.ch/party-id/126> a vl:Identity ;
     schema:alternateName "PLJ"@fr ;
     schema:name "Parti libéral jurassien"@fr ;
+    schema:validFrom "1966-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/126_1974-01-01> .
 
 <https://politics.ld.admin.ch/party-id/135> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1945-07-01"^^xsd:date ;
+    schema:validThrough "1967-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/135_1967-07-01> .
 
 <https://politics.ld.admin.ch/party-id/138> a vl:Identity ;
     schema:name "Parti Ouvrier Populaire Jurassien"@fr ;
+    schema:validFrom "2013-01-15"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/138_2020-01-01> .
 
 <https://politics.ld.admin.ch/party-id/139> a vl:Identity ;
     schema:alternateName "UDC valaisanne"@de ;
     schema:name "Union Démocratique du Centre valaisanne"@de ;
+    schema:validFrom "1999-07-15"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/139_2002-09-27> .
 
 <https://politics.ld.admin.ch/party-id/147> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "PLRVS"@fr ;
     schema:name "Parti libéral-radical valaisan"@fr ;
+    schema:validFrom "2008-02-21"^^xsd:date ;
+    schema:validThrough "2013-09-11"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/147_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/148> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "PRDV"@fr ;
     schema:name "Parti Radical Valaisan"@fr ;
+    schema:validFrom "1849-07-01"^^xsd:date ;
+    schema:validThrough "2008-02-20"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/148_1894-02-25> .
 
 <https://politics.ld.admin.ch/party-id/154> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "PDC valaisan"@fr ;
     schema:name "Parti démocrate-chrétien valaisan"@fr ;
+    schema:validFrom "1960-07-01"^^xsd:date ;
+    schema:validThrough "1997-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/154_1971-07-01> .
 
 <https://politics.ld.admin.ch/party-id/156> a vl:Identity ;
@@ -2984,77 +3236,100 @@
         "PVL VS"@fr ;
     schema:name "Grünliberale Partei des Kantons Wallis"@de,
         "Parti vert'libéral valaisan"@fr ;
+    schema:validFrom "2020-05-28"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/156_2024-03-07> .
 
 <https://politics.ld.admin.ch/party-id/157> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "PBD canton du Valais"@fr ;
     schema:name "Parti Bourgeois Démocratique Suisse canton du Valais"@fr ;
+    schema:validFrom "2008-01-09"^^xsd:date ;
+    schema:validThrough "2018-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/157_2009-01-09> .
 
 <https://politics.ld.admin.ch/party-id/158> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1944-07-01"^^xsd:date ;
+    schema:validThrough "2019-10-07"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/158_2019-10-08> .
 
 <https://politics.ld.admin.ch/party-id/164> a vl:Identity ;
     schema:alternateName "PS Ticino"@it ;
     schema:name "Partito Socialista Ticino"@it ;
+    schema:validFrom "1992-10-18"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/164_2020-02-16> .
 
 <https://politics.ld.admin.ch/party-id/167> a vl:Identity ;
     schema:alternateName "PLRT"@it ;
     schema:name "Partito Liberale Radicale Ticinese"@it ;
+    schema:validFrom "1946-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/167_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/172> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "MVT"@it ;
     schema:name "Movimento dei verdi ticinesi"@it ;
+    schema:validFrom "1990-05-20"^^xsd:date ;
+    schema:validThrough "1994-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/172_1990-10-26> .
 
 <https://politics.ld.admin.ch/party-id/173> a vl:Identity ;
     schema:alternateName "pvlt"@de ;
     schema:name "Partito verde liberale Ticino"@de ;
+    schema:validFrom "2013-02-22"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/173_2023-05-20> .
 
 <https://politics.ld.admin.ch/party-id/181> a vl:Identity ;
     schema:alternateName "SVP Kanton Schwyz"@de ;
     schema:name "Schweizerische Volkspartei Kanton Schwyz"@de ;
+    schema:validFrom "1972-04-10"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/181_1975-07-01> .
 
 <https://politics.ld.admin.ch/party-id/186> a vl:Deprecated,
         vl:Identity ;
     schema:name "Konservative Volkspartei des Kantons Schwyz"@de ;
+    schema:validFrom "1900-01-01"^^xsd:date ;
+    schema:validThrough "1971-11-26"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/186_1912-04-22> .
 
 <https://politics.ld.admin.ch/party-id/187> a vl:Identity ;
     schema:name "GRÜNE Schwyz"@de ;
+    schema:validFrom "2007-06-21"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/187_2012-07-01> .
 
 <https://politics.ld.admin.ch/party-id/194> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1992-10-15"^^xsd:date ;
+    schema:validThrough "1998-02-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/194_1998-02-02> .
 
 <https://politics.ld.admin.ch/party-id/202> a vl:Identity ;
     schema:name "Sozialdemokratische Partei Nidwalden"@de ;
+    schema:validFrom "1942-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/202_1947-07-01> .
 
 <https://politics.ld.admin.ch/party-id/21> a vl:Identity ;
     schema:alternateName "SP Kanton Zürich"@de ;
     schema:name "Sozialdemokratische Partei des Kantons Zürich"@de ;
+    schema:validFrom "1902-04-13"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/21_1918-07-01> .
 
 <https://politics.ld.admin.ch/party-id/213> a vl:Identity ;
     schema:name "Die Mitte Glarnerland"@de ;
+    schema:validFrom "2021-05-12"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/213_2022-05-28> .
 
 <https://politics.ld.admin.ch/party-id/219> a vl:Deprecated,
         vl:Identity ;
     schema:name "Demokraten Glarus"@de ;
+    schema:validFrom "1902-07-01"^^xsd:date ;
+    schema:validThrough "1928-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/219_1927-07-01> .
 
 <https://politics.ld.admin.ch/party-id/226> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1986-07-01"^^xsd:date ;
+    schema:validThrough "2005-08-26"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/226_2005-07-01> .
 
 <https://politics.ld.admin.ch/party-id/232> a vl:Identity ;
@@ -3062,12 +3337,15 @@
         "PSF"@fr ;
     schema:name "Sozialdemokratische Partei des Kantons Freiburg"@de,
         "Parti socialiste fribourgeois"@fr ;
+    schema:validFrom "1908-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/232_1989-05-03> .
 
 <https://politics.ld.admin.ch/party-id/235> a vl:Deprecated,
         vl:Identity ;
     schema:name "Liberale Partei des Kantons Freiburg"@de,
         "Parti libéral fribourgeois"@fr ;
+    schema:validFrom "1981-04-25"^^xsd:date ;
+    schema:validThrough "2006-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/235_1982-07-22> .
 
 <https://politics.ld.admin.ch/party-id/241> a vl:Identity ;
@@ -3075,6 +3353,7 @@
         "PEV FR"@fr ;
     schema:name "Evangelische Volkspartei des Kantons Freiburg"@de,
         "Parti Évangélique Canton de Fribourg"@fr ;
+    schema:validFrom "1996-09-19"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/241_2006-09-19> .
 
 <https://politics.ld.admin.ch/party-id/245> a vl:Deprecated,
@@ -3083,201 +3362,268 @@
         "PBD Fribourg"@fr ;
     schema:name "Bürgerlich-Demokratische Partei Kanton Freiburg"@de,
         "Parti Bourgeois-Démocratique du canton de Fribourg"@fr ;
+    schema:validFrom "2010-04-28"^^xsd:date ;
+    schema:validThrough "2021-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/245_2021-01-01> .
 
 <https://politics.ld.admin.ch/party-id/250> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1944-07-01"^^xsd:date ;
+    schema:validThrough "1991-06-19"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/250_1991-06-20> .
 
 <https://politics.ld.admin.ch/party-id/252> a vl:Deprecated,
         vl:Identity ;
     schema:name "Solothurner Sektion der Sozialdemokratischen Partei der Schweiz"@de ;
+    schema:validFrom "1883-02-15"^^xsd:date ;
+    schema:validThrough "1890-09-12"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/252_1883-02-25> .
 
 <https://politics.ld.admin.ch/party-id/255> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "BDP Kanton Solothurn"@de ;
     schema:name "Bürgerlich-Demokratische Partei Kanton Solothurn"@de ;
+    schema:validFrom "2009-06-17"^^xsd:date ;
+    schema:validThrough "2021-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/255_2021-01-01> .
 
 <https://politics.ld.admin.ch/party-id/256> a vl:Identity ;
     schema:name "Grüne Kanton Solothurn"@de ;
+    schema:validFrom "1990-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/256_1993-07-01> .
 
 <https://politics.ld.admin.ch/party-id/258> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1989-11-14"^^xsd:date ;
+    schema:validThrough "2004-03-11"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/258_2004-03-12> .
 
 <https://politics.ld.admin.ch/party-id/260> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1987-10-07"^^xsd:date ;
+    schema:validThrough "2008-12-03"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/260_2008-12-04> .
 
 <https://politics.ld.admin.ch/party-id/262> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1969-01-01"^^xsd:date ;
+    schema:validThrough "1985-01-29"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/262_1985-01-30> .
 
 <https://politics.ld.admin.ch/party-id/266> a vl:Identity ;
     schema:alternateName "SPSH"@de ;
     schema:name "Sozialdemokratische Partei des Kantons Schaffhausen"@de ;
+    schema:validFrom "1935-07-07"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/266_1961-11-12> .
 
 <https://politics.ld.admin.ch/party-id/274> a vl:Deprecated,
         vl:Identity ;
     schema:name "Evangelisch-soziale Vereinigung"@de ;
+    schema:validFrom "1919-01-13"^^xsd:date ;
+    schema:validThrough "1922-04-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/274_1919-05-10> .
 
 <https://politics.ld.admin.ch/party-id/282> a vl:Deprecated,
         vl:Identity ;
     schema:name "Freisinnig-demokratische Partei von Appenzell A.Rh."@de ;
+    schema:validFrom "1874-07-01"^^xsd:date ;
+    schema:validThrough "1919-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/282_1910-07-03> .
 
 <https://politics.ld.admin.ch/party-id/286> a vl:Identity ;
     schema:alternateName "FFBB"@de ;
     schema:name "Freisinnige Frauen beider Basel"@de ;
+    schema:validFrom "1995-01-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/286_2025-06-05> .
 
 <https://politics.ld.admin.ch/party-id/288> a vl:Deprecated,
         vl:Identity ;
     schema:name "Grütliverein Appenzell"@de ;
+    schema:validFrom "1870-07-01"^^xsd:date ;
+    schema:validThrough "1925-12-14"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/288_1925-07-01> .
 
 <https://politics.ld.admin.ch/party-id/289> a vl:Deprecated,
         vl:Identity ;
     schema:name "Freisinnig-demokratischer Verein"@de ;
+    schema:validFrom "1906-07-01"^^xsd:date ;
+    schema:validThrough "1946-06-05"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/289_1911-10-01> .
 
 <https://politics.ld.admin.ch/party-id/293> a vl:Identity ;
     schema:name "FDP.Die Liberalen Appenzell-Innerrhoden"@de ;
+    schema:validFrom "2017-06-09"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/293_2017-06-24> .
 
 <https://politics.ld.admin.ch/party-id/295> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "GRAL"@de ;
     schema:name "Grünes Appenzellerland"@de ;
+    schema:validFrom "2004-08-14"^^xsd:date ;
+    schema:validThrough "2016-02-11"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/295_2011-07-01> .
 
 <https://politics.ld.admin.ch/party-id/30> a vl:Identity ;
     schema:alternateName "PdAZ"@de ;
     schema:name "Partei der Arbeit des Kantons Zürich"@de ;
+    schema:validFrom "1944-04-19"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/30_1944-10-14> .
 
 <https://politics.ld.admin.ch/party-id/303> a vl:Identity ;
     schema:alternateName "GLP Sg"@de ;
     schema:name "Grünliberale Partei Kanton St.Gallen"@de ;
+    schema:validFrom "2007-07-04"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/303_2022-05-15> .
 
 <https://politics.ld.admin.ch/party-id/304> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1928-07-01"^^xsd:date ;
+    schema:validThrough "1971-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/304_1971-07-01> .
 
 <https://politics.ld.admin.ch/party-id/308> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1944-07-01"^^xsd:date ;
+    schema:validThrough "2003-02-27"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/308_2003-02-28> .
 
 <https://politics.ld.admin.ch/party-id/313> a vl:Deprecated,
         vl:Identity ;
     schema:name "Liberaler Verein Kanton St. Gallen"@de ;
+    schema:validFrom "1873-04-02"^^xsd:date ;
+    schema:validThrough "1890-12-13"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/313_1881-10-23> .
 
 <https://politics.ld.admin.ch/party-id/315> a vl:Deprecated,
         vl:Identity ;
     schema:name "Demokratische und Arbeiterpartei des Kantons St. Gallen"@de ;
+    schema:validFrom "1881-10-23"^^xsd:date ;
+    schema:validThrough "1936-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/315_1927-11-15> .
 
 <https://politics.ld.admin.ch/party-id/317> a vl:Identity ;
     schema:alternateName "SP GR"@de ;
     schema:name "Sozialdemokratische Partei des Kantons Graubünden"@de ;
+    schema:validFrom "1906-05-27"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/317_1987-11-03> .
 
 <https://politics.ld.admin.ch/party-id/32> a vl:Identity ;
     schema:alternateName "SD Kanton Zürich"@de ;
     schema:name "Schweizer Demokraten des Kantons Zürich"@de ;
+    schema:validFrom "1961-01-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/32_1991-01-01> .
 
 <https://politics.ld.admin.ch/party-id/326> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "CSP Graubünden"@de ;
     schema:name "Christlichsoziale Partei von Graubünden"@de ;
+    schema:validFrom "1936-11-15"^^xsd:date ;
+    schema:validThrough "1987-11-06"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/326_1939-05-15> .
 
 <https://politics.ld.admin.ch/party-id/329> a vl:Identity ;
     schema:alternateName "SP Kanton Aargau"@de ;
     schema:name "Sozialdemokratische Partei  Kanton Aargau"@de ;
+    schema:validFrom "1902-05-04"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/329_1911-07-01> .
 
 <https://politics.ld.admin.ch/party-id/330> a vl:Identity ;
     schema:name "FDP.Die Liberalen Aargau"@de ;
+    schema:validFrom "1895-03-08"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/330_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/333> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "BDP Kanton Aargau"@de ;
     schema:name "Bürgerlich-Demokratische Partei des Kantons Aargau"@de ;
+    schema:validFrom "2008-11-21"^^xsd:date ;
+    schema:validThrough "2021-01-18"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/333_2021-01-01> .
 
 <https://politics.ld.admin.ch/party-id/334> a vl:Identity ;
     schema:name "Grüne Aargau"@de ;
+    schema:validFrom "1983-08-13"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/334_1988-07-01> .
 
 <https://politics.ld.admin.ch/party-id/346> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "BDP Kanton Thurgau"@de ;
     schema:name "Bürgerlich-Demokratische Partei Kanton Thurgau"@de ;
+    schema:validFrom "2008-11-10"^^xsd:date ;
+    schema:validThrough "2021-05-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/346_2021-01-01> .
 
 <https://politics.ld.admin.ch/party-id/366> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "PBD Vaud"@fr ;
     schema:name "Parti Bourgeois Démocratique du Canton de Vaud"@fr ;
+    schema:validFrom "2011-04-14"^^xsd:date ;
+    schema:validThrough "2021-04-29"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/366_2021-01-01> .
 
 <https://politics.ld.admin.ch/party-id/368> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "GPE"@fr ;
     schema:name "Groupement pour la protection de l'environment"@fr ;
+    schema:validFrom "1974-02-01"^^xsd:date ;
+    schema:validThrough "1997-03-07"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/368_1983-05-28> .
 
 <https://politics.ld.admin.ch/party-id/369> a vl:Identity ;
     schema:name "Les Vert·e·s, mouvement écologiste vaudois"@fr ;
+    schema:validFrom "1997-03-08"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/369_2021-07-01> .
 
 <https://politics.ld.admin.ch/party-id/371> a vl:Deprecated,
         vl:Identity ;
     schema:name "Autrement Vaud"@fr ;
+    schema:validFrom "1983-01-01"^^xsd:date ;
+    schema:validThrough "1984-12-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/371_1983-06-15> .
 
 <https://politics.ld.admin.ch/party-id/375> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "MCVD"@fr ;
     schema:name "Mouvement Citoyens Vaudois"@fr ;
+    schema:validFrom "2010-04-06"^^xsd:date ;
+    schema:validThrough "2016-12-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/375_2011-07-01> .
 
 <https://politics.ld.admin.ch/party-id/381> a vl:Identity ;
     schema:alternateName "PLRN"@fr ;
     schema:name "Parti libéral-radical neuchâtelois"@fr ;
+    schema:validFrom "2008-06-21"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/381_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/382> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1981-07-01"^^xsd:date ;
+    schema:validThrough "2008-06-20"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/382_2008-06-21> .
 
 <https://politics.ld.admin.ch/party-id/39> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "CVP-BE"@de ;
     schema:name "CVP des Kantons Bern"@de ;
+    schema:validFrom "1956-07-01"^^xsd:date ;
+    schema:validThrough "2021-03-23"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/39_2021-01-01> .
 
 <https://politics.ld.admin.ch/party-id/394> a vl:Identity ;
     schema:alternateName "UDC-GE"@fr ;
     schema:name "Union Démocratique du Centre, Genève"@fr ;
+    schema:validFrom "1987-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/394_2005-06-06> .
 
 <https://politics.ld.admin.ch/party-id/40> a vl:Identity ;
     schema:name "GRÜNE Kanton Bern"@de ;
+    schema:validFrom "2006-05-15"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/40_2010-01-01> .
 
 <https://politics.ld.admin.ch/party-id/407> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1921-01-24"^^xsd:date ;
+    schema:validThrough "1943-06-07"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/407_1943-06-08> .
 
 <https://politics.ld.admin.ch/party-id/418> a vl:Deprecated,
@@ -3286,18 +3632,23 @@
         "PSO"@fr ;
     schema:name "Sozialistische Arbeiterpartei"@de,
         "Parti socialiste ouvrier"@fr ;
+    schema:validFrom "1969-10-15"^^xsd:date ;
+    schema:validThrough "1989-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/418_1980-07-01> .
 
 <https://politics.ld.admin.ch/party-id/419> a vl:Identity ;
     schema:alternateName "KVP"@de ;
     schema:name "Katholische Volkspartei"@de,
         "Parti Chrétien-Conservateur"@fr ;
+    schema:validFrom "1994-11-26"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/419_1995-07-01> .
 
 <https://politics.ld.admin.ch/party-id/424> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "DSP Graubünden"@de ;
     schema:name "Demokratisch-Soziale Partei Graubünden"@de ;
+    schema:validFrom "1987-11-03"^^xsd:date ;
+    schema:validThrough "2016-12-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/424_1994-06-04> .
 
 <https://politics.ld.admin.ch/party-id/50> a vl:Identity ;
@@ -3305,74 +3656,99 @@
         "PdA POP BE"@fr ;
     schema:name "Partei der Arbeit des Kantons Bern"@de,
         "Parti ouvrier et populaire du canton de Berne"@fr ;
+    schema:validFrom "2003-05-05"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/50_2018-07-01> .
 
 <https://politics.ld.admin.ch/party-id/51> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1945-01-01"^^xsd:date ;
+    schema:validThrough "2003-05-04"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/51_2003-05-05> .
 
 <https://politics.ld.admin.ch/party-id/53> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1937-07-01"^^xsd:date ;
+    schema:validThrough "1999-12-14"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/53_1999-12-04> .
 
 <https://politics.ld.admin.ch/party-id/55> a vl:Identity ;
     schema:alternateName "SP Kanton Luzern"@de ;
     schema:name "Sozialdemokratische Partei des Kantons Luzern"@de ;
+    schema:validFrom "1895-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/55_1920-01-01> .
 
 <https://politics.ld.admin.ch/party-id/64> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "POCH LU"@de ;
     schema:name "Progressive Organisationen Kanton Luzern"@de ;
+    schema:validFrom "1973-11-15"^^xsd:date ;
+    schema:validThrough "1988-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/64_1988-01-01> .
 
 <https://politics.ld.admin.ch/party-id/79> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "GP/GAB"@de ;
     schema:name "Grüne Partei BS"@de ;
+    schema:validFrom "1989-06-20"^^xsd:date ;
+    schema:validThrough "1991-01-23"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/79_1989-06-28> .
 
 <https://politics.ld.admin.ch/party-id/84> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "EVP Basel-Stadt"@de ;
     schema:name "Evangelische Volkspartei Basel-Stadt"@de ;
+    schema:validFrom "1920-02-23"^^xsd:date ;
+    schema:validThrough "1953-06-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/84_1948-12-17> .
 
 <https://politics.ld.admin.ch/party-id/87> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "BDP Basel-Stadt"@de ;
     schema:name "Bürgerlich-Demokratische Partei Basel-Stadt"@de ;
+    schema:validFrom "2011-08-24"^^xsd:date ;
+    schema:validThrough "2021-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/87_2021-01-01> .
 
 <https://politics.ld.admin.ch/party-id/89> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1991-07-01"^^xsd:date ;
+    schema:validThrough "2019-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/89_2019-07-01> .
 
 <https://politics.ld.admin.ch/party-id/90> a vl:Identity ;
     schema:alternateName "PdAS Sektion Basel"@de ;
     schema:name "Partei der Arbeit der Schweiz Sektion Basel"@de ;
+    schema:validFrom "2019-06-15"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/90_2019-07-01> .
 
 <https://politics.ld.admin.ch/party-id/95> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "POB"@de ;
     schema:name "Progressive Organisationen Basel"@de ;
+    schema:validFrom "1970-01-15"^^xsd:date ;
+    schema:validThrough "1993-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/95_1972-07-01> .
 
 <https://politics.ld.admin.ch/party-id/96> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1921-07-01"^^xsd:date ;
+    schema:validThrough "1944-04-16"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/96_1944-04-17> .
 
 <https://politics.ld.admin.ch/party-id/97> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "GAB"@de ;
     schema:name "Grüne Alternative Basel-Stadt"@de ;
+    schema:validFrom "1987-02-21"^^xsd:date ;
+    schema:validThrough "1989-06-19"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/97_1987-02-21> .
 
 <https://politics.ld.admin.ch/party-id/98> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "DSP Basel-Stadt"@de ;
     schema:name "Demokratisch-soziale Partei Basel-Stadt"@de ;
+    schema:validFrom "1982-06-29"^^xsd:date ;
+    schema:validThrough "2009-03-15"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/98_1994-06-04> .
 
 <https://politics.ld.admin.ch/party-version/101_1989-12-31> a vl:Version ;
@@ -8803,55 +9179,71 @@
 <https://politics.ld.admin.ch/party-id/111> a vl:Deprecated,
         vl:Identity ;
     schema:name "Grüne Baselland"@de ;
+    schema:validFrom "1988-10-30"^^xsd:date ;
+    schema:validThrough "1991-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/111_1990-07-01> .
 
 <https://politics.ld.admin.ch/party-id/149> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "FDPO"@de ;
     schema:name "FDP.Die Liberalen Oberwallis"@de ;
+    schema:validFrom "1979-09-01"^^xsd:date ;
+    schema:validThrough "2013-09-11"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/149_2010-01-01> .
 
 <https://politics.ld.admin.ch/party-id/150> a vl:Identity ;
     schema:name "Centre Valais romand"@fr ;
+    schema:validFrom "1998-05-06"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/150_2022-03-24> .
 
 <https://politics.ld.admin.ch/party-id/163> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "PST"@it ;
     schema:name "Partito Socialista Ticinese"@it ;
+    schema:validFrom "1900-07-01"^^xsd:date ;
+    schema:validThrough "1992-10-17"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/163_1986-07-01> .
 
 <https://politics.ld.admin.ch/party-id/184> a vl:Identity ;
     schema:alternateName "Mitte SZ"@de ;
     schema:name "Die Mitte Schwyz"@de ;
+    schema:validFrom "1971-11-27"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/184_2021-08-26> .
 
 <https://politics.ld.admin.ch/party-id/195> a vl:Identity ;
     schema:name "FDP.Die Liberalen Obwalden"@de ;
+    schema:validFrom "1911-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/195_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/204> a vl:Identity ;
     schema:name "Die Mitte Nidwalden"@de ;
+    schema:validFrom "1970-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/204_2021-05-12> .
 
 <https://politics.ld.admin.ch/party-id/205> a vl:Deprecated,
         vl:Identity ;
     schema:name "Katholisch-konservative Partei Nidwalden"@de ;
+    schema:validFrom "1896-07-01"^^xsd:date ;
+    schema:validThrough "1970-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/205_1946-07-01> .
 
 <https://politics.ld.admin.ch/party-id/212> a vl:Identity ;
     schema:alternateName "FDP GL"@de ;
     schema:name "FDP.Die Liberalen des Kantons Glarus"@de ;
+    schema:validFrom "1920-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/212_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/215> a vl:Identity ;
     schema:name "Grüne des Kantons Glarus"@de ;
+    schema:validFrom "1987-03-18"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/215_2000-07-01> .
 
 <https://politics.ld.admin.ch/party-id/218> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "BDP Kanton Glarus"@de ;
     schema:name "Bürgerlich-Demokratische Partei des Kantons Glarus"@de ;
+    schema:validFrom "2008-08-28"^^xsd:date ;
+    schema:validThrough "2021-05-11"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/218_2021-01-01> .
 
 <https://politics.ld.admin.ch/party-id/234> a vl:Identity ;
@@ -8859,16 +9251,20 @@
         "PLRF"@fr ;
     schema:name "FDP.Die Liberalen des Kantons Freiburg"@de,
         "PLR.Les Libéraux-Radicaux du canton de Fribourg"@fr ;
+    schema:validFrom "2006-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/234_2010-01-01> .
 
 <https://politics.ld.admin.ch/party-id/238> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "PEF"@fr ;
     schema:name "Parti écologiste fribourgeois"@fr ;
+    schema:validFrom "1985-07-01"^^xsd:date ;
+    schema:validThrough "1990-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/238_1987-07-01> .
 
 <https://politics.ld.admin.ch/party-id/24> a vl:Identity ;
     schema:name "FDP.Die Liberalen Kanton Zürich"@de ;
+    schema:validFrom "1971-08-18"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/24_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/243> a vl:Deprecated,
@@ -8876,68 +9272,87 @@
     schema:alternateName "PICS"@fr ;
     schema:name "Unabhängig-Christlichsoziale Partei des Kantons Freiburg"@de,
         "Parti indépendant chrétien-social"@fr ;
+    schema:validFrom "1966-07-01"^^xsd:date ;
+    schema:validThrough "1980-09-14"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/243_1980-01-01> .
 
 <https://politics.ld.admin.ch/party-id/251> a vl:Identity ;
     schema:alternateName "SP"@de ;
     schema:name "Sozialdemokratische Partei des Kantons Solothurn"@de ;
+    schema:validFrom "1890-09-14"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/251_1897-07-01> .
 
 <https://politics.ld.admin.ch/party-id/263> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1985-01-30"^^xsd:date ;
+    schema:validThrough "2006-03-03"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/263_2006-03-04> .
 
 <https://politics.ld.admin.ch/party-id/269> a vl:Identity ;
     schema:alternateName "FDP SH"@de ;
     schema:name "FDP.Die Liberalen Kanton Schaffhausen"@de ;
+    schema:validFrom "1904-01-24"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/269_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/27> a vl:Identity ;
     schema:alternateName "glp"@de ;
     schema:name "Grünliberale Partei Zürich"@de ;
+    schema:validFrom "2004-06-25"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/27_2007-07-19> .
 
 <https://politics.ld.admin.ch/party-id/279> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "POCH Schaffhausen"@de ;
     schema:name "Progressive Organisationen Schaffhausen"@de ;
+    schema:validFrom "1972-12-01"^^xsd:date ;
+    schema:validThrough "1987-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/279_1974-07-01> .
 
 <https://politics.ld.admin.ch/party-id/283> a vl:Identity ;
     schema:alternateName "FDP.Die Liberalen AR"@de ;
     schema:name "FDP.Die Liberalen des Kantons Appenzell Ausserrhoden"@de ;
+    schema:validFrom "1919-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/283_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/284> a vl:Identity ;
     schema:name "Die Mitte Appenzell Ausserrhoden"@de ;
+    schema:validFrom "1933-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/284_2021-01-01> .
 
 <https://politics.ld.admin.ch/party-id/290> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1914-03-29"^^xsd:date ;
+    schema:validThrough "1988-12-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/290_1989-01-01> .
 
 <https://politics.ld.admin.ch/party-id/294> a vl:Identity ;
     schema:alternateName "Die Mitte AI"@de ;
     schema:name "Die Mitte des Kantons Appenzell Innerrhoden"@de ;
+    schema:validFrom "1988-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/294_2022-01-01> .
 
 <https://politics.ld.admin.ch/party-id/339> a vl:Deprecated,
         vl:Identity ;
     schema:name "Union der Freisinnigen und Liberalen"@de,
         "Union Libérale-Radicale"@fr ;
+    schema:validFrom "2005-06-25"^^xsd:date ;
+    schema:validThrough "2008-12-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/339_2005-06-25> .
 
 <https://politics.ld.admin.ch/party-id/342> a vl:Identity ;
     schema:name "FDP.Die Liberalen Thurgau"@de ;
+    schema:validFrom "1890-12-28"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/342_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/344> a vl:Identity ;
     schema:name "Die Mitte Thurgau"@de ;
+    schema:validFrom "1973-06-28"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/344_2021-09-01> .
 
 <https://politics.ld.admin.ch/party-id/347> a vl:Identity ;
     schema:alternateName "GRÜNE TG"@de ;
     schema:name "GRÜNE Thurgau"@de ;
+    schema:validFrom "1983-12-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/347_2020-01-01> .
 
 <https://politics.ld.admin.ch/party-id/357> a vl:Deprecated,
@@ -8945,40 +9360,53 @@
     schema:alternateName "RPS"@de ;
     schema:name "Republikanische Partei der Schweiz"@de,
         "Mouvement national d'action républicaine et sociale suisse"@fr ;
+    schema:validFrom "1971-05-12"^^xsd:date ;
+    schema:validThrough "1989-04-21"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/357_1980-01-01> .
 
 <https://politics.ld.admin.ch/party-id/383> a vl:Deprecated,
         vl:Identity ;
     schema:name "Parti libéral neuchâtelois"@fr ;
+    schema:validFrom "1873-07-01"^^xsd:date ;
+    schema:validThrough "1981-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/383_1920-01-01> .
 
 <https://politics.ld.admin.ch/party-id/386> a vl:Identity ;
     schema:alternateName "Le Centre NE"@fr ;
     schema:name "Le Centre du canton de Neuchâtel"@fr ;
+    schema:validFrom "2004-02-15"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/386_2021-01-26> .
 
 <https://politics.ld.admin.ch/party-id/395> a vl:Identity ;
     schema:alternateName "PSG"@fr ;
     schema:name "Parti socialiste genevois"@fr ;
+    schema:validFrom "1892-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/395_1941-07-01> .
 
 <https://politics.ld.admin.ch/party-id/405> a vl:Deprecated,
         vl:Identity ;
     schema:name "Parti Citoyen Démocratique de Genève"@fr ;
+    schema:validFrom "2013-02-13"^^xsd:date ;
+    schema:validThrough "2021-12-20"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/405_2021-01-01> .
 
 <https://politics.ld.admin.ch/party-id/406> a vl:Identity ;
     schema:name "Parti du Travail genevois"@fr ;
+    schema:validFrom "1943-06-08"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/406_1944-10-14> .
 
 <https://politics.ld.admin.ch/party-id/41> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "GFL"@de ;
     schema:name "Grüne Freie Liste"@de ;
+    schema:validFrom "1983-07-01"^^xsd:date ;
+    schema:validThrough "2006-05-14"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/41_1997-07-01> .
 
 <https://politics.ld.admin.ch/party-id/415> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1918-07-01"^^xsd:date ;
+    schema:validThrough "1944-04-18"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/415_1944-04-19> .
 
 <https://politics.ld.admin.ch/party-id/416> a vl:Deprecated,
@@ -8986,11 +9414,15 @@
     schema:alternateName "LSP"@de ;
     schema:name "Liberalsozialistische Partei der Schweiz"@de,
         "Parti libéral-socialiste Suisse"@fr ;
+    schema:validFrom "1915-07-04"^^xsd:date ;
+    schema:validThrough "1990-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/416_1946-07-01> .
 
 <https://politics.ld.admin.ch/party-id/420> a vl:Deprecated,
         vl:Identity ;
     schema:name "Föderation SP / Grütliverein Schweiz"@de ;
+    schema:validFrom "1901-07-01"^^xsd:date ;
+    schema:validThrough "1916-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/420_1901-07-01> .
 
 <https://politics.ld.admin.ch/party-id/425> a vl:Deprecated,
@@ -8998,35 +9430,44 @@
     schema:alternateName "MO"@fr ;
     schema:name "Bewegung Öffnung"@de,
         "Mouvement Ouverture"@fr ;
+    schema:validFrom "1989-05-03"^^xsd:date ;
+    schema:validThrough "2008-12-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/425_2000-07-01> .
 
 <https://politics.ld.admin.ch/party-id/49> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "BDP Kanton Bern"@de ;
     schema:name "Bürgerlich-Demokratische Partei Kanton Bern"@de ;
+    schema:validFrom "2008-06-21"^^xsd:date ;
+    schema:validThrough "2021-03-23"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/49_2021-01-01> .
 
 <https://politics.ld.admin.ch/party-id/71> a vl:Identity ;
     schema:name "GRÜNE Uri"@de ;
+    schema:validFrom "1994-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/71_2008-07-01> .
 
 <https://politics.ld.admin.ch/party-id/78> a vl:Identity ;
     schema:name "GRÜNE Partei Basel-Stadt"@de ;
+    schema:validFrom "1991-02-05"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/78_2022-01-01> .
 
 <https://politics.ld.admin.ch/party-id/83> a vl:Identity ;
     schema:alternateName "EVP Kanton Basel-Stadt"@de ;
     schema:name "Evangelische Volkspartei Basel-Stadt"@de ;
+    schema:validFrom "1948-12-17"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/83_2006-11-29> .
 
 <https://politics.ld.admin.ch/party-id/92> a vl:Identity ;
     schema:alternateName "LDP"@de ;
     schema:name "Liberal-Demokratische Partei Basel-Stadt"@de ;
+    schema:validFrom "1957-03-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/92_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/94> a vl:Identity ;
     schema:alternateName "SD des Kantons Basel-Stadt"@de ;
     schema:name "Schweizer Demokraten des Kantons Basel-Stadt"@de ;
+    schema:validFrom "1961-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/94_1995-01-01> .
 
 <https://politics.ld.admin.ch/party-version/106_2022-01-01> a vl:Version ;
@@ -10429,35 +10870,43 @@
 
 <https://politics.ld.admin.ch/party-id/101> a vl:Identity ;
     schema:name "Die Mitte Frauen Kanton Zürich"@de ;
+    schema:validFrom "1979-03-05"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/101_2021-10-04> .
 
 <https://politics.ld.admin.ch/party-id/107> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "CVP BL"@de ;
     schema:name "Christlichdemokratische Volkspartei des Kantons Basel-Landschaft"@de ;
+    schema:validFrom "1913-07-01"^^xsd:date ;
+    schema:validThrough "2021-12-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/107_2021-01-01> .
 
 <https://politics.ld.admin.ch/party-id/108> a vl:Identity ;
     schema:name "GRÜNE Baselland"@de ;
+    schema:validFrom "1994-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/108_2020-01-01> .
 
 <https://politics.ld.admin.ch/party-id/125> a vl:Identity ;
     schema:name "PLR.Les Libéraux-Radicaux Jura"@de ;
+    schema:validFrom "1912-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/125_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/134> a vl:Identity ;
     schema:alternateName "PCSI Jura"@fr ;
     schema:name "Parti chrétien-social indépendant"@fr ;
+    schema:validFrom "1958-01-26"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/134_1997-06-21> .
 
 <https://politics.ld.admin.ch/party-id/141> a vl:Identity ;
     schema:alternateName "PSV"@fr ;
     schema:name "Parti socialiste valaisan"@fr ;
+    schema:validFrom "1919-12-07"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/141_1982-05-01> .
 
 <https://politics.ld.admin.ch/party-id/153> a vl:Identity ;
     schema:alternateName "neo"@de ;
     schema:name "neo – Die sozialliberale Mitte"@de ;
+    schema:validFrom "1949-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/153_2026-02-19> .
 
 <https://politics.ld.admin.ch/party-id/18> a vl:Deprecated,
@@ -10465,48 +10914,63 @@
     schema:color "#88B3D7" ;
     schema:name "Demokratische Partei der Schweiz"@de,
         "Parti démocratique suisse"@fr ;
+    schema:validFrom "1941-07-01"^^xsd:date ;
+    schema:validThrough "1971-09-21"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/18_1941-07-01> .
 
 <https://politics.ld.admin.ch/party-id/188> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1983-05-28"^^xsd:date ;
+    schema:validThrough "2007-06-20"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/188_2007-06-21> .
 
 <https://politics.ld.admin.ch/party-id/199> a vl:Identity ;
     schema:alternateName "CSP-OW"@de ;
     schema:name "Christlichsoziale Partei Obwalden"@de ;
+    schema:validFrom "1956-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/199_2009-07-01> .
 
 <https://politics.ld.admin.ch/party-id/203> a vl:Identity ;
     schema:name "FDP.Die Liberalen Nidwalden"@de ;
+    schema:validFrom "1902-11-10"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/203_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/207> a vl:Identity ;
     schema:name "Grüne Nidwalden"@de ;
+    schema:validFrom "1982-01-08"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/207_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/210> a vl:Identity ;
     schema:name "Schweizerische Volkspartei des Kantons Glarus"@de ;
+    schema:validFrom "1928-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/210_1978-07-01> .
 
 <https://politics.ld.admin.ch/party-id/214> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "CVP des Kantons Glarus"@de ;
     schema:name "Christlichdemokratische Volkspartei des Kantons Glarus"@de ;
+    schema:validFrom "1903-07-01"^^xsd:date ;
+    schema:validThrough "2021-05-11"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/214_2021-01-01> .
 
 <https://politics.ld.admin.ch/party-id/220> a vl:Deprecated,
         vl:Identity ;
     schema:name "Glarner Grütliverein"@de ;
+    schema:validFrom "1838-07-01"^^xsd:date ;
+    schema:validThrough "1927-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/220_1925-07-01> .
 
 <https://politics.ld.admin.ch/party-id/225> a vl:Identity ;
     schema:alternateName "ALG Zug"@de ;
     schema:name "Alternative – die Grünen Zug"@de ;
+    schema:validFrom "2005-08-27"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/225_2009-07-01> .
 
 <https://politics.ld.admin.ch/party-id/23> a vl:Deprecated,
         vl:Identity ;
     schema:name "Freisinnige Partei"@de ;
+    schema:validFrom "1867-07-01"^^xsd:date ;
+    schema:validThrough "1971-08-17"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/23_1917-03-04> .
 
 <https://politics.ld.admin.ch/party-id/231> a vl:Identity ;
@@ -10514,52 +10978,67 @@
         "UDC-FR"@fr ;
     schema:name "Schweizerische Volkspartei des Kantons Freiburg"@de,
         "Union Démocratique du Centre du canton de Fribourg"@fr ;
+    schema:validFrom "1945-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/231_1986-07-01> .
 
 <https://politics.ld.admin.ch/party-id/26> a vl:Identity ;
     schema:alternateName "Grüne ZH"@de ;
     schema:name "Grüne Kanton Zürich"@de ;
+    schema:validFrom "1978-08-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/26_2004-06-25> .
 
 <https://politics.ld.admin.ch/party-id/275> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "LDP"@de ;
     schema:name "Liberal-demokratische Partei des Kantons Schaffhausen"@de ;
+    schema:validFrom "1905-06-26"^^xsd:date ;
+    schema:validThrough "1922-04-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/275_1920-01-01> .
 
 <https://politics.ld.admin.ch/party-id/277> a vl:Deprecated,
         vl:Identity ;
     schema:name "Grünes Bündnis Schaffhausen"@de ;
+    schema:validFrom "1987-07-01"^^xsd:date ;
+    schema:validThrough "2004-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/277_2001-07-01> .
 
 <https://politics.ld.admin.ch/party-id/28> a vl:Identity ;
     schema:alternateName "EVP des Kantons Zürich"@de ;
     schema:name "Evangelische Volkspartei des Kantons Zürich"@de ;
+    schema:validFrom "1917-03-04"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/28_1975-09-03> .
 
 <https://politics.ld.admin.ch/party-id/300> a vl:Identity ;
     schema:alternateName "FDP des Kantons St.Gallen"@de ;
     schema:name "Freisinnig-Demokratische Partei des Kantons St.Gallen"@de ;
+    schema:validFrom "1890-12-14"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/300_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/31> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "BDP Kanton Zürich"@de ;
     schema:name "Bürgerlich-Demokratische Partei des Kantons Zürich"@de ;
+    schema:validFrom "2008-06-15"^^xsd:date ;
+    schema:validThrough "2021-03-26"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/31_2021-01-01> .
 
 <https://politics.ld.admin.ch/party-id/321> a vl:Identity ;
     schema:name "GRÜNE Graubünden"@de ;
+    schema:validFrom "2007-06-26"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/321_2020-01-01> .
 
 <https://politics.ld.admin.ch/party-id/322> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1987-07-01"^^xsd:date ;
+    schema:validThrough "2007-06-25"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/322_2007-06-26> .
 
 <https://politics.ld.admin.ch/party-id/332> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "CVP Aargau"@de ;
     schema:name "Christlichdemokratische Volkspartei Aargau"@de ;
+    schema:validFrom "1892-07-01"^^xsd:date ;
+    schema:validThrough "2021-01-18"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/332_2021-01-01> .
 
 <https://politics.ld.admin.ch/party-id/34> a vl:Deprecated,
@@ -10569,6 +11048,8 @@
     schema:color "#1BAA6E" ;
     schema:name "Landesring der Unabhängigen"@de,
         "Alliance des Indépendants"@fr ;
+    schema:validFrom "1936-12-30"^^xsd:date ;
+    schema:validThrough "1999-12-03"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q550295> ;
     vl:version <https://politics.ld.admin.ch/party-version/34_1936-12-30> .
 
@@ -10576,53 +11057,66 @@
     schema:alternateName "APS"@de ;
     schema:name "Auto-Partei"@de,
         "Parti des automobilistes"@fr ;
+    schema:validFrom "1985-02-25"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/356_2009-10-24> .
 
 <https://politics.ld.admin.ch/party-id/365> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "Le Centre-VD"@fr ;
     schema:name "Le Centre Vaud"@fr ;
+    schema:validFrom "1952-03-15"^^xsd:date ;
+    schema:validThrough "2021-04-29"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/365_2021-01-22> .
 
 <https://politics.ld.admin.ch/party-id/370> a vl:Deprecated,
         vl:Identity ;
     schema:name "ASV – Les Verts alternatifs"@de ;
+    schema:validFrom "1983-04-15"^^xsd:date ;
+    schema:validThrough "1997-03-07"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/370_1991-01-01> .
 
 <https://politics.ld.admin.ch/party-id/404> a vl:Identity ;
     schema:alternateName "MCG"@fr ;
     schema:color "#49A5E7" ;
     schema:name "Mouvement Citoyen Genevois"@fr ;
+    schema:validFrom "2005-06-06"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/404_2024-09-18> .
 
 <https://politics.ld.admin.ch/party-id/44> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "DA"@de ;
     schema:name "Demokratische Alternative Bern"@de ;
+    schema:validFrom "1976-07-01"^^xsd:date ;
+    schema:validThrough "1990-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/44_1986-07-01> .
 
 <https://politics.ld.admin.ch/party-id/45> a vl:Identity ;
     schema:alternateName "GaP"@de ;
     schema:name "Grün alternative Partei"@de ;
+    schema:validFrom "1990-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/45_2017-07-01> .
 
 <https://politics.ld.admin.ch/party-id/68> a vl:Identity ;
     schema:alternateName "SPU"@de ;
     schema:name "Sozialdemokratische Partei des Kantons Uri"@de ;
+    schema:validFrom "1907-10-06"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/68_1913-07-01> .
 
 <https://politics.ld.admin.ch/party-id/69> a vl:Identity ;
     schema:name "FDP.Die Liberalen Uri"@de ;
+    schema:validFrom "1912-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/69_2010-05-18> .
 
 <https://politics.ld.admin.ch/party-id/75> a vl:Identity ;
     schema:alternateName "SP Basel-Stadt"@de ;
     schema:name "Sozialdemokratische Partei Basel-Stadt"@de ;
+    schema:validFrom "1890-06-26"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/75_1982-06-29> .
 
 <https://politics.ld.admin.ch/party-id/81> a vl:Identity ;
     schema:alternateName "BastA!"@de ;
     schema:name "BastA! Basels starke Alternative"@de ;
+    schema:validFrom "1995-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/81_2004-07-01> .
 
 <https://politics.ld.admin.ch/party-version/122_1986-06-17> a vl:Version ;
@@ -10671,35 +11165,43 @@
 
 <https://politics.ld.admin.ch/party-id/105> a vl:Identity ;
     schema:name "FDP.Die Liberalen Baselland"@de ;
+    schema:validFrom "1919-08-03"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/105_2009-07-01> .
 
 <https://politics.ld.admin.ch/party-id/152> a vl:Identity ;
     schema:name "Die Mitte Oberwallis"@de ;
+    schema:validFrom "1919-04-23"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/152_2022-05-19> .
 
 <https://politics.ld.admin.ch/party-id/155> a vl:Identity ;
     schema:alternateName "Les Vert·e·s"@fr ;
     schema:name "Les Vert·e·s Valais"@fr ;
+    schema:validFrom "1987-09-26"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/155_2020-07-01> .
 
 <https://politics.ld.admin.ch/party-id/161> a vl:Identity ;
     schema:alternateName "UDC Ticino"@it ;
     schema:name "Unione Democratica di Centro del Canton Ticino"@it ;
+    schema:validFrom "1920-12-19"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/161_1971-09-22> .
 
 <https://politics.ld.admin.ch/party-id/170> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "MET"@it ;
     schema:name "Movimento ecologista ticinese"@it ;
+    schema:validFrom "1984-07-01"^^xsd:date ;
+    schema:validThrough "1994-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/170_1991-05-04> .
 
 <https://politics.ld.admin.ch/party-id/222> a vl:Identity ;
     schema:alternateName "SP Kanton Zug"@de ;
     schema:name "Sozialdemokratische Partei des Kantons Zug"@de ;
+    schema:validFrom "1889-09-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/222_1912-07-01> .
 
 <https://politics.ld.admin.ch/party-id/223> a vl:Identity ;
     schema:name "FDP.Die Liberalen Zug"@de ;
+    schema:validFrom "1870-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/223_2010-01-01> .
 
 <https://politics.ld.admin.ch/party-id/242> a vl:Identity ;
@@ -10707,72 +11209,90 @@
         "CG"@fr ;
     schema:name "Mitte Links des Kantons Freiburg"@de,
         "Centre Gauche fribourgeois"@fr ;
+    schema:validFrom "1980-09-15"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/242_2025-09-10> .
 
 <https://politics.ld.admin.ch/party-id/253> a vl:Identity ;
     schema:name "FDP.Die Liberalen Kanton Solothurn"@de ;
+    schema:validFrom "1872-10-06"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/253_2010-01-01> .
 
 <https://politics.ld.admin.ch/party-id/265> a vl:Identity ;
     schema:alternateName "SVP Schaffhausen"@de ;
     schema:name "Schweizerische Volkspartei des Kantons Schaffhausen"@de ;
+    schema:validFrom "1918-12-19"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/265_1971-09-22> .
 
 <https://politics.ld.admin.ch/party-id/268> a vl:Deprecated,
         vl:Identity ;
     schema:name "Kommunistische Partei-Opposition"@de ;
+    schema:validFrom "1911-07-01"^^xsd:date ;
+    schema:validThrough "1935-07-06"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/268_1931-01-01> .
 
 <https://politics.ld.admin.ch/party-id/318> a vl:Identity ;
     schema:name "FDP.Die Liberalen des Kantons Graubünden"@de,
         "PLR.I Liberali del Canton Grigioni"@it ;
+    schema:validFrom "1868-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/318_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/358> a vl:Identity ;
     schema:alternateName "VTL"@de ;
     schema:name "Verband Thurgauer Landwirtschaft"@de ;
+    schema:validFrom "1835-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/358_2008-07-01> .
 
 <https://politics.ld.admin.ch/party-id/359> a vl:Identity ;
     schema:alternateName "UDC Vaud"@fr ;
     schema:name "Union démocratique du centre du Canton de Vaud"@fr ;
+    schema:validFrom "1921-01-13"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/359_1985-03-02> .
 
 <https://politics.ld.admin.ch/party-id/377> a vl:Identity ;
     schema:color "#49A5E7" ;
     schema:name "Mouvement citoyens romands"@de,
         "Mouvement citoyens romands"@fr ;
+    schema:validFrom "2011-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/377_2011-07-01> .
 
 <https://politics.ld.admin.ch/party-id/387> a vl:Identity ;
     schema:name "Les Vert-e-s neuchâtelois-es"@fr ;
+    schema:validFrom "1984-01-24"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/387_2021-07-01> .
 
 <https://politics.ld.admin.ch/party-id/396> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "PRG"@fr ;
     schema:name "Parti Radical Genevois"@fr ;
+    schema:validFrom "1841-07-01"^^xsd:date ;
+    schema:validThrough "2011-05-23"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/396_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/398> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "PLG"@fr ;
     schema:name "Parti Libéral Genevois"@fr ;
+    schema:validFrom "1875-07-01"^^xsd:date ;
+    schema:validThrough "2011-05-23"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/398_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/59> a vl:Identity ;
     schema:name "Grüne Kanton Luzern"@de ;
+    schema:validFrom "1987-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/59_2006-05-09> .
 
 <https://politics.ld.admin.ch/party-id/86> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "BGP"@de ;
     schema:name "Bürger- und Gewerbepartei Basel-Stadt"@de ;
+    schema:validFrom "1911-01-15"^^xsd:date ;
+    schema:validThrough "1957-02-28"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/86_1941-07-01> .
 
 <https://politics.ld.admin.ch/party-id/88> a vl:Identity ;
     schema:alternateName "PdA Basel"@de ;
     schema:name "Partei der Arbeit Basel"@de ;
+    schema:validFrom "1944-04-17"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/88_2014-07-01> .
 
 <https://politics.ld.admin.ch/party-version/109_1991-07-01> a vl:Version ;
@@ -10790,137 +11310,175 @@
 <https://politics.ld.admin.ch/party-id/130> a vl:Identity ;
     schema:alternateName "Les VERT-E-S Jura"@fr ;
     schema:name "VERT-E-S du canton du Jura"@fr ;
+    schema:validFrom "1991-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/130_2021-08-13> .
 
 <https://politics.ld.admin.ch/party-id/151> a vl:Deprecated,
         vl:Identity ;
     schema:name "Centre Gauche-PCS Valais romand"@fr ;
+    schema:validFrom "1997-06-12"^^xsd:date ;
+    schema:validThrough "2023-06-14"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/151_2014-10-04> .
 
 <https://politics.ld.admin.ch/party-id/168> a vl:Identity ;
     schema:name "il Centro"@it ;
+    schema:validFrom "1855-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/168_2022-06-25> .
 
 <https://politics.ld.admin.ch/party-id/175> a vl:Identity ;
     schema:alternateName "PC"@it ;
     schema:name "Partito Comunista"@it ;
+    schema:validFrom "1944-08-15"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/175_2014-07-01> .
 
 <https://politics.ld.admin.ch/party-id/183> a vl:Identity ;
     schema:name "FDP.Die Liberalen Kanton Schwyz"@de ;
+    schema:validFrom "1833-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/183_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/20> a vl:Identity ;
     schema:alternateName "SVP des Kantons Zürich"@de ;
     schema:name "Schweizerische Volkspartei des Kantons Zürich"@de ;
+    schema:validFrom "1917-03-04"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/20_1976-11-15> .
 
 <https://politics.ld.admin.ch/party-id/239> a vl:Identity ;
     schema:name "GRÜNE Freiburg"@de,
         "VERT-E-S Fribourg"@fr ;
+    schema:validFrom "1990-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/239_2020-11-13> .
 
 <https://politics.ld.admin.ch/party-id/254> a vl:Identity ;
     schema:name "Die Mitte Kanton Solothurn"@de ;
+    schema:validFrom "1902-12-07"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/254_2022-01-01> .
 
 <https://politics.ld.admin.ch/party-id/271> a vl:Identity ;
     schema:alternateName "Grüne Schaffhausen"@de ;
     schema:name "Grüne Partei Schaffhausen"@de ;
+    schema:validFrom "1990-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/271_2017-01-01> .
 
 <https://politics.ld.admin.ch/party-id/301> a vl:Identity ;
     schema:name "Die Mitte Kanton St.Gallen"@de ;
+    schema:validFrom "1834-12-28"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/301_2021-08-25> .
 
 <https://politics.ld.admin.ch/party-id/325> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1987-11-07"^^xsd:date ;
+    schema:validThrough "2000-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/325_2000-07-01> .
 
 <https://politics.ld.admin.ch/party-id/328> a vl:Identity ;
     schema:alternateName "SVP Aargau"@de ;
     schema:name "Schweizerische Volkspartei Aargau "@de ;
+    schema:validFrom "1920-12-18"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/328_1972-09-22> .
 
 <https://politics.ld.admin.ch/party-id/343> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "CVP Thurgau"@de ;
     schema:name "Christlichdemokratische Volkspartei des Kantons Thurgau"@de ;
+    schema:validFrom "1905-07-01"^^xsd:date ;
+    schema:validThrough "1973-06-27"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/343_1971-02-28> .
 
 <https://politics.ld.admin.ch/party-id/361> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1845-07-01"^^xsd:date ;
+    schema:validThrough "2012-09-25"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/361_2012-09-26> .
 
 <https://politics.ld.admin.ch/party-id/399> a vl:Identity ;
     schema:name "Le Centre du canton de Genève"@fr ;
+    schema:validFrom "1892-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/399_2022-01-01> .
 
 <https://politics.ld.admin.ch/party-id/400> a vl:Identity ;
     schema:alternateName "Les Vert-e-s"@fr ;
     schema:name "Les Vert-e-s genevois-es"@fr ;
+    schema:validFrom "1983-01-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/400_2021-07-01> .
 
 <https://politics.ld.admin.ch/party-id/42> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "GB"@de ;
     schema:name "Grünes Bündnis Bern"@de ;
+    schema:validFrom "1987-06-03"^^xsd:date ;
+    schema:validThrough "2006-05-14"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/42_2002-08-24> .
 
 <https://politics.ld.admin.ch/party-id/422> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "DSP der Schweiz"@de ;
     schema:name "Demokratisch-Soziale Partei der Schweiz"@de ;
+    schema:validFrom "1994-06-04"^^xsd:date ;
+    schema:validThrough "2011-12-31"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/422_1994-06-04> .
 
 <https://politics.ld.admin.ch/party-id/56> a vl:Identity ;
     schema:name "FDP.Die Liberalen Luzern"@de ;
+    schema:validFrom "1831-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/56_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/57> a vl:Identity ;
     schema:name "Die Mitte Kanton Luzern"@de ;
+    schema:validFrom "1871-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/57_2021-09-06> .
 
 <https://politics.ld.admin.ch/party-id/70> a vl:Identity ;
     schema:name "Die Mitte Uri"@de ;
+    schema:validFrom "1899-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/70_2024-05-16> .
 
 <https://politics.ld.admin.ch/party-id/103> a vl:Identity ;
     schema:alternateName "SVP Baselland"@de ;
     schema:name "Schweizerische Volkspartei Baselland"@de ;
+    schema:validFrom "1925-08-09"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/103_1976-07-01> .
 
 <https://politics.ld.admin.ch/party-id/196> a vl:Identity ;
     schema:name "Die Mitte Obwalden"@de ;
+    schema:validFrom "1919-10-12"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/196_2024-05-02> .
 
 <https://politics.ld.admin.ch/party-id/224> a vl:Identity ;
     schema:name "Die Mitte Kanton Zug"@de ;
+    schema:validFrom "1885-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/224_2021-06-01> .
 
 <https://politics.ld.admin.ch/party-id/236> a vl:Deprecated,
         vl:Identity ;
     schema:name "Die Mitte Freiburg"@de,
         "Le Centre Fribourg"@fr ;
+    schema:validFrom "1857-07-01"^^xsd:date ;
+    schema:validThrough "2021-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/236_2021-03-15> .
 
 <https://politics.ld.admin.ch/party-id/270> a vl:Identity ;
     schema:name "Die Mitte Schaffhausen"@de ;
+    schema:validFrom "1911-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/270_2021-08-18> .
 
 <https://politics.ld.admin.ch/party-id/302> a vl:Identity ;
     schema:alternateName "GRÜNE SG"@de ;
     schema:name "GRÜNE Kanton St.Gallen"@de ;
+    schema:validFrom "1983-05-28"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/302_2017-01-01> .
 
 <https://politics.ld.admin.ch/party-id/320> a vl:Deprecated,
         vl:Identity ;
     schema:alternateName "CVP Graubünden"@de ;
     schema:name "Christlichdemokratische Volkspartei Graubünden"@de ;
+    schema:validFrom "1903-05-22"^^xsd:date ;
+    schema:validThrough "2021-06-06"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/320_2021-01-01> .
 
 <https://politics.ld.admin.ch/party-id/380> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1848-05-14"^^xsd:date ;
+    schema:validThrough "2008-06-20"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/380_2008-06-21> .
 
 <https://politics.ld.admin.ch/party-id/408> a vl:Deprecated,
@@ -10929,18 +11487,25 @@
         "POCH"@fr ;
     schema:name "Progressive Organisationen der Schweiz"@de,
         "Organisations progressistes suisses"@fr ;
+    schema:validFrom "1971-07-01"^^xsd:date ;
+    schema:validThrough "1993-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/408_1971-07-01> .
 
 <https://politics.ld.admin.ch/party-id/411> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1921-03-06"^^xsd:date ;
+    schema:validThrough "1944-10-13"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/411_1944-10-14> .
 
 <https://politics.ld.admin.ch/party-id/62> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1920-07-01"^^xsd:date ;
+    schema:validThrough "2015-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/62_2015-07-01> .
 
 <https://politics.ld.admin.ch/party-id/77> a vl:Identity ;
     schema:name "Die Mitte Basel-Stadt"@de ;
+    schema:validFrom "1905-05-15"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/77_2021-07-01> .
 
 <https://politics.ld.admin.ch/party-id/35> a vl:Identity ;
@@ -10948,19 +11513,24 @@
         "UDC"@fr ;
     schema:name "Schweizerische Volkspartei Kanton Bern"@de,
         "Union Démocratique du Centre"@fr ;
+    schema:validFrom "1918-09-28"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/35_2008-06-21> .
 
 <https://politics.ld.admin.ch/party-id/37> a vl:Identity ;
     schema:name "FDP.Die Liberalen Kanton Bern"@de,
         "PLR.Les Libéraux-Radicaux du canton de Berne"@fr ;
+    schema:validFrom "1889-07-01"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/37_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/65> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1976-05-22"^^xsd:date ;
+    schema:validThrough "1997-06-20"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/65_1997-06-21> .
 
 <https://politics.ld.admin.ch/party-id/76> a vl:Identity ;
     schema:name "FDP.Die Liberalen Basel-Stadt"@de ;
+    schema:validFrom "1894-09-19"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/76_2009-01-01> .
 
 <https://politics.ld.admin.ch/party-id/102> a vl:Identity ;
@@ -10969,15 +11539,19 @@
         "Le Centre Femmes Suisse"@fr,
         "Il Centro Donne Svizzera"@it,
         "Allianza dal Center Dunnas"@rm ;
+    schema:validFrom "1975-05-17"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/102_2022-04-30> .
 
 <https://politics.ld.admin.ch/party-id/311> a vl:Deprecated,
         vl:Identity ;
+    schema:validFrom "1919-09-14"^^xsd:date ;
+    schema:validThrough "2021-06-06"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/311_2021-06-06> .
 
 <https://politics.ld.admin.ch/party-id/25> a vl:Identity ;
     schema:alternateName "Die Mitte ZH"@de ;
     schema:name "Die Mitte des Kantons Zürich"@de ;
+    schema:validFrom "1896-10-18"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/25_2021-03-27> .
 
 <https://politics.ld.admin.ch/party-id/66> a vl:Identity ;
@@ -10986,16 +11560,20 @@
     schema:color "#35AEB2" ;
     schema:name "Mitte Links – Christlich-soziale Partei Schweiz"@de,
         "Centre Gauche – Parti Chrétien-social suisse"@fr ;
+    schema:validFrom "1997-06-21"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/66_2014-01-11> .
 
 <https://politics.ld.admin.ch/party-id/128> a vl:Identity ;
     schema:name "Le Centre Jura"@fr ;
+    schema:validFrom "1877-09-17"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/128_2022-12-08> .
 
 <https://politics.ld.admin.ch/party-id/248> a vl:Deprecated,
         vl:Identity ;
     schema:name "Grütliverein"@de,
         "Société du Grutli"@fr ;
+    schema:validFrom "1838-05-20"^^xsd:date ;
+    schema:validThrough "1925-06-30"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q683672> ;
     vl:version <https://politics.ld.admin.ch/party-version/248_1916-07-01> .
 
@@ -11005,6 +11583,7 @@
     schema:color "#9D9D9D" ;
     schema:name "Schweizer Demokraten"@de,
         "Démocrates suisses"@fr ;
+    schema:validFrom "1961-06-15"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q660046> ;
     vl:version <https://politics.ld.admin.ch/party-version/33_1990-06-09> .
 
@@ -11015,6 +11594,8 @@
     schema:color "#E6C820" ;
     schema:name "Bürgerlich-Demokratische Partei Schweiz"@de,
         "Parti Bourgeois-Démocratique Suisse"@fr ;
+    schema:validFrom "2008-11-01"^^xsd:date ;
+    schema:validThrough "2020-12-31"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q151768> ;
     vl:version <https://politics.ld.admin.ch/party-version/13_2008-11-01> .
 
@@ -11025,6 +11606,8 @@
     schema:color "#618DEA" ;
     schema:name "Liberale Partei der Schweiz"@de,
         "Parti libéral suisse"@fr ;
+    schema:validFrom "1913-10-08"^^xsd:date ;
+    schema:validThrough "2008-12-31"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q667785> ;
     vl:version <https://politics.ld.admin.ch/party-version/15_2008-12-31> .
 
@@ -11034,6 +11617,7 @@
     schema:color "#AB6244" ;
     schema:name "Eidgenössisch-Demokratische Union Schweiz"@de,
         "Union Démocratique Fédérale Suisse"@fr ;
+    schema:validFrom "1975-09-03"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q667836> ;
     vl:version <https://politics.ld.admin.ch/party-version/8_1975-09-03> .
 
@@ -11044,6 +11628,8 @@
     schema:color "#466E3B" ;
     schema:name "Bauern-, Gewerbe- und Bürgerpartei"@de,
         "Parti des paysans, artisans et bourgeois"@fr ;
+    schema:validFrom "1936-12-23"^^xsd:date ;
+    schema:validThrough "1971-09-21"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q477228> ;
     vl:version <https://politics.ld.admin.ch/party-version/11_1936-12-23> .
 
@@ -11053,6 +11639,7 @@
     schema:color "#C94A4A" ;
     schema:name "Partei der Arbeit der Schweiz"@de,
         "Parti suisse du Travail"@fr ;
+    schema:validFrom "1944-10-14"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q661771> ;
     vl:version <https://politics.ld.admin.ch/party-version/14_1969-10-15> .
 
@@ -11062,6 +11649,8 @@
         "AVeS"@fr ;
     schema:name "[Alternative Grüne/] Grünes Bündnis Schweiz"@de,
         "[Vert-e-s alternatives/]Alliance verte et sociale"@fr ;
+    schema:validFrom "1983-06-15"^^xsd:date ;
+    schema:validThrough "2005-06-30"^^xsd:date ;
     vl:version <https://politics.ld.admin.ch/party-version/43_1987-07-01> .
 
 <https://politics.ld.admin.ch/party-id/7> a vl:Identity ;
@@ -11070,6 +11659,7 @@
     schema:color "#DEAA28" ;
     schema:name "Evangelische Volkspartei der Schweiz"@de,
         "Parti évangélique suisse"@fr ;
+    schema:validFrom "1919-05-10"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q667718> ;
     vl:version <https://politics.ld.admin.ch/party-version/7_2003-01-01> .
 
@@ -11079,6 +11669,7 @@
     schema:color "#C4C43D" ;
     schema:name "Grünliberale Partei Schweiz"@de,
         "Parti vert’libéral suisse"@fr ;
+    schema:validFrom "2007-07-19"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q545900> ;
     vl:version <https://politics.ld.admin.ch/party-version/6_2007-07-19> .
 
@@ -11086,6 +11677,7 @@
     schema:color "#3B79BF" ;
     schema:name "FDP.Die Liberalen Schweiz"@de,
         "PLR.Les Libéraux-Radicaux"@fr ;
+    schema:validFrom "2009-01-01"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q202638> ;
     vl:version <https://politics.ld.admin.ch/party-version/3_2009-01-01> .
 
@@ -11096,6 +11688,7 @@
     schema:name "Schweizerische Volkspartei"@de,
         "Schweizerische Volkspartei"@en,
         "Union Démocratique du Centre"@fr ;
+    schema:validFrom "1971-09-22"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q385258> ;
     vl:version <https://politics.ld.admin.ch/party-version/1_2008-11-01> .
 
@@ -11105,6 +11698,7 @@
     schema:color "#F0554D" ;
     schema:name "Sozialdemokratische Partei der Schweiz"@de,
         "Parti socialiste suisse"@fr ;
+    schema:validFrom "1888-10-21"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q303745> ;
     vl:version <https://politics.ld.admin.ch/party-version/2_1994-06-04> .
 
@@ -11115,6 +11709,8 @@
     schema:color "#4785C2" ;
     schema:name "Freisinnig-Demokratische Partei der Schweiz"@de,
         "Parti radical-démocratique suisse"@fr ;
+    schema:validFrom "1894-02-25"^^xsd:date ;
+    schema:validThrough "2008-12-31"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q13850128> ;
     vl:version <https://politics.ld.admin.ch/party-version/9_2008-12-31> .
 
@@ -11123,6 +11719,7 @@
     schema:color "#D6862B" ;
     schema:name "Die Mitte Schweiz"@de,
         "Le Centre"@fr ;
+    schema:validFrom "2021-01-01"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q100934025> ;
     vl:version <https://politics.ld.admin.ch/party-version/4_2021-01-01> .
 
@@ -11133,6 +11730,8 @@
     schema:color "#D78C56" ;
     schema:name "Christlichdemokratische Volkspartei der Schweiz"@de,
         "Parti démocrate-chrétien suisse"@fr ;
+    schema:validFrom "1912-04-22"^^xsd:date ;
+    schema:validThrough "2020-12-31"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q659461> ;
     vl:version <https://politics.ld.admin.ch/party-version/10_1997-06-21> .
 
@@ -11142,6 +11741,7 @@
     schema:color "#84B547" ;
     schema:name "GRÜNE Schweiz"@de,
         "Les VERT-E-S suisses"@fr ;
+    schema:validFrom "1983-05-28"^^xsd:date ;
     owl:sameAs <https://www.wikidata.org/wiki/Q659739> ;
     vl:version <https://politics.ld.admin.ch/party-version/5_2021-03-27> .
 
