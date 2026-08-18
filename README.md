@@ -174,4 +174,8 @@ All Events:
 - successor for the party that succeeds
   - starts always a new version
   - stops never the previous version
+
+## 18.08.26
+
+Maybe, a child-of_start (and others) should also stop the previous version, because otherwise, there are versions that have a validThrough date (so they are stopped) but no pol:hasVersionStoppingClass. E.g. https://politics.ld.admin.ch/party-version/328_1920-12-18
   
