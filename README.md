@@ -36,4 +36,8 @@ This repository contains all the necessary code to convert the CSV Party Atlas f
 
 - create function for pandas lookup in other tables, e.g. for party_name_id, party_code_id, etc.
 - create function to convert dictionary keys into RDF predicates and classes, e.g. for party_name_id, party_code_id, etc.
+
+## Unsolved Errors
+
+- Party 158: Has a version 2019-10-08 that should not exist. (same problem for 194 and probably a lot others)
   
