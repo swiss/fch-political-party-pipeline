@@ -31,4 +31,9 @@ This repository contains all the necessary code to convert the CSV Party Atlas f
 ## Good Examples
 
 - For different child-of relationships: Party 49
+
+## To Do
+
+- create function for pandas lookup in other tables, e.g. for party_name_id, party_code_id, etc.
+- create function to convert dictionary keys into RDF predicates and classes, e.g. for party_name_id, party_code_id, etc.
   
