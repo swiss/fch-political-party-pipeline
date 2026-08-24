@@ -39,5 +39,5 @@ This repository contains all the necessary code to convert the CSV Party Atlas f
 
 ## Unsolved Errors
 
-- Party 158: Has a version 2019-10-08 that should not exist. (same problem for 194 and probably a lot others)
+- Party 158: Has a version 2019-10-08 that should not exist. --> Problem is 158 has dissolution 1990-07-01 but has a successor (Party 159) in 2019-10-08. Same problem for 194 (only one day in between, so probably data error) and probably some others.
   
