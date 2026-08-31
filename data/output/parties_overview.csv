@@ -1,0 +1,423 @@
+id_int,founding_date,dissolution_date,name_de,abbr_de,name_fr,abbr_fr,name_it,abbr_it,parent_id
+1,1971-09-22,,Schweizerische Volkspartei,SVP,Union Démocratique du Centre,UDC,,,
+2,1888-10-21,,Sozialdemokratische Partei der Schweiz,SP Schweiz,Parti socialiste suisse,PS Suisse,,,
+3,2009-01-01,,FDP.Die Liberalen Schweiz,,PLR.Les Libéraux-Radicaux,,,,
+4,2021-01-01,,Die Mitte Schweiz,Mitte,Le Centre,,,,
+5,1983-05-28,,GRÜNE Schweiz,GRÜNE,Les VERT-E-S suisses,VERT-E-S,,,
+6,2007-07-19,,Grünliberale Partei Schweiz,GLP,Parti vert’libéral suisse,PVL,,,
+7,1919-05-10,,Evangelische Volkspartei der Schweiz,EVP Schweiz,Parti évangélique suisse,PEV Suisse,,,
+8,1975-09-03,,Eidgenössisch-Demokratische Union Schweiz,EDU Schweiz,Union Démocratique Fédérale Suisse,UDF Suisse,,,
+9,1894-02-25,2008-12-31,Freisinnig-Demokratische Partei der Schweiz,FDP,Parti radical-démocratique suisse,PRD,,,
+10,1912-04-22,2020-12-31,Christlichdemokratische Volkspartei der Schweiz,CVP Schweiz,Parti démocrate-chrétien suisse,PDC suisse,,,
+11,1936-12-23,1971-09-21,"Bauern-, Gewerbe- und Bürgerpartei",BGB,"Parti des paysans, artisans et bourgeois",PAB,,,
+12,1991-01-17,,Lega dei Ticinesi,Lega,Lega dei Ticinesi,Lega,Lega dei Ticinesi,Lega,
+13,2008-11-01,2020-12-31,Bürgerlich-Demokratische Partei Schweiz,BDP Schweiz,Parti Bourgeois-Démocratique Suisse,PBD Suisse,,,
+14,1944-10-14,,Partei der Arbeit der Schweiz,PdAS,Parti suisse du Travail,PST-POP,,,
+15,1913-10-08,2008-12-31,Liberale Partei der Schweiz,LPS,Parti libéral suisse,PLS,,,
+16,1880-01-01,1905-03-18,Vorläufer der Demokraten,,Précurseurs du parti démocratique,,,,
+17,1905-03-19,1941-06-30,Schweizerische Demokratische Partei,,Parti démocratique suisse,,,,
+18,1941-07-01,1971-09-21,Demokratische Partei der Schweiz,,Parti démocratique suisse,,,,
+19,1848-01-01,1894-02-24,Vorläufer der FDP,,Précurseurs du PRD,,,,
+20,1917-03-04,,Schweizerische Volkspartei des Kantons Zürich,SVP des Kantons Zürich,,,,,1
+21,1902-04-13,,Sozialdemokratische Partei des Kantons Zürich,SP Kanton Zürich,,,,,2
+22,1840-11-05,1912-04-21,Vorläufer der CVP,,Précurseurs du PDC,,,,
+23,1867-07-01,1971-08-17,Freisinnige Partei,,,,,,9
+24,1971-08-18,,FDP.Die Liberalen Kanton Zürich,,,,,,3
+25,1896-10-18,,Die Mitte des Kantons Zürich,Die Mitte ZH,,,,,4
+26,1978-08-31,,Grüne Kanton Zürich,Grüne ZH,,,,,5
+27,2004-06-25,,Grünliberale Partei Zürich,glp,,,,,6
+28,1917-03-04,,Evangelische Volkspartei des Kantons Zürich,EVP des Kantons Zürich,,,,,7
+29,1975-09-03,,Eidgenössisch-Demokratische Union Kanton Zürich,EDU Kanton Zürich,,,,,8
+30,1944-04-19,,Partei der Arbeit des Kantons Zürich,PdAZ,,,,,14
+31,2008-06-15,2021-03-26,Bürgerlich-Demokratische Partei des Kantons Zürich,BDP Kanton Zürich,,,,,4
+32,1961-01-01,,Schweizer Demokraten des Kantons Zürich,SD Kanton Zürich,,,,,33
+33,1961-06-15,,Schweizer Demokraten,SD,Démocrates suisses,DS,,,
+34,1936-12-30,1999-12-03,Landesring der Unabhängigen,LdU,Alliance des Indépendants,AdI,,,
+35,1918-09-28,,Schweizerische Volkspartei Kanton Bern,SVP Kanton Bern,Union Démocratique du Centre,UDC,,,1
+36,1905-07-01,,Sozialdemokratische Partei des Kantons Bern,SP Kanton Bern,Parti socialiste du canton de Berne,PS du canton de Berne,,,2
+37,1889-07-01,,FDP.Die Liberalen Kanton Bern,,PLR.Les Libéraux-Radicaux du canton de Berne,,,,3
+38,2021-03-24,,Die Mitte Kanton Bern,,Le Centre Canton de Berne,,,,4
+39,1956-07-01,2021-03-23,CVP des Kantons Bern,CVP-BE,,,,,4
+40,2006-05-15,,GRÜNE Kanton Bern,,,,,,5
+41,1983-07-01,2006-05-14,Grüne Freie Liste,GFL,,,,,5
+42,1987-06-03,2006-05-14,Grünes Bündnis Bern,GB,,,,,5
+43,1983-06-15,2005-06-30,[Alternative Grüne/] Grünes Bündnis Schweiz,GBS,[Vert-e-s alternatives/]Alliance verte et sociale,AVeS,,,
+44,1976-07-01,1990-06-30,Demokratische Alternative Bern,DA,,,,,5
+45,1990-07-01,,Grün alternative Partei,GaP,,,,,5
+46,2007-09-25,,Grünliberale Partei des Kantons Bern,glp BE,Vert'libéraux Canton de Berne,,,,6
+47,1921-01-29,,Evangelische Volkspartei Kanton Bern,EVP Kanton Bern,Parti évangélique du canton de Berne,PEV du canton de Berne,,,7
+48,1975-09-05,,Eidgenössisch-Demokratische Union des Kantons Bern,EDU Kanton Bern,Union Démocratique Fédérale du canton de Berne,UDF Canton de Berne,,,8
+49,2008-06-21,2021-03-23,Bürgerlich-Demokratische Partei Kanton Bern,BDP Kanton Bern,,,,,4
+50,2003-05-05,,Partei der Arbeit des Kantons Bern,PdA POP BE,Parti ouvrier et populaire du canton de Berne,PdA POP BE,,,14
+51,1945-01-01,2003-05-04,,,,,,,
+52,1882-12-15,1920-12-31,Bernische Volkspartei,,,,,,
+53,1937-07-01,1999-12-14,,,,,,,
+54,1992-04-30,,Schweizerische Volkspartei des Kantons Luzern,SVP Kanton Luzern,,,,,1
+55,1895-07-01,,Sozialdemokratische Partei des Kantons Luzern,SP Kanton Luzern,,,,,2
+56,1831-07-01,,FDP.Die Liberalen Luzern,,,,,,3
+57,1871-07-01,,Die Mitte Kanton Luzern,,,,,,4
+58,1840-11-05,1871-06-30,Ruswiler Verein,,,,,,
+59,1987-07-01,,Grüne Kanton Luzern,,,,,,5
+60,2008-04-01,,Grünliberale Kanton Luzern,GLP Kanton Luzern,,,,,6
+61,2003-10-10,,Evangelische Volkspartei des Kantons Luzern,EVP Kanton Luzern,,,,,7
+62,1920-07-01,2015-06-30,,,,,,,
+63,2010-04-22,2020-06-30,Bürgerlich-Demokratische Partei des Kantons Luzern,BDP Kanton Luzern,,,,,13
+64,1973-11-15,1988-06-30,Progressive Organisationen Kanton Luzern,POCH LU,,,,,408
+65,1976-05-22,1997-06-20,,,,,,,
+66,1997-06-21,,Mitte Links – Christlich-soziale Partei Schweiz,Mitte links – CSP Schweiz,Centre Gauche – Parti Chrétien-social suisse,Centre Gauche – PCS Suisse,,,
+67,1998-12-05,,Schweizerische Volkspartei des Kantons Uri,SVP URI,,,,,1
+68,1907-10-06,,Sozialdemokratische Partei des Kantons Uri,SPU,,,,,2
+69,1912-07-01,,FDP.Die Liberalen Uri,,,,,,3
+70,1899-07-01,,Die Mitte Uri,,,,,,4
+71,1994-07-01,,GRÜNE Uri,,,,,,5
+72,1983-07-01,1993-06-30,Kritisches Forum Uri,KFU,,,,,
+73,2022-04-01,,Grünliberale Partei Kanton Uri,GLP UR,,,,,6
+74,1991-07-01,,Schweizerische Volkspartei Basel-Stadt,SVP Basel-Stadt,,,,,1
+75,1890-06-26,,Sozialdemokratische Partei Basel-Stadt,SP Basel-Stadt,,,,,2
+76,1894-09-19,,FDP.Die Liberalen Basel-Stadt,,,,,,3
+77,1905-05-15,,Die Mitte Basel-Stadt,,,,,,4
+78,1991-02-05,,GRÜNE Partei Basel-Stadt,,,,,,5
+79,1989-06-20,1991-01-23,Grüne Partei BS,GP/GAB,,,,,
+80,1988-06-27,1989-06-19,Grüne Partei Baselstadt,GPBS,,,,,5
+81,1995-07-01,,BastA! Basels starke Alternative,BastA!,,,,,5
+82,2008-02-26,,Grünliberale Partei Basel-Stadt,GLP BS,,,,,6
+83,1948-12-17,,Evangelische Volkspartei Basel-Stadt,EVP Kanton Basel-Stadt,,,,,7
+84,1920-02-23,1953-06-01,Evangelische Volkspartei Basel-Stadt,EVP Basel-Stadt,,,,,7
+85,1986-07-01,,Eidgenössisch-Demokratische Union des Kantons Basel-Stadt,EDU BS,,,,,8
+86,1911-01-15,1957-02-28,Bürger- und Gewerbepartei Basel-Stadt,BGP,,,,,11
+87,2011-08-24,2021-06-30,Bürgerlich-Demokratische Partei Basel-Stadt,BDP Basel-Stadt,,,,,
+88,1944-04-17,,Partei der Arbeit Basel,PdA Basel,,,,,
+89,1991-07-01,2019-06-30,,,,,,,
+90,2019-06-15,,Partei der Arbeit der Schweiz Sektion Basel,PdAS Sektion Basel,,,,,14
+91,1905-07-01,1957-02-28,Liberale Partei des Kantons Basel-Stadt,,,,,,
+92,1957-03-01,,Liberal-Demokratische Partei Basel-Stadt,LDP,,,,,3
+93,1937-07-01,1999-12-03,Standesring BS,,,,,,34
+94,1961-07-01,,Schweizer Demokraten des Kantons Basel-Stadt,SD des Kantons Basel-Stadt,,,,,
+95,1970-01-15,1993-06-30,Progressive Organisationen Basel,POB,,,,,408
+96,1921-07-01,1944-04-16,,,,,,,
+97,1987-02-21,1989-06-19,Grüne Alternative Basel-Stadt,GAB,,,,,43
+98,1982-06-29,2009-03-15,Demokratisch-soziale Partei Basel-Stadt,DSP Basel-Stadt,,,,,422
+99,1991-07-01,2002-10-13,Frauenliste Basel,FraB,,,,,
+100,1932-07-01,1940-06-30,Nationale Front,,,,,,
+101,1979-03-05,,Die Mitte Frauen Kanton Zürich,,,,,,102
+101,1979-03-05,,Die Mitte Frauen Kanton Zürich,,,,,,25
+102,1975-05-17,,Die Mitte Frauen Schweiz,Mitte Frauen,Le Centre Femmes Suisse,,Il Centro Donne Svizzera,,4
+103,1925-08-09,,Schweizerische Volkspartei Baselland,SVP Baselland,,,,,1
+104,1913-07-01,,Sozialdemokratische Partei Baselland,SP BL,,,,,2
+105,1919-08-03,,FDP.Die Liberalen Baselland,,,,,,3
+106,2022-01-01,,Die Mitte Basel-Landschaft,Die Mitte BL,,,,,4
+107,1913-07-01,2021-12-31,Christlichdemokratische Volkspartei des Kantons Basel-Landschaft,CVP BL,,,,,4
+108,1994-07-01,,GRÜNE Baselland,,,,,,5
+109,1991-07-01,2000-05-18,Grüne Baselbiet,,,,,,5
+110,1988-06-27,1991-06-30,Grüne Partei Baselland,,,,,,5
+111,1988-10-30,1991-06-30,Grüne Baselland,,,,,,5
+112,1983-07-01,1991-06-30,Grüne Liste Baselbiet,,,,,,43
+113,2007-09-18,,Grünliberale Partei Basel-Landschaft ,Grünliberale BL,,,,,6
+114,1922-01-14,,Evangelische Volkspartei des Kantons Basel-Landschaft,EVP BL,,,,,7
+115,1989-07-01,,Eidgenössisch-Demokratische Union Kanton Basel-Landschaft,EDU Kanton Basel-Land,,,,,8
+116,2010-03-25,2021-12-31,Bürgerlich-Demokratische Partei Kanton Basel-Landschaft,BDP BL,,,,,4
+117,1944-07-01,1989-06-30,Partei der Arbeit,,,,,,14
+118,1974-07-01,1997-06-30,Liberale Partei Baselland,,,,,,15
+119,1975-07-01,1988-06-30,Progressive Organisationen Baselland,POBL,,,,,408
+120,1921-07-01,1940-11-25,Kommunistische Partei Kanton Basel-Landschaft,,,,,,411
+121,1979-12-06,1986-06-16,Grüne Partei Nordwestschweiz,,,,,,5
+122,1986-06-17,1988-06-26,Grüne Partei BS/BL,,,,,,5
+123,1979-07-01,,,, Union Démocratique du Centre du canton du Jura,UDC Jura,,,1
+124,1975-05-03,,,,Le Parti socialiste jurassien,PSJ,,,2
+125,1912-07-01,,PLR.Les Libéraux-Radicaux Jura,,,,,,3
+126,1966-07-01,,,,Parti libéral jurassien,PLJ,,,
+127,1974-03-01,1988-06-30,,,Parti radical-réformiste jurassien,PRR,,,
+128,1877-09-17,,,,Le Centre Jura,,,,4
+130,1991-07-01,,,,VERT-E-S du canton du Jura,Les VERT-E-S Jura,,,5
+131,2020-07-01,,,,Parti vert’libéral jurassien,,,,6
+132,2011-09-22,,,,Parti évangélique Jura,PEV JU,,,7
+134,1958-01-26,,,,Parti chrétien-social indépendant,PCSI Jura,,,66
+135,1945-07-01,1967-06-30,,,,,,,
+136,1967-07-01,2013-01-14,,,Parti Ouvrier Populaire Jurassien,POP Jura,,,14
+137,1977-05-15,2013-01-14,,,Combat Socialiste,CS,,,
+138,2013-01-15,,,,Parti Ouvrier Populaire Jurassien,,,,14
+139,1999-07-15,,Union Démocratique du Centre valaisanne,UDC valaisanne,,,,,1
+140,2002-09-27,,Schweizerische Volkspartei Oberwallis,SVP Oberwallis,,,,,1
+141,1919-12-07,,,,Parti socialiste valaisan,PSV,,,
+142,1971-09-23,1982-04-30,Kritisches Oberwallis,KO,,,,,
+143,1982-05-01,,Sozialdemokratische Partei Oberwallis,SP Oberwallis,Parti socialiste haut-valaisan,SOPO,,,2
+144,1982-05-01,,,,Parti socialiste du Valais romand,PSVR,,,2
+145,2013-09-12,,Freisinnig Demokratische Partei Wallis,FDP.Die Liberalen Wallis,Parti Libéral-Radical Valaisan,PLR.Les Libéraux-Radicaux Valais,,,3
+147,2008-02-21,2013-09-11,,,Parti libéral-radical valaisan,PLRVS,,,3
+148,1849-07-01,2008-02-20,,,Parti Radical Valaisan,PRDV,,,9
+149,1979-09-01,2013-09-11,FDP.Die Liberalen Oberwallis,FDPO,,,,,3
+150,1998-05-06,,,,Centre Valais romand,,,,4
+151,1997-06-12,2023-06-14,,,Centre Gauche-PCS Valais romand,,,,66
+152,1919-04-23,,Die Mitte Oberwallis,,,,,,4
+153,1949-07-01,,neo – Die sozialliberale Mitte,neo,,,,,
+154,1960-07-01,1997-06-30,,,Parti démocrate-chrétien valaisan,PDC valaisan,,,10
+155,1987-09-26,,,,Les Vert·e·s Valais,Les Vert·e·s,,,5
+156,2020-05-28,,Grünliberale Partei des Kantons Wallis,GLP VS,Parti vert'libéral valaisan,PVL VS,,,6
+157,2008-01-09,2018-06-30,,,Parti Bourgeois Démocratique Suisse canton du Valais,PBD canton du Valais,,,13
+158,1944-07-01,2019-10-07,,,,,,,
+159,2019-10-08,,,,Parti Ouvrier Populaire valaisan,POP Valais,,,14
+160,1988-03-20,2008-02-20,Liberale Partei des Kantons Wallis,LPW,Parti libéral valaisan,PLV,,,15
+161,1920-12-19,,,,,,Unione Democratica di Centro del Canton Ticino,UDC Ticino,1
+163,1900-07-01,1992-10-17,,,,,Partito Socialista Ticinese,PST,2
+164,1992-10-18,,,,,,Partito Socialista Ticino,PS Ticino,2
+165,1969-04-27,1988-01-23,,,,,Partito socialista autonomo,PSA,
+166,1988-01-24,1992-10-17,,,,,Partito socialista unitario,PSU,
+167,1946-07-01,,,,,,Partito Liberale Radicale Ticinese,PLRT,3
+168,1855-07-01,,,,,,il Centro,,4
+169,1994-07-01,,,,,,I Verdi del Cantone Ticino,I Verdi,5
+170,1984-07-01,1994-06-30,,,,,Movimento ecologista ticinese,MET,
+171,1990-03-25,1994-06-30,,,,,Svolta ecopolitica,SVEPO,
+172,1990-05-20,1994-06-30,,,,,Movimento dei verdi ticinesi,MVT,
+173,2013-02-22,,Partito verde liberale Ticino,pvlt,,,,,6
+174,2005-07-01,,,,,,Unione Democratica Federale del Cantone Ticino,UDF Ticino,8
+175,1944-08-15,,,,,,Partito Comunista,PC,
+176,2015-01-25,,,,,,Partito Operaio e Popolare Ticino,POP Ticino,14
+177,1934-07-01,1946-06-30,,,,,Partito liberale radicale,,
+178,1934-07-01,1946-06-30,,,,,Partito liberale democratico,,
+179,1894-07-01,1934-06-30,,,,,Partito liberale,,
+180,1986-07-01,1988-01-23,,,,,Comunità dei Socialisti Ticinesi,CST,
+181,1972-04-10,,Schweizerische Volkspartei Kanton Schwyz,SVP Kanton Schwyz,,,,,1
+182,1919-07-01,,Sozialdemokratische Partei des Kantons Schwyz,SP-SZ,,,,,2
+183,1833-07-01,,FDP.Die Liberalen Kanton Schwyz,,,,,,3
+184,1971-11-27,,Die Mitte Schwyz,Mitte SZ,,,,,4
+185,1946-07-01,1971-11-26,Christlichsoziale Volkspartei des Kantons Schwyz,,,,,,10
+186,1900-01-01,1971-11-26,Konservative Volkspartei des Kantons Schwyz,,,,,,10
+187,2007-06-21,,GRÜNE Schwyz,,,,,,5
+188,1983-05-28,2007-06-20,,,,,,,
+189,2012-08-22,,Grünliberale Partei Kanton Schwyz,GLP SZ,,,,,6
+190,2009-08-31,, Evangelische Volkspartei des Kantons Schwyz,EVP SZ,,,,,7
+191,2009-08-17,2016-06-30,Bürgerlich-Demokratische Partei des Kantons Schwyz,BDP Schwyz,,,,,13
+192,1999-12-03,,Schweizerische Volkspartei Obwalden,SVP Obwalden,,,,,1
+193,1998-02-02,,Sozialdemokratische Partei des Kantons Obwalden,SP Obwalden,,,,,2
+194,1992-10-15,1998-02-01,,,,,,,
+195,1911-07-01,,FDP.Die Liberalen Obwalden,,,,,,3
+196,1919-10-12,,Die Mitte Obwalden,,,,,,4
+197,2008-12-05,2009-11-29,Grüne Obwalden,,,,,,5
+198,2021-06-11,,Grünliberale Kanton Obwalden,glp,,,,,6
+199,1956-07-01,,Christlichsoziale Partei Obwalden,CSP-OW,,,,,
+200,2008-11-19,2009-06-30,Bürgerlich-Demokratische Partei Kanton Obwalden,BDP Obwalden,,,,,
+201,1999-08-28,,Schweizerische Volkspartei des Kantons Nidwalden,SVP Nidwalden,,,,,1
+202,1942-07-01,,Sozialdemokratische Partei Nidwalden,,,,,,2
+203,1902-11-10,,FDP.Die Liberalen Nidwalden,,,,,,3
+204,1970-07-01,,Die Mitte Nidwalden,,,,,,4
+205,1896-07-01,1970-06-30,Katholisch-konservative Partei Nidwalden,,,,,,10
+206,1946-07-01,1970-06-30,Christlichsoziale Partei Nidwalden,,,,,,10
+207,1982-01-08,,Grüne Nidwalden,,,,,,5
+208,2021-06-21,,Grünliberale Partei Nidwalden,glp NW,,,,,6
+209,1920-01-01,1936-12-22,"Vorläufer der Bauern-, Gewerbe und Bürgerpartei",,"Précurseurs du parti des paysans, artisans et indépendants",,,,
+210,1928-07-01,,Schweizerische Volkspartei des Kantons Glarus,,,,,,1
+211,1917-12-30,,Sozialdemokratische Partei des Kantons Glarus,SP Kanton Glarus,,,,,2
+212,1920-07-01,,FDP.Die Liberalen des Kantons Glarus,FDP GL,,,,,3
+213,2021-05-12,,Die Mitte Glarnerland,,,,,,4
+214,1903-07-01,2021-05-11,Christlichdemokratische Volkspartei des Kantons Glarus,CVP des Kantons Glarus,,,,,4
+215,1987-03-18,,Grüne des Kantons Glarus,,,,,,5
+216,2013-03-14,,Grünliberale Glarus,GLP Glarus,,,,,6
+217,1991-07-01,,Eidgenössisch-Demokratische Union Kanton Glarus,EDU Glarus,,,,,8
+218,2008-08-28,2021-05-11,Bürgerlich-Demokratische Partei des Kantons Glarus,BDP Kanton Glarus,,,,,4
+219,1902-07-01,1928-06-30,Demokraten Glarus,,,,,,
+220,1838-07-01,1927-06-30,Glarner Grütliverein,,,,,,
+221,1991-09-11,,Schweizerische Volkspartei des Kantons und Freistaates Zug,SVP Kanton Zug,,,,,1
+222,1889-09-01,,Sozialdemokratische Partei des Kantons Zug,SP Kanton Zug,,,,,2
+223,1870-07-01,,FDP.Die Liberalen Zug,,,,,,3
+224,1885-07-01,,Die Mitte Kanton Zug,,,,,,4
+225,2005-08-27,,Alternative – die Grünen Zug,ALG Zug,,,,,5
+226,1986-07-01,2005-08-26,,,,,,,43
+227,2007-11-28,,Grünliberale Partei Kanton Zug,glp Zug,,,,,6
+228,2021-12-09,,Evangelische Volkspartei Kanton Zug,EVP Kanton Zug,,,,,7
+229,2003-05-14,,Christlich Soziale Partei Zug,CSP Zug,,,,,
+230,2025-01-24,,Eidgenössisch-Demokratische Union Kanton Zug,EDU Kanton Zug,,,,,8
+231,1945-07-01,,Schweizerische Volkspartei des Kantons Freiburg,SVP-FR,Union Démocratique du Centre du canton de Fribourg,UDC-FR,,,1
+232,1908-07-01,,Sozialdemokratische Partei des Kantons Freiburg,SP Freiburg,Parti socialiste fribourgeois,PSF,,,2
+233,1894-07-01,2006-06-30,Freisinnig-Demokratische Partei des Kantons Freiburg,FDPF,Parti radical-démocratique fribourgeois,PRDF,,,9
+234,2006-07-01,,FDP.Die Liberalen des Kantons Freiburg,FDPF,PLR.Les Libéraux-Radicaux du canton de Fribourg,PLRF,,,3
+235,1981-04-25,2006-06-30,Liberale Partei des Kantons Freiburg,,Parti libéral fribourgeois,,,,15
+236,1857-07-01,2021-06-30,Die Mitte Freiburg,,Le Centre Fribourg,,,,4
+237,2021-07-01,,Die Mitte Freiburg,,Le Centre Fribourg,,,,4
+238,1985-07-01,1990-06-30,,,Parti écologiste fribourgeois,PEF,,,5
+239,1990-07-01,,GRÜNE Freiburg,,VERT-E-S Fribourg,,,,5
+240,2009-05-08,,Grünliberale Partei Kanton Freiburg,glp fr,Parti vert’libéral du canton de Fribourg,pvl fr,,,6
+241,1996-09-19,,Evangelische Volkspartei des Kantons Freiburg,EVP FR,Parti Évangélique Canton de Fribourg,PEV FR,,,7
+242,1980-09-15,,Mitte Links des Kantons Freiburg,ML,Centre Gauche fribourgeois,CG,,,66
+243,1966-07-01,1980-09-14,Unabhängig-Christlichsoziale Partei des Kantons Freiburg,,Parti indépendant chrétien-social,PICS,,,
+244,1993-07-01,,Eidgenössisch-Demokratische Union des Kantons Freiburg,EDU FR,Union Démocratique Féderale du canton de Fribourg,UDF FR,,,8
+245,2010-04-28,2021-06-30,Bürgerlich-Demokratische Partei Kanton Freiburg,BDP Freiburg,Parti Bourgeois-Démocratique du canton de Fribourg,PBD Fribourg,,,4
+246,1972-07-01,,Partei der Arbeit Freiburg,,Parti ouvrier et populaire Fribourg,,,,14
+247,1985-07-01,1990-06-30,,,Ecologie et Solidarité,,,,43
+248,1838-05-20,1925-06-30,Grütliverein,,Société du Grutli,,,,
+249,1991-06-20,,Schweizerische Volkspartei des Kantons Solothurn,SVP Kanton Solothurn,,,,,1
+250,1944-07-01,1991-06-19,,,,,,,
+251,1890-09-14,,Sozialdemokratische Partei des Kantons Solothurn,SP,,,,,2
+252,1883-02-15,1890-09-12,Solothurner Sektion der Sozialdemokratischen Partei der Schweiz,,,,,,
+253,1872-10-06,,FDP.Die Liberalen Kanton Solothurn,,,,,,3
+254,1902-12-07,,Die Mitte Kanton Solothurn,,,,,,4
+255,2009-06-17,2021-06-30,Bürgerlich-Demokratische Partei Kanton Solothurn,BDP Kanton Solothurn,,,,,
+256,1990-07-01,,Grüne Kanton Solothurn,,,,,,5
+257,2008-11-03,,Grünliberale Partei des Kantons Solothurn,glp des Kantons Solothurn,,,,,6
+258,1989-11-14,2004-03-11,,,,,,,
+259,2004-03-12,,Evangelische Volkspartei Kanton Solothurn,EVP Kanton Solothurn,,,,,7
+260,1987-10-07,2008-12-03,,,,,,,
+261,2008-12-04,,Eidgenössisch-Demokratische Union Kanton Solothurn,EDU Kanton Solothurn,,,,,8
+262,1969-01-01,1985-01-29,,,,,,,
+263,1985-01-30,2006-03-03,,,,,,,
+264,2006-03-04,,Schweizer Demokraten Kanton Solothurn,,,,,,33
+265,1918-12-19,,Schweizerische Volkspartei des Kantons Schaffhausen,SVP Schaffhausen,,,,,1
+266,1935-07-07,,Sozialdemokratische Partei des Kantons Schaffhausen,SPSH,,,,,2
+267,1921-07-01,1935-07-06,Sozialdemokratische Partei,,,,,,
+268,1911-07-01,1935-07-06,Kommunistische Partei-Opposition,,,,,,
+269,1904-01-24,,FDP.Die Liberalen Kanton Schaffhausen,FDP SH,,,,,3
+270,1911-07-01,,Die Mitte Schaffhausen,,,,,,4
+271,1990-07-01,,Grüne Partei Schaffhausen,Grüne Schaffhausen,,,,,5
+272,2014-06-30,,Grünliberale Partei des Kantons Schaffhausen,glp SH,,,,,6
+273,1922-04-02,,Evangelische Volkspartei Kanton Schaffhausen,EVP Kanton Schaffhausen,,,,,7
+274,1919-01-13,1922-04-01,Evangelisch-soziale Vereinigung,,,,,,7
+275,1905-06-26,1922-04-01,Liberal-demokratische Partei des Kantons Schaffhausen,LDP,,,,,
+276,1985-04-27,,Eidgenössisch-Demokratische Union des Kantons Schaffhausen,EDU Schaffhausen,,,,,8
+277,1987-07-01,2004-06-30,Grünes Bündnis Schaffhausen,,,,,,
+278,1937-03-15,1999-12-03,Standesring Schaffhausen,,,,,,34
+279,1972-12-01,1987-06-30,Progressive Organisationen Schaffhausen,POCH Schaffhausen,,,,,408
+280,1975-07-01,,Schweizerische Volkspartei von Appenzell Ausserrhoden,SVP AR,,,,,1
+281,1913-07-01,,Sozialdemokratische Partei des Kantons Appenzell Ausserrhoden,SP AR,,,,,2
+282,1874-07-01,1919-06-30,Freisinnig-demokratische Partei von Appenzell A.Rh.,,,,,,9
+283,1919-07-01,,FDP.Die Liberalen des Kantons Appenzell Ausserrhoden,FDP.Die Liberalen AR,,,,,3
+284,1933-07-01,,Die Mitte Appenzell Ausserrhoden,,,,,,4
+285,1997-11-26,,Evangelische Volkspartei des Kantons Appenzell Ausserrhoden,EVP AR,,,,,7
+286,1995-01-01,,Freisinnige Frauen beider Basel,FFBB,,,,,105
+286,1995-01-01,,Freisinnige Frauen beider Basel,FFBB,,,,,76
+287,1996-07-01,,Schweizerische Volkspartei Appenzell Innerrhoden,SVP AI,,,,,1
+288,1870-07-01,1925-12-14,Grütliverein Appenzell,,,,,,
+289,1906-07-01,1946-06-05,Freisinnig-demokratischer Verein,,,,,,9
+290,1914-03-29,1988-12-31,,,,,,,
+291,1969-07-01,,Gruppe für Innerrhoden,GFI,,,,,
+292,2012-08-17,,Sozialdemokratische Partei des Kantons Appenzell lnnerrhoden,SP AI,,,,,2
+293,2017-06-09,,FDP.Die Liberalen Appenzell-Innerrhoden,,,,,,3
+294,1988-07-01,,Die Mitte des Kantons Appenzell Innerrhoden,Die Mitte AI,,,,,4
+295,2004-08-14,2016-02-11,Grünes Appenzellerland,GRAL,,,,,5
+296,2021-08-30,,Grünliberale Partei Appenzellerland,GLP Appenzellerland,,,,,6
+297,1997-07-01,,Eidgenössisch-Demokratische Union Appenzellerland,EDU Appenzellerland,,,,,8
+298,1992-11-23,,Schweizerische Volkspartei des Kantons St. Gallen,SVP des Kantons St. Gallen,,,,,1
+299,1905-01-15,,Sozialdemokratische Partei des Kantons St.Gallen,SP Kanton St.Gallen,,,,,2
+300,1890-12-14,,Freisinnig-Demokratische Partei des Kantons St.Gallen,FDP des Kantons St.Gallen,,,,,3
+301,1834-12-28,,Die Mitte Kanton St.Gallen,,,,,,4
+302,1983-05-28,,GRÜNE Kanton St.Gallen,GRÜNE SG,,,,,5
+303,2007-07-04,,Grünliberale Partei Kanton St.Gallen,GLP Sg,,,,,6
+304,1928-07-01,1971-06-30,,,,,,,
+305,1971-07-01,,Evangelische Volkspartei des Kantons St.Gallen,EVP des Kantons St.Gallen,,,,,7
+306,1994-07-01,,Eidgenössisch-Demokratische Union Kanton St. Gallen,EDU Kanton St. Gallen,,,,,8
+307,2009-01-30,2020-06-30,Bürgerlich-Demokratische Partei Kanton St. Gallen,BDP Kanton St. Gallen,,,,,13
+308,1944-07-01,2003-02-27,,,,,,,
+309,2003-02-28,2019-12-31,Partei der Arbeit St.Gallen,,,,,,14
+310,1987-07-01,2000-01-14,Auto-Partei St.Gallen,APSG,,,,,
+311,1919-09-14,2021-06-06,,,,,,,
+312,2008-06-19,,Schweizerische Volkspartei des Kantons Graubünden,SVP Graubünden,,,,,1
+313,1873-04-02,1890-12-13,Liberaler Verein Kanton St. Gallen,,,,,,
+314,1931-07-01,1945-12-31,Fortschrittliche Bürgerpartei,,,,,,
+315,1881-10-23,1936-06-30,Demokratische und Arbeiterpartei des Kantons St. Gallen,,,,,,
+316,1927-11-15,1934-12-31,Demokratische Fortschrittspartei,,,,,,
+317,1906-05-27,,Sozialdemokratische Partei des Kantons Graubünden,SP GR,,,,,2
+318,1868-07-01,,FDP.Die Liberalen des Kantons Graubünden,,,,PLR.I Liberali del Canton Grigioni,,3
+319,2021-06-07,,Die Mitte Graubünden,,,,,,4
+320,1903-05-22,2021-06-06,Christlichdemokratische Volkspartei Graubünden,CVP Graubünden,,,,,4
+321,2007-06-26,,GRÜNE Graubünden,,,,,,5
+322,1987-07-01,2007-06-25,,,,,,,
+323,2008-02-27,,Grünliberale Kanton Graubünden,,,,,,6
+324,2007-05-12,,Evangelische Volkspartei Graubünden,EVP GR,,,,,7
+325,1987-11-07,2000-06-30,,,,,,,
+326,1936-11-15,1987-11-06,Christlichsoziale Partei von Graubünden,CSP Graubünden,,,,,
+327,1995-07-01,,Eidgenössische-Demokratische Union Graubünden,EDU Graubünden,,,,,8
+328,1920-12-18,,Schweizerische Volkspartei Aargau ,SVP Aargau,,,,,1
+329,1902-05-04,,Sozialdemokratische Partei  Kanton Aargau,SP Kanton Aargau,,,,,2
+330,1895-03-08,,FDP.Die Liberalen Aargau,,,,,,3
+331,2021-01-19,,Die Mitte Aargau,,,,,,4
+332,1892-07-01,2021-01-18,Christlichdemokratische Volkspartei Aargau,CVP Aargau,,,,,4
+333,2008-11-21,2021-01-18,Bürgerlich-Demokratische Partei des Kantons Aargau,BDP Kanton Aargau,,,,,4
+334,1983-08-13,,Grüne Aargau,,,,,,5
+335,2008-06-27,,Grünliberale Partei Kanton Aargau,glp ag,,,,,6
+336,1921-10-15,,Evangelische Volkspartei des Kantons Aargau,,,,,,7
+337,1987-07-01,,Eidgenössisch-Demokratische Union Kanton Aargau,EDU Kanton Aargau,,,,,8
+338,2022-07-01,,Partei der Arbeit Aargau,PdA Aargau,,,,,14
+339,2005-06-25,2008-12-30,Union der Freisinnigen und Liberalen,,Union Libérale-Radicale,,,,
+340,1985-04-23,,Schweizerische Volkspartei des Kantons Thurgau,SVP Thurgau,,,,,1
+341,1906-07-01,,Sozialdemokratische Partei des Kantons Thurgau,SP Thurgau,,,,,2
+342,1890-12-28,,FDP.Die Liberalen Thurgau,,,,,,3
+343,1905-07-01,1973-06-27,Christlichdemokratische Volkspartei des Kantons Thurgau,CVP Thurgau,,,,,10
+344,1973-06-28,,Die Mitte Thurgau,,,,,,4
+345,1947-07-01,1973-06-27,Christlich-Soziale Partei Thurgau,CSP Thurgau,,,,,10
+346,2008-11-10,2021-05-30,Bürgerlich-Demokratische Partei Kanton Thurgau,BDP Kanton Thurgau,,,,,4
+347,1983-12-01,,GRÜNE Thurgau,GRÜNE TG,,,,,5
+348,2008-01-09,,Grünliberale Kanton Thurgau,,,,,,6
+349,1955-07-01,,Evangelische Volkspartei des Kantons Thurgau,EVP des Kantons Thurgau,,,,,7
+350,1997-07-01,,Eidgenössisch-Demokratische Union Thurgau,EDU Thurgau,,,,,8
+351,1945-07-01,1954-12-31,Partei der Arbeit Kanton Thurgau,,,,,,14
+352,1891-02-01,1932-06-30,Demokratisch-Volkswirtschaftliche Partei des Kantons Thurgau,,,,,,
+353,1849-01-01,1902-05-03,,,,,,,248
+354,1925-01-01,1946-12-31,Sozialdemokratische Partei von Appenzell,,,,,,2
+355,1834-10-24,1834-12-27,Oberegger Verein,,,,,,
+356,1985-02-25,,Auto-Partei,APS,Parti des automobilistes,,,,
+357,1971-05-12,1989-04-21,Republikanische Partei der Schweiz,RPS,Mouvement national d'action républicaine et sociale suisse,,,,
+358,1835-07-01,,Verband Thurgauer Landwirtschaft,VTL,,,,,
+359,1921-01-13,,,,Union démocratique du centre du Canton de Vaud,UDC Vaud,,,1
+360,1890-07-01,,,,Parti socialiste vaudois,PSV,,,2
+361,1845-07-01,2012-09-25,,,,,,,
+362,2012-09-26,,,,PLR.Les Libéraux-Radicaux Vaud,PLRV,,,3
+363,1913-07-01,2012-09-25,,,Parti libéral vaudois,PLV,,,15
+364,2021-04-30,,,,Le Centre Vaud,Le Centre-VD,,,4
+365,1952-03-15,2021-04-29,,,Le Centre Vaud,Le Centre-VD,,,4
+366,2011-04-14,2021-04-29,,,Parti Bourgeois Démocratique du Canton de Vaud,PBD Vaud,,,4
+367,1973-07-01,1974-01-31,,,Mouvement pour l'environment vaudois,MPE,,,
+368,1974-02-01,1997-03-07,,,Groupement pour la protection de l'environment,GPE,,,5
+369,1997-03-08,,,,"Les Vert·e·s, mouvement écologiste vaudois",,,,5
+370,1983-04-15,1997-03-07,ASV – Les Verts alternatifs,,,,,,43
+371,1983-01-01,1984-12-31,,,Autrement Vaud,,,,43
+372,2010-02-18,,,,Parti vert'libéral vaudois,,,,6
+373,2004-05-22,,,,Le parti évangélique du canton de Vaud,PEVD,,,7
+374,1975-07-01,,,,Union Démocratique Fédérale Canton de Vaud,UDF Vaud,,,8
+375,2010-04-06,2016-12-31,,,Mouvement Citoyens Vaudois,MCVD,,,377
+376,1943-05-21,,,,Parti Ouvrier et Populaire Vaudois,POP,,,
+377,2011-07-01,,Mouvement citoyens romands,,Mouvement citoyens romands,,,,
+378,2001-10-18,,,,Union Démocratique du Centre Neuchâtel,UDC Neuchâtel,,,1
+379,1896-09-15,,,,Parti socialiste neuchâtelois,PSN,,,2
+380,1848-05-14,2008-06-20,,,,,,,
+381,2008-06-21,,,,Parti libéral-radical neuchâtelois,PLRN,,,3
+382,1981-07-01,2008-06-20,,,,,,,
+383,1873-07-01,1981-06-30,,,Parti libéral neuchâtelois,,,,15
+384,1919-07-01,1981-06-30,,,Parti progressiste national,PPN,,,
+385,1928-07-01,1969-12-31,,,Parti démocratique populaire,,,,10
+386,2004-02-15,,,,Le Centre du canton de Neuchâtel,Le Centre NE,,,4
+387,1984-01-24,,,,Les Vert-e-s neuchâtelois-es,,,,5
+388,2012-10-29,,,,Parti vert'libéral neuchâtelois,PVL neuchâtelois,,,6
+389,2006-05-31,,,,Parti Evangélique du Canton de Neuchâtel,,,,7
+390,1992-07-01,,,,Union Démocratique Fédérale Neuchâtel,UDF Neuchâtel,,,8
+391,2010-06-03,2014-12-31,,,Mouvement Citoyens Neuchâtelois,MCNE,,,377
+392,2010-10-14,2015-12-30,,,Parti Bourgeois Démocratique du canton de Neuchâtel,PBD Canton de Neuchâtel,,,13
+393,1944-07-01,,,,Parti Ouvrier et Populaire Neuchâtelois,POP-NE,,,14
+394,1987-07-01,,,,"Union Démocratique du Centre, Genève",UDC-GE,,,1
+395,1892-07-01,,,,Parti socialiste genevois,PSG,,,2
+396,1841-07-01,2011-05-23,,,Parti Radical Genevois,PRG,,,3
+397,2011-05-24,,,,Parti libéral-radical genevois,PLRG,,,3
+398,1875-07-01,2011-05-23,,,Parti Libéral Genevois,PLG,,,15
+399,1892-07-01,,,,Le Centre du canton de Genève,,,,4
+400,1983-01-31,,,,Les Vert-e-s genevois-es,Les Vert-e-s,,,5
+401,2010-09-29,,,,Parti vert'libéral genevois,,,,6
+402,2007-08-27,,Parti évangélique Genève,PEV GE,,,,,7
+403,1993-07-01,,,,Union Démocratique Fédérale Genève,UDF Genève,,,8
+404,2005-06-06,,,,Mouvement Citoyen Genevois,MCG,,,377
+405,2013-02-13,2021-12-20,,,Parti Citoyen Démocratique de Genève,,,,4
+406,1943-06-08,,,,Parti du Travail genevois,,,,14
+407,1921-01-24,1943-06-07,,,,,,,
+408,1971-07-01,1993-06-30,Progressive Organisationen der Schweiz,POCH,Organisations progressistes suisses,POCH,,,
+409,1973-07-01,,Revolutionär Marxistische Liga BS,,,,,,
+410,1850-01-01,1888-10-20,Vorläufer der SP,,Précurseurs du PS,,,,
+411,1921-03-06,1944-10-13,,,,,,,
+413,1850-01-01,1913-10-07,Vorläufer der LPS,,Précurseurs du PLS,,,,
+414,1930-01-01,1936-12-29,Vorläufer der LdU,,Précurseurs d'AdI,,,,
+415,1918-07-01,1944-04-18,,,,,,,
+416,1915-07-04,1990-06-30,Liberalsozialistische Partei der Schweiz,LSP,Parti libéral-socialiste Suisse,,,,
+417,1935-11-09,1946-06-30,Jungbauern,,Jeunes Paysans,,,,
+418,1969-10-15,1989-06-30,Sozialistische Arbeiterpartei,SAP,Parti socialiste ouvrier,PSO,,,
+419,1994-11-26,,Katholische Volkspartei,KVP,Parti Chrétien-Conservateur,,,,
+420,1901-07-01,1916-06-30,Föderation SP / Grütliverein Schweiz,,,,,,
+421,1943-09-15,1990-06-30,Freiwirtschaftliche Bewegung der Schweiz,,,,,,
+422,1994-06-04,2011-12-31,Demokratisch-Soziale Partei der Schweiz,DSP der Schweiz,,,,,
+423,1995-09-23,2009-12-31,Demokratisch-Soziale Partei Baselland,,,,,,422
+424,1987-11-03,2016-12-31,Demokratisch-Soziale Partei Graubünden,DSP Graubünden,,,,,422
+425,1989-05-03,2008-12-31,Bewegung Öffnung,,Mouvement Ouverture,MO,,,422

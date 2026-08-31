@@ -2,6 +2,16 @@
 
 This repository contains all the necessary code to convert the CSV Party Atlas from the University of Bern into RDF format using https://version.link schema.
 
+## Architecture
+
+### Generic Overview
+
+- The University of Bern provides the Party Atlas as a set of CSV files.
+- In this repository, a Docker container is created that contains all the necessary code.
+- Running the Docker container will convert the CSV files 
+  - on the one hand into RDF, that is uploaded to LINDAS
+  - on the other hand uploads it to I14Y
+
 ## Understanding the RAW CSV files
 
 ### party.csv
