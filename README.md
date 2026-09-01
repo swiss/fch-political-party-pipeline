@@ -35,8 +35,9 @@ This repository contains all the necessary code to convert the CSV Party Atlas f
 - Party ID 248 "Grütliverein", was associated with SP from 1901 to 1916 (according to HLS). However, in the CSV it is listed as associated with SP from 1901 to 1906.
 - Relation ID 126 / Name ID 137: to_date should probably be 2021-01-01 instead of 2020-12-31.
 - Party ID 65: Missing name for dates after 1980-01-01.
-- Party ID 51: Dissolution in 1999-01-01 but has successor (ID 50) in 2003-05-05
 - https://politics.ld.admin.ch/party-version/123_1979-07-01: empty space in front of the name
+- Party ID 62: Dissolution in 2010-07-01 but name ends in 2015-07-01
+- Party ID 194: Dissolution on 1998-01-31, successor on 1998-02-02
 
 ## Good Examples
 

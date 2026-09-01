@@ -13252,8 +13252,7 @@
       "2003-05-05"
     ],
     "version_ids": [
-      "1945-01-01",
-      "2003-05-05"
+      "1945-01-01"
     ],
     "events": [
       {
@@ -13282,7 +13281,7 @@
         "event_type": "name-change_stop",
         "corresponding_id": 84,
         "date": "1999-01-01",
-        "started_version": "2003-05-05",
+        "started_version": null,
         "stopped_version": "1945-01-01"
       },
       {
@@ -13291,7 +13290,13 @@
         "date": "1999-01-01",
         "party_from": 51,
         "party_to": 14,
-        "started_version": "2003-05-05",
+        "started_version": null,
+        "stopped_version": "1945-01-01"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "1999-01-01",
+        "started_version": null,
         "stopped_version": "1945-01-01"
       },
       {
@@ -13301,14 +13306,8 @@
         "party_from": 50,
         "party_to": 51,
         "started_version": null,
-        "stopped_version": "2003-05-05",
+        "stopped_version": "1945-01-01",
         "outside_successor": "50_2003-05-05"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "1999-01-01",
-        "started_version": "2003-05-05",
-        "stopped_version": "1945-01-01"
       }
     ],
     "versions": {
@@ -13328,7 +13327,7 @@
           }
         ],
         "successors": [
-          "51_2003-05-05"
+          "50_2003-05-05"
         ],
         "starting_events": [
           {
@@ -13359,7 +13358,7 @@
             "event_type": "name-change_stop",
             "corresponding_id": 84,
             "date": "1999-01-01",
-            "started_version": "2003-05-05",
+            "started_version": null,
             "stopped_version": "1945-01-01"
           },
           {
@@ -13368,53 +13367,15 @@
             "date": "1999-01-01",
             "party_from": 51,
             "party_to": 14,
-            "started_version": "2003-05-05",
+            "started_version": null,
             "stopped_version": "1945-01-01"
           },
           {
             "event_type": "dissolution",
             "date": "1999-01-01",
-            "started_version": "2003-05-05",
-            "stopped_version": "1945-01-01"
-          }
-        ]
-      },
-      "2003-05-05": {
-        "valid_from": "2003-05-05",
-        "valid_through": "2003-05-05",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "50_2003-05-05"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 84,
-            "date": "1999-01-01",
-            "started_version": "2003-05-05",
+            "started_version": null,
             "stopped_version": "1945-01-01"
           },
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 65,
-            "date": "1999-01-01",
-            "party_from": 51,
-            "party_to": 14,
-            "started_version": "2003-05-05",
-            "stopped_version": "1945-01-01"
-          },
-          {
-            "event_type": "dissolution",
-            "date": "1999-01-01",
-            "started_version": "2003-05-05",
-            "stopped_version": "1945-01-01"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 64,
@@ -13422,7 +13383,7 @@
             "party_from": 50,
             "party_to": 51,
             "started_version": null,
-            "stopped_version": "2003-05-05",
+            "stopped_version": "1945-01-01",
             "outside_successor": "50_2003-05-05"
           }
         ]
@@ -15848,8 +15809,7 @@
       "1976-05-22",
       "1981-07-01",
       "1985-01-01",
-      "1997-06-21",
-      "2015-07-01"
+      "1997-06-21"
     ],
     "events": [
       {
@@ -15943,7 +15903,13 @@
         "date": "2010-07-01",
         "party_from": 62,
         "party_to": 66,
-        "started_version": "2015-07-01",
+        "started_version": null,
+        "stopped_version": "1997-06-21"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "2010-07-01",
+        "started_version": null,
         "stopped_version": "1997-06-21"
       },
       {
@@ -15951,12 +15917,6 @@
         "corresponding_id": 101,
         "date": "2015-07-01",
         "started_version": null,
-        "stopped_version": "2015-07-01"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "2010-07-01",
-        "started_version": "2015-07-01",
         "stopped_version": "1997-06-21"
       }
     ],
@@ -16220,9 +16180,7 @@
             "party_to": 66
           }
         ],
-        "successors": [
-          "62_2015-07-01"
-        ],
+        "successors": [],
         "starting_events": [
           {
             "event_type": "child-of_start",
@@ -16241,50 +16199,21 @@
             "date": "2010-07-01",
             "party_from": 62,
             "party_to": 66,
-            "started_version": "2015-07-01",
+            "started_version": null,
             "stopped_version": "1997-06-21"
           },
           {
             "event_type": "dissolution",
             "date": "2010-07-01",
-            "started_version": "2015-07-01",
-            "stopped_version": "1997-06-21"
-          }
-        ]
-      },
-      "2015-07-01": {
-        "valid_from": "2015-07-01",
-        "valid_through": "2015-07-01",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [],
-        "starting_events": [
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 88,
-            "date": "2010-07-01",
-            "party_from": 62,
-            "party_to": 66,
-            "started_version": "2015-07-01",
+            "started_version": null,
             "stopped_version": "1997-06-21"
           },
-          {
-            "event_type": "dissolution",
-            "date": "2010-07-01",
-            "started_version": "2015-07-01",
-            "stopped_version": "1997-06-21"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "name-change_stop",
             "corresponding_id": 101,
             "date": "2015-07-01",
             "started_version": null,
-            "stopped_version": "2015-07-01"
+            "stopped_version": "1997-06-21"
           }
         ]
       }
@@ -16730,8 +16659,7 @@
       "1997-06-21"
     ],
     "version_ids": [
-      "1976-05-22",
-      "1997-06-21"
+      "1976-05-22"
     ],
     "events": [
       {
@@ -16760,7 +16688,13 @@
         "event_type": "name-change_stop",
         "corresponding_id": 102,
         "date": "1995-01-01",
-        "started_version": "1997-06-21",
+        "started_version": null,
+        "stopped_version": "1976-05-22"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "1995-01-01",
+        "started_version": null,
         "stopped_version": "1976-05-22"
       },
       {
@@ -16770,14 +16704,8 @@
         "party_from": 66,
         "party_to": 65,
         "started_version": null,
-        "stopped_version": "1997-06-21",
+        "stopped_version": "1976-05-22",
         "outside_successor": "66_1997-06-21"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "1995-01-01",
-        "started_version": "1997-06-21",
-        "stopped_version": "1976-05-22"
       }
     ],
     "versions": {
@@ -16794,7 +16722,7 @@
         },
         "relationships": [],
         "successors": [
-          "65_1997-06-21"
+          "66_1997-06-21"
         ],
         "starting_events": [
           {
@@ -16825,44 +16753,15 @@
             "event_type": "name-change_stop",
             "corresponding_id": 102,
             "date": "1995-01-01",
-            "started_version": "1997-06-21",
+            "started_version": null,
             "stopped_version": "1976-05-22"
           },
           {
             "event_type": "dissolution",
             "date": "1995-01-01",
-            "started_version": "1997-06-21",
-            "stopped_version": "1976-05-22"
-          }
-        ]
-      },
-      "1997-06-21": {
-        "valid_from": "1997-06-21",
-        "valid_through": "1997-06-21",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "66_1997-06-21"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 102,
-            "date": "1995-01-01",
-            "started_version": "1997-06-21",
+            "started_version": null,
             "stopped_version": "1976-05-22"
           },
-          {
-            "event_type": "dissolution",
-            "date": "1995-01-01",
-            "started_version": "1997-06-21",
-            "stopped_version": "1976-05-22"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 84,
@@ -16870,7 +16769,7 @@
             "party_from": 66,
             "party_to": 65,
             "started_version": null,
-            "stopped_version": "1997-06-21",
+            "stopped_version": "1976-05-22",
             "outside_successor": "66_1997-06-21"
           }
         ]
@@ -23181,8 +23080,7 @@
       "2019-07-01"
     ],
     "version_ids": [
-      "1991-07-01",
-      "2019-07-01"
+      "1991-07-01"
     ],
     "events": [
       {
@@ -23220,7 +23118,7 @@
         "event_type": "name-change_stop",
         "corresponding_id": 155,
         "date": "2014-07-01",
-        "started_version": "2019-07-01",
+        "started_version": null,
         "stopped_version": "1991-07-01"
       },
       {
@@ -23229,7 +23127,13 @@
         "date": "2014-07-01",
         "party_from": 89,
         "party_to": 14,
-        "started_version": "2019-07-01",
+        "started_version": null,
+        "stopped_version": "1991-07-01"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "2014-07-01",
+        "started_version": null,
         "stopped_version": "1991-07-01"
       },
       {
@@ -23239,14 +23143,8 @@
         "party_from": 90,
         "party_to": 89,
         "started_version": null,
-        "stopped_version": "2019-07-01",
+        "stopped_version": "1991-07-01",
         "outside_successor": "90_2019-07-01"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "2014-07-01",
-        "started_version": "2019-07-01",
-        "stopped_version": "1991-07-01"
       }
     ],
     "versions": {
@@ -23266,7 +23164,7 @@
           }
         ],
         "successors": [
-          "89_2019-07-01"
+          "90_2019-07-01"
         ],
         "starting_events": [
           {
@@ -23306,7 +23204,7 @@
             "event_type": "name-change_stop",
             "corresponding_id": 155,
             "date": "2014-07-01",
-            "started_version": "2019-07-01",
+            "started_version": null,
             "stopped_version": "1991-07-01"
           },
           {
@@ -23315,53 +23213,15 @@
             "date": "2014-07-01",
             "party_from": 89,
             "party_to": 14,
-            "started_version": "2019-07-01",
+            "started_version": null,
             "stopped_version": "1991-07-01"
           },
           {
             "event_type": "dissolution",
             "date": "2014-07-01",
-            "started_version": "2019-07-01",
-            "stopped_version": "1991-07-01"
-          }
-        ]
-      },
-      "2019-07-01": {
-        "valid_from": "2019-07-01",
-        "valid_through": "2019-07-01",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "90_2019-07-01"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 155,
-            "date": "2014-07-01",
-            "started_version": "2019-07-01",
+            "started_version": null,
             "stopped_version": "1991-07-01"
           },
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 131,
-            "date": "2014-07-01",
-            "party_from": 89,
-            "party_to": 14,
-            "started_version": "2019-07-01",
-            "stopped_version": "1991-07-01"
-          },
-          {
-            "event_type": "dissolution",
-            "date": "2014-07-01",
-            "started_version": "2019-07-01",
-            "stopped_version": "1991-07-01"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 130,
@@ -23369,7 +23229,7 @@
             "party_from": 90,
             "party_to": 89,
             "started_version": null,
-            "stopped_version": "2019-07-01",
+            "stopped_version": "1991-07-01",
             "outside_successor": "90_2019-07-01"
           }
         ]
@@ -24656,8 +24516,7 @@
       "1944-04-17"
     ],
     "version_ids": [
-      "1921-07-01",
-      "1944-04-17"
+      "1921-07-01"
     ],
     "events": [
       {
@@ -24695,7 +24554,7 @@
         "event_type": "name-change_stop",
         "corresponding_id": 164,
         "date": "1940-11-26",
-        "started_version": "1944-04-17",
+        "started_version": null,
         "stopped_version": "1921-07-01"
       },
       {
@@ -24704,7 +24563,13 @@
         "date": "1940-11-26",
         "party_from": 96,
         "party_to": 411,
-        "started_version": "1944-04-17",
+        "started_version": null,
+        "stopped_version": "1921-07-01"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "1940-11-26",
+        "started_version": null,
         "stopped_version": "1921-07-01"
       },
       {
@@ -24714,14 +24579,8 @@
         "party_from": 88,
         "party_to": 96,
         "started_version": null,
-        "stopped_version": "1944-04-17",
+        "stopped_version": "1921-07-01",
         "outside_successor": "88_1944-04-17"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "1940-11-26",
-        "started_version": "1944-04-17",
-        "stopped_version": "1921-07-01"
       }
     ],
     "versions": {
@@ -24741,7 +24600,7 @@
           }
         ],
         "successors": [
-          "96_1944-04-17"
+          "88_1944-04-17"
         ],
         "starting_events": [
           {
@@ -24781,7 +24640,7 @@
             "event_type": "name-change_stop",
             "corresponding_id": 164,
             "date": "1940-11-26",
-            "started_version": "1944-04-17",
+            "started_version": null,
             "stopped_version": "1921-07-01"
           },
           {
@@ -24790,53 +24649,15 @@
             "date": "1940-11-26",
             "party_from": 96,
             "party_to": 411,
-            "started_version": "1944-04-17",
+            "started_version": null,
             "stopped_version": "1921-07-01"
           },
           {
             "event_type": "dissolution",
             "date": "1940-11-26",
-            "started_version": "1944-04-17",
-            "stopped_version": "1921-07-01"
-          }
-        ]
-      },
-      "1944-04-17": {
-        "valid_from": "1944-04-17",
-        "valid_through": "1944-04-17",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "88_1944-04-17"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 164,
-            "date": "1940-11-26",
-            "started_version": "1944-04-17",
+            "started_version": null,
             "stopped_version": "1921-07-01"
           },
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 621,
-            "date": "1940-11-26",
-            "party_from": 96,
-            "party_to": 411,
-            "started_version": "1944-04-17",
-            "stopped_version": "1921-07-01"
-          },
-          {
-            "event_type": "dissolution",
-            "date": "1940-11-26",
-            "started_version": "1944-04-17",
-            "stopped_version": "1921-07-01"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 127,
@@ -24844,7 +24665,7 @@
             "party_from": 88,
             "party_to": 96,
             "started_version": null,
-            "stopped_version": "1944-04-17",
+            "stopped_version": "1921-07-01",
             "outside_successor": "88_1944-04-17"
           }
         ]
@@ -33767,8 +33588,7 @@
       "1967-07-01"
     ],
     "version_ids": [
-      "1945-07-01",
-      "1967-07-01"
+      "1945-07-01"
     ],
     "events": [
       {
@@ -33792,7 +33612,13 @@
         "date": "1950-01-01",
         "party_from": 135,
         "party_to": 14,
-        "started_version": "1967-07-01",
+        "started_version": null,
+        "stopped_version": "1945-07-01"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "1950-01-01",
+        "started_version": null,
         "stopped_version": "1945-07-01"
       },
       {
@@ -33802,14 +33628,8 @@
         "party_from": 136,
         "party_to": 135,
         "started_version": null,
-        "stopped_version": "1967-07-01",
+        "stopped_version": "1945-07-01",
         "outside_successor": "136_1967-07-01"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "1950-01-01",
-        "started_version": "1967-07-01",
-        "stopped_version": "1945-07-01"
       }
     ],
     "versions": {
@@ -33827,7 +33647,7 @@
           }
         ],
         "successors": [
-          "135_1967-07-01"
+          "136_1967-07-01"
         ],
         "starting_events": [
           {
@@ -33853,46 +33673,15 @@
             "date": "1950-01-01",
             "party_from": 135,
             "party_to": 14,
-            "started_version": "1967-07-01",
+            "started_version": null,
             "stopped_version": "1945-07-01"
           },
           {
             "event_type": "dissolution",
             "date": "1950-01-01",
-            "started_version": "1967-07-01",
-            "stopped_version": "1945-07-01"
-          }
-        ]
-      },
-      "1967-07-01": {
-        "valid_from": "1967-07-01",
-        "valid_through": "1967-07-01",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "136_1967-07-01"
-        ],
-        "starting_events": [
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 187,
-            "date": "1950-01-01",
-            "party_from": 135,
-            "party_to": 14,
-            "started_version": "1967-07-01",
+            "started_version": null,
             "stopped_version": "1945-07-01"
           },
-          {
-            "event_type": "dissolution",
-            "date": "1950-01-01",
-            "started_version": "1967-07-01",
-            "stopped_version": "1945-07-01"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 189,
@@ -33900,7 +33689,7 @@
             "party_from": 136,
             "party_to": 135,
             "started_version": null,
-            "stopped_version": "1967-07-01",
+            "stopped_version": "1945-07-01",
             "outside_successor": "136_1967-07-01"
           }
         ]
@@ -39274,8 +39063,7 @@
       "2019-10-08"
     ],
     "version_ids": [
-      "1944-07-01",
-      "2019-10-08"
+      "1944-07-01"
     ],
     "events": [
       {
@@ -39304,7 +39092,7 @@
         "event_type": "name-change_stop",
         "corresponding_id": 261,
         "date": "1990-07-01",
-        "started_version": "2019-10-08",
+        "started_version": null,
         "stopped_version": "1944-07-01"
       },
       {
@@ -39313,7 +39101,13 @@
         "date": "1990-07-01",
         "party_from": 158,
         "party_to": 14,
-        "started_version": "2019-10-08",
+        "started_version": null,
+        "stopped_version": "1944-07-01"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "1990-07-01",
+        "started_version": null,
         "stopped_version": "1944-07-01"
       },
       {
@@ -39323,14 +39117,8 @@
         "party_from": 159,
         "party_to": 158,
         "started_version": null,
-        "stopped_version": "2019-10-08",
+        "stopped_version": "1944-07-01",
         "outside_successor": "159_2019-10-08"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "1990-07-01",
-        "started_version": "2019-10-08",
-        "stopped_version": "1944-07-01"
       }
     ],
     "versions": {
@@ -39350,7 +39138,7 @@
           }
         ],
         "successors": [
-          "158_2019-10-08"
+          "159_2019-10-08"
         ],
         "starting_events": [
           {
@@ -39381,7 +39169,7 @@
             "event_type": "name-change_stop",
             "corresponding_id": 261,
             "date": "1990-07-01",
-            "started_version": "2019-10-08",
+            "started_version": null,
             "stopped_version": "1944-07-01"
           },
           {
@@ -39390,53 +39178,15 @@
             "date": "1990-07-01",
             "party_from": 158,
             "party_to": 14,
-            "started_version": "2019-10-08",
+            "started_version": null,
             "stopped_version": "1944-07-01"
           },
           {
             "event_type": "dissolution",
             "date": "1990-07-01",
-            "started_version": "2019-10-08",
-            "stopped_version": "1944-07-01"
-          }
-        ]
-      },
-      "2019-10-08": {
-        "valid_from": "2019-10-08",
-        "valid_through": "2019-10-08",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "159_2019-10-08"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 261,
-            "date": "1990-07-01",
-            "started_version": "2019-10-08",
+            "started_version": null,
             "stopped_version": "1944-07-01"
           },
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 226,
-            "date": "1990-07-01",
-            "party_from": 158,
-            "party_to": 14,
-            "started_version": "2019-10-08",
-            "stopped_version": "1944-07-01"
-          },
-          {
-            "event_type": "dissolution",
-            "date": "1990-07-01",
-            "started_version": "2019-10-08",
-            "stopped_version": "1944-07-01"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 228,
@@ -39444,7 +39194,7 @@
             "party_from": 159,
             "party_to": 158,
             "started_version": null,
-            "stopped_version": "2019-10-08",
+            "stopped_version": "1944-07-01",
             "outside_successor": "159_2019-10-08"
           }
         ]
@@ -45880,8 +45630,7 @@
     "version_ids": [
       "1983-05-28",
       "1988-07-01",
-      "1989-07-01",
-      "2007-06-21"
+      "1989-07-01"
     ],
     "events": [
       {
@@ -45933,7 +45682,7 @@
         "event_type": "name-change_stop",
         "corresponding_id": 302,
         "date": "1999-07-01",
-        "started_version": "2007-06-21",
+        "started_version": null,
         "stopped_version": "1989-07-01"
       },
       {
@@ -45942,7 +45691,7 @@
         "date": "1999-07-01",
         "party_from": 188,
         "party_to": 5,
-        "started_version": "2007-06-21",
+        "started_version": null,
         "stopped_version": "1989-07-01"
       },
       {
@@ -45951,7 +45700,13 @@
         "date": "1999-07-01",
         "party_from": 188,
         "party_to": 5,
-        "started_version": "2007-06-21",
+        "started_version": null,
+        "stopped_version": "1989-07-01"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "1999-07-01",
+        "started_version": null,
         "stopped_version": "1989-07-01"
       },
       {
@@ -45961,14 +45716,8 @@
         "party_from": 187,
         "party_to": 188,
         "started_version": null,
-        "stopped_version": "2007-06-21",
+        "stopped_version": "1989-07-01",
         "outside_successor": "187_2007-06-21"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "1999-07-01",
-        "started_version": "2007-06-21",
-        "stopped_version": "1989-07-01"
       }
     ],
     "versions": {
@@ -46091,7 +45840,7 @@
           }
         ],
         "successors": [
-          "188_2007-06-21"
+          "187_2007-06-21"
         ],
         "starting_events": [
           {
@@ -46123,7 +45872,7 @@
             "event_type": "name-change_stop",
             "corresponding_id": 302,
             "date": "1999-07-01",
-            "started_version": "2007-06-21",
+            "started_version": null,
             "stopped_version": "1989-07-01"
           },
           {
@@ -46132,7 +45881,7 @@
             "date": "1999-07-01",
             "party_from": 188,
             "party_to": 5,
-            "started_version": "2007-06-21",
+            "started_version": null,
             "stopped_version": "1989-07-01"
           },
           {
@@ -46141,62 +45890,15 @@
             "date": "1999-07-01",
             "party_from": 188,
             "party_to": 5,
-            "started_version": "2007-06-21",
+            "started_version": null,
             "stopped_version": "1989-07-01"
           },
           {
             "event_type": "dissolution",
             "date": "1999-07-01",
-            "started_version": "2007-06-21",
-            "stopped_version": "1989-07-01"
-          }
-        ]
-      },
-      "2007-06-21": {
-        "valid_from": "2007-06-21",
-        "valid_through": "2007-06-21",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "187_2007-06-21"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 302,
-            "date": "1999-07-01",
-            "started_version": "2007-06-21",
+            "started_version": null,
             "stopped_version": "1989-07-01"
           },
-          {
-            "event_type": "observer-in_stop",
-            "corresponding_id": 271,
-            "date": "1999-07-01",
-            "party_from": 188,
-            "party_to": 5,
-            "started_version": "2007-06-21",
-            "stopped_version": "1989-07-01"
-          },
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 270,
-            "date": "1999-07-01",
-            "party_from": 188,
-            "party_to": 5,
-            "started_version": "2007-06-21",
-            "stopped_version": "1989-07-01"
-          },
-          {
-            "event_type": "dissolution",
-            "date": "1999-07-01",
-            "started_version": "2007-06-21",
-            "stopped_version": "1989-07-01"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 272,
@@ -46204,7 +45906,7 @@
             "party_from": 187,
             "party_to": 188,
             "started_version": null,
-            "stopped_version": "2007-06-21",
+            "stopped_version": "1989-07-01",
             "outside_successor": "187_2007-06-21"
           }
         ]
@@ -46895,8 +46597,7 @@
       "1998-02-02"
     ],
     "version_ids": [
-      "1992-10-15",
-      "1998-02-02"
+      "1992-10-15"
     ],
     "events": [
       {
@@ -46916,7 +46617,13 @@
         "event_type": "name-change_stop",
         "corresponding_id": 308,
         "date": "1998-01-31",
-        "started_version": "1998-02-02",
+        "started_version": null,
+        "stopped_version": "1992-10-15"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "1998-01-31",
+        "started_version": null,
         "stopped_version": "1992-10-15"
       },
       {
@@ -46926,14 +46633,8 @@
         "party_from": 193,
         "party_to": 194,
         "started_version": null,
-        "stopped_version": "1998-02-02",
+        "stopped_version": "1992-10-15",
         "outside_successor": "193_1998-02-02"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "1998-01-31",
-        "started_version": "1998-02-02",
-        "stopped_version": "1992-10-15"
       }
     ],
     "versions": {
@@ -46948,7 +46649,7 @@
         "abbr": {},
         "relationships": [],
         "successors": [
-          "194_1998-02-02"
+          "193_1998-02-02"
         ],
         "starting_events": [
           {
@@ -46970,44 +46671,15 @@
             "event_type": "name-change_stop",
             "corresponding_id": 308,
             "date": "1998-01-31",
-            "started_version": "1998-02-02",
+            "started_version": null,
             "stopped_version": "1992-10-15"
           },
           {
             "event_type": "dissolution",
             "date": "1998-01-31",
-            "started_version": "1998-02-02",
-            "stopped_version": "1992-10-15"
-          }
-        ]
-      },
-      "1998-02-02": {
-        "valid_from": "1998-02-02",
-        "valid_through": "1998-02-02",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "193_1998-02-02"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 308,
-            "date": "1998-01-31",
-            "started_version": "1998-02-02",
+            "started_version": null,
             "stopped_version": "1992-10-15"
           },
-          {
-            "event_type": "dissolution",
-            "date": "1998-01-31",
-            "started_version": "1998-02-02",
-            "stopped_version": "1992-10-15"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 278,
@@ -47015,7 +46687,7 @@
             "party_from": 193,
             "party_to": 194,
             "started_version": null,
-            "stopped_version": "1998-02-02",
+            "stopped_version": "1992-10-15",
             "outside_successor": "193_1998-02-02"
           }
         ]
@@ -60845,8 +60517,7 @@
       "1991-06-20"
     ],
     "version_ids": [
-      "1944-07-01",
-      "1991-06-20"
+      "1944-07-01"
     ],
     "events": [
       {
@@ -60875,7 +60546,7 @@
         "event_type": "name-change_stop",
         "corresponding_id": 402,
         "date": "1947-07-01",
-        "started_version": "1991-06-20",
+        "started_version": null,
         "stopped_version": "1944-07-01"
       },
       {
@@ -60884,7 +60555,13 @@
         "date": "1947-07-01",
         "party_from": 250,
         "party_to": 11,
-        "started_version": "1991-06-20",
+        "started_version": null,
+        "stopped_version": "1944-07-01"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "1947-07-01",
+        "started_version": null,
         "stopped_version": "1944-07-01"
       },
       {
@@ -60894,14 +60571,8 @@
         "party_from": 249,
         "party_to": 250,
         "started_version": null,
-        "stopped_version": "1991-06-20",
+        "stopped_version": "1944-07-01",
         "outside_successor": "249_1991-06-20"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "1947-07-01",
-        "started_version": "1991-06-20",
-        "stopped_version": "1944-07-01"
       }
     ],
     "versions": {
@@ -60923,7 +60594,7 @@
           }
         ],
         "successors": [
-          "250_1991-06-20"
+          "249_1991-06-20"
         ],
         "starting_events": [
           {
@@ -60954,7 +60625,7 @@
             "event_type": "name-change_stop",
             "corresponding_id": 402,
             "date": "1947-07-01",
-            "started_version": "1991-06-20",
+            "started_version": null,
             "stopped_version": "1944-07-01"
           },
           {
@@ -60963,53 +60634,15 @@
             "date": "1947-07-01",
             "party_from": 250,
             "party_to": 11,
-            "started_version": "1991-06-20",
+            "started_version": null,
             "stopped_version": "1944-07-01"
           },
           {
             "event_type": "dissolution",
             "date": "1947-07-01",
-            "started_version": "1991-06-20",
-            "stopped_version": "1944-07-01"
-          }
-        ]
-      },
-      "1991-06-20": {
-        "valid_from": "1991-06-20",
-        "valid_through": "1991-06-20",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "249_1991-06-20"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 402,
-            "date": "1947-07-01",
-            "started_version": "1991-06-20",
+            "started_version": null,
             "stopped_version": "1944-07-01"
           },
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 372,
-            "date": "1947-07-01",
-            "party_from": 250,
-            "party_to": 11,
-            "started_version": "1991-06-20",
-            "stopped_version": "1944-07-01"
-          },
-          {
-            "event_type": "dissolution",
-            "date": "1947-07-01",
-            "started_version": "1991-06-20",
-            "stopped_version": "1944-07-01"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 373,
@@ -61017,7 +60650,7 @@
             "party_from": 249,
             "party_to": 250,
             "started_version": null,
-            "stopped_version": "1991-06-20",
+            "stopped_version": "1944-07-01",
             "outside_successor": "249_1991-06-20"
           }
         ]
@@ -62856,8 +62489,7 @@
       "2004-03-12"
     ],
     "version_ids": [
-      "1989-11-14",
-      "2004-03-12"
+      "1989-11-14"
     ],
     "events": [
       {
@@ -62886,7 +62518,7 @@
         "event_type": "name-change_stop",
         "corresponding_id": 415,
         "date": "1993-07-01",
-        "started_version": "2004-03-12",
+        "started_version": null,
         "stopped_version": "1989-11-14"
       },
       {
@@ -62895,7 +62527,13 @@
         "date": "1993-07-01",
         "party_from": 258,
         "party_to": 7,
-        "started_version": "2004-03-12",
+        "started_version": null,
+        "stopped_version": "1989-11-14"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "1993-07-01",
+        "started_version": null,
         "stopped_version": "1989-11-14"
       },
       {
@@ -62905,14 +62543,8 @@
         "party_from": 259,
         "party_to": 258,
         "started_version": null,
-        "stopped_version": "2004-03-12",
+        "stopped_version": "1989-11-14",
         "outside_successor": "259_2004-03-12"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "1993-07-01",
-        "started_version": "2004-03-12",
-        "stopped_version": "1989-11-14"
       }
     ],
     "versions": {
@@ -62934,7 +62566,7 @@
           }
         ],
         "successors": [
-          "258_2004-03-12"
+          "259_2004-03-12"
         ],
         "starting_events": [
           {
@@ -62965,7 +62597,7 @@
             "event_type": "name-change_stop",
             "corresponding_id": 415,
             "date": "1993-07-01",
-            "started_version": "2004-03-12",
+            "started_version": null,
             "stopped_version": "1989-11-14"
           },
           {
@@ -62974,53 +62606,15 @@
             "date": "1993-07-01",
             "party_from": 258,
             "party_to": 7,
-            "started_version": "2004-03-12",
+            "started_version": null,
             "stopped_version": "1989-11-14"
           },
           {
             "event_type": "dissolution",
             "date": "1993-07-01",
-            "started_version": "2004-03-12",
-            "stopped_version": "1989-11-14"
-          }
-        ]
-      },
-      "2004-03-12": {
-        "valid_from": "2004-03-12",
-        "valid_through": "2004-03-12",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "259_2004-03-12"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 415,
-            "date": "1993-07-01",
-            "started_version": "2004-03-12",
+            "started_version": null,
             "stopped_version": "1989-11-14"
           },
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 385,
-            "date": "1993-07-01",
-            "party_from": 258,
-            "party_to": 7,
-            "started_version": "2004-03-12",
-            "stopped_version": "1989-11-14"
-          },
-          {
-            "event_type": "dissolution",
-            "date": "1993-07-01",
-            "started_version": "2004-03-12",
-            "stopped_version": "1989-11-14"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 386,
@@ -63028,7 +62622,7 @@
             "party_from": 259,
             "party_to": 258,
             "started_version": null,
-            "stopped_version": "2004-03-12",
+            "stopped_version": "1989-11-14",
             "outside_successor": "259_2004-03-12"
           }
         ]
@@ -63228,8 +62822,7 @@
       "2008-12-04"
     ],
     "version_ids": [
-      "1987-10-07",
-      "2008-12-04"
+      "1987-10-07"
     ],
     "events": [
       {
@@ -63258,7 +62851,7 @@
         "event_type": "name-change_stop",
         "corresponding_id": 417,
         "date": "2002-07-01",
-        "started_version": "2008-12-04",
+        "started_version": null,
         "stopped_version": "1987-10-07"
       },
       {
@@ -63267,7 +62860,13 @@
         "date": "2002-07-01",
         "party_from": 260,
         "party_to": 8,
-        "started_version": "2008-12-04",
+        "started_version": null,
+        "stopped_version": "1987-10-07"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "2002-07-01",
+        "started_version": null,
         "stopped_version": "1987-10-07"
       },
       {
@@ -63277,14 +62876,8 @@
         "party_from": 261,
         "party_to": 260,
         "started_version": null,
-        "stopped_version": "2008-12-04",
+        "stopped_version": "1987-10-07",
         "outside_successor": "261_2008-12-04"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "2002-07-01",
-        "started_version": "2008-12-04",
-        "stopped_version": "1987-10-07"
       }
     ],
     "versions": {
@@ -63306,7 +62899,7 @@
           }
         ],
         "successors": [
-          "260_2008-12-04"
+          "261_2008-12-04"
         ],
         "starting_events": [
           {
@@ -63337,7 +62930,7 @@
             "event_type": "name-change_stop",
             "corresponding_id": 417,
             "date": "2002-07-01",
-            "started_version": "2008-12-04",
+            "started_version": null,
             "stopped_version": "1987-10-07"
           },
           {
@@ -63346,53 +62939,15 @@
             "date": "2002-07-01",
             "party_from": 260,
             "party_to": 8,
-            "started_version": "2008-12-04",
+            "started_version": null,
             "stopped_version": "1987-10-07"
           },
           {
             "event_type": "dissolution",
             "date": "2002-07-01",
-            "started_version": "2008-12-04",
-            "stopped_version": "1987-10-07"
-          }
-        ]
-      },
-      "2008-12-04": {
-        "valid_from": "2008-12-04",
-        "valid_through": "2008-12-04",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "261_2008-12-04"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 417,
-            "date": "2002-07-01",
-            "started_version": "2008-12-04",
+            "started_version": null,
             "stopped_version": "1987-10-07"
           },
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 388,
-            "date": "2002-07-01",
-            "party_from": 260,
-            "party_to": 8,
-            "started_version": "2008-12-04",
-            "stopped_version": "1987-10-07"
-          },
-          {
-            "event_type": "dissolution",
-            "date": "2002-07-01",
-            "started_version": "2008-12-04",
-            "stopped_version": "1987-10-07"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 389,
@@ -63400,7 +62955,7 @@
             "party_from": 261,
             "party_to": 260,
             "started_version": null,
-            "stopped_version": "2008-12-04",
+            "stopped_version": "1987-10-07",
             "outside_successor": "261_2008-12-04"
           }
         ]
@@ -63598,8 +63153,7 @@
       "1985-01-30"
     ],
     "version_ids": [
-      "1969-01-01",
-      "1985-01-30"
+      "1969-01-01"
     ],
     "events": [
       {
@@ -63628,7 +63182,7 @@
         "event_type": "name-change_stop",
         "corresponding_id": 419,
         "date": "1977-07-01",
-        "started_version": "1985-01-30",
+        "started_version": null,
         "stopped_version": "1969-01-01"
       },
       {
@@ -63637,7 +63191,13 @@
         "date": "1977-07-01",
         "party_from": 262,
         "party_to": 33,
-        "started_version": "1985-01-30",
+        "started_version": null,
+        "stopped_version": "1969-01-01"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "1977-07-01",
+        "started_version": null,
         "stopped_version": "1969-01-01"
       },
       {
@@ -63647,14 +63207,8 @@
         "party_from": 263,
         "party_to": 262,
         "started_version": null,
-        "stopped_version": "1985-01-30",
+        "stopped_version": "1969-01-01",
         "outside_successor": "263_1985-01-30"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "1977-07-01",
-        "started_version": "1985-01-30",
-        "stopped_version": "1969-01-01"
       }
     ],
     "versions": {
@@ -63674,7 +63228,7 @@
           }
         ],
         "successors": [
-          "262_1985-01-30"
+          "263_1985-01-30"
         ],
         "starting_events": [
           {
@@ -63705,7 +63259,7 @@
             "event_type": "name-change_stop",
             "corresponding_id": 419,
             "date": "1977-07-01",
-            "started_version": "1985-01-30",
+            "started_version": null,
             "stopped_version": "1969-01-01"
           },
           {
@@ -63714,53 +63268,15 @@
             "date": "1977-07-01",
             "party_from": 262,
             "party_to": 33,
-            "started_version": "1985-01-30",
+            "started_version": null,
             "stopped_version": "1969-01-01"
           },
           {
             "event_type": "dissolution",
             "date": "1977-07-01",
-            "started_version": "1985-01-30",
-            "stopped_version": "1969-01-01"
-          }
-        ]
-      },
-      "1985-01-30": {
-        "valid_from": "1985-01-30",
-        "valid_through": "1985-01-30",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "263_1985-01-30"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 419,
-            "date": "1977-07-01",
-            "started_version": "1985-01-30",
+            "started_version": null,
             "stopped_version": "1969-01-01"
           },
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 391,
-            "date": "1977-07-01",
-            "party_from": 262,
-            "party_to": 33,
-            "started_version": "1985-01-30",
-            "stopped_version": "1969-01-01"
-          },
-          {
-            "event_type": "dissolution",
-            "date": "1977-07-01",
-            "started_version": "1985-01-30",
-            "stopped_version": "1969-01-01"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 393,
@@ -63768,7 +63284,7 @@
             "party_from": 263,
             "party_to": 262,
             "started_version": null,
-            "stopped_version": "1985-01-30",
+            "stopped_version": "1969-01-01",
             "outside_successor": "263_1985-01-30"
           }
         ]
@@ -63844,8 +63360,7 @@
     ],
     "version_ids": [
       "1985-01-30",
-      "1990-07-01",
-      "2006-03-04"
+      "1990-07-01"
     ],
     "events": [
       {
@@ -63897,7 +63412,7 @@
         "event_type": "name-change_stop",
         "corresponding_id": 420,
         "date": "1996-07-01",
-        "started_version": "2006-03-04",
+        "started_version": null,
         "stopped_version": "1990-07-01"
       },
       {
@@ -63906,7 +63421,13 @@
         "date": "1996-07-01",
         "party_from": 263,
         "party_to": 33,
-        "started_version": "2006-03-04",
+        "started_version": null,
+        "stopped_version": "1990-07-01"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "1996-07-01",
+        "started_version": null,
         "stopped_version": "1990-07-01"
       },
       {
@@ -63916,14 +63437,8 @@
         "party_from": 264,
         "party_to": 263,
         "started_version": null,
-        "stopped_version": "2006-03-04",
+        "stopped_version": "1990-07-01",
         "outside_successor": "264_2006-03-04"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "1996-07-01",
-        "started_version": "2006-03-04",
-        "stopped_version": "1990-07-01"
       }
     ],
     "versions": {
@@ -64011,7 +63526,7 @@
           }
         ],
         "successors": [
-          "263_2006-03-04"
+          "264_2006-03-04"
         ],
         "starting_events": [
           {
@@ -64034,7 +63549,7 @@
             "event_type": "name-change_stop",
             "corresponding_id": 420,
             "date": "1996-07-01",
-            "started_version": "2006-03-04",
+            "started_version": null,
             "stopped_version": "1990-07-01"
           },
           {
@@ -64043,53 +63558,15 @@
             "date": "1996-07-01",
             "party_from": 263,
             "party_to": 33,
-            "started_version": "2006-03-04",
+            "started_version": null,
             "stopped_version": "1990-07-01"
           },
           {
             "event_type": "dissolution",
             "date": "1996-07-01",
-            "started_version": "2006-03-04",
-            "stopped_version": "1990-07-01"
-          }
-        ]
-      },
-      "2006-03-04": {
-        "valid_from": "2006-03-04",
-        "valid_through": "2006-03-04",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "264_2006-03-04"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 420,
-            "date": "1996-07-01",
-            "started_version": "2006-03-04",
+            "started_version": null,
             "stopped_version": "1990-07-01"
           },
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 392,
-            "date": "1996-07-01",
-            "party_from": 263,
-            "party_to": 33,
-            "started_version": "2006-03-04",
-            "stopped_version": "1990-07-01"
-          },
-          {
-            "event_type": "dissolution",
-            "date": "1996-07-01",
-            "started_version": "2006-03-04",
-            "stopped_version": "1990-07-01"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 395,
@@ -64097,7 +63574,7 @@
             "party_from": 264,
             "party_to": 263,
             "started_version": null,
-            "stopped_version": "2006-03-04",
+            "stopped_version": "1990-07-01",
             "outside_successor": "264_2006-03-04"
           }
         ]
@@ -70550,8 +70027,7 @@
     ],
     "version_ids": [
       "1914-03-29",
-      "1914-07-01",
-      "1989-01-01"
+      "1914-07-01"
     ],
     "events": [
       {
@@ -70580,7 +70056,13 @@
         "event_type": "name-change_stop",
         "corresponding_id": 468,
         "date": "1988-01-01",
-        "started_version": "1989-01-01",
+        "started_version": null,
+        "stopped_version": "1914-07-01"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "1988-01-01",
+        "started_version": null,
         "stopped_version": "1914-07-01"
       },
       {
@@ -70590,12 +70072,6 @@
         "party_from": 290,
         "party_to": 10,
         "started_version": null,
-        "stopped_version": "1989-01-01"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "1988-01-01",
-        "started_version": "1989-01-01",
         "stopped_version": "1914-07-01"
       }
     ],
@@ -70655,9 +70131,7 @@
             "party_to": 10
           }
         ],
-        "successors": [
-          "290_1989-01-01"
-        ],
+        "successors": [],
         "starting_events": [
           {
             "event_type": "child-of_start",
@@ -70674,42 +70148,15 @@
             "event_type": "name-change_stop",
             "corresponding_id": 468,
             "date": "1988-01-01",
-            "started_version": "1989-01-01",
+            "started_version": null,
             "stopped_version": "1914-07-01"
           },
           {
             "event_type": "dissolution",
             "date": "1988-01-01",
-            "started_version": "1989-01-01",
-            "stopped_version": "1914-07-01"
-          }
-        ]
-      },
-      "1989-01-01": {
-        "valid_from": "1989-01-01",
-        "valid_through": "1989-01-01",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 468,
-            "date": "1988-01-01",
-            "started_version": "1989-01-01",
+            "started_version": null,
             "stopped_version": "1914-07-01"
           },
-          {
-            "event_type": "dissolution",
-            "date": "1988-01-01",
-            "started_version": "1989-01-01",
-            "stopped_version": "1914-07-01"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "child-of_stop",
             "corresponding_id": 433,
@@ -70717,7 +70164,7 @@
             "party_from": 290,
             "party_to": 10,
             "started_version": null,
-            "stopped_version": "1989-01-01"
+            "stopped_version": "1914-07-01"
           }
         ]
       }
@@ -73623,8 +73070,7 @@
       "1971-07-01"
     ],
     "version_ids": [
-      "1928-07-01",
-      "1971-07-01"
+      "1928-07-01"
     ],
     "events": [
       {
@@ -73653,7 +73099,7 @@
         "event_type": "name-change_stop",
         "corresponding_id": 490,
         "date": "1953-07-01",
-        "started_version": "1971-07-01",
+        "started_version": null,
         "stopped_version": "1928-07-01"
       },
       {
@@ -73662,7 +73108,13 @@
         "date": "1953-07-01",
         "party_from": 304,
         "party_to": 7,
-        "started_version": "1971-07-01",
+        "started_version": null,
+        "stopped_version": "1928-07-01"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "1953-07-01",
+        "started_version": null,
         "stopped_version": "1928-07-01"
       },
       {
@@ -73672,14 +73124,8 @@
         "party_from": 305,
         "party_to": 304,
         "started_version": null,
-        "stopped_version": "1971-07-01",
+        "stopped_version": "1928-07-01",
         "outside_successor": "305_1971-07-01"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "1953-07-01",
-        "started_version": "1971-07-01",
-        "stopped_version": "1928-07-01"
       }
     ],
     "versions": {
@@ -73699,7 +73145,7 @@
           }
         ],
         "successors": [
-          "304_1971-07-01"
+          "305_1971-07-01"
         ],
         "starting_events": [
           {
@@ -73730,7 +73176,7 @@
             "event_type": "name-change_stop",
             "corresponding_id": 490,
             "date": "1953-07-01",
-            "started_version": "1971-07-01",
+            "started_version": null,
             "stopped_version": "1928-07-01"
           },
           {
@@ -73739,53 +73185,15 @@
             "date": "1953-07-01",
             "party_from": 304,
             "party_to": 7,
-            "started_version": "1971-07-01",
+            "started_version": null,
             "stopped_version": "1928-07-01"
           },
           {
             "event_type": "dissolution",
             "date": "1953-07-01",
-            "started_version": "1971-07-01",
-            "stopped_version": "1928-07-01"
-          }
-        ]
-      },
-      "1971-07-01": {
-        "valid_from": "1971-07-01",
-        "valid_through": "1971-07-01",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "305_1971-07-01"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 490,
-            "date": "1953-07-01",
-            "started_version": "1971-07-01",
+            "started_version": null,
             "stopped_version": "1928-07-01"
           },
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 451,
-            "date": "1953-07-01",
-            "party_from": 304,
-            "party_to": 7,
-            "started_version": "1971-07-01",
-            "stopped_version": "1928-07-01"
-          },
-          {
-            "event_type": "dissolution",
-            "date": "1953-07-01",
-            "started_version": "1971-07-01",
-            "stopped_version": "1928-07-01"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 453,
@@ -73793,7 +73201,7 @@
             "party_from": 305,
             "party_to": 304,
             "started_version": null,
-            "stopped_version": "1971-07-01",
+            "stopped_version": "1928-07-01",
             "outside_successor": "305_1971-07-01"
           }
         ]
@@ -74267,8 +73675,7 @@
       "2003-02-28"
     ],
     "version_ids": [
-      "1944-07-01",
-      "2003-02-28"
+      "1944-07-01"
     ],
     "events": [
       {
@@ -74297,7 +73704,7 @@
         "event_type": "name-change_stop",
         "corresponding_id": 494,
         "date": "1985-01-01",
-        "started_version": "2003-02-28",
+        "started_version": null,
         "stopped_version": "1944-07-01"
       },
       {
@@ -74306,7 +73713,13 @@
         "date": "1985-01-01",
         "party_from": 308,
         "party_to": 14,
-        "started_version": "2003-02-28",
+        "started_version": null,
+        "stopped_version": "1944-07-01"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "1985-01-01",
+        "started_version": null,
         "stopped_version": "1944-07-01"
       },
       {
@@ -74316,14 +73729,8 @@
         "party_from": 309,
         "party_to": 308,
         "started_version": null,
-        "stopped_version": "2003-02-28",
+        "stopped_version": "1944-07-01",
         "outside_successor": "309_2003-02-28"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "1985-01-01",
-        "started_version": "2003-02-28",
-        "stopped_version": "1944-07-01"
       }
     ],
     "versions": {
@@ -74343,7 +73750,7 @@
           }
         ],
         "successors": [
-          "308_2003-02-28"
+          "309_2003-02-28"
         ],
         "starting_events": [
           {
@@ -74374,7 +73781,7 @@
             "event_type": "name-change_stop",
             "corresponding_id": 494,
             "date": "1985-01-01",
-            "started_version": "2003-02-28",
+            "started_version": null,
             "stopped_version": "1944-07-01"
           },
           {
@@ -74383,53 +73790,15 @@
             "date": "1985-01-01",
             "party_from": 308,
             "party_to": 14,
-            "started_version": "2003-02-28",
+            "started_version": null,
             "stopped_version": "1944-07-01"
           },
           {
             "event_type": "dissolution",
             "date": "1985-01-01",
-            "started_version": "2003-02-28",
-            "stopped_version": "1944-07-01"
-          }
-        ]
-      },
-      "2003-02-28": {
-        "valid_from": "2003-02-28",
-        "valid_through": "2003-02-28",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "309_2003-02-28"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 494,
-            "date": "1985-01-01",
-            "started_version": "2003-02-28",
+            "started_version": null,
             "stopped_version": "1944-07-01"
           },
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 456,
-            "date": "1985-01-01",
-            "party_from": 308,
-            "party_to": 14,
-            "started_version": "2003-02-28",
-            "stopped_version": "1944-07-01"
-          },
-          {
-            "event_type": "dissolution",
-            "date": "1985-01-01",
-            "started_version": "2003-02-28",
-            "stopped_version": "1944-07-01"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 457,
@@ -74437,7 +73806,7 @@
             "party_from": 309,
             "party_to": 308,
             "started_version": null,
-            "stopped_version": "2003-02-28",
+            "stopped_version": "1944-07-01",
             "outside_successor": "309_2003-02-28"
           }
         ]
@@ -78013,8 +77382,7 @@
     "version_ids": [
       "1987-07-01",
       "1993-01-01",
-      "1993-07-01",
-      "2007-06-26"
+      "1993-07-01"
     ],
     "events": [
       {
@@ -78061,7 +77429,7 @@
         "event_type": "name-change_stop",
         "corresponding_id": 517,
         "date": "2003-07-01",
-        "started_version": "2007-06-26",
+        "started_version": null,
         "stopped_version": "1993-07-01"
       },
       {
@@ -78070,7 +77438,13 @@
         "date": "2003-07-01",
         "party_from": 322,
         "party_to": 5,
-        "started_version": "2007-06-26",
+        "started_version": null,
+        "stopped_version": "1993-07-01"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "2003-07-01",
+        "started_version": null,
         "stopped_version": "1993-07-01"
       },
       {
@@ -78080,14 +77454,8 @@
         "party_from": 321,
         "party_to": 322,
         "started_version": null,
-        "stopped_version": "2007-06-26",
+        "stopped_version": "1993-07-01",
         "outside_successor": "321_2007-06-26"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "2003-07-01",
-        "started_version": "2007-06-26",
-        "stopped_version": "1993-07-01"
       }
     ],
     "versions": {
@@ -78197,7 +77565,7 @@
           }
         ],
         "successors": [
-          "322_2007-06-26"
+          "321_2007-06-26"
         ],
         "starting_events": [
           {
@@ -78215,7 +77583,7 @@
             "event_type": "name-change_stop",
             "corresponding_id": 517,
             "date": "2003-07-01",
-            "started_version": "2007-06-26",
+            "started_version": null,
             "stopped_version": "1993-07-01"
           },
           {
@@ -78224,53 +77592,15 @@
             "date": "2003-07-01",
             "party_from": 322,
             "party_to": 5,
-            "started_version": "2007-06-26",
+            "started_version": null,
             "stopped_version": "1993-07-01"
           },
           {
             "event_type": "dissolution",
             "date": "2003-07-01",
-            "started_version": "2007-06-26",
-            "stopped_version": "1993-07-01"
-          }
-        ]
-      },
-      "2007-06-26": {
-        "valid_from": "2007-06-26",
-        "valid_through": "2007-06-26",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "321_2007-06-26"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 517,
-            "date": "2003-07-01",
-            "started_version": "2007-06-26",
+            "started_version": null,
             "stopped_version": "1993-07-01"
           },
-          {
-            "event_type": "observer-in_stop",
-            "corresponding_id": 481,
-            "date": "2003-07-01",
-            "party_from": 322,
-            "party_to": 5,
-            "started_version": "2007-06-26",
-            "stopped_version": "1993-07-01"
-          },
-          {
-            "event_type": "dissolution",
-            "date": "2003-07-01",
-            "started_version": "2007-06-26",
-            "stopped_version": "1993-07-01"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 482,
@@ -78278,7 +77608,7 @@
             "party_from": 321,
             "party_to": 322,
             "started_version": null,
-            "stopped_version": "2007-06-26",
+            "stopped_version": "1993-07-01",
             "outside_successor": "321_2007-06-26"
           }
         ]
@@ -78585,8 +77915,7 @@
       "1987-11-07",
       "1989-07-01",
       "1995-01-01",
-      "1999-09-15",
-      "2000-07-01"
+      "1999-09-15"
     ],
     "events": [
       {
@@ -78657,11 +77986,17 @@
         "stopped_version": "1995-01-01"
       },
       {
+        "event_type": "dissolution",
+        "date": "2000-06-15",
+        "started_version": null,
+        "stopped_version": "1999-09-15"
+      },
+      {
         "event_type": "name-change_stop",
         "corresponding_id": 520,
         "date": "2000-07-01",
         "started_version": null,
-        "stopped_version": "2000-07-01"
+        "stopped_version": "1999-09-15"
       },
       {
         "event_type": "child-of_stop",
@@ -78670,12 +78005,6 @@
         "party_from": 325,
         "party_to": 65,
         "started_version": null,
-        "stopped_version": "2000-07-01"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "2000-06-15",
-        "started_version": "2000-07-01",
         "stopped_version": "1999-09-15"
       }
     ],
@@ -78891,9 +78220,7 @@
             "party_to": 65
           }
         ],
-        "successors": [
-          "325_2000-07-01"
-        ],
+        "successors": [],
         "starting_events": [
           {
             "event_type": "child-of_start",
@@ -78909,35 +78236,15 @@
           {
             "event_type": "dissolution",
             "date": "2000-06-15",
-            "started_version": "2000-07-01",
+            "started_version": null,
             "stopped_version": "1999-09-15"
-          }
-        ]
-      },
-      "2000-07-01": {
-        "valid_from": "2000-07-01",
-        "valid_through": "2000-07-01",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [],
-        "starting_events": [
-          {
-            "event_type": "dissolution",
-            "date": "2000-06-15",
-            "started_version": "2000-07-01",
-            "stopped_version": "1999-09-15"
-          }
-        ],
-        "stopping_events": [
+          },
           {
             "event_type": "name-change_stop",
             "corresponding_id": 520,
             "date": "2000-07-01",
             "started_version": null,
-            "stopped_version": "2000-07-01"
+            "stopped_version": "1999-09-15"
           },
           {
             "event_type": "child-of_stop",
@@ -78946,7 +78253,7 @@
             "party_from": 325,
             "party_to": 65,
             "started_version": null,
-            "stopped_version": "2000-07-01"
+            "stopped_version": "1999-09-15"
           }
         ]
       }
@@ -86402,8 +85709,7 @@
       "1894-02-25",
       "1919-07-01",
       "1925-01-01",
-      "2009-01-01",
-      "2012-09-26"
+      "2009-01-01"
     ],
     "events": [
       {
@@ -86468,7 +85774,7 @@
         "event_type": "name-change_stop",
         "corresponding_id": 576,
         "date": "2012-09-05",
-        "started_version": "2012-09-26",
+        "started_version": null,
         "stopped_version": "2009-01-01"
       },
       {
@@ -86477,7 +85783,13 @@
         "date": "2012-09-05",
         "party_from": 361,
         "party_to": 3,
-        "started_version": "2012-09-26",
+        "started_version": null,
+        "stopped_version": "2009-01-01"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "2012-09-05",
+        "started_version": null,
         "stopped_version": "2009-01-01"
       },
       {
@@ -86487,14 +85799,8 @@
         "party_from": 362,
         "party_to": 361,
         "started_version": null,
-        "stopped_version": "2012-09-26",
+        "stopped_version": "2009-01-01",
         "outside_successor": "362_2012-09-26"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "2012-09-05",
-        "started_version": "2012-09-26",
-        "stopped_version": "2009-01-01"
       }
     ],
     "versions": {
@@ -86691,7 +85997,7 @@
           }
         ],
         "successors": [
-          "361_2012-09-26"
+          "362_2012-09-26"
         ],
         "starting_events": [
           {
@@ -86718,7 +86024,7 @@
             "event_type": "name-change_stop",
             "corresponding_id": 576,
             "date": "2012-09-05",
-            "started_version": "2012-09-26",
+            "started_version": null,
             "stopped_version": "2009-01-01"
           },
           {
@@ -86727,53 +86033,15 @@
             "date": "2012-09-05",
             "party_from": 361,
             "party_to": 3,
-            "started_version": "2012-09-26",
+            "started_version": null,
             "stopped_version": "2009-01-01"
           },
           {
             "event_type": "dissolution",
             "date": "2012-09-05",
-            "started_version": "2012-09-26",
-            "stopped_version": "2009-01-01"
-          }
-        ]
-      },
-      "2012-09-26": {
-        "valid_from": "2012-09-26",
-        "valid_through": "2012-09-26",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "362_2012-09-26"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 576,
-            "date": "2012-09-05",
-            "started_version": "2012-09-26",
+            "started_version": null,
             "stopped_version": "2009-01-01"
           },
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 544,
-            "date": "2012-09-05",
-            "party_from": 361,
-            "party_to": 3,
-            "started_version": "2012-09-26",
-            "stopped_version": "2009-01-01"
-          },
-          {
-            "event_type": "dissolution",
-            "date": "2012-09-05",
-            "started_version": "2012-09-26",
-            "stopped_version": "2009-01-01"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 546,
@@ -86781,7 +86049,7 @@
             "party_from": 362,
             "party_to": 361,
             "started_version": null,
-            "stopped_version": "2012-09-26",
+            "stopped_version": "2009-01-01",
             "outside_successor": "362_2012-09-26"
           }
         ]
@@ -90194,8 +89462,7 @@
       "1894-02-25",
       "1919-07-01",
       "1925-01-01",
-      "1990-07-01",
-      "2008-06-21"
+      "1990-07-01"
     ],
     "events": [
       {
@@ -90270,7 +89537,7 @@
         "event_type": "name-change_stop",
         "corresponding_id": 603,
         "date": "2008-04-10",
-        "started_version": "2008-06-21",
+        "started_version": null,
         "stopped_version": "1990-07-01"
       },
       {
@@ -90279,7 +89546,13 @@
         "date": "2008-04-10",
         "party_from": 380,
         "party_to": 9,
-        "started_version": "2008-06-21",
+        "started_version": null,
+        "stopped_version": "1990-07-01"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "2008-04-10",
+        "started_version": null,
         "stopped_version": "1990-07-01"
       },
       {
@@ -90289,14 +89562,8 @@
         "party_from": 381,
         "party_to": 380,
         "started_version": null,
-        "stopped_version": "2008-06-21",
+        "stopped_version": "1990-07-01",
         "outside_successor": "381_2008-06-21"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "2008-04-10",
-        "started_version": "2008-06-21",
-        "stopped_version": "1990-07-01"
       }
     ],
     "versions": {
@@ -90527,7 +89794,7 @@
           }
         ],
         "successors": [
-          "380_2008-06-21"
+          "381_2008-06-21"
         ],
         "starting_events": [
           {
@@ -90550,7 +89817,7 @@
             "event_type": "name-change_stop",
             "corresponding_id": 603,
             "date": "2008-04-10",
-            "started_version": "2008-06-21",
+            "started_version": null,
             "stopped_version": "1990-07-01"
           },
           {
@@ -90559,53 +89826,15 @@
             "date": "2008-04-10",
             "party_from": 380,
             "party_to": 9,
-            "started_version": "2008-06-21",
+            "started_version": null,
             "stopped_version": "1990-07-01"
           },
           {
             "event_type": "dissolution",
             "date": "2008-04-10",
-            "started_version": "2008-06-21",
-            "stopped_version": "1990-07-01"
-          }
-        ]
-      },
-      "2008-06-21": {
-        "valid_from": "2008-06-21",
-        "valid_through": "2008-06-21",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "381_2008-06-21"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 603,
-            "date": "2008-04-10",
-            "started_version": "2008-06-21",
+            "started_version": null,
             "stopped_version": "1990-07-01"
           },
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 570,
-            "date": "2008-04-10",
-            "party_from": 380,
-            "party_to": 9,
-            "started_version": "2008-06-21",
-            "stopped_version": "1990-07-01"
-          },
-          {
-            "event_type": "dissolution",
-            "date": "2008-04-10",
-            "started_version": "2008-06-21",
-            "stopped_version": "1990-07-01"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 571,
@@ -90613,7 +89842,7 @@
             "party_from": 381,
             "party_to": 380,
             "started_version": null,
-            "stopped_version": "2008-06-21",
+            "stopped_version": "1990-07-01",
             "outside_successor": "381_2008-06-21"
           }
         ]
@@ -90942,8 +90171,7 @@
       "2008-06-21"
     ],
     "version_ids": [
-      "1981-07-01",
-      "2008-06-21"
+      "1981-07-01"
     ],
     "events": [
       {
@@ -90990,7 +90218,7 @@
         "event_type": "name-change_stop",
         "corresponding_id": 605,
         "date": "2008-04-10",
-        "started_version": "2008-06-21",
+        "started_version": null,
         "stopped_version": "1981-07-01"
       },
       {
@@ -90999,7 +90227,13 @@
         "date": "2008-04-10",
         "party_from": 382,
         "party_to": 15,
-        "started_version": "2008-06-21",
+        "started_version": null,
+        "stopped_version": "1981-07-01"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "2008-04-10",
+        "started_version": null,
         "stopped_version": "1981-07-01"
       },
       {
@@ -91009,14 +90243,8 @@
         "party_from": 381,
         "party_to": 382,
         "started_version": null,
-        "stopped_version": "2008-06-21",
+        "stopped_version": "1981-07-01",
         "outside_successor": "381_2008-06-21"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "2008-04-10",
-        "started_version": "2008-06-21",
-        "stopped_version": "1981-07-01"
       }
     ],
     "versions": {
@@ -91036,7 +90264,7 @@
           }
         ],
         "successors": [
-          "382_2008-06-21"
+          "381_2008-06-21"
         ],
         "starting_events": [
           {
@@ -91085,7 +90313,7 @@
             "event_type": "name-change_stop",
             "corresponding_id": 605,
             "date": "2008-04-10",
-            "started_version": "2008-06-21",
+            "started_version": null,
             "stopped_version": "1981-07-01"
           },
           {
@@ -91094,53 +90322,15 @@
             "date": "2008-04-10",
             "party_from": 382,
             "party_to": 15,
-            "started_version": "2008-06-21",
+            "started_version": null,
             "stopped_version": "1981-07-01"
           },
           {
             "event_type": "dissolution",
             "date": "2008-04-10",
-            "started_version": "2008-06-21",
-            "stopped_version": "1981-07-01"
-          }
-        ]
-      },
-      "2008-06-21": {
-        "valid_from": "2008-06-21",
-        "valid_through": "2008-06-21",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "381_2008-06-21"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 605,
-            "date": "2008-04-10",
-            "started_version": "2008-06-21",
+            "started_version": null,
             "stopped_version": "1981-07-01"
           },
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 574,
-            "date": "2008-04-10",
-            "party_from": 382,
-            "party_to": 15,
-            "started_version": "2008-06-21",
-            "stopped_version": "1981-07-01"
-          },
-          {
-            "event_type": "dissolution",
-            "date": "2008-04-10",
-            "started_version": "2008-06-21",
-            "stopped_version": "1981-07-01"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 575,
@@ -91148,7 +90338,7 @@
             "party_from": 381,
             "party_to": 382,
             "started_version": null,
-            "stopped_version": "2008-06-21",
+            "stopped_version": "1981-07-01",
             "outside_successor": "381_2008-06-21"
           }
         ]
@@ -96873,8 +96063,7 @@
       "1943-06-08"
     ],
     "version_ids": [
-      "1921-01-24",
-      "1943-06-08"
+      "1921-01-24"
     ],
     "events": [
       {
@@ -96894,7 +96083,13 @@
         "event_type": "name-change_stop",
         "corresponding_id": 650,
         "date": "1937-07-01",
-        "started_version": "1943-06-08",
+        "started_version": null,
+        "stopped_version": "1921-01-24"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "1937-07-01",
+        "started_version": null,
         "stopped_version": "1921-01-24"
       },
       {
@@ -96904,14 +96099,8 @@
         "party_from": 406,
         "party_to": 407,
         "started_version": null,
-        "stopped_version": "1943-06-08",
+        "stopped_version": "1921-01-24",
         "outside_successor": "406_1943-06-08"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "1937-07-01",
-        "started_version": "1943-06-08",
-        "stopped_version": "1921-01-24"
       }
     ],
     "versions": {
@@ -96926,7 +96115,7 @@
         "abbr": {},
         "relationships": [],
         "successors": [
-          "407_1943-06-08"
+          "406_1943-06-08"
         ],
         "starting_events": [
           {
@@ -96948,44 +96137,15 @@
             "event_type": "name-change_stop",
             "corresponding_id": 650,
             "date": "1937-07-01",
-            "started_version": "1943-06-08",
+            "started_version": null,
             "stopped_version": "1921-01-24"
           },
           {
             "event_type": "dissolution",
             "date": "1937-07-01",
-            "started_version": "1943-06-08",
-            "stopped_version": "1921-01-24"
-          }
-        ]
-      },
-      "1943-06-08": {
-        "valid_from": "1943-06-08",
-        "valid_through": "1943-06-08",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "406_1943-06-08"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 650,
-            "date": "1937-07-01",
-            "started_version": "1943-06-08",
+            "started_version": null,
             "stopped_version": "1921-01-24"
           },
-          {
-            "event_type": "dissolution",
-            "date": "1937-07-01",
-            "started_version": "1943-06-08",
-            "stopped_version": "1921-01-24"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 609,
@@ -96993,7 +96153,7 @@
             "party_from": 406,
             "party_to": 407,
             "started_version": null,
-            "stopped_version": "1943-06-08",
+            "stopped_version": "1921-01-24",
             "outside_successor": "406_1943-06-08"
           }
         ]
@@ -97383,8 +96543,7 @@
       "1944-10-14"
     ],
     "version_ids": [
-      "1921-03-06",
-      "1944-10-14"
+      "1921-03-06"
     ],
     "events": [
       {
@@ -97413,7 +96572,13 @@
         "event_type": "name-change_stop",
         "corresponding_id": 657,
         "date": "1940-11-26",
-        "started_version": "1944-10-14",
+        "started_version": null,
+        "stopped_version": "1921-03-06"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "1940-11-26",
+        "started_version": null,
         "stopped_version": "1921-03-06"
       },
       {
@@ -97423,14 +96588,8 @@
         "party_from": 14,
         "party_to": 411,
         "started_version": null,
-        "stopped_version": "1944-10-14",
+        "stopped_version": "1921-03-06",
         "outside_successor": "14_1944-10-14"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "1940-11-26",
-        "started_version": "1944-10-14",
-        "stopped_version": "1921-03-06"
       }
     ],
     "versions": {
@@ -97449,7 +96608,7 @@
         },
         "relationships": [],
         "successors": [
-          "411_1944-10-14"
+          "14_1944-10-14"
         ],
         "starting_events": [
           {
@@ -97480,44 +96639,15 @@
             "event_type": "name-change_stop",
             "corresponding_id": 657,
             "date": "1940-11-26",
-            "started_version": "1944-10-14",
+            "started_version": null,
             "stopped_version": "1921-03-06"
           },
           {
             "event_type": "dissolution",
             "date": "1940-11-26",
-            "started_version": "1944-10-14",
-            "stopped_version": "1921-03-06"
-          }
-        ]
-      },
-      "1944-10-14": {
-        "valid_from": "1944-10-14",
-        "valid_through": "1944-10-14",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "14_1944-10-14"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 657,
-            "date": "1940-11-26",
-            "started_version": "1944-10-14",
+            "started_version": null,
             "stopped_version": "1921-03-06"
           },
-          {
-            "event_type": "dissolution",
-            "date": "1940-11-26",
-            "started_version": "1944-10-14",
-            "stopped_version": "1921-03-06"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 620,
@@ -97525,7 +96655,7 @@
             "party_from": 14,
             "party_to": 411,
             "started_version": null,
-            "stopped_version": "1944-10-14",
+            "stopped_version": "1921-03-06",
             "outside_successor": "14_1944-10-14"
           }
         ]
@@ -97857,8 +96987,7 @@
     ],
     "version_ids": [
       "1918-07-01",
-      "1921-03-06",
-      "1944-04-19"
+      "1921-03-06"
     ],
     "events": [
       {
@@ -97896,7 +97025,7 @@
         "event_type": "name-change_stop",
         "corresponding_id": 661,
         "date": "1940-11-26",
-        "started_version": "1944-04-19",
+        "started_version": null,
         "stopped_version": "1921-03-06"
       },
       {
@@ -97905,7 +97034,13 @@
         "date": "1940-11-26",
         "party_from": 415,
         "party_to": 411,
-        "started_version": "1944-04-19",
+        "started_version": null,
+        "stopped_version": "1921-03-06"
+      },
+      {
+        "event_type": "dissolution",
+        "date": "1940-11-26",
+        "started_version": null,
         "stopped_version": "1921-03-06"
       },
       {
@@ -97915,14 +97050,8 @@
         "party_from": 30,
         "party_to": 415,
         "started_version": null,
-        "stopped_version": "1944-04-19",
+        "stopped_version": "1921-03-06",
         "outside_successor": "30_1944-04-19"
-      },
-      {
-        "event_type": "dissolution",
-        "date": "1940-11-26",
-        "started_version": "1944-04-19",
-        "stopped_version": "1921-03-06"
       }
     ],
     "versions": {
@@ -97991,7 +97120,7 @@
           }
         ],
         "successors": [
-          "415_1944-04-19"
+          "30_1944-04-19"
         ],
         "starting_events": [
           {
@@ -98009,7 +97138,7 @@
             "event_type": "name-change_stop",
             "corresponding_id": 661,
             "date": "1940-11-26",
-            "started_version": "1944-04-19",
+            "started_version": null,
             "stopped_version": "1921-03-06"
           },
           {
@@ -98018,53 +97147,15 @@
             "date": "1940-11-26",
             "party_from": 415,
             "party_to": 411,
-            "started_version": "1944-04-19",
+            "started_version": null,
             "stopped_version": "1921-03-06"
           },
           {
             "event_type": "dissolution",
             "date": "1940-11-26",
-            "started_version": "1944-04-19",
-            "stopped_version": "1921-03-06"
-          }
-        ]
-      },
-      "1944-04-19": {
-        "valid_from": "1944-04-19",
-        "valid_through": "1944-04-19",
-        "is_founding": false,
-        "is_dissolution": false,
-        "name": null,
-        "abbr": null,
-        "relationships": [],
-        "successors": [
-          "30_1944-04-19"
-        ],
-        "starting_events": [
-          {
-            "event_type": "name-change_stop",
-            "corresponding_id": 661,
-            "date": "1940-11-26",
-            "started_version": "1944-04-19",
+            "started_version": null,
             "stopped_version": "1921-03-06"
           },
-          {
-            "event_type": "child-of_stop",
-            "corresponding_id": 630,
-            "date": "1940-11-26",
-            "party_from": 415,
-            "party_to": 411,
-            "started_version": "1944-04-19",
-            "stopped_version": "1921-03-06"
-          },
-          {
-            "event_type": "dissolution",
-            "date": "1940-11-26",
-            "started_version": "1944-04-19",
-            "stopped_version": "1921-03-06"
-          }
-        ],
-        "stopping_events": [
           {
             "event_type": "successor-of",
             "corresponding_id": 633,
@@ -98072,7 +97163,7 @@
             "party_from": 30,
             "party_to": 415,
             "started_version": null,
-            "stopped_version": "1944-04-19",
+            "stopped_version": "1921-03-06",
             "outside_successor": "30_1944-04-19"
           }
         ]
