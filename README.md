@@ -38,6 +38,7 @@ This repository contains all the necessary code to convert the CSV Party Atlas f
 - https://politics.ld.admin.ch/party-version/123_1979-07-01: empty space in front of the name
 - Party ID 62: Dissolution in 2010-07-01 but name ends in 2015-07-01
 - Party ID 194: Dissolution on 1998-01-31, successor on 1998-02-02
+- Party ID 226: Dissolution on 2005-08-27 but name only valid until 2005-07-01
 
 ## Good Examples
 
