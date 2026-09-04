@@ -66,6 +66,10 @@
       }
     ],
     "color": "#4B8A3E",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1971-09-22",
       "2008-11-01"
@@ -297,6 +301,10 @@
       }
     ],
     "color": "#F0554D",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1888-10-21",
       "1901-07-01",
@@ -698,6 +706,10 @@
       }
     ],
     "color": "#3B79BF",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "2009-01-01"
     ],
@@ -839,6 +851,10 @@
       }
     ],
     "color": "#D6862B",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "2021-01-01"
     ],
@@ -1032,6 +1048,10 @@
       }
     ],
     "color": "#84B547",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1983-05-28",
       "1986-07-01",
@@ -1457,6 +1477,10 @@
       }
     ],
     "color": "#C4C43D",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "2007-07-19"
     ],
@@ -1585,6 +1609,10 @@
       }
     ],
     "color": "#DEAA28",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1919-05-10",
       "2003-01-01"
@@ -1765,6 +1793,10 @@
       }
     ],
     "color": "#AB6244",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1975-09-03"
     ],
@@ -1918,6 +1950,10 @@
       }
     ],
     "color": "#4785C2",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1894-02-25",
       "2005-06-25",
@@ -2244,6 +2280,10 @@
       }
     ],
     "color": "#D78C56",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1912-04-22",
       "1957-07-01",
@@ -2681,6 +2721,10 @@
       }
     ],
     "color": "#466E3B",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1936-12-23",
       "1971-09-22"
@@ -2838,6 +2882,10 @@
       }
     ],
     "color": "#9070D4",
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "1991-01-17"
     ],
@@ -2949,6 +2997,10 @@
       }
     ],
     "color": "#E6C820",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "2008-11-01",
       "2021-01-01"
@@ -3126,6 +3178,10 @@
       }
     ],
     "color": "#C94A4A",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1944-10-14",
       "1969-10-15"
@@ -3342,6 +3398,10 @@
       }
     ],
     "color": "#618DEA",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1913-10-08",
       "1961-07-01",
@@ -3737,6 +3797,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1880-01-01",
       "1905-03-19"
@@ -3885,6 +3949,10 @@
       }
     ],
     "color": "#A4C8E5",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1905-03-19",
       "1941-07-01"
@@ -4051,6 +4119,10 @@
       }
     ],
     "color": "#88B3D7",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1941-07-01",
       "1971-09-22"
@@ -4204,6 +4276,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1848-01-01",
       "1894-02-25"
@@ -4390,6 +4466,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/1"
+    },
     "event_dates": [
       "1917-03-04",
       "1936-12-23",
@@ -4844,6 +4924,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/1"
+    },
     "event_dates": [
       "1902-04-13",
       "1918-07-01"
@@ -5011,6 +5095,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1840-11-05",
       "1912-04-22"
@@ -5177,6 +5265,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/1"
+    },
     "event_dates": [
       "1867-07-01",
       "1894-02-25",
@@ -5537,6 +5629,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/1"
+    },
     "event_dates": [
       "1971-08-18",
       "2008-01-01",
@@ -5861,6 +5957,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/1"
+    },
     "event_dates": [
       "1896-10-18",
       "1905-04-15",
@@ -6338,6 +6438,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/1"
+    },
     "event_dates": [
       "1978-08-31",
       "1983-05-28",
@@ -6630,6 +6734,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/1"
+    },
     "event_dates": [
       "2004-06-25",
       "2004-11-02",
@@ -6875,6 +6983,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/1"
+    },
     "event_dates": [
       "1917-03-04",
       "1919-05-10",
@@ -7152,6 +7264,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/1"
+    },
     "event_dates": [
       "1975-09-03"
     ],
@@ -7293,6 +7409,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/1"
+    },
     "event_dates": [
       "1944-04-19",
       "1944-10-14"
@@ -7482,6 +7602,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/1"
+    },
     "event_dates": [
       "2008-06-15",
       "2009-01-01",
@@ -7844,6 +7968,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/1"
+    },
     "event_dates": [
       "1961-01-01",
       "1991-01-01"
@@ -8065,6 +8193,10 @@
       }
     ],
     "color": "#9D9D9D",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1961-06-15",
       "1971-05-12",
@@ -8404,6 +8536,10 @@
       }
     ],
     "color": "#1BAA6E",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1936-12-30",
       "1999-12-04"
@@ -8609,6 +8745,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "1918-09-28",
       "1921-07-01",
@@ -9166,6 +9306,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "1905-07-01"
     ],
@@ -9337,6 +9481,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "1889-07-01",
       "1894-02-25",
@@ -9896,6 +10044,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "2021-03-24"
     ],
@@ -10080,6 +10232,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "1912-07-01",
       "1956-07-01",
@@ -10501,6 +10657,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "2006-05-15",
       "2010-01-01"
@@ -10742,6 +10902,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "1983-07-01",
       "1984-07-01",
@@ -11063,6 +11227,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "1987-06-03",
       "1987-07-01",
@@ -11489,6 +11657,10 @@
       }
     ],
     "color": "#5CA741",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1983-06-15",
       "1987-07-01",
@@ -11701,6 +11873,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "1976-07-01",
       "1983-07-01",
@@ -12111,6 +12287,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "1990-07-01",
       "1991-07-01",
@@ -12414,6 +12594,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "2007-09-25"
     ],
@@ -12532,6 +12716,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "1921-01-29"
     ],
@@ -12651,6 +12839,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "1975-09-05"
     ],
@@ -12792,6 +12984,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "2008-06-21",
       "2008-11-01",
@@ -13127,6 +13323,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "2003-05-05",
       "2018-07-01"
@@ -13338,6 +13538,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "1945-01-01",
       "1999-01-01",
@@ -13513,6 +13717,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "1882-12-15",
       "1922-07-01"
@@ -13641,6 +13849,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "1937-07-01",
       "1999-12-04",
@@ -13797,6 +14009,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/3"
+    },
     "event_dates": [
       "1992-04-30"
     ],
@@ -13929,6 +14145,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/3"
+    },
     "event_dates": [
       "1895-07-01",
       "1920-01-01"
@@ -14165,6 +14385,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/3"
+    },
     "event_dates": [
       "1831-07-01",
       "1894-02-25",
@@ -14628,6 +14852,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/3"
+    },
     "event_dates": [
       "1871-07-01",
       "1912-04-22",
@@ -15060,6 +15288,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/3"
+    },
     "event_dates": [
       "1840-11-05",
       "1871-07-01"
@@ -15231,6 +15463,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/3"
+    },
     "event_dates": [
       "1987-07-01",
       "1989-07-01",
@@ -15591,6 +15827,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/3"
+    },
     "event_dates": [
       "2008-04-01"
     ],
@@ -15706,6 +15946,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/3"
+    },
     "event_dates": [
       "2003-10-10"
     ],
@@ -15867,6 +16111,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/3"
+    },
     "event_dates": [
       "1909-07-01",
       "1956-07-01",
@@ -16488,6 +16736,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/3"
+    },
     "event_dates": [
       "2010-04-22",
       "2020-07-01"
@@ -16657,6 +16909,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/3"
+    },
     "event_dates": [
       "1973-11-15",
       "1987-07-01",
@@ -16884,6 +17140,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1976-05-22",
       "1995-01-01",
@@ -17068,6 +17328,10 @@
       }
     ],
     "color": "#35AEB2",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1997-06-21",
       "2014-01-11"
@@ -17264,6 +17528,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/4"
+    },
     "event_dates": [
       "1998-12-05"
     ],
@@ -17388,6 +17656,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/4"
+    },
     "event_dates": [
       "1907-10-06",
       "1907-10-16",
@@ -17650,6 +17922,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/4"
+    },
     "event_dates": [
       "1912-07-01",
       "1999-07-01",
@@ -18015,6 +18291,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/4"
+    },
     "event_dates": [
       "1899-07-01",
       "1912-04-22",
@@ -18448,6 +18728,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/4"
+    },
     "event_dates": [
       "1994-07-01",
       "2008-01-01",
@@ -18643,6 +18927,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/4"
+    },
     "event_dates": [
       "1983-07-01",
       "1993-07-01"
@@ -18763,6 +19051,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/4"
+    },
     "event_dates": [
       "2022-04-01"
     ],
@@ -18878,6 +19170,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1991-07-01"
     ],
@@ -19018,6 +19314,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1890-06-26",
       "1921-07-01",
@@ -19359,6 +19659,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1894-07-01",
       "1894-09-19",
@@ -19871,6 +20175,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1905-05-15",
       "1912-04-22",
@@ -20374,6 +20682,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1991-01-24",
       "1991-02-05",
@@ -20646,6 +20958,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1989-06-20",
       "1989-06-28",
@@ -20962,6 +21278,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1988-06-27",
       "1989-06-20"
@@ -21179,6 +21499,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1995-07-01",
       "1996-07-01",
@@ -21487,6 +21811,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "2008-02-26"
     ],
@@ -21621,6 +21949,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1948-12-17",
       "1975-07-01",
@@ -21862,6 +22194,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1920-02-23",
       "1948-12-17",
@@ -22081,6 +22417,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1986-07-01"
     ],
@@ -22245,6 +22585,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1911-01-15",
       "1920-07-01",
@@ -22682,6 +23026,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "2011-08-24",
       "2021-01-01",
@@ -22932,6 +23280,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1944-04-17",
       "1988-07-01",
@@ -23305,6 +23657,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1991-07-01",
       "2014-07-01",
@@ -23513,6 +23869,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "2019-06-15",
       "2019-07-01"
@@ -23687,6 +24047,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1905-07-01",
       "1957-03-01"
@@ -23860,6 +24224,10 @@
       }
     ],
     "color": "#618DEA",
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1957-03-01",
       "1978-07-01",
@@ -24157,6 +24525,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1937-07-01",
       "1999-12-04"
@@ -24315,6 +24687,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1961-07-01",
       "1990-07-01",
@@ -24535,6 +24911,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1970-01-15",
       "1972-07-01",
@@ -24741,6 +25121,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1921-07-01",
       "1940-11-26",
@@ -24949,6 +25333,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1983-01-01",
       "1987-02-21",
@@ -25176,6 +25564,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1982-06-29",
       "1994-06-04",
@@ -25377,6 +25769,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1991-07-01",
       "2002-10-14"
@@ -25486,6 +25882,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1932-07-01",
       "1940-07-01"
@@ -25628,6 +26028,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/1"
+    },
     "event_dates": [
       "1979-03-05",
       "1989-12-31",
@@ -25961,6 +26365,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1975-05-17",
       "1990-11-24",
@@ -26356,6 +26764,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "1925-08-09",
       "1936-12-23",
@@ -26855,6 +27267,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "1913-07-01",
       "1921-07-01"
@@ -27054,6 +27470,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "1919-08-03",
       "1927-07-01",
@@ -27400,6 +27820,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "2022-01-01"
     ],
@@ -27594,6 +28018,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "1913-11-09",
       "1926-07-01",
@@ -28085,6 +28513,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "1994-07-01",
       "1995-07-01",
@@ -28413,6 +28845,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "1991-07-01",
       "1994-07-01",
@@ -28696,6 +29132,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "1988-06-27",
       "1991-07-01"
@@ -28917,6 +29357,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "1988-07-01",
       "1988-10-30",
@@ -29241,6 +29685,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "1983-07-01",
       "1991-07-01"
@@ -29422,6 +29870,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "2007-09-18"
     ],
@@ -29537,6 +29989,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "1922-01-14"
     ],
@@ -29652,6 +30108,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "1989-07-01"
     ],
@@ -29783,6 +30243,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "2010-03-25",
       "2021-01-01",
@@ -30045,6 +30509,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "1944-07-01",
       "1989-07-01"
@@ -30202,6 +30670,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "1974-07-01",
       "1975-07-01",
@@ -30398,6 +30870,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "1975-07-01",
       "1988-07-01"
@@ -30587,6 +31063,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "1921-07-01",
       "1940-11-26"
@@ -30770,6 +31250,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "intercantonal",
+      "uri": null
+    },
     "event_dates": [
       "1979-12-06",
       "1983-07-01",
@@ -31002,6 +31486,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "intercantonal",
+      "uri": null
+    },
     "event_dates": [
       "1986-06-17",
       "1988-06-27"
@@ -31222,6 +31710,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/26"
+    },
     "event_dates": [
       "1979-07-01"
     ],
@@ -31337,6 +31829,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/26"
+    },
     "event_dates": [
       "1975-05-03",
       "1983-03-25"
@@ -31525,6 +32021,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/26"
+    },
     "event_dates": [
       "1912-07-01",
       "1955-07-01",
@@ -31986,6 +32486,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "region",
+      "uri": null
+    },
     "event_dates": [
       "1966-07-01",
       "1974-01-01"
@@ -32142,6 +32646,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/26"
+    },
     "event_dates": [
       "1974-03-01",
       "1988-07-01"
@@ -32359,6 +32867,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/26"
+    },
     "event_dates": [
       "1877-09-17",
       "1890-07-01",
@@ -33128,6 +33640,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/26"
+    },
     "event_dates": [
       "1991-07-01",
       "1993-07-01",
@@ -33498,6 +34014,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/26"
+    },
     "event_dates": [
       "2020-07-01"
     ],
@@ -33611,6 +34131,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/26"
+    },
     "event_dates": [
       "2011-09-22"
     ],
@@ -33742,6 +34266,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/26"
+    },
     "event_dates": [
       "1958-01-26",
       "1976-05-22",
@@ -34000,6 +34528,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/26"
+    },
     "event_dates": [
       "1945-07-01",
       "1950-01-01",
@@ -34168,6 +34700,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/26"
+    },
     "event_dates": [
       "1967-07-01",
       "2013-01-15"
@@ -34369,6 +34905,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/26"
+    },
     "event_dates": [
       "1977-05-15",
       "2013-01-15"
@@ -34536,6 +35076,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/26"
+    },
     "event_dates": [
       "2013-01-15",
       "2020-01-01"
@@ -34762,6 +35306,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "region",
+      "uri": null
+    },
     "event_dates": [
       "1999-07-15",
       "2002-09-27"
@@ -34943,6 +35491,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "region",
+      "uri": null
+    },
     "event_dates": [
       "2002-09-27"
     ],
@@ -35092,6 +35644,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/23"
+    },
     "event_dates": [
       "1919-12-07",
       "1982-05-01"
@@ -35313,6 +35869,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "region",
+      "uri": null
+    },
     "event_dates": [
       "1971-09-23",
       "1982-05-01"
@@ -35481,6 +36041,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "region",
+      "uri": null
+    },
     "event_dates": [
       "1982-05-01"
     ],
@@ -35672,6 +36236,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "region",
+      "uri": null
+    },
     "event_dates": [
       "1982-05-01"
     ],
@@ -35845,6 +36413,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/23"
+    },
     "event_dates": [
       "2013-09-12"
     ],
@@ -36030,6 +36602,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "region",
+      "uri": null
+    },
     "event_dates": [
       "2008-02-21",
       "2009-01-01",
@@ -36338,6 +36914,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "region",
+      "uri": null
+    },
     "event_dates": [
       "1849-07-01",
       "1894-02-25",
@@ -36579,6 +37159,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "region",
+      "uri": null
+    },
     "event_dates": [
       "1979-09-01",
       "2009-01-01",
@@ -36929,6 +37513,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "region",
+      "uri": null
+    },
     "event_dates": [
       "1998-05-06",
       "2021-01-01",
@@ -37220,6 +37808,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "region",
+      "uri": null
+    },
     "event_dates": [
       "1997-06-12",
       "1998-05-09",
@@ -37695,6 +38287,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "region",
+      "uri": null
+    },
     "event_dates": [
       "1919-04-23",
       "1949-07-01",
@@ -38130,6 +38726,10 @@
       }
     ],
     "color": "#E3BA24",
+    "area": {
+      "type": "region",
+      "uri": null
+    },
     "event_dates": [
       "1949-07-01",
       "2021-01-01",
@@ -38473,6 +39073,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/23"
+    },
     "event_dates": [
       "1960-07-01",
       "1971-07-01",
@@ -38731,6 +39335,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/23"
+    },
     "event_dates": [
       "1987-07-01",
       "1987-09-26",
@@ -39112,6 +39720,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/23"
+    },
     "event_dates": [
       "2020-05-28",
       "2024-03-07"
@@ -39300,6 +39912,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/23"
+    },
     "event_dates": [
       "2008-01-09",
       "2009-01-09",
@@ -39501,6 +40117,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/23"
+    },
     "event_dates": [
       "1944-07-01",
       "1990-07-01",
@@ -39691,6 +40311,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/23"
+    },
     "event_dates": [
       "2019-10-08"
     ],
@@ -39834,6 +40458,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/23"
+    },
     "event_dates": [
       "1988-03-20",
       "2008-02-21"
@@ -40036,6 +40664,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "1919-12-19",
       "1920-12-19",
@@ -40378,6 +41010,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "1900-07-01",
       "1969-04-27",
@@ -40704,6 +41340,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "1992-10-18",
       "2020-02-16"
@@ -40932,6 +41572,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "1969-04-27",
       "1988-01-24"
@@ -41094,6 +41738,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "1988-01-24",
       "1992-10-18"
@@ -41296,6 +41944,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "1946-07-01",
       "2009-01-01"
@@ -41565,6 +42217,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "1855-07-01",
       "1912-04-22",
@@ -42017,6 +42673,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "1994-07-01"
     ],
@@ -42210,6 +42870,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "1984-07-01",
       "1985-07-01",
@@ -42579,6 +43243,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "1990-03-25",
       "1994-07-01"
@@ -42755,6 +43423,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "1990-05-20",
       "1990-10-26",
@@ -42998,6 +43670,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "2013-02-22",
       "2023-05-20"
@@ -43182,6 +43858,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "2005-07-01"
     ],
@@ -43319,6 +43999,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "1944-08-15",
       "1944-10-15",
@@ -43657,6 +44341,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "2015-01-25"
     ],
@@ -43778,6 +44466,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "1934-07-01",
       "1946-07-01"
@@ -43937,6 +44629,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "1934-07-01",
       "1946-07-01"
@@ -44101,6 +44797,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "1894-07-01",
       "1934-07-01"
@@ -44270,6 +44970,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/21"
+    },
     "event_dates": [
       "1986-07-01",
       "1988-01-24"
@@ -44430,6 +45134,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/5"
+    },
     "event_dates": [
       "1972-04-10",
       "1975-07-01"
@@ -44576,6 +45284,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/5"
+    },
     "event_dates": [
       "1919-07-01"
     ],
@@ -44719,6 +45431,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/5"
+    },
     "event_dates": [
       "1833-07-01",
       "1894-02-25",
@@ -45141,6 +45857,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/5"
+    },
     "event_dates": [
       "1971-11-27",
       "2021-01-01",
@@ -45456,6 +46176,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/5"
+    },
     "event_dates": [
       "1946-07-01",
       "1971-11-27"
@@ -45669,6 +46393,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/5"
+    },
     "event_dates": [
       "1900-01-01",
       "1912-04-22",
@@ -45941,6 +46669,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/5"
+    },
     "event_dates": [
       "2007-06-21",
       "2012-07-01"
@@ -46126,6 +46858,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/5"
+    },
     "event_dates": [
       "1983-05-28",
       "1988-07-01",
@@ -46457,6 +47193,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/5"
+    },
     "event_dates": [
       "2012-08-22"
     ],
@@ -46572,6 +47312,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/5"
+    },
     "event_dates": [
       "2009-08-31"
     ],
@@ -46687,6 +47431,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/5"
+    },
     "event_dates": [
       "2009-08-17",
       "2016-07-01"
@@ -46848,6 +47596,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/6"
+    },
     "event_dates": [
       "1999-12-03"
     ],
@@ -46971,6 +47723,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/6"
+    },
     "event_dates": [
       "1998-02-02"
     ],
@@ -47097,6 +47853,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/6"
+    },
     "event_dates": [
       "1992-10-15",
       "1998-01-31",
@@ -47264,6 +48024,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/6"
+    },
     "event_dates": [
       "1911-07-01",
       "1950-01-01",
@@ -47623,6 +48387,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/6"
+    },
     "event_dates": [
       "1919-10-12",
       "1943-07-01",
@@ -48147,6 +48915,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/6"
+    },
     "event_dates": [
       "2008-12-05",
       "2009-11-30"
@@ -48306,6 +49078,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/6"
+    },
     "event_dates": [
       "2021-06-11"
     ],
@@ -48437,6 +49213,10 @@
       }
     ],
     "color": "#B72733",
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/6"
+    },
     "event_dates": [
       "1956-07-01",
       "2002-07-01",
@@ -48713,6 +49493,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/6"
+    },
     "event_dates": [
       "2008-11-19",
       "2009-07-01"
@@ -48833,6 +49617,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/7"
+    },
     "event_dates": [
       "1999-08-28"
     ],
@@ -48955,6 +49743,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/7"
+    },
     "event_dates": [
       "1942-07-01",
       "1947-07-01"
@@ -49161,6 +49953,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/7"
+    },
     "event_dates": [
       "1902-11-10",
       "1910-10-23",
@@ -49526,6 +50322,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/7"
+    },
     "event_dates": [
       "1970-07-01",
       "2021-01-01",
@@ -49839,6 +50639,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/7"
+    },
     "event_dates": [
       "1896-07-01",
       "1912-04-22",
@@ -50096,6 +50900,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/7"
+    },
     "event_dates": [
       "1946-07-01",
       "1970-07-01"
@@ -50312,6 +51120,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/7"
+    },
     "event_dates": [
       "1982-01-08",
       "2001-07-01",
@@ -50606,6 +51418,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/7"
+    },
     "event_dates": [
       "2021-06-21"
     ],
@@ -50715,6 +51531,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1920-01-01",
       "1936-12-23"
@@ -50892,6 +51712,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/8"
+    },
     "event_dates": [
       "1928-07-01",
       "1941-07-01",
@@ -51246,6 +52070,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/8"
+    },
     "event_dates": [
       "1917-12-30"
     ],
@@ -51391,6 +52219,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/8"
+    },
     "event_dates": [
       "1920-07-01",
       "1975-01-01",
@@ -51721,6 +52553,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/8"
+    },
     "event_dates": [
       "2021-05-12",
       "2022-05-28"
@@ -51962,6 +52798,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/8"
+    },
     "event_dates": [
       "1903-07-01",
       "1912-04-22",
@@ -52331,6 +53171,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/8"
+    },
     "event_dates": [
       "1987-03-18",
       "1988-04-15",
@@ -52544,6 +53388,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/8"
+    },
     "event_dates": [
       "2013-03-14"
     ],
@@ -52659,6 +53507,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/8"
+    },
     "event_dates": [
       "1991-07-01"
     ],
@@ -52790,6 +53642,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/8"
+    },
     "event_dates": [
       "2008-08-28",
       "2008-11-01",
@@ -53091,6 +53947,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/8"
+    },
     "event_dates": [
       "1902-07-01",
       "1927-07-01",
@@ -53296,6 +54156,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/8"
+    },
     "event_dates": [
       "1838-07-01",
       "1900-01-01",
@@ -53614,6 +54478,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/9"
+    },
     "event_dates": [
       "1991-09-11"
     ],
@@ -53764,6 +54632,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/9"
+    },
     "event_dates": [
       "1889-09-01",
       "1892-01-01",
@@ -54185,6 +55057,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/9"
+    },
     "event_dates": [
       "1870-07-01",
       "1894-02-25",
@@ -54577,6 +55453,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/9"
+    },
     "event_dates": [
       "1885-07-01",
       "1910-07-01",
@@ -55042,6 +55922,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/9"
+    },
     "event_dates": [
       "2005-08-27",
       "2007-07-01",
@@ -55358,6 +56242,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/9"
+    },
     "event_dates": [
       "1986-07-01",
       "2005-07-01",
@@ -55571,6 +56459,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/9"
+    },
     "event_dates": [
       "2007-11-28"
     ],
@@ -55686,6 +56578,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/9"
+    },
     "event_dates": [
       "2021-12-09"
     ],
@@ -55801,6 +56697,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/9"
+    },
     "event_dates": [
       "2003-05-14",
       "2005-01-01"
@@ -55965,6 +56865,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/9"
+    },
     "event_dates": [
       "2025-01-24"
     ],
@@ -56116,6 +57020,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "1945-07-01",
       "1971-01-01",
@@ -56468,6 +57376,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "1908-07-01",
       "1989-05-03"
@@ -56655,6 +57567,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "1894-07-01",
       "2006-07-01"
@@ -56879,6 +57795,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "2006-07-01",
       "2009-01-01",
@@ -57193,6 +58113,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "1981-04-25",
       "1982-07-22",
@@ -57460,6 +58384,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "1857-07-01",
       "1912-04-22",
@@ -58018,6 +58946,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "2021-07-01"
     ],
@@ -58184,6 +59116,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "1985-07-01",
       "1986-07-01",
@@ -58530,6 +59466,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "1990-07-01",
       "1993-07-01",
@@ -58992,6 +59932,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "2009-05-08"
     ],
@@ -59111,6 +60055,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "1996-09-19",
       "2006-09-19"
@@ -59304,6 +60252,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "1980-09-15",
       "1995-01-01",
@@ -59710,6 +60662,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "1966-07-01",
       "1976-05-22",
@@ -60028,6 +60984,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "1993-07-01"
     ],
@@ -60163,6 +61123,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "2010-04-28",
       "2021-01-01",
@@ -60416,6 +61380,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "1972-07-01"
     ],
@@ -60536,6 +61504,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "1985-07-01",
       "1990-07-01"
@@ -60729,6 +61701,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1838-05-20",
       "1901-07-01",
@@ -60979,6 +61955,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/11"
+    },
     "event_dates": [
       "1991-06-20"
     ],
@@ -61120,6 +62100,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/11"
+    },
     "event_dates": [
       "1944-07-01",
       "1947-07-01",
@@ -61321,6 +62305,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/11"
+    },
     "event_dates": [
       "1890-09-13",
       "1890-09-14",
@@ -61562,6 +62550,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/11"
+    },
     "event_dates": [
       "1883-02-15",
       "1883-02-25",
@@ -61855,6 +62847,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/11"
+    },
     "event_dates": [
       "1872-10-06",
       "1894-02-25",
@@ -62244,6 +63240,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/11"
+    },
     "event_dates": [
       "1902-12-07",
       "1912-04-22",
@@ -62669,6 +63669,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/11"
+    },
     "event_dates": [
       "2009-06-17",
       "2021-01-01",
@@ -62889,6 +63893,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/11"
+    },
     "event_dates": [
       "1990-07-01",
       "1993-07-01"
@@ -63081,6 +64089,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/11"
+    },
     "event_dates": [
       "2008-11-03"
     ],
@@ -63204,6 +64216,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/11"
+    },
     "event_dates": [
       "1989-11-14",
       "1993-07-01",
@@ -63396,6 +64412,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/11"
+    },
     "event_dates": [
       "2004-03-12"
     ],
@@ -63537,6 +64557,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/11"
+    },
     "event_dates": [
       "1987-10-07",
       "2002-07-01",
@@ -63729,6 +64753,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/11"
+    },
     "event_dates": [
       "2008-12-04"
     ],
@@ -63868,6 +64896,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/11"
+    },
     "event_dates": [
       "1969-01-01",
       "1977-07-01",
@@ -64073,6 +65105,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/11"
+    },
     "event_dates": [
       "1985-01-30",
       "1990-07-01",
@@ -64346,6 +65382,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/11"
+    },
     "event_dates": [
       "2006-03-04"
     ],
@@ -64515,6 +65555,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/14"
+    },
     "event_dates": [
       "1918-12-19",
       "1943-07-04",
@@ -64923,6 +65967,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/14"
+    },
     "event_dates": [
       "1935-07-07",
       "1961-11-12"
@@ -65147,6 +66195,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/14"
+    },
     "event_dates": [
       "1921-07-01",
       "1935-07-07"
@@ -65362,6 +66414,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/14"
+    },
     "event_dates": [
       "1911-07-01",
       "1921-02-27",
@@ -65829,6 +66885,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/14"
+    },
     "event_dates": [
       "1904-01-24",
       "1918-12-19",
@@ -66163,6 +67223,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/14"
+    },
     "event_dates": [
       "1911-07-01",
       "1912-04-22",
@@ -66679,6 +67743,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/14"
+    },
     "event_dates": [
       "1990-07-01",
       "1995-07-01",
@@ -67072,6 +68140,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/14"
+    },
     "event_dates": [
       "2014-06-30"
     ],
@@ -67221,6 +68293,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/14"
+    },
     "event_dates": [
       "1922-04-02"
     ],
@@ -67378,6 +68454,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/14"
+    },
     "event_dates": [
       "1919-01-13",
       "1919-05-10",
@@ -67602,6 +68682,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/14"
+    },
     "event_dates": [
       "1905-06-26",
       "1913-10-07",
@@ -67916,6 +69000,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/14"
+    },
     "event_dates": [
       "1985-04-27"
     ],
@@ -68045,6 +69133,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/14"
+    },
     "event_dates": [
       "1987-07-01",
       "1994-07-01",
@@ -68357,6 +69449,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/14"
+    },
     "event_dates": [
       "1937-03-15",
       "1999-12-04"
@@ -68519,6 +69615,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/14"
+    },
     "event_dates": [
       "1972-12-01",
       "1974-05-15",
@@ -68798,6 +69898,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/15"
+    },
     "event_dates": [
       "1975-07-01"
     ],
@@ -68913,6 +70017,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/15"
+    },
     "event_dates": [
       "1913-07-01"
     ],
@@ -69043,6 +70151,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/15"
+    },
     "event_dates": [
       "1874-07-01",
       "1910-07-03",
@@ -69329,6 +70441,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/15"
+    },
     "event_dates": [
       "1919-07-01",
       "1946-07-01",
@@ -69676,6 +70792,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/15"
+    },
     "event_dates": [
       "1933-07-01",
       "1970-01-01",
@@ -69979,6 +71099,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/15"
+    },
     "event_dates": [
       "1997-11-26"
     ],
@@ -70111,6 +71235,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "intercantonal",
+      "uri": null
+    },
     "event_dates": [
       "1995-01-01",
       "2025-06-05"
@@ -70324,6 +71452,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/16"
+    },
     "event_dates": [
       "1996-07-01"
     ],
@@ -70437,6 +71569,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/16"
+    },
     "event_dates": [
       "1870-07-01",
       "1925-07-01",
@@ -70618,6 +71754,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/16"
+    },
     "event_dates": [
       "1906-07-01",
       "1911-10-01",
@@ -70804,6 +71944,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/16"
+    },
     "event_dates": [
       "1914-03-29",
       "1914-07-01",
@@ -70984,6 +72128,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/16"
+    },
     "event_dates": [
       "1969-07-01"
     ],
@@ -71076,6 +72224,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/16"
+    },
     "event_dates": [
       "2012-08-17"
     ],
@@ -71189,6 +72341,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/16"
+    },
     "event_dates": [
       "2017-06-09",
       "2017-06-24"
@@ -71350,6 +72506,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/16"
+    },
     "event_dates": [
       "1988-07-01",
       "2021-01-01",
@@ -71615,6 +72775,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "intercantonal",
+      "uri": null
+    },
     "event_dates": [
       "2004-08-14",
       "2011-07-01",
@@ -71807,6 +72971,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "intercantonal",
+      "uri": null
+    },
     "event_dates": [
       "2021-08-30"
     ],
@@ -71922,6 +73090,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "intercantonal",
+      "uri": null
+    },
     "event_dates": [
       "1997-07-01"
     ],
@@ -72037,6 +73209,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/17"
+    },
     "event_dates": [
       "1992-11-23"
     ],
@@ -72152,6 +73328,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/17"
+    },
     "event_dates": [
       "1905-01-15"
     ],
@@ -72292,6 +73472,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/17"
+    },
     "event_dates": [
       "1890-12-14",
       "1894-02-25",
@@ -72645,6 +73829,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/17"
+    },
     "event_dates": [
       "1834-12-28",
       "1850-01-01",
@@ -73131,6 +74319,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/17"
+    },
     "event_dates": [
       "1983-05-28",
       "1985-07-01",
@@ -73659,6 +74851,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/17"
+    },
     "event_dates": [
       "2007-07-04",
       "2007-07-19",
@@ -73880,6 +75076,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/17"
+    },
     "event_dates": [
       "1928-07-01",
       "1953-07-01",
@@ -74070,6 +75270,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/17"
+    },
     "event_dates": [
       "1971-07-01"
     ],
@@ -74203,6 +75407,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/17"
+    },
     "event_dates": [
       "1994-07-01"
     ],
@@ -74318,6 +75526,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/17"
+    },
     "event_dates": [
       "2009-01-30",
       "2020-07-01"
@@ -74485,6 +75697,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/17"
+    },
     "event_dates": [
       "1944-07-01",
       "1985-01-01",
@@ -74673,6 +75889,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/17"
+    },
     "event_dates": [
       "2003-02-28",
       "2020-01-01"
@@ -74850,6 +76070,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/17"
+    },
     "event_dates": [
       "1987-07-01",
       "2000-01-15"
@@ -75082,6 +76306,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/18"
+    },
     "event_dates": [
       "1919-09-14",
       "1941-07-01",
@@ -75764,6 +76992,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/18"
+    },
     "event_dates": [
       "2008-06-19"
     ],
@@ -75898,6 +77130,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/17"
+    },
     "event_dates": [
       "1873-04-02",
       "1881-10-23",
@@ -76073,6 +77309,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/16"
+    },
     "event_dates": [
       "1931-07-01",
       "1946-01-01"
@@ -76197,6 +77437,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/17"
+    },
     "event_dates": [
       "1881-10-23",
       "1927-11-15",
@@ -76382,6 +77626,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/17"
+    },
     "event_dates": [
       "1927-11-15",
       "1935-01-01"
@@ -76526,6 +77774,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/18"
+    },
     "event_dates": [
       "1906-05-27",
       "1987-11-03"
@@ -76734,6 +77986,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/18"
+    },
     "event_dates": [
       "1868-07-01",
       "1894-02-25",
@@ -77137,6 +78393,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/18"
+    },
     "event_dates": [
       "2021-06-07"
     ],
@@ -77337,6 +78597,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/18"
+    },
     "event_dates": [
       "1903-05-22",
       "1912-04-22",
@@ -77912,6 +79176,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/18"
+    },
     "event_dates": [
       "2007-06-26",
       "2007-07-01",
@@ -78238,6 +79506,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/18"
+    },
     "event_dates": [
       "1987-07-01",
       "1993-01-01",
@@ -78517,6 +79789,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/18"
+    },
     "event_dates": [
       "2008-02-27"
     ],
@@ -78630,6 +79906,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/18"
+    },
     "event_dates": [
       "2007-05-12"
     ],
@@ -78767,6 +80047,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/18"
+    },
     "event_dates": [
       "1987-07-01",
       "1987-11-07",
@@ -79191,6 +80475,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/18"
+    },
     "event_dates": [
       "1936-11-15",
       "1938-07-01",
@@ -79489,6 +80777,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/18"
+    },
     "event_dates": [
       "1995-07-01"
     ],
@@ -79630,6 +80922,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/19"
+    },
     "event_dates": [
       "1920-12-18",
       "1936-12-23",
@@ -80004,6 +81300,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/19"
+    },
     "event_dates": [
       "1902-05-04",
       "1911-07-01"
@@ -80221,6 +81521,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/19"
+    },
     "event_dates": [
       "1895-03-08",
       "2009-01-01"
@@ -80471,6 +81775,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/19"
+    },
     "event_dates": [
       "2021-01-19"
     ],
@@ -80645,6 +81953,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/19"
+    },
     "event_dates": [
       "1892-07-01",
       "1912-04-22",
@@ -81021,6 +82333,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/19"
+    },
     "event_dates": [
       "2008-11-21",
       "2021-01-01",
@@ -81291,6 +82607,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/19"
+    },
     "event_dates": [
       "1983-08-13",
       "1988-07-01"
@@ -81483,6 +82803,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/19"
+    },
     "event_dates": [
       "2008-06-27"
     ],
@@ -81596,6 +82920,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/19"
+    },
     "event_dates": [
       "1921-10-15"
     ],
@@ -81709,6 +83037,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/19"
+    },
     "event_dates": [
       "1987-07-01"
     ],
@@ -81824,6 +83156,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/19"
+    },
     "event_dates": [
       "2022-07-01"
     ],
@@ -81924,6 +83260,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "2005-06-25",
       "2008-12-31"
@@ -82051,6 +83391,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/20"
+    },
     "event_dates": [
       "1985-04-23"
     ],
@@ -82184,6 +83528,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/20"
+    },
     "event_dates": [
       "1906-07-01"
     ],
@@ -82316,6 +83664,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/20"
+    },
     "event_dates": [
       "1890-12-28",
       "1894-02-25",
@@ -82621,6 +83973,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/20"
+    },
     "event_dates": [
       "1905-07-01",
       "1912-04-22",
@@ -83093,6 +84449,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/20"
+    },
     "event_dates": [
       "1973-06-28",
       "2021-01-01",
@@ -83410,6 +84770,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/20"
+    },
     "event_dates": [
       "1947-07-01",
       "1973-06-28"
@@ -83619,6 +84983,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/20"
+    },
     "event_dates": [
       "2008-11-10",
       "2021-01-01",
@@ -83870,6 +85238,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/20"
+    },
     "event_dates": [
       "1983-12-01",
       "1984-07-01",
@@ -84079,6 +85451,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/20"
+    },
     "event_dates": [
       "2008-01-09"
     ],
@@ -84192,6 +85568,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/20"
+    },
     "event_dates": [
       "1955-07-01"
     ],
@@ -84307,6 +85687,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/20"
+    },
     "event_dates": [
       "1997-07-01"
     ],
@@ -84420,6 +85804,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/20"
+    },
     "event_dates": [
       "1945-07-01",
       "1955-01-01"
@@ -84568,6 +85956,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/20"
+    },
     "event_dates": [
       "1891-02-01",
       "1932-07-01"
@@ -84682,6 +86074,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/19"
+    },
     "event_dates": [
       "1849-01-01",
       "1902-05-04"
@@ -84831,6 +86227,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/16"
+    },
     "event_dates": [
       "1925-01-01",
       "1947-01-01"
@@ -84983,6 +86383,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/17"
+    },
     "event_dates": [
       "1834-10-24",
       "1834-12-28"
@@ -85150,6 +86554,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1985-02-25",
       "1990-07-01",
@@ -85458,6 +86866,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1971-05-12",
       "1975-09-03",
@@ -85745,6 +87157,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/20"
+    },
     "event_dates": [
       "1835-07-01",
       "1919-07-01",
@@ -86106,6 +87522,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "1921-01-13",
       "1936-12-23",
@@ -86471,6 +87891,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "1890-07-01"
     ],
@@ -86610,6 +88034,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "1845-07-01",
       "1894-02-25",
@@ -87025,6 +88453,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "2012-09-26"
     ],
@@ -87184,6 +88616,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "1913-07-01",
       "2012-09-26"
@@ -87383,6 +88819,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "2021-04-30"
     ],
@@ -87570,6 +89010,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "1952-03-15",
       "1970-01-01",
@@ -87968,6 +89412,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "2011-04-14",
       "2021-01-01",
@@ -88232,6 +89680,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "1973-07-01",
       "1974-02-01"
@@ -88390,6 +89842,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "1974-02-01",
       "1983-05-28",
@@ -88647,6 +90103,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "1997-03-08",
       "2021-07-01"
@@ -88891,6 +90351,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "1983-04-15",
       "1983-06-15",
@@ -89230,6 +90694,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "1983-01-01",
       "1983-06-15",
@@ -89416,6 +90884,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "2010-02-18"
     ],
@@ -89529,6 +91001,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "2004-05-22"
     ],
@@ -89644,6 +91120,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "1975-07-01"
     ],
@@ -89759,6 +91239,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "2010-04-06",
       "2011-07-01",
@@ -89924,6 +91408,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/22"
+    },
     "event_dates": [
       "1943-05-21"
     ],
@@ -90006,6 +91494,10 @@
       }
     ],
     "color": "#49A5E7",
+    "area": {
+      "type": "intercantonal",
+      "uri": null
+    },
     "event_dates": [
       "2011-07-01"
     ],
@@ -90097,6 +91589,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/24"
+    },
     "event_dates": [
       "2001-10-18"
     ],
@@ -90212,6 +91708,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/24"
+    },
     "event_dates": [
       "1896-09-15"
     ],
@@ -90361,6 +91861,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/24"
+    },
     "event_dates": [
       "1848-05-14",
       "1857-07-01",
@@ -90826,6 +92330,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/24"
+    },
     "event_dates": [
       "2008-06-21",
       "2009-01-01"
@@ -91080,6 +92588,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/24"
+    },
     "event_dates": [
       "1981-07-01",
       "2008-04-10",
@@ -91313,6 +92825,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/24"
+    },
     "event_dates": [
       "1873-07-01",
       "1913-10-08",
@@ -91590,6 +93106,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/24"
+    },
     "event_dates": [
       "1919-07-01",
       "1981-07-01"
@@ -91730,6 +93250,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/24"
+    },
     "event_dates": [
       "1928-07-01",
       "1970-01-01"
@@ -91916,6 +93440,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/24"
+    },
     "event_dates": [
       "2004-02-15",
       "2021-01-01",
@@ -92226,6 +93754,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/24"
+    },
     "event_dates": [
       "1984-01-24",
       "1984-07-01",
@@ -92572,6 +94104,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/24"
+    },
     "event_dates": [
       "2012-10-29"
     ],
@@ -92685,6 +94221,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/24"
+    },
     "event_dates": [
       "2006-05-31"
     ],
@@ -92798,6 +94338,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/24"
+    },
     "event_dates": [
       "1992-07-01"
     ],
@@ -92913,6 +94457,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/24"
+    },
     "event_dates": [
       "2010-06-03",
       "2011-07-01",
@@ -93105,6 +94653,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/24"
+    },
     "event_dates": [
       "2010-10-14",
       "2015-12-31"
@@ -93266,6 +94818,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/24"
+    },
     "event_dates": [
       "1944-07-01"
     ],
@@ -93389,6 +94945,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/25"
+    },
     "event_dates": [
       "1987-07-01",
       "2005-06-06"
@@ -93582,6 +95142,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/25"
+    },
     "event_dates": [
       "1892-07-01",
       "1901-07-01",
@@ -93857,6 +95421,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/25"
+    },
     "event_dates": [
       "1841-07-01",
       "1894-02-25",
@@ -94271,6 +95839,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/25"
+    },
     "event_dates": [
       "2011-05-24"
     ],
@@ -94456,6 +96028,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/25"
+    },
     "event_dates": [
       "1875-07-01",
       "1913-10-08",
@@ -94928,6 +96504,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/25"
+    },
     "event_dates": [
       "1892-07-01",
       "1912-04-22",
@@ -95456,6 +97036,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/25"
+    },
     "event_dates": [
       "1983-01-31",
       "1983-05-28",
@@ -95874,6 +97458,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/25"
+    },
     "event_dates": [
       "2010-09-29"
     ],
@@ -95987,6 +97575,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/25"
+    },
     "event_dates": [
       "2007-08-27"
     ],
@@ -96102,6 +97694,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/25"
+    },
     "event_dates": [
       "1993-07-01"
     ],
@@ -96245,6 +97841,10 @@
       }
     ],
     "color": "#49A5E7",
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/25"
+    },
     "event_dates": [
       "2005-06-06",
       "2005-07-05",
@@ -96565,6 +98165,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/25"
+    },
     "event_dates": [
       "2013-02-13",
       "2018-05-31",
@@ -96911,6 +98515,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/25"
+    },
     "event_dates": [
       "1943-06-08",
       "1944-07-01",
@@ -97131,6 +98739,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/25"
+    },
     "event_dates": [
       "1921-01-24",
       "1937-07-01",
@@ -97265,6 +98877,10 @@
       }
     ],
     "color": "#CF526D",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1971-07-01",
       "1993-07-01"
@@ -97376,6 +98992,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/12"
+    },
     "event_dates": [
       "1973-07-01"
     ],
@@ -97460,6 +99080,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1850-01-01",
       "1888-10-21"
@@ -97611,6 +99235,10 @@
       }
     ],
     "color": "#8C2736",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1921-03-06",
       "1940-11-26",
@@ -97768,6 +99396,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1850-01-01",
       "1913-10-08"
@@ -97903,6 +99535,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1930-01-01",
       "1936-12-30"
@@ -98053,6 +99689,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/1"
+    },
     "event_dates": [
       "1918-07-01",
       "1921-03-06",
@@ -98296,6 +99936,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1915-07-04",
       "1924-07-01",
@@ -98544,6 +100188,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/2"
+    },
     "event_dates": [
       "1935-11-09",
       "1946-07-01"
@@ -98696,6 +100344,10 @@
       }
     ],
     "color": "#AA3840",
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1969-10-15",
       "1980-07-01",
@@ -98906,6 +100558,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1994-11-26",
       "1995-07-01"
@@ -99048,6 +100704,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1901-07-01",
       "1916-07-01"
@@ -99150,6 +100810,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1943-09-15",
       "1990-07-01"
@@ -99268,6 +100932,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "country",
+      "uri": "https://ld.admin.ch/country/CHE"
+    },
     "event_dates": [
       "1994-06-04",
       "2012-01-01"
@@ -99404,6 +101072,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/13"
+    },
     "event_dates": [
       "1995-09-23",
       "2010-01-01"
@@ -99566,6 +101238,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/18"
+    },
     "event_dates": [
       "1987-11-03",
       "1994-06-04",
@@ -99775,6 +101451,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/10"
+    },
     "event_dates": [
       "1989-05-03",
       "1994-06-04",
@@ -100065,6 +101745,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/1"
+    },
     "event_dates": [
       "1994-09-15",
       "1997-06-21",
@@ -100273,6 +101957,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "region",
+      "uri": null
+    },
     "event_dates": [
       "1976-04-15",
       "1976-05-22",
@@ -100462,6 +102150,10 @@
       }
     ],
     "color": "#212529",
+    "area": {
+      "type": "region",
+      "uri": null
+    },
     "event_dates": [
       "1815-01-01",
       "1917-07-01",
@@ -100662,6 +102354,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "region",
+      "uri": null
+    },
     "event_dates": [
       "1917-07-01",
       "1919-04-23",
@@ -100914,6 +102610,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "district",
+      "uri": null
+    },
     "event_dates": [
       "1966-01-01",
       "1980-07-01",
@@ -101207,6 +102907,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "municipality",
+      "uri": null
+    },
     "event_dates": [
       "1947-02-01",
       "2010-12-31",
@@ -101486,6 +103190,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "municipality",
+      "uri": null
+    },
     "event_dates": [
       "2012-03-29",
       "2013-03-14"
@@ -101653,6 +103361,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/24"
+    },
     "event_dates": [
       "1997-03-03",
       "2000-01-01",
@@ -101830,6 +103542,10 @@
       }
     ],
     "color": NaN,
+    "area": {
+      "type": "canton",
+      "uri": "https://ld.admin.ch/canton/19"
+    },
     "event_dates": [
       "1987-01-17"
     ],
