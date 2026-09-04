@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "annotations": [
+                {
+                    "title": "Schweizerische Volkspartei",
+                    "type": "EXT_RESOURCE",
+                    "uri": "https://politics.ld.admin.ch/political-party/1"
+                }
+            ],
+            "code": "1",
+            "name": {
+                "de": "Schweizerische Volkspartei",
+                "fr": "Union Démocratique du Centre"
+            }
+        },
+        {
+            "annotations": [
+                {
+                    "title": "Schweizerische Volkspartei des Kantons Zürich",
+                    "type": "EXT_RESOURCE",
+                    "uri": "https://politics.ld.admin.ch/political-party/20"
+                }
+            ],
+            "code": "20",
+            "name": {
+                "de": "Schweizerische Volkspartei des Kantons Zürich"
+            },
+            "parentCode": "1"
+        }
+
+    ]
+}

@@ -1,0 +1,43 @@
+{
+  "data": {
+    "conceptType": "CodeList",
+    "codeListEntryDefaultSortProperty": "Code",
+    "codeListEntryValueType": "String",
+    "codeListEntryValueMaxLength": 30,
+    "conformsTo": [],
+    "description": {
+      "de": "Alle politischen Parteien der Schweiz auf Stufe Bund und Kantone.",
+      "en": "All political parties of Switzerland at federal and cantonal level.",
+      "fr": "Tous les partis politiques de Suisse au niveau fédéral et cantonal.",
+      "it": "Tutti i partiti politici della Svizzera a livello federale e cantonale.",
+      "rm": "Tuts ils partis politics da la Svizra a livel federal e cantunal."
+    },
+    "identifiers": [
+      "political-parties"
+    ],
+    "keywords": [],
+    "name": {
+      "de": "Politische Parteien",
+      "en": "Political Parties",
+      "fr": "Partis politiques",
+      "it": "Partiti politici",
+      "rm": "Partis politics"
+    },
+    "publisher": {
+      "identifier": "CH_BK"
+    },
+    "responsibleDeputy": {
+      "email": "michael.luggen@bk.admin.ch"
+    },
+    "responsiblePerson": {
+      "email": "benedikt.hitz@bfh.ch"
+    },
+    "themes": [
+      {
+        "code": "107"
+      }
+    ],
+    "validFrom": "2026-09-04T00:00:00+00:00",
+    "version": "0.0.1"
+  }
+}
