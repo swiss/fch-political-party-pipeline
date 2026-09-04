@@ -516,11 +516,19 @@ source_comment: ",month,1968-04-15T12:00:00,,,year,1973-07-01T12:00:00,,
 122,2045,10,1,,,"page_number_string: 
 notes: 
 source_full_citation: Altermatt, U. (2018). Christlichdemokratische Volkspartei (CVP). In Historisches Lexikon der Schweiz (HLS). Abgerufen am 26. September 2025 von https://hls-dhs-dss.ch/de/articles/017377/2018-03-13/
-source_comment: ",year,1973-07-01T12:00:00,,,year,1984-07-01T12:00:00,,
+source_comment: ",year,1973-07-01T12:00:00,,,month,1984-02-15T12:00:00,,"page_number_string: 
+notes: 
+source_full_citation: Panzera, F. (2022). Cotti, Flavio. In Historisches Lexikon der Schweiz (HLS), Version vom 29.11.2022, übersetzt aus dem Italienischen. Abgerufen am 11. August 2026 von https://hls-dhs-dss.ch/de/articles/004738/2022-11-29/
+source_comment: "
 123,411,10,1,,,"page_number_string: 
 notes: 
 source_full_citation: Altermatt, U. (2018). Christlichdemokratische Volkspartei (CVP). In Historisches Lexikon der Schweiz (HLS). Abgerufen am 26. September 2025 von https://hls-dhs-dss.ch/de/articles/017377/2018-03-13/
-source_comment: ",year,1984-07-01T12:00:00,,,year,1986-07-01T12:00:00,,
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Panzera, F. (2022). Cotti, Flavio. In Historisches Lexikon der Schweiz (HLS), Version vom 29.11.2022, übersetzt aus dem Italienischen. Abgerufen am 11. August 2026 von https://hls-dhs-dss.ch/de/articles/004738/2022-11-29/
+source_comment: ",month,1984-02-15T12:00:00,,,month,1986-12-15T12:00:00,,
 124,1726,10,1,,,"page_number_string: 
 notes: 
 source_full_citation: Altermatt, U. (2018). Christlichdemokratische Volkspartei (CVP). In Historisches Lexikon der Schweiz (HLS). Abgerufen am 26. September 2025 von https://hls-dhs-dss.ch/de/articles/017377/2018-03-13/
@@ -1325,12 +1333,12 @@ source_comment: ",exact,2011-06-25T12:00:00,,,,,,
 306,866,33,2,,,"page_number_string: 
 notes: 
 source_full_citation: sda. (28. Juni 2011). Rudolf Keller neuer SD-Präsident. Neue Zürcher Zeitung. Abgerufen am 30. Oktober 2025 von https://essentials.swissdox.ch/
-source_comment: ",unknown,2007-01-01T12:00:00,,,exact,2011-06-25T12:00:00,,
+source_comment: ",unknown,2008-01-01T12:00:00,,,exact,2011-06-25T12:00:00,,
 307,2133,33,2,,,"page_number_string: 
 notes: 
 source_full_citation: Bernath, M. (2025). Ausgewählte Beiträge zur Schweizer Politik: Parteisekretär der SD Nyffenegger muss sein Amt aufgeben, 2001. Année Politique Suisse. Abgerufen am 30. Oktober 2025 von https://anneepolitique.swiss/prozesse/53713-parteisekretar-der-sd-nyffenegger-muss-sein-amt-aufgeben
 source_comment: ",year,2001-07-01T12:00:00,,,unknown,2007-01-01T12:00:00,,
-308,2134,33,1,,,"page_number_string: 
+308,2134,33,2,,,"page_number_string: 
 notes: 
 source_full_citation: Bernath, M. (2025). Ausgewählte Beiträge zur Schweizer Politik: Parteisekretär der SD Nyffenegger muss sein Amt aufgeben, 2001. Année Politique Suisse. Abgerufen am 30. Oktober 2025 von https://anneepolitique.swiss/prozesse/53713-parteisekretar-der-sd-nyffenegger-muss-sein-amt-aufgeben
 source_comment: ",unknown,1997-01-01T12:00:00,,,year,2001-07-01T12:00:00,,
@@ -2003,7 +2011,12 @@ source_comment: ",exact,2015-03-01T12:00:00,,,exact,2015-06-13T12:00:00,,
 465,1524,55,1,,,"page_number_string: 
 notes: 
 source_full_citation: sda. (15. Juni 2015). David Roth neuer Präsident der SP des Kantons Luzern. Zofinger Tagblatt. Abgerufen am 05. Dezember 2025 von https://essentials.swissdox.ch/
-source_comment: ",exact,2015-06-13T12:00:00,,,,,,
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: SP Kanton Luzern. (2026). Pia Engler neu als Präsidentin der SP Kanton Luzern gewählt. Abgerufen am 6.8.2026 von https://web.archive.org/web/20260805224215/https://sp-luzern.ch/blog/2026/03/09/parteitag26/
+source_comment: ",exact,2015-06-13T12:00:00,,,exact,2026-03-09T12:00:00,,
 466,1730,56,1,,,"page_number_string: 
 notes: 
 source_full_citation: Obélis. (2025). Base de données ""élites suisses"". Université de Lausanne. http://www.unil.ch/elitessuisses
@@ -2264,11 +2277,11 @@ source_comment: ",exact,2015-06-17T12:00:00,,,unknown,2021-01-01T12:00:00,,
 520,1596,62,1,,,"page_number_string: 
 notes: 
 source_full_citation: Staatsarchiv Luzern. (2025). CSP (Christlich-soziale Partei) des Kantons und der Stadt Luzern (Provenienz). Abgerufen am 08. Dezember 2025 von https://query-staatsarchiv.lu.ch/detail.aspx?ID=1587955
-source_comment: ",year,1970-07-01T12:00:00,,,year,1971-07-01T12:00:00,,
+source_comment: ",year,1970-07-01T12:00:00,,,month,1971-01-15T12:00:00,,
 521,300,62,1,,,"page_number_string: 
 notes: 
 source_full_citation: Staatsarchiv Luzern. (2025). CSP (Christlich-soziale Partei) des Kantons und der Stadt Luzern (Provenienz). Abgerufen am 08. Dezember 2025 von https://query-staatsarchiv.lu.ch/detail.aspx?ID=1587955
-source_comment: ",year,1971-07-01T12:00:00,,,year,1985-07-01T12:00:00,,
+source_comment: ",month,1971-01-15T12:00:00,,,year,1985-07-01T12:00:00,,
 522,291,62,1,,,"page_number_string: 
 notes: 
 source_full_citation: Staatsarchiv Luzern. (2025). CSP (Christlich-soziale Partei) des Kantons und der Stadt Luzern (Provenienz). Abgerufen am 08. Dezember 2025 von https://query-staatsarchiv.lu.ch/detail.aspx?ID=1587955
@@ -3551,4 +3564,94 @@ source_comment: ",exact,1921-03-06T12:00:00,,,unknown,1926-01-01T12:00:00,,
 791,2221,66,1,,,"page_number_string: 
 notes: 
 source_full_citation: Bühlmann, M. (2011). CSP erhält neuen Präsident. Politchronik, Année Politique Suisse, Version vom 19.09.2025. Abgerufen am 27. Juli 2026 von https://politchronik.swiss/de/prozesse/51806/versionen/6d64be93-81b6-4575-a3cd-a06c7ea0974a
-source_comment: ",year,2000-07-01T12:00:00,,,exact,2010-10-03T12:00:00,,
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Brändli, D. (1999). Parteien. In Année Politique Suisse. Abgerufen am 18. Mai 2026 von https://anneepolitique.swiss/APS/de/APS_1999/APS1999_III_a.html#ref15_1
+source_comment: ",month,1999-03-15T12:00:00,,"page_number_string: 
+notes: 
+source_full_citation: Brändli, D. (1999). Parteien. In Année Politique Suisse. Abgerufen am 18. Mai 2026 von https://anneepolitique.swiss/APS/de/APS_1999/APS1999_III_a.html#ref15_1
+source_comment: ",exact,2010-10-03T12:00:00,,
+792,2222,62,2,,,"page_number_string: 
+notes: 
+source_full_citation: Staatsarchiv Luzern. (2025). CSP (Christlich-soziale Partei) des Kantons und der Stadt Luzern (Provenienz). Abgerufen am 08. Dezember 2025 von https://query-staatsarchiv.lu.ch/detail.aspx?ID=1587955
+source_comment: ",year,1987-07-01T12:00:00,,,exact,2010-07-01T12:00:00,,
+793,1596,62,2,,,"page_number_string: 
+notes: 
+source_full_citation: Staatsarchiv Luzern. (2025). CSP (Christlich-soziale Partei) des Kantons und der Stadt Luzern (Provenienz). Abgerufen am 08. Dezember 2025 von https://query-staatsarchiv.lu.ch/detail.aspx?ID=1587955
+source_comment: ",unknown,1985-01-01T12:00:00,,,multiyear,1987-01-01T12:00:00,,
+794,2223,55,1,,,"page_number_string: 
+notes: 
+source_full_citation: SP Kanton Luzern. (2026). Pia Engler neu als Präsidentin der SP Kanton Luzern gewählt. Abgerufen am 6.8.2026 von https://web.archive.org/web/20260805224215/https://sp-luzern.ch/blog/2026/03/09/parteitag26/
+source_comment: ",exact,2026-03-09T12:00:00,,,,,,
+795,411,168,1,,,"page_number_string: 
+notes: 
+source_full_citation: Panzera, F. (2022). Cotti, Flavio. In Historisches Lexikon der Schweiz (HLS), Version vom 29.11.2022, übersetzt aus dem Italienischen. Abgerufen am 11. August 2026 von https://hls-dhs-dss.ch/de/articles/004738/2022-11-29/
+source_comment: ",exact,1981-04-30T12:00:00,,,month,1986-12-15T12:00:00,,
+796,193,426,1,,,"page_number_string: 
+notes: 
+source_full_citation: cb. (17. September 1994). Freie CSP Zürich gegründet. Neue Zürcher Zeitung. Abgerufen am 12. August 2026 von https://essentials.swissdox.ch/de/research?articleId=17185870&articleView=text&q=eyJmbHQiOlt7ImZsIjoicXVlcnlfdGV4dCIsInZhbCI6WyJmcmVpZSBjc3AgesO8cmljaCJdfSx7ImZsIjoiZGF0ZXRpbWUiLCJ2YWwiOlsiMTkxMS0xMS0zMFQyMzowMDowMC4wMDBaIiwiMTk5Ni0xMi0zMVQyMjo1OTowMC4wMDBaIl19XSwiZXh0Ijp0cnVlLCJzcnQiOnsiZmwiOiJkYXRldGltZSIsImRpciI6ImRlc2MifX0%3D
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Christlich-soziale Partei Zürich. (2026). Christlich-soziale Partei Zürich. Abgerufen am 10. August 2026 von https://web.archive.org/web/20260809225754/https://www.csp-zh.ch/
+source_comment: ",exact,1994-09-15T12:00:00,,,,,,
+797,2224,325,1,,,"page_number_string: 
+notes: 
+source_full_citation: stb. (15. Juni 2000). Die CSP des Kantons Graubünden löst sich auf. Neue Zürcher Zeitung. Abgerufen am 18. Mai 2026 von https://essentials.swissdox.ch/de/research?q=eyJmbHQiOlt7ImZsIjoicXVlcnlfdGV4dCIsInZhbCI6WyJjc3AgZ3JhdWLDvG5kZW4iXX0seyJmbCI6ImRhdGV0aW1lIiwidmFsIjpbIjE5MTEtMTEtMzBUMjM6MDA6MDAuMDAwWiIsIjIwMDAtMTItMzFUMjI6NTk6MDAuMDAwWiJdfV0sImV4dCI6dHJ1ZSwic3J0Ijp7ImZsIjoiZGF0ZXRpbWUiLCJkaXIiOiJkZXNjIn19&articleId=15187739&articleView=text
+source_comment: ",unknown,1990-01-01T12:00:00,,,unknown,1995-01-01T12:00:00,,
+798,2225,432,1,,,"page_number_string: 
+notes: 
+source_full_citation: Huber, J. (3. April 2012). GLP Glarus Nord gegründet. Glarus24.ch. Abgerufen am 12. August 2026 von https://www.glarus24.ch/artikel/glp-glarus-nord-gegruendet-2413571
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Landolt, F. (2026). Auskunft zur Parteigeschichte der CSP Glarus Nord. Unveröffentlicht,per E-Mail vom 29.7.2026 an Hans-Peter Schaub erhalten.
+source_comment: ",exact,2012-03-29T12:00:00,,,,,,
+799,2225,431,1,,,"page_number_string: 
+notes: 
+source_full_citation: CSP Näfels. (2003). CSP - Homepage. Abgerufen am 12. August 2026 von https://web.archive.org/web/20031024075515/http://www.csp-naefels.ch/
+source_comment: ",unknown,2000-01-01T12:00:00,,,unknown,2008-01-01T12:00:00,,
+800,2226,356,1,,,"page_number_string: 
+notes: 
+source_full_citation: ? (21. März 2015). Die Auto-Partei: Aufstieg und Fall eines politischen Unikums. Aargauer Zeitung. Abgerufen am 26. August 2026 von https://www.aargauerzeitung.ch/aargau/kanton-aargau/die-auto-partei-aufstieg-und-fall-eines-politischen-unikums-ld.1681649
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: dp. (7. Februar 2017). «Mein Cabriolet selbst zu fahren, ist Lebensqualität». 20 Minuten. Abgerufen am 26. August 2026 von https://web.archive.org/web/20260826095643/https://www.20min.ch/story/mein-cabriolet-selbst-zu-fahren-ist-lebensqualitaet-913455196414
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Auto-Partei. Abgerufen am 28. Mai 2026 von https://de.wikipedia.org/wiki/Auto-Partei
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: auto-partei.ch. (2016). Präsidium auto-partei.ch. Abgerufen am 26. August 2026 von https://web.archive.org/web/20160725130839/http://www.auto-partei.info/partei/organisation/praesidium-schweiz/
+source_comment: ",year,2015-07-01T12:00:00,,,exact,2017-09-02T12:00:00,,"page_number_string: 
+notes: 
+source_full_citation: auto-partei.ch. (2017). auto-partei.ch. Abgerufen am 26. August 2026 von https://web.archive.org/web/20171002111808/http://www.auto-partei.info/
+source_comment: "
+801,2226,356,1,,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Auto-Partei. Abgerufen am 28. Mai 2026 von https://de.wikipedia.org/wiki/Auto-Partei
+source_comment: ",year,2021-07-01T12:00:00,,,,,,
+802,1966,356,1,,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Auto-Partei. Abgerufen am 28. Mai 2026 von https://de.wikipedia.org/wiki/Auto-Partei
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: auto-partei.ch. (2017). auto-partei.ch. Abgerufen am 26. August 2026 von https://web.archive.org/web/20171002111808/http://www.auto-partei.info/
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: auto-partei.ch. (2020). Präsidium auto-partei.ch. Abgerufen am 26. August 2026 von https://web.archive.org/web/20200921101512/https://www.auto-partei.info/partei/organisation/praesidium-schweiz/
+source_comment: ",exact,2017-09-02T12:00:00,,,year,2021-07-01T12:00:00,,

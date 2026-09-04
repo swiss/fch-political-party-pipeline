@@ -38,7 +38,10 @@ source_comment: ",,,,
 22,64,10,,,year,1972-07-01T12:00:00,,,,,,
 23,7,11,,,unknown,1980-01-01T12:00:00,,,,,,
 24,100,12,,,year,2008-07-01T12:00:00,,,,,,
-25,130,12,,,year,1902-07-01T12:00:00,,,year,2008-07-01T12:00:00,,
+25,130,12,,,month,1875-05-15T12:00:00,,"page_number_string: 89-90, 96-97
+notes: 
+source_full_citation: Dähler, T. (Hrsg.). (2024). Praxiskommentar zum Gesetz über die Geschäftsordnung des Grossen Rates des Kantons Basel-Stadt. parliaments.ch.
+source_comment: ",year,2008-06-30T12:00:00,,
 26,7,13,,,year,1875-07-01T12:00:00,,,,,,
 27,257,3,,,year,1923-01-01T12:00:00,,"page_number_string: 262
 notes: 
@@ -91,7 +94,7 @@ source_comment: "
 57,7,24,,,unknown,1900-01-01T12:00:00,,,year,2002-07-01T12:00:00,,
 58,60,25,,,year,1955-07-01T12:00:00,,,,,,
 59,58,25,,,year,1943-07-01T12:00:00,,,year,1955-07-01T12:00:00,,
-60,7,26,,,unknown,1900-01-01T12:00:00,,,,,,
+60,7,26,,,year,1998-07-01T12:00:00,,,,,,
 61,80,27,,,unknown,1935-01-01T12:00:00,,,year,2010-06-30T12:00:00,,
 62,60,27,,,year,2010-07-01T12:00:00,,,,,,
 63,7,28,,,year,1887-07-01T12:00:00,,,year,2006-07-01T12:00:00,,
@@ -105,7 +108,7 @@ source_comment: "
 71,67,29,,,year,1894-07-01T12:00:00,,,year,1902-07-01T12:00:00,,
 72,7,30,,,unknown,1900-01-01T12:00:00,,,,,,
 73,110,31,,,year,2006-07-01T12:00:00,,,,,,
-74,130,31,,,year,1961-07-01T12:00:00,,,year,2006-07-01T12:00:00,,
+74,130,31,,,year,1961-07-01T12:00:00,,,year,2006-06-30T12:00:00,,
 75,131,31,,,year,1951-07-01T12:00:00,,,year,1961-07-01T12:00:00,,
 76,127,31,,,year,1946-07-01T12:00:00,,,year,1951-07-01T12:00:00,,
 77,118,31,,,year,1921-07-01T12:00:00,,,year,1946-07-01T12:00:00,,
@@ -124,7 +127,7 @@ source_comment: "
 90,108,33,,,year,1896-07-01T12:00:00,,,year,1904-07-01T12:00:00,,
 91,5,34,,,year,1856-07-01T12:00:00,,,,,,
 92,60,35,,,year,2008-07-01T12:00:00,,,,,,
-93,80,35,,,year,1964-07-01T12:00:00,,,year,2008-07-01T12:00:00,,
+93,80,35,,,year,1964-07-01T12:00:00,,,year,2008-06-30T12:00:00,,
 94,82,35,,,year,1956-07-01T12:00:00,,,year,1964-07-01T12:00:00,,
 95,85,35,,,year,1952-07-01T12:00:00,,,year,1956-07-01T12:00:00,,
 96,80,35,,,year,1944-07-01T12:00:00,,,year,1952-07-01T12:00:00,,
@@ -139,7 +142,7 @@ source_comment: "
 105,7,40,,,year,1995-07-01T12:00:00,,,,,,
 106,9,40,,,unknown,1950-01-01T12:00:00,,,year,1995-07-01T12:00:00,,
 107,120,41,,,year,2008-07-01T12:00:00,,,,,,
-108,180,41,,,year,1972-07-01T12:00:00,,,year,2008-07-01T12:00:00,,
+108,180,41,,,year,1972-07-01T12:00:00,,,year,2008-06-30T12:00:00,,
 109,204,41,,,year,1964-07-01T12:00:00,,,year,1972-07-01T12:00:00,,
 110,193,41,,,year,1954-07-01T12:00:00,,,year,1964-07-01T12:00:00,,
 111,191,41,,,year,1951-07-01T12:00:00,,,year,1954-07-01T12:00:00,,
@@ -187,7 +190,7 @@ source_comment: "
 153,38,20,,,exact,2007-10-03T12:00:00,,,exact,2023-03-15T12:00:00,,
 154,40,20,,,exact,2023-03-15T12:00:00,,,,,,
 155,140,45,,,year,2005-07-01T12:00:00,,,,,,
-156,200,45,,,year,1953-07-01T12:00:00,,,year,2005-07-01T12:00:00,,
+156,200,45,,,year,1953-07-01T12:00:00,,,year,2005-06-30T12:00:00,,
 157,193,45,,,year,1945-07-01T12:00:00,,,year,1953-07-01T12:00:00,,
 158,186,45,,,year,1937-07-01T12:00:00,,,year,1945-07-01T12:00:00,,
 159,215,45,,,year,1933-07-01T12:00:00,,,year,1937-07-01T12:00:00,,
@@ -428,3 +431,28 @@ source_comment: "
 395,7,106,,,year,1924-07-01T12:00:00,,,,,,
 396,130,107,,,year,1953-07-01T12:00:00,,,,,,
 397,5,108,,,year,1907-07-01T12:00:00,,,,,,
+398,9,26,,,year,1958-07-01T12:00:00,,"page_number_string: 
+notes: 
+source_full_citation: Schleifer-Stöckli, K. (2017). Kanton Nidwalden: Der Staat im 19. und 20. Jahrhundert, Politische Geschichte und Verfassungsentwicklung. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 27. März 2026 von https://hls-dhs-dss.ch/de/articles/007411/2017-05-11/#HPolitischeGeschichteundVerfassungsentwicklung
+source_comment: ",year,1998-06-30T12:00:00,,"page_number_string: 
+notes: 
+source_full_citation: Schleifer-Stöckli, K. (2017). Kanton Nidwalden: Der Staat im 19. und 20. Jahrhundert, Politische Geschichte und Verfassungsentwicklung. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 27. März 2026 von https://hls-dhs-dss.ch/de/articles/007411/2017-05-11/#HPolitischeGeschichteundVerfassungsentwicklung
+source_comment: "
+399,11,26,,,unknown,1901-01-01T12:00:00,,,year,1958-07-01T12:00:00,,"page_number_string: 
+notes: 
+source_full_citation: Schleifer-Stöckli, K. (2017). Kanton Nidwalden: Der Staat im 19. und 20. Jahrhundert, Politische Geschichte und Verfassungsentwicklung. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 27. März 2026 von https://hls-dhs-dss.ch/de/articles/007411/2017-05-11/#HPolitischeGeschichteundVerfassungsentwicklung
+source_comment: "
+400,119,12,,,month,1833-10-15T12:00:00,,"page_number_string: 87
+notes: 
+source_full_citation: Dähler, T. (Hrsg.). (2024). Praxiskommentar zum Gesetz über die Geschäftsordnung des Grossen Rates des Kantons Basel-Stadt. parliaments.ch.
+source_comment: ",year,1847-06-30T12:00:00,,"page_number_string: 87
+notes: 
+source_full_citation: Dähler, T. (Hrsg.). (2024). Praxiskommentar zum Gesetz über die Geschäftsordnung des Grossen Rates des Kantons Basel-Stadt. parliaments.ch.
+source_comment: "
+401,134,12,,,year,1847-07-01T12:00:00,,"page_number_string: 87
+notes: 
+source_full_citation: Dähler, T. (Hrsg.). (2024). Praxiskommentar zum Gesetz über die Geschäftsordnung des Grossen Rates des Kantons Basel-Stadt. parliaments.ch.
+source_comment: ",month,1875-05-14T12:00:00,,"page_number_string: 88, 90
+notes: 
+source_full_citation: Dähler, T. (Hrsg.). (2024). Praxiskommentar zum Gesetz über die Geschäftsordnung des Grossen Rates des Kantons Basel-Stadt. parliaments.ch.
+source_comment: "

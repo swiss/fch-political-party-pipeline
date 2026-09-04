@@ -82,7 +82,7 @@ source_comment: ",exact,1918-09-28T12:00:00,,,,,,
 notes: 
 source_full_citation: sda. (20. März 2021). BDP und CVP fusionieren. Bieler Tagblatt. Abgerufen am 17. November 2025 von https://essentials.swissdox.ch/
 source_comment: ",exact,2021-03-24T12:00:00,,,,,,
-42,39,10,1,,,year,1956-07-01T12:00:00,,,exact,2021-01-01T12:00:00,,
+42,39,10,1,,,year,1912-07-01T12:00:00,,,exact,2021-01-01T12:00:00,,
 43,39,4,1,,,exact,2021-01-01T12:00:00,,,exact,2021-03-24T12:00:00,,
 44,40,5,1,,,exact,2006-05-15T12:00:00,,,,,,
 45,41,5,1,,"page_number_string: 25
@@ -146,7 +146,13 @@ source_comment: ",exact,2003-05-05T12:00:00,,,,,,
 66,52,35,4,,"page_number_string: 180
 notes: 
 source_full_citation: Junker, B. (1996). Geschichte des Kantons Bern seit 1798. Band 3, Tradition und Aufbruch 1881-1995. Historischer Verein des Kantons Bern.
-source_comment: ",multiyear,1921-01-01T12:00:00,,,,,,
+source_comment: 
+
+page_number_string: 511
+notes: 
+source_full_citation: Junker, B. (1977). Bauernparteien in der Schweiz. In H. Gollwitzer (Hrsg.), Europäische Bauernparteien im 20. Jahrhundert (S. 507–523). G. Fischer.
+source_comment: ",year,1922-07-01T12:00:00,,"page_number_string: 
+notes: ",,,,
 67,53,34,1,,,year,1937-07-01T12:00:00,,,exact,1999-12-04T12:00:00,,
 68,49,35,3,,,exact,2008-06-21T12:00:00,,,,,,
 69,54,1,1,,,exact,1992-04-30T12:00:00,,,,,,
@@ -177,13 +183,29 @@ source_comment: ",year,1989-07-01T12:00:00,,,year,1990-07-01T12:00:00,,
 notes: 
 source_full_citation: Jones, A. (11. Oktober 2003). Die EVP gründet Kantonalpartei. Neue Luzerner Zeitung. Abgerufen am 08. Dezember 2025 von https://essentials.swissdox.ch/
 source_comment: ",exact,2003-10-10T12:00:00,,,,,,
-82,62,10,1,,"page_number_string: 
+82,62,57,1,,"page_number_string: 
 notes: 
 source_full_citation: Kiener, F. (2018). Luzern (Kanton). In Historisches Lexikon der Schweiz (HLS). Abgerufen am 05. Dezember 2025 von https://hls-dhs-dss.ch/de/articles/007382/2018-02-07/
-source_comment: ",year,1920-07-01T12:00:00,,,year,1956-07-01T12:00:00,,
-83,62,57,3,,"page_number_string: 
+source_comment: 
+
+page_number_string: 112
+notes: 
+source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
+source_comment: ",year,1909-07-01T12:00:00,,,year,1956-07-01T12:00:00,,
+83,62,57,3,"note_translations: languages_code: de-CH
+note: In der Stadt Luzern hatten sich die Christlichsozialen bereits 1939 abgespalten (Rölli-Alkemper 1993: 172).","page_number_string: 
 notes: 
 source_full_citation: Staatsarchiv Luzern. (2025). CSP (Christlich-soziale Partei) des Kantons und der Stadt Luzern (Provenienz). Abgerufen am 08. Dezember 2025 von https://query-staatsarchiv.lu.ch/detail.aspx?ID=1587955
+source_comment: 
+
+page_number_string: 112
+notes: 
+source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
+source_comment: 
+
+page_number_string: 74
+notes: 
+source_full_citation: Altermatt, U. (2000). Die Christlichdemokratische Volkspartei der Schweiz 1945-1999. In H.-J. Veen (Hrsg.), Christlich-demokratische und konservative Parteien in Westeuropa 5 (S. 35-115). Schöningh.
 source_comment: ",year,1956-07-01T12:00:00,,,,,,
 84,66,65,2,,,exact,1997-06-21T12:00:00,,,,,,
 85,66,10,3,,"page_number_string: 
@@ -200,7 +222,7 @@ notes:
 source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
 source_comment: ",exact,1976-05-22T12:00:00,,,year,1981-07-01T12:00:00,,
 87,62,10,1,"note_translations: languages_code: de-CH
-note: Theoretisch ist es auch möglich, dass CSP LU ab 1981 nicht CVP Schweiz als Mutter hatte, sondern CVP LU.","page_number_string: 
+note: Theoretisch ist es auch möglich, dass die CSP LU ab 1981 nicht die CVP Schweiz als Mutter hatte, sondern die CVP LU.","page_number_string: 
 notes: 
 source_full_citation: Staatsarchiv Luzern. (2025). CSP (Christlich-soziale Partei) des Kantons und der Stadt Luzern (Provenienz). Abgerufen am 08. Dezember 2025 von https://query-staatsarchiv.lu.ch/detail.aspx?ID=1587955
 source_comment: ",year,1981-07-01T12:00:00,,,unknown,1985-01-01T12:00:00,,
@@ -219,8 +241,8 @@ source_comment: ",year,1909-07-01T12:00:00,,,,,,
 94,70,10,1,,"page_number_string: 
 notes: 
 source_full_citation: Mitte Kanton Uri. (2025). Geschichte. Abgerufen am 15. Dezember 2025 von https://www.mitte-uri.ch/geschichte
-source_comment: ",exact,1912-04-22T12:00:00,,,year,2021-01-01T12:00:00,,
-95,70,4,1,,,year,2021-01-01T12:00:00,,,,,,
+source_comment: ",exact,1912-04-22T12:00:00,,,exact,2021-01-01T12:00:00,,
+95,70,4,1,,,exact,2021-01-01T12:00:00,,,,,,
 96,71,5,1,,"page_number_string: 33
 notes: 
 source_full_citation: Bütikofer, S. & Seitz, W. (Hrsg.). (2023). Die Grünen in der Schweiz. Entwicklung - Wirken - Perspektiven. Seismo.
@@ -339,7 +361,7 @@ source_comment: ",exact,1982-06-29T12:00:00,,,,,,
 144,105,3,1,,,exact,2009-01-01T12:00:00,,,,,,
 145,106,4,1,,,exact,2022-01-01T12:00:00,,,,,,
 146,107,4,1,,,exact,2021-01-01T12:00:00,,,exact,2022-01-01T12:00:00,,
-147,107,10,1,,,year,1913-07-01T12:00:00,,,exact,2021-01-01T12:00:00,,
+147,107,10,1,,,exact,1913-11-09T12:00:00,,,exact,2021-01-01T12:00:00,,
 148,106,107,2,,"page_number_string: 
 notes: 
 source_full_citation: Simonsen, L. (28. Oktober 2021). Das letzte bisschen BDP wird im Baselbiet beerdigt. Basler Zeitung. Abgerufen am 02. Februar 2026 von https://essentials.swissdox.ch/
@@ -408,7 +430,7 @@ source_comment: ",year,1921-07-01T12:00:00,,,,,,
 notes: 
 source_full_citation: Gaume, I. & Lopes Ferreira, M. (2026). Parti socialiste du canton du Jura (PSJU). In Dictionnaire du Jura (DIJU). Consulté le 9 février 2026, sur https://www.diju.ch/f/notices/detail/1003503
 source_comment: ",exact,1983-03-25T12:00:00,,,,,,
-176,125,9,1,,,year,1912-07-01T12:00:00,,,exact,2009-01-01T12:00:00,,
+176,125,9,1,,,exact,1979-01-01T12:00:00,,,exact,2009-01-01T12:00:00,,
 177,125,3,1,,,exact,2009-01-01T12:00:00,,,,,,
 178,127,125,3,,"page_number_string: 
 notes: 
@@ -440,7 +462,7 @@ source_comment:
 page_number_string: 
 notes: 
 source_full_citation: Rinderknecht, M. (1992). Parteien. In Année Politique Suisse 1992. Abgerufen am 6. Juli 2026 von https://politchronik.swiss/APS/de/APS_1992/APS1992_III_a.html
-source_comment: ",exact,1976-05-22T12:00:00,,,unknown,1990-01-01T12:00:00,,
+source_comment: ",exact,1976-05-22T12:00:00,,,multiyear,1990-01-01T12:00:00,,
 186,134,66,1,,"page_number_string: 
 notes: 
 source_full_citation: Müller, E. (1997). Parteien. In Année Politique Suisse 1997. Abgerufen am 13. Februar 2026 von https://anneepolitique.swiss/APS/de/APS_1997/APS1997_III_a.html
@@ -714,6 +736,11 @@ source_comment: ",exact,1998-02-02T12:00:00,,,,,,
 285,199,196,3,,"page_number_string: 
 notes: 
 source_full_citation: von Flüe, N. (2018). Kanton Obwalden: Der Staat im 19. und 20. Jahrhundert, Verfassungsgeschichte. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 24. März 2026 von https://hls-dhs-dss.ch/de/articles/007410/2018-02-07/#HDerStaatim19.und20.Jahrhundert
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: CSP Kanton Obwalden. (2026). Geschichte. Abgerufen am 5. August 2026 von https://web.archive.org/web/20260412020146/https://www.csp-ow.ch/partei/geschichte/
 source_comment: ",year,1956-07-01T12:00:00,,,,,,
 286,199,10,1,,"page_number_string: 
 notes: 
@@ -723,6 +750,16 @@ source_comment:
 page_number_string: 
 notes: 
 source_full_citation: Bühlmann, M. (2013). CSP Obwalden. Année Politique Suisse. Abgerufen am 24. März 2026 von https://anneepolitique.swiss/prozesse/51870-csp-obwalden
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: CSP Kanton Obwalden. (2026). Geschichte. Abgerufen am 5. August 2026 von https://web.archive.org/web/20260412020146/https://www.csp-ow.ch/partei/geschichte/
+source_comment: 
+
+page_number_string: 79
+notes: 
+source_full_citation: Altermatt, U. (2000). Die Christlichdemokratische Volkspartei der Schweiz 1945-1999. In H.-J. Veen (Hrsg.), Christlich-demokratische und konservative Parteien in Westeuropa 5 (S. 35-115). Schöningh.
 source_comment: ",year,1956-07-01T12:00:00,,,year,2002-07-01T12:00:00,,
 287,201,1,1,,,exact,1999-08-28T12:00:00,,,,,,
 288,202,2,1,,,year,1942-07-01T12:00:00,,,,,,
@@ -828,9 +865,14 @@ notes:
 source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
 source_comment: ",year,1946-07-01T12:00:00,,,year,1970-07-01T12:00:00,,
 331,199,66,5,"note_translations: languages_code: de-CH
-note: Die CSP OW ist gemäss Bühlmann (2013) zwischen 2005 und 2009 ein ""assoziiertes Mitglied"" der CSP Schweiz.","page_number_string: 
+note: Die CSP OW war gemäss ihrer eigenen Website (CSP Kanton Obwalden 2026) und Bühlmann (2013) zwischen 2005 und 2009 ein ""assoziiertes Mitglied"" der CSP Schweiz.","page_number_string: 
 notes: 
 source_full_citation: Bühlmann, M. (2013). CSP Obwalden. Année Politique Suisse. Abgerufen am 24. März 2026 von https://anneepolitique.swiss/prozesse/51870-csp-obwalden
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: CSP Kanton Obwalden. (2026). Geschichte. Abgerufen am 5. August 2026 von https://web.archive.org/web/20260412020146/https://www.csp-ow.ch/partei/geschichte/
 source_comment: ",year,2005-07-01T12:00:00,,,year,2009-07-01T12:00:00,,
 332,185,10,1,,"page_number_string: 112
 notes: 
@@ -855,7 +897,7 @@ source_comment: ",year,2006-07-01T12:00:00,,,,,,
 343,235,15,1,,"page_number_string: 
 notes: 
 source_full_citation: PL Suisse. (2006). Les partis cantonaux. Consulté le 15 avril 2026, sur https://web.archive.org/web/20060714030649/http://www.liberal.ch/index.php?page=2&sousPage=0&ssousPage=2&language=fr
-source_comment: ",exact,1982-07-22T12:00:00,,,,,,
+source_comment: ",exact,1982-07-22T12:00:00,,,year,2006-07-01T12:00:00,,
 344,234,235,2,,"page_number_string: 
 notes: 
 source_full_citation: Bernath, M., Bühlmann, M., Hohl, S. & Schoenholtz, S. (2025). Ausgewählte Beiträge zur Schweizer Politik: Dossier: Die Fusion von LPS und FDP, 2003-2013. Année Politique Suisse. Abgerufen am 09. September 2025 von https://anneepolitique.swiss/dossiers/384-dossier-die-fusion-von-lps-und-fdp
@@ -985,7 +1027,10 @@ source_comment: ",exact,1935-07-07T12:00:00,,,,,,
 401,268,2,1,,"page_number_string: 369
 notes: 
 source_full_citation: Joos, E. (1975). Parteien und Presse im Kanton Schaffhausen [Dissertation Universität Zürich].
-source_comment: ",year,1911-07-01T12:00:00,,,year,1921-07-01T12:00:00,,
+source_comment: ",year,1911-07-01T12:00:00,,,exact,1921-02-27T12:00:00,,"page_number_string: 369
+notes: 
+source_full_citation: Joos, E. (1975). Parteien und Presse im Kanton Schaffhausen [Dissertation Universität Zürich].
+source_comment: "
 402,269,9,1,,,exact,1904-01-24T12:00:00,,,exact,2009-01-01T12:00:00,,
 403,269,3,1,,,exact,2009-01-01T12:00:00,,,,,,
 404,265,269,3,,"page_number_string: 
@@ -1094,7 +1139,7 @@ source_comment: ",exact,1991-03-09T12:00:00,,,,,,
 notes: 
 source_full_citation: Baer, M. & Seitz, W. (Hrsg.). (2008). Die Grünen in der Schweiz: Ihre Politik, ihre Geschichte, ihre Basis. Rüegger Verlag.
 source_comment: ",year,1989-07-01T12:00:00,,,year,1991-07-01T12:00:00,,
-450,303,6,1,,,exact,2007-07-04T12:00:00,,,,,,
+450,303,6,1,,,exact,2007-07-19T12:00:00,,,,,,
 451,304,7,1,,,year,1928-07-01T12:00:00,,,year,1953-07-01T12:00:00,,
 452,305,7,1,,,year,1971-07-01T12:00:00,,,,,,
 453,305,304,2,,"page_number_string: 
@@ -1160,7 +1205,17 @@ source_comment: ",year,1993-07-01T12:00:00,,,year,2003-07-01T12:00:00,,
 485,325,10,1,,"page_number_string: 
 notes: 
 source_full_citation: Wikipedia. (2026). Christlich-soziale Partei (Schweiz). Abgerufen am 18. Mai 2026 von https://de.wikipedia.org/wiki/Christlich-soziale_Partei_(Schweiz)
-source_comment: ",year,1987-07-01T12:00:00,,,year,1989-07-01T12:00:00,,
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Rinderknecht, M. (1989). Parteien. In Année Politique Suisse 1989. Abgerufen am 30. September 2025 von https://anneepolitique.swiss/APS/de/APS_1989/APS1989_III_a.html#ref11_9
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: stb. (15. Juni 2000). Die CSP des Kantons Graubünden löst sich auf. Neue Zürcher Zeitung. Abgerufen am 18. Mai 2026 von https://essentials.swissdox.ch/de/research?q=eyJmbHQiOlt7ImZsIjoicXVlcnlfdGV4dCIsInZhbCI6WyJjc3AgZ3JhdWLDvG5kZW4iXX0seyJmbCI6ImRhdGV0aW1lIiwidmFsIjpbIjE5MTEtMTEtMzBUMjM6MDA6MDAuMDAwWiIsIjIwMDAtMTItMzFUMjI6NTk6MDAuMDAwWiJdfV0sImV4dCI6dHJ1ZSwic3J0Ijp7ImZsIjoiZGF0ZXRpbWUiLCJkaXIiOiJkZXNjIn19&articleId=15187739&articleView=text
+source_comment: ",exact,1987-11-07T12:00:00,,,month,1989-05-15T12:00:00,,
 486,326,320,3,,"page_number_string: 148
 notes: 
 source_full_citation: Vatter, A. (2002). Kantonale Demokratien im Vergleich: Entstehungsgründe, Interaktionen und Wirkungen politischer Institutionen in den Schweizer Kantonen. Leske + Budrich.
@@ -1170,13 +1225,26 @@ notes:
 source_full_citation: CVP Kanton Graubünden. (2003). 100 jahre cvp graubünden. Spescha & Grünenfelder.
 source_comment: ",exact,1987-11-07T12:00:00,,,,,,
 488,325,65,1,"note_translations: languages_code: de-CH
-note: Dokumentiert ist die Zugehörigkeit für 1989, 1991, 1992, 1994 und 1995 (Statistische Berichte des BFS (1991: 49; 1995: 12; BFS 2018 Kanton Graubünden) und https://anneepolitique.swiss/prozesse/51750). Es ist davon auszugehen, dass die Zugehörigkeit bis zum Ende der CSP Schweiz, zu dem es vor 1997 gekommen sein muss (vgl. Müller 1996; Bloch 2026), andauerte.",,year,1989-07-01T12:00:00,,,multiyear,1995-01-01T12:00:00,,
-489,325,65,1,,"page_number_string: 
+note: Dokumentiert ist die Zugehörigkeit für 1989, 1991, 1992, 1994 und 1995 (Statistische Berichte des BFS (1991: 49; 1995: 12; BFS 2018 Kanton Graubünden) und https://anneepolitique.swiss/prozesse/51750). Es ist davon auszugehen, dass die Zugehörigkeit bis zum Ende der CSP Schweiz, zu dem es vor 1997 gekommen sein muss (vgl. Müller 1996; Bloch 2026), andauerte.","page_number_string: 17
 notes: 
-source_full_citation: Brändli, D. (1999). Parteien. In Année Politiquie Suisse. Abgerufen am 18. Mai 2026 von https://anneepolitique.swiss/APS/de/APS_1999/APS1999_III_a.html#ref15_1
-source_comment: ",month,1999-09-15T12:00:00,,,year,2000-07-01T12:00:00,,
+source_full_citation: Seitz, W. & Schneider, M. (2011). Nationalratswahlen 2011: Der Wandel der Parteienlandschaft seit 1971. Bundesamt für Statistik (BFS).
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Rinderknecht, M. (1992). Parteien. In Année Politique Suisse 1992. Abgerufen am 6. Juli 2026 von https://politchronik.swiss/APS/de/APS_1992/APS1992_III_a.html
+source_comment: ",month,1989-05-15T12:00:00,,,multiyear,1995-01-01T12:00:00,,
+489,325,66,1,,"page_number_string: 
+notes: 
+source_full_citation: Brändli, D. (1999). Parteien. In Année Politique Suisse. Abgerufen am 18. Mai 2026 von https://anneepolitique.swiss/APS/de/APS_1999/APS1999_III_a.html#ref15_1
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: stb. (15. Juni 2000). Die CSP des Kantons Graubünden löst sich auf. Neue Zürcher Zeitung. Abgerufen am 18. Mai 2026 von https://essentials.swissdox.ch/de/research?q=eyJmbHQiOlt7ImZsIjoicXVlcnlfdGV4dCIsInZhbCI6WyJjc3AgZ3JhdWLDvG5kZW4iXX0seyJmbCI6ImRhdGV0aW1lIiwidmFsIjpbIjE5MTEtMTEtMzBUMjM6MDA6MDAuMDAwWiIsIjIwMDAtMTItMzFUMjI6NTk6MDAuMDAwWiJdfV0sImV4dCI6dHJ1ZSwic3J0Ijp7ImZsIjoiZGF0ZXRpbWUiLCJkaXIiOiJkZXNjIn19&articleId=15187739&articleView=text
+source_comment: ",month,1999-09-15T12:00:00,,,month,2000-06-15T12:00:00,,
 490,327,8,1,,,year,1995-07-01T12:00:00,,,,,,
-491,328,1,1,,,exact,1972-09-22T12:00:00,,,,,,
+491,328,1,1,,,exact,1971-09-22T12:00:00,,,,,,
 492,328,11,1,,,exact,1936-12-23T12:00:00,,,exact,1971-09-22T12:00:00,,
 493,329,2,1,,"page_number_string: 
 notes: 
@@ -1218,6 +1286,11 @@ source_comment: ",year,2022-07-01T12:00:00,,,,,,
 516,344,345,2,,"page_number_string: 
 notes: 
 source_full_citation: Staatsarchiv des Kantons Thurgau. (2026). Katholische Kantonalparteien im Thurgau (1906-2006). Abgerufen am 25. Mai 2026 von https://archivportal.tg.ch/records/289117
+source_comment: 
+
+page_number_string: 113
+notes: 
+source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
 source_comment: ",exact,1973-06-28T12:00:00,,,,,,
 517,344,343,2,,"page_number_string: 
 notes: 
@@ -1243,6 +1316,16 @@ source_comment: ",year,1947-07-01T12:00:00,,,exact,1973-06-28T12:00:00,,
 529,345,343,3,,"page_number_string: 112
 notes: 
 source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
+source_comment: 
+
+page_number_string: 172
+notes: 
+source_full_citation: Rölli-Alkemper, L. (1993). Die Schweizerische Konservative Volkspartei 1935-1943 : politischer Katholizismus zwischen Emanzipation und Integration. Universitätsverlag Freiburg Schweiz.
+source_comment: 
+
+page_number_string: 74
+notes: 
+source_full_citation: Altermatt, U. (2000). Die Christlichdemokratische Volkspartei der Schweiz 1945-1999. In H.-J. Veen (Hrsg.), Christlich-demokratische und konservative Parteien in Westeuropa 5 (S. 35-115). Schöningh.
 source_comment: ",year,1947-07-01T12:00:00,,,,,,
 530,329,353,2,,"page_number_string: 
 notes: 
@@ -1368,7 +1451,7 @@ source_comment: ",year,1981-07-01T12:00:00,,,,,,
 582,388,6,1,,,exact,2012-10-29T12:00:00,,,,,,
 583,389,7,1,,,exact,2006-05-31T12:00:00,,,,,,
 584,390,8,1,,,year,1992-07-01T12:00:00,,,,,,
-585,391,377,1,,,exact,2010-06-03T12:00:00,,,unknown,2015-01-01T12:00:00,,
+585,391,377,1,,,year,2011-07-01T12:00:00,,,unknown,2015-01-01T12:00:00,,
 586,392,13,1,,,exact,2010-10-14T12:00:00,,,exact,2015-12-31T12:00:00,,
 587,393,14,1,,,year,1944-07-01T12:00:00,,,,,,
 588,394,1,1,,,year,1987-07-01T12:00:00,,,,,,
@@ -1388,7 +1471,7 @@ source_comment: ",multiyear,1925-01-01T12:00:00,,,exact,2009-01-01T12:00:00,,
 593,397,3,1,,,exact,2011-05-24T12:00:00,,,,,,
 594,397,396,2,,,exact,2011-05-24T12:00:00,,,,,,
 595,398,15,1,,,exact,1913-10-08T12:00:00,,,exact,2009-01-01T12:00:00,,
-596,398,15,1,,,exact,2009-01-01T12:00:00,,,exact,2011-05-24T12:00:00,,
+596,398,3,1,,,exact,2009-01-01T12:00:00,,,exact,2011-05-24T12:00:00,,
 597,397,398,2,,,exact,2011-05-24T12:00:00,,,,,,
 598,399,10,1,,,exact,1912-04-22T12:00:00,,,exact,2021-01-01T12:00:00,,
 599,399,4,1,,,exact,2021-01-01T12:00:00,,,,,,
@@ -1417,7 +1500,7 @@ source_comment:
 page_number_string: 
 notes: 
 source_full_citation: Osman, I. (09. Februar 2017). Parteigeschichte: Seit 30 Jahren ""grünt"" es im Kanton Luzern. Luzerner Zeitung. Abgerufen am 08. Dezember 2025 von https://www.luzernerzeitung.ch/zentralschweiz/luzern/parteigeschichte-seit-30-jahren-gruent-es-im-kanton-luzern-ld.97683
-source_comment: ",multiyear,1988-01-01T12:00:00,,,,,,
+source_comment: ",year,1987-07-01T12:00:00,,,,,,
 612,279,408,1,,"page_number_string: 488
 notes: 
 source_full_citation: Joos, E. (1975). Parteien und Presse im Kanton Schaffhausen [Dissertation Universität Zürich].
@@ -1441,10 +1524,6 @@ source_comment: ",exact,1921-03-06T12:00:00,,,,,,
 620,14,411,2,,,exact,1944-10-14T12:00:00,,,,,,
 621,96,411,1,,,year,1921-07-01T12:00:00,,,multimonth,1940-11-26T12:00:00,,
 622,120,411,1,,,year,1921-07-01T12:00:00,,,multimonth,1940-11-26T12:00:00,,
-625,356,9,3,,"page_number_string: 
-notes: 
-source_full_citation: Moser-Léchot, D. (2003). Freisinnig-Demokratische Partei (FDP). In Historisches Lexikon der Schweiz (HLS). Abgerufen am 21. Juli 2026 von https://hls-dhs-dss.ch/de/articles/017378/2022-01-24/
-source_comment: ",exact,1985-02-25T12:00:00,,,,,,
 626,6,5,3,,"page_number_string: 107
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
@@ -1465,10 +1544,10 @@ notes:
 source_full_citation: Schweizerisches Sozialarchiv. (2026). RML/SAP Schaffhausen. Abgerufen am 23. Juli 2026 von https://www.findmittel.ch/archive/archNeu/Ar61.html
 source_comment: ",month,1969-10-15T12:00:00,,,,,,
 633,30,415,2,,,exact,1944-04-19T12:00:00,,,,,,
-634,268,411,1,,,year,1921-07-01T12:00:00,,,multiyear,1931-01-01T12:00:00,,"page_number_string: 
+634,268,411,1,,"page_number_string: 370
 notes: 
-source_full_citation: Studer, B. (2006). Kommunistische Partei (KP). In Historisches Lexikon der Schweiz (HLS). Abgerufen am 21. Juli 2026 von https://hls-dhs-dss.ch/de/articles/040168/2010-05-20/
-source_comment: "
+source_full_citation: Joos, E. (1975). Parteien und Presse im Kanton Schaffhausen [Dissertation Universität Zürich].
+source_comment: ",exact,1921-03-06T12:00:00,,,multimonth,1930-10-01T12:00:00,,
 635,2,420,6,,"page_number_string: 
 notes: 
 source_full_citation: Degen, B. (2022). Sozialdemokratische Partei (SP). In Historisches Lexikon der Schweiz (HLS). Abgerufen am 12. September 2025 von https://hls-dhs-dss.ch/de/articles/017393/2022-01-24/
@@ -1497,3 +1576,140 @@ notes:
 source_full_citation: Vatter, A. (2002). Kantonale Demokratien im Vergleich: Entstehungsgründe, Interaktionen und Wirkungen politischer Institutionen in den Schweizer Kantonen. Leske + Budrich.
 source_comment: ",exact,1989-05-03T12:00:00,,,,,,
 644,425,422,1,,,exact,1994-06-04T12:00:00,,,unknown,2009-01-01T12:00:00,,
+645,62,10,1,,"page_number_string: 112
+notes: 
+source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
+source_comment: ",year,1956-07-01T12:00:00,,,exact,1976-05-22T12:00:00,,
+646,62,65,1,,"page_number_string: 
+notes: 
+source_full_citation: Rinderknecht, M. (1992). Parteien. In Année Politique Suisse 1992. Abgerufen am 6. Juli 2026 von https://politchronik.swiss/APS/de/APS_1992/APS1992_III_a.html
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Müller, E. (1996). Andere Parteien und Gruppierungen. In Année Politique Suisse 1996. Abgerufen am 6. Juli 2026 von https://politchronik.swiss/APS/de/APS_1996/APS1996_III_a.html#ref15
+source_comment: 
+
+page_number_string: 79
+notes: 
+source_full_citation: Altermatt, U. (2000). Die Christlichdemokratische Volkspartei der Schweiz 1945-1999. In H.-J. Veen (Hrsg.), Christlich-demokratische und konservative Parteien in Westeuropa 5 (S. 35-115). Schöningh.
+source_comment: ",unknown,1986-01-01T12:00:00,,,multiyear,1995-01-01T12:00:00,,
+647,185,186,3,,"page_number_string: 74
+notes: 
+source_full_citation: Altermatt, U. (2000). Die Christlichdemokratische Volkspartei der Schweiz 1945-1999. In H.-J. Veen (Hrsg.), Christlich-demokratische und konservative Parteien in Westeuropa 5 (S. 35-115). Schöningh.
+source_comment: 
+
+page_number_string: 112
+notes: 
+source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
+source_comment: ",year,1946-07-01T12:00:00,,"page_number_string: 112
+notes: 
+source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
+source_comment: 
+
+page_number_string: 74
+notes: 
+source_full_citation: Altermatt, U. (2000). Die Christlichdemokratische Volkspartei der Schweiz 1945-1999. In H.-J. Veen (Hrsg.), Christlich-demokratische und konservative Parteien in Westeuropa 5 (S. 35-115). Schöningh.
+source_comment: ",,,,
+648,326,320,1,"note_translations: languages_code: de-CH
+note: Gemäss Rölli-Alkemper (1993: 175) handelte die CSP auch nach dem Ausgleich von 1938 ""in den folgenden Jahren als eigenständige Partei"" und er präsentiert Graubünden als Beispiel für ein Modell «mit zwei selbständigen Parteien», im Gegensatz zum St. Galler Modell «mit der Einordnung der Christlichsozialen in eine katholisch-konservative Rahmenpartei».
+Gemäss Collenberg (2004) und CVP Graubünden (2003: 54-55) kamen aber «die Vertreter der CSP [nach dem Kompromiss von 1938] nach wie vor den Pflichten der Gesamtpartei nach» bzw. «reorganisierte» sich die vormalige KDP zur «Konservativen Volkspartei (KVP) und arrangierte sich mit der Tochterpartei CSP».","page_number_string: 54-55
+notes: 
+source_full_citation: CVP Kanton Graubünden. (2003). 100 jahre cvp graubünden. Spescha & Grünenfelder.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Collenberg, A. (2004). Graubünden; Der Staat im 19. und 20. Jahrhundert. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 7. August 2026 von https://hls-dhs-dss.ch/de/articles/007391/2023-08-29/#HDerStaatim19.und20.Jahrhundert
+source_comment: ",year,1938-07-01T12:00:00,,,multiyear,1972-01-01T12:00:00,,
+649,426,66,1,,"page_number_string: 
+notes: 
+source_full_citation: Christlich-soziale Partei Zürich. (2026). Christlich-soziale Partei Zürich. Abgerufen am 10. August 2026 von https://web.archive.org/web/20260809225754/https://www.csp-zh.ch/
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Müller, E. (1997). Parteien. Année Politique Suisse. Abgerufen am 20. April 2026 von https://anneepolitique.swiss/APS/de/APS_1997/APS1997_III_a.html#ref15
+source_comment: ",exact,1997-06-21T12:00:00,,,,,,
+650,427,65,1,,"page_number_string: 123
+notes: 
+source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Gilg, P. (1976). Parti démocrate-chrétien. In Année Politique Suisse 1976. Abgerufen am 6. Juli 2026 von https://politchronik.swiss/APS/de/APS_1976/APS1976_III_a.html#fnref9
+source_comment: ",exact,1976-05-22T12:00:00,,,unknown,1980-01-01T12:00:00,,
+651,152,428,2,,"page_number_string: 
+notes: 
+source_full_citation: Salzmann, J. (2026). Seit 1857 bestimmen die Konservativen die Walliser Politik. In Trotz der Vispa, dank  der Vispa - eine Chronik von Visp. Abgerufen am 10. August 2026 von https://www.visper-chronik.ch/kapitel/seit-1857-bestimmen-die-konservativen-die-walliser-politik-142
+source_comment: ",exact,1919-04-23T12:00:00,,,,,,
+652,429,428,3,,"page_number_string: 
+notes: 
+source_full_citation: Rohner, M. (2002). Christlichsoziale Bewegung. In Historisches Lexikon der Schweiz (HLS), Version von 2002. Abgerufen am 10. August von https://hls-dhs-dss.ch/de/articles/026985/2008-05-26/
+source_comment: 
+
+page_number_string: 112
+notes: 
+source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
+source_comment: ",year,1917-07-01T12:00:00,,,,,,
+653,429,152,1,"note_translations: languages_code: de-CH
+note: Casetti (1979: 112) schreibt zwar von einer ""Trennung"" der Parteien. Die Formulierungen bei Salzmann (2026) und im Walliser Boten vom 26.4.1919 (https://www.e-newspaperarchives.ch/?a=d&d=WAB19190426-01&e=-------de-20--1--txt-txIN--------0-----) legen jedoch nahe, dass die CSP - wenn auch als mehr oder weniger autonome Formation - unter dem Dach der Oberwalliser KKVP verblieb.",,exact,1919-04-23T12:00:00,,,unknown,1949-01-01T12:00:00,,
+654,429,428,1,"note_translations: languages_code: de-CH
+note: Casetti (1979: 112) schreibt zwar von einer ""Trennung"" der Parteien. Die Formulierungen bei Salzmann (2026) und im Walliser Boten vom 26.4.1919 (https://www.e-newspaperarchives.ch/?a=d&d=WAB19190426-01&e=-------de-20--1--txt-txIN--------0-----) legen jedoch nahe, dass die CSP - wenn auch als mehr oder weniger autonome Formation - unter dem Dach der Katholisch-Konservativen verblieben.",,year,1917-07-01T12:00:00,,,exact,1919-04-23T12:00:00,,
+655,405,399,4,"note_translations: languages_code: de-CH
+note: Es ist nicht explizit von einem Anschluss die Rede, aber von der Auflösung des PBD und der Genehmigung eines Vertrags mit der Mitte.","page_number_string: 
+notes: 
+source_full_citation: EBU. (23 décembre 2021). Le PBD genevois disparaît. Tribune de Genève. Consulté le 25 juin 2026, sur https://essentials.swissdox.ch/
+source_comment: ",exact,2021-12-21T12:00:00,,"page_number_string: 
+notes: 
+source_full_citation: EBU. (23 décembre 2021). Le PBD genevois disparaît. Tribune de Genève. Consulté le 25 juin 2026, sur https://essentials.swissdox.ch/
+source_comment: ",,,,
+656,229,10,1,,"page_number_string: 
+notes: 
+source_full_citation: Setz, A. (25. Juni 2004). Das Hoffen auf neue Kräfte für Parteiarbeit. Neue Luzerner Zeitung. Abgerufen am 11. August 2026 von https://essentials.swissdox.ch/de/research?q=eyJmbHQiOlt7ImZsIjoicXVlcnlfdGV4dCIsInZhbCI6WyJjc3AgenVnIl19LHsiZmwiOiJkYXRldGltZSIsInZhbCI6WyIxOTExLTExLTMwVDIzOjAwOjAwLjAwMFoiLCIyMDA1LTA5LTE2VDIxOjU5OjAwLjAwMFoiXX1dLCJleHQiOnRydWUsInNydCI6eyJmbCI6ImRhdGV0aW1lIiwiZGlyIjoiZGVzYyJ9fQ%3D%3D&articleId=12302115&articleView=text
+source_comment: ",exact,2003-05-14T12:00:00,,,multiyear,2005-01-01T12:00:00,,
+657,430,236,1,,"page_number_string: 
+notes: 
+source_full_citation: Gilg, P. (1980). Christlichdemokratische Volkspartei (CVP) 1980. Année Politique Suisse. Abgerufen am 20. April 2026 von https://anneepolitique.swiss/prozesse/52225-christlichdemokratische-volkspartei-cvp-1980
+source_comment: ",unknown,1966-01-01T12:00:00,,,year,1980-07-01T12:00:00,,
+658,430,242,1,,"page_number_string: 
+notes: 
+source_full_citation: Gilg, P. (1980). Christlichdemokratische Volkspartei (CVP) 1980. Année Politique Suisse. Abgerufen am 20. April 2026 von https://anneepolitique.swiss/prozesse/52225-christlichdemokratische-volkspartei-cvp-1980
+source_comment: ",month,1980-09-15T12:00:00,,,,,,
+659,431,214,1,"note_translations: languages_code: de-CH
+note: In manchen Quellen heisst es, die CSP Näfels sei Mitglied der (von der CVP losgelösten) CSP Schweiz gewesen (z.B. https://www.socio.ch/poli/politics/parties/csp.htm). Aus Publikationen der Partei selbst geht jedoch hervor, dass die CSP Näfels zwar unabhängig von der Ortssektion CVP Näfels war, aber selbst stets der CVP des Kantons Glarus und somit auch der CVP Schweiz angehörte (siehe z.B. Landolt 2026, CSP Näfels 2003).","page_number_string: 
+notes: 
+source_full_citation: CSP Näfels. (2003). CSP - Homepage. Abgerufen am 12. August 2026 von https://web.archive.org/web/20031024075515/http://www.csp-naefels.ch/
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Landolt, F. (2026). Auskunft zur Parteigeschichte der CSP Glarus Nord. Unveröffentlicht,per E-Mail vom 29.7.2026 an Hans-Peter Schaub erhalten.
+source_comment: ",multimonth,1947-02-01T12:00:00,,,exact,2012-03-16T12:00:00,,
+660,432,431,2,,"page_number_string: 
+notes: 
+source_full_citation: Landolt, F. (2026). Auskunft zur Parteigeschichte der CSP Glarus Nord. Unveröffentlicht,per E-Mail vom 29.7.2026 an Hans-Peter Schaub erhalten.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: CSP Glarus Nord. (2012). Auflösung der CSP. Unveröffentlichtes Dokument, erhalten per E-Mail von Franz Landolt an Hans-Peter Schaub vom 29.7.2026.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Huber, J. (3. April 2012). GLP Glarus Nord gegründet. Glarus24.ch. Abgerufen am 12. August 2026 von https://www.glarus24.ch/artikel/glp-glarus-nord-gegruendet-2413571
+source_comment: ",exact,2012-03-29T12:00:00,,,,,,
+661,432,216,1,,,exact,2013-03-14T12:00:00,,,,,,
+662,386,433,2,,,exact,2004-02-15T12:00:00,,,,,,
+663,433,10,1,,,exact,1997-03-03T12:00:00,,,unknown,2000-01-01T12:00:00,,
+664,267,2,1,"note_translations: languages_code: de-CH
+note: Keinen expliziten Beleg für die Mitgliedschaft gefunden, ist aber anzunehmen.",,year,1921-07-01T12:00:00,,,exact,1935-07-07T12:00:00,,
+665,125,37,1,,"page_number_string: 
+notes: 
+source_full_citation: Maillard, F. (2026). Parti libéral-radical jurassien (PLRJ). In Dictionnaire du Jura (DIJU). Consulté le 12 février 2026, sur https://diju.ch/f/notices/detail/1003504-parti-liberal-radical-jurassien-plrj
+source_comment: ",year,1912-07-01T12:00:00,,,exact,1978-12-31T12:00:00,,
+666,252,2,1,,,exact,1888-10-21T12:00:00,,,exact,1890-09-14T12:00:00,,
+667,434,356,1,,,exact,1987-01-17T12:00:00,,,,,,
+668,310,356,1,,,year,1987-07-01T12:00:00,,,month,2000-01-15T12:00:00,,
