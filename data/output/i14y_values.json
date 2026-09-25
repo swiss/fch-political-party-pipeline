@@ -67,30 +67,6 @@
         },
         {
             "annotations": [],
-            "code": "9",
-            "name": {
-                "de": "Freisinnig-Demokratische Partei der Schweiz",
-                "fr": "Parti radical-d\u00e9mocratique suisse"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "10",
-            "name": {
-                "de": "Christlichdemokratische Volkspartei der Schweiz",
-                "fr": "Parti d\u00e9mocrate-chr\u00e9tien suisse"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "11",
-            "name": {
-                "de": "Bauern-, Gewerbe- und B\u00fcrgerpartei",
-                "fr": "Parti des paysans, artisans et bourgeois"
-            }
-        },
-        {
-            "annotations": [],
             "code": "12",
             "name": {
                 "de": "Lega dei Ticinesi",
@@ -100,58 +76,10 @@
         },
         {
             "annotations": [],
-            "code": "13",
-            "name": {
-                "de": "B\u00fcrgerlich-Demokratische Partei Schweiz",
-                "fr": "Parti Bourgeois-D\u00e9mocratique Suisse"
-            }
-        },
-        {
-            "annotations": [],
             "code": "14",
             "name": {
                 "de": "Partei der Arbeit der Schweiz",
                 "fr": "Parti suisse du Travail"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "15",
-            "name": {
-                "de": "Liberale Partei der Schweiz",
-                "fr": "Parti lib\u00e9ral suisse"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "16",
-            "name": {
-                "de": "Vorl\u00e4ufer der Demokraten",
-                "fr": "Pr\u00e9curseurs du parti d\u00e9mocratique"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "17",
-            "name": {
-                "de": "Schweizerische Demokratische Partei",
-                "fr": "Parti d\u00e9mocratique suisse"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "18",
-            "name": {
-                "de": "Demokratische Partei der Schweiz",
-                "fr": "Parti d\u00e9mocratique suisse"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "19",
-            "name": {
-                "de": "Vorl\u00e4ufer der FDP",
-                "fr": "Pr\u00e9curseurs du PRD"
             }
         },
         {
@@ -169,22 +97,6 @@
                 "de": "Sozialdemokratische Partei des Kantons Z\u00fcrich"
             },
             "parentCode": "2"
-        },
-        {
-            "annotations": [],
-            "code": "22",
-            "name": {
-                "de": "Vorl\u00e4ufer der CVP",
-                "fr": "Pr\u00e9curseurs du PDC"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "23",
-            "name": {
-                "de": "Freisinnige Partei"
-            },
-            "parentCode": "9"
         },
         {
             "annotations": [],
@@ -244,14 +156,6 @@
         },
         {
             "annotations": [],
-            "code": "31",
-            "name": {
-                "de": "B\u00fcrgerlich-Demokratische Partei des Kantons Z\u00fcrich"
-            },
-            "parentCode": "4"
-        },
-        {
-            "annotations": [],
             "code": "32",
             "name": {
                 "de": "Schweizer Demokraten des Kantons Z\u00fcrich"
@@ -264,14 +168,6 @@
             "name": {
                 "de": "Schweizer Demokraten",
                 "fr": "D\u00e9mocrates suisses"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "34",
-            "name": {
-                "de": "Landesring der Unabh\u00e4ngigen",
-                "fr": "Alliance des Ind\u00e9pendants"
             }
         },
         {
@@ -312,49 +208,9 @@
         },
         {
             "annotations": [],
-            "code": "39",
-            "name": {
-                "de": "CVP des Kantons Bern"
-            },
-            "parentCode": "4"
-        },
-        {
-            "annotations": [],
             "code": "40",
             "name": {
                 "de": "GR\u00dcNE Kanton Bern"
-            },
-            "parentCode": "5"
-        },
-        {
-            "annotations": [],
-            "code": "41",
-            "name": {
-                "de": "Gr\u00fcne Freie Liste"
-            },
-            "parentCode": "5"
-        },
-        {
-            "annotations": [],
-            "code": "42",
-            "name": {
-                "de": "Gr\u00fcnes B\u00fcndnis Bern"
-            },
-            "parentCode": "5"
-        },
-        {
-            "annotations": [],
-            "code": "43",
-            "name": {
-                "de": "[Alternative Gr\u00fcne/] Gr\u00fcnes B\u00fcndnis Schweiz",
-                "fr": "[Vert-e-s alternatives/]Alliance verte et sociale"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "44",
-            "name": {
-                "de": "Demokratische Alternative Bern"
             },
             "parentCode": "5"
         },
@@ -395,35 +251,12 @@
         },
         {
             "annotations": [],
-            "code": "49",
-            "name": {
-                "de": "Bu\u0308rgerlich-Demokratische Partei Kanton Bern"
-            },
-            "parentCode": "4"
-        },
-        {
-            "annotations": [],
             "code": "50",
             "name": {
                 "de": "Partei der Arbeit des Kantons Bern",
                 "fr": "Parti ouvrier et populaire du canton de Berne"
             },
             "parentCode": "14"
-        },
-        {
-            "annotations": [],
-            "code": "51",
-            "name": {
-                "de": "Partei der Arbeit des Kantons Bern"
-            },
-            "parentCode": "14"
-        },
-        {
-            "annotations": [],
-            "code": "52",
-            "name": {
-                "de": "Bernische Volkspartei"
-            }
         },
         {
             "annotations": [],
@@ -459,13 +292,6 @@
         },
         {
             "annotations": [],
-            "code": "58",
-            "name": {
-                "de": "Ruswiler Verein"
-            }
-        },
-        {
-            "annotations": [],
             "code": "59",
             "name": {
                 "de": "Gr\u00fcne Kanton Luzern"
@@ -487,37 +313,6 @@
                 "de": "Evangelische Volkspartei des Kantons Luzern"
             },
             "parentCode": "7"
-        },
-        {
-            "annotations": [],
-            "code": "62",
-            "name": {
-                "de": "Christlich-soziale Partei Kanton Luzern"
-            },
-            "parentCode": "66"
-        },
-        {
-            "annotations": [],
-            "code": "63",
-            "name": {
-                "de": "B\u00fcrgerlich-Demokratische Partei des Kantons Luzern"
-            },
-            "parentCode": "13"
-        },
-        {
-            "annotations": [],
-            "code": "64",
-            "name": {
-                "de": "Progressive Organisationen Kanton Luzern"
-            },
-            "parentCode": "408"
-        },
-        {
-            "annotations": [],
-            "code": "65",
-            "name": {
-                "de": "Christlichsoziale Partei der Schweiz"
-            }
         },
         {
             "annotations": [],
@@ -569,13 +364,6 @@
         },
         {
             "annotations": [],
-            "code": "72",
-            "name": {
-                "de": "Kritisches Forum Uri"
-            }
-        },
-        {
-            "annotations": [],
             "code": "73",
             "name": {
                 "de": "Gr\u00fcnliberale Partei Kanton Uri"
@@ -624,21 +412,6 @@
         },
         {
             "annotations": [],
-            "code": "79",
-            "name": {
-                "de": "Gr\u00fcne Partei BS"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "80",
-            "name": {
-                "de": "Gr\u00fcne Partei Baselstadt"
-            },
-            "parentCode": "5"
-        },
-        {
-            "annotations": [],
             "code": "81",
             "name": {
                 "de": "BastA! Basels starke Alternative"
@@ -663,14 +436,6 @@
         },
         {
             "annotations": [],
-            "code": "84",
-            "name": {
-                "de": "Evangelische Volkspartei Basel-Stadt"
-            },
-            "parentCode": "7"
-        },
-        {
-            "annotations": [],
             "code": "85",
             "name": {
                 "de": "Eidgen\u00f6ssisch-Demokratische Union des Kantons Basel-Stadt"
@@ -679,33 +444,10 @@
         },
         {
             "annotations": [],
-            "code": "86",
-            "name": {
-                "de": "B\u00fcrger- und Gewerbepartei Basel-Stadt"
-            },
-            "parentCode": "11"
-        },
-        {
-            "annotations": [],
-            "code": "87",
-            "name": {
-                "de": "B\u00fcrgerlich-Demokratische Partei Basel-Stadt"
-            }
-        },
-        {
-            "annotations": [],
             "code": "88",
             "name": {
                 "de": "Partei der Arbeit Basel"
             }
-        },
-        {
-            "annotations": [],
-            "code": "89",
-            "name": {
-                "de": "Neue PdA Basel"
-            },
-            "parentCode": "14"
         },
         {
             "annotations": [],
@@ -717,13 +459,6 @@
         },
         {
             "annotations": [],
-            "code": "91",
-            "name": {
-                "de": "Liberale Partei des Kantons Basel-Stadt"
-            }
-        },
-        {
-            "annotations": [],
             "code": "92",
             "name": {
                 "de": "Liberal-Demokratische Partei Basel-Stadt"
@@ -732,63 +467,9 @@
         },
         {
             "annotations": [],
-            "code": "93",
-            "name": {
-                "de": "Standesring BS"
-            },
-            "parentCode": "34"
-        },
-        {
-            "annotations": [],
             "code": "94",
             "name": {
                 "de": "Schweizer Demokraten des Kantons Basel-Stadt"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "95",
-            "name": {
-                "de": "Progressive Organisationen Basel"
-            },
-            "parentCode": "408"
-        },
-        {
-            "annotations": [],
-            "code": "96",
-            "name": {
-                "de": "Kommunistische Partei Basel-Stadt"
-            },
-            "parentCode": "411"
-        },
-        {
-            "annotations": [],
-            "code": "97",
-            "name": {
-                "de": "Gr\u00fcne Alternative Basel-Stadt"
-            },
-            "parentCode": "43"
-        },
-        {
-            "annotations": [],
-            "code": "98",
-            "name": {
-                "de": "Demokratisch-soziale Partei Basel-Stadt"
-            },
-            "parentCode": "422"
-        },
-        {
-            "annotations": [],
-            "code": "99",
-            "name": {
-                "de": "Frauenliste Basel"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "100",
-            "name": {
-                "de": "Nationale Front"
             }
         },
         {
@@ -844,51 +525,11 @@
         },
         {
             "annotations": [],
-            "code": "107",
-            "name": {
-                "de": "Christlichdemokratische Volkspartei des Kantons Basel-Landschaft"
-            },
-            "parentCode": "4"
-        },
-        {
-            "annotations": [],
             "code": "108",
             "name": {
                 "de": "GR\u00dcNE Baselland"
             },
             "parentCode": "5"
-        },
-        {
-            "annotations": [],
-            "code": "109",
-            "name": {
-                "de": "Gr\u00fcne Baselbiet"
-            },
-            "parentCode": "5"
-        },
-        {
-            "annotations": [],
-            "code": "110",
-            "name": {
-                "de": "Gr\u00fcne Partei Baselland"
-            },
-            "parentCode": "5"
-        },
-        {
-            "annotations": [],
-            "code": "111",
-            "name": {
-                "de": "Gr\u00fcne Baselland"
-            },
-            "parentCode": "5"
-        },
-        {
-            "annotations": [],
-            "code": "112",
-            "name": {
-                "de": "Gr\u00fcne Liste Baselbiet"
-            },
-            "parentCode": "43"
         },
         {
             "annotations": [],
@@ -913,62 +554,6 @@
                 "de": "Eidgen\u00f6ssisch-Demokratische Union Kanton Basel-Landschaft"
             },
             "parentCode": "8"
-        },
-        {
-            "annotations": [],
-            "code": "116",
-            "name": {
-                "de": "Bu\u0308rgerlich-Demokratische Partei Kanton Basel-Landschaft"
-            },
-            "parentCode": "4"
-        },
-        {
-            "annotations": [],
-            "code": "117",
-            "name": {
-                "de": "Partei der Arbeit"
-            },
-            "parentCode": "14"
-        },
-        {
-            "annotations": [],
-            "code": "118",
-            "name": {
-                "de": "Liberale Partei Baselland"
-            },
-            "parentCode": "15"
-        },
-        {
-            "annotations": [],
-            "code": "119",
-            "name": {
-                "de": "Progressive Organisationen Baselland"
-            },
-            "parentCode": "408"
-        },
-        {
-            "annotations": [],
-            "code": "120",
-            "name": {
-                "de": "Kommunistische Partei Kanton Basel-Landschaft"
-            },
-            "parentCode": "411"
-        },
-        {
-            "annotations": [],
-            "code": "121",
-            "name": {
-                "de": "Gr\u00fcne Partei Nordwestschweiz"
-            },
-            "parentCode": "5"
-        },
-        {
-            "annotations": [],
-            "code": "122",
-            "name": {
-                "de": "Gr\u00fcne Partei BS/BL"
-            },
-            "parentCode": "5"
         },
         {
             "annotations": [],
@@ -999,13 +584,6 @@
             "code": "126",
             "name": {
                 "fr": "Parti lib\u00e9ral jurassien"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "127",
-            "name": {
-                "fr": "Parti radical-r\u00e9formiste jurassien"
             }
         },
         {
@@ -1050,21 +628,6 @@
         },
         {
             "annotations": [],
-            "code": "136",
-            "name": {
-                "fr": "Parti Ouvrier Populaire Jurassien"
-            },
-            "parentCode": "14"
-        },
-        {
-            "annotations": [],
-            "code": "137",
-            "name": {
-                "fr": "Combat Socialiste"
-            }
-        },
-        {
-            "annotations": [],
             "code": "138",
             "name": {
                 "fr": "Parti Ouvrier Populaire Jurassien"
@@ -1096,13 +659,6 @@
         },
         {
             "annotations": [],
-            "code": "142",
-            "name": {
-                "de": "Kritisches Oberwallis"
-            }
-        },
-        {
-            "annotations": [],
             "code": "143",
             "name": {
                 "de": "Sozialdemokratische Partei Oberwallis",
@@ -1129,43 +685,11 @@
         },
         {
             "annotations": [],
-            "code": "147",
-            "name": {
-                "fr": "Parti lib\u00e9ral-radical valaisan"
-            },
-            "parentCode": "3"
-        },
-        {
-            "annotations": [],
-            "code": "148",
-            "name": {
-                "fr": "Parti Radical Valaisan"
-            },
-            "parentCode": "9"
-        },
-        {
-            "annotations": [],
-            "code": "149",
-            "name": {
-                "de": "FDP.Die Liberalen Oberwallis"
-            },
-            "parentCode": "3"
-        },
-        {
-            "annotations": [],
             "code": "150",
             "name": {
                 "fr": "Centre Valais romand"
             },
             "parentCode": "4"
-        },
-        {
-            "annotations": [],
-            "code": "151",
-            "name": {
-                "fr": "Centre Gauche-PCS Valais romand"
-            },
-            "parentCode": "66"
         },
         {
             "annotations": [],
@@ -1181,14 +705,6 @@
             "name": {
                 "de": "neo \u2013 Die sozialliberale Mitte"
             }
-        },
-        {
-            "annotations": [],
-            "code": "154",
-            "name": {
-                "fr": "Parti d\u00e9mocrate-chr\u00e9tien valaisan"
-            },
-            "parentCode": "10"
         },
         {
             "annotations": [],
@@ -1209,36 +725,11 @@
         },
         {
             "annotations": [],
-            "code": "157",
-            "name": {
-                "fr": "Parti Bourgeois D\u00e9mocratique Suisse canton du Valais"
-            },
-            "parentCode": "13"
-        },
-        {
-            "annotations": [],
-            "code": "158",
-            "name": {
-                "fr": "Parti Ouvrier et Paysan"
-            },
-            "parentCode": "14"
-        },
-        {
-            "annotations": [],
             "code": "159",
             "name": {
                 "fr": "Parti Ouvrier Populaire valaisan"
             },
             "parentCode": "14"
-        },
-        {
-            "annotations": [],
-            "code": "160",
-            "name": {
-                "fr": "Parti lib\u00e9ral valaisan",
-                "de": "Liberale Partei des Kantons Wallis"
-            },
-            "parentCode": "15"
         },
         {
             "annotations": [],
@@ -1250,33 +741,11 @@
         },
         {
             "annotations": [],
-            "code": "163",
-            "name": {
-                "it": "Partito Socialista Ticinese"
-            },
-            "parentCode": "2"
-        },
-        {
-            "annotations": [],
             "code": "164",
             "name": {
                 "it": "Partito Socialista Ticino"
             },
             "parentCode": "2"
-        },
-        {
-            "annotations": [],
-            "code": "165",
-            "name": {
-                "it": "Partito socialista autonomo"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "166",
-            "name": {
-                "it": "Partito socialista unitario"
-            }
         },
         {
             "annotations": [],
@@ -1301,27 +770,6 @@
                 "it": "I Verdi del Cantone Ticino"
             },
             "parentCode": "5"
-        },
-        {
-            "annotations": [],
-            "code": "170",
-            "name": {
-                "it": "Movimento ecologista ticinese"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "171",
-            "name": {
-                "it": "Svolta ecopolitica"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "172",
-            "name": {
-                "it": "Movimento dei verdi ticinesi"
-            }
         },
         {
             "annotations": [],
@@ -1353,34 +801,6 @@
                 "it": "Partito Operaio e Popolare Ticino"
             },
             "parentCode": "14"
-        },
-        {
-            "annotations": [],
-            "code": "177",
-            "name": {
-                "it": "Partito liberale radicale"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "178",
-            "name": {
-                "it": "Partito liberale democratico"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "179",
-            "name": {
-                "it": "Partito liberale"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "180",
-            "name": {
-                "it": "Comunit\u00e0 dei Socialisti Ticinesi"
-            }
         },
         {
             "annotations": [],
@@ -1416,33 +836,9 @@
         },
         {
             "annotations": [],
-            "code": "185",
-            "name": {
-                "de": "Christlichsoziale Volkspartei des Kantons Schwyz"
-            },
-            "parentCode": "10"
-        },
-        {
-            "annotations": [],
-            "code": "186",
-            "name": {
-                "de": "Konservative Volkspartei des Kantons Schwyz"
-            },
-            "parentCode": "10"
-        },
-        {
-            "annotations": [],
             "code": "187",
             "name": {
                 "de": "GR\u00dcNE Schwyz"
-            },
-            "parentCode": "5"
-        },
-        {
-            "annotations": [],
-            "code": "188",
-            "name": {
-                "de": "Gr\u00fcne Kanton Schwyz"
             },
             "parentCode": "5"
         },
@@ -1464,14 +860,6 @@
         },
         {
             "annotations": [],
-            "code": "191",
-            "name": {
-                "de": "B\u00fcrgerlich-Demokratische Partei des Kantons Schwyz"
-            },
-            "parentCode": "13"
-        },
-        {
-            "annotations": [],
             "code": "192",
             "name": {
                 "de": "Schweizerische Volkspartei Obwalden"
@@ -1485,13 +873,6 @@
                 "de": "Sozialdemokratische Partei des Kantons Obwalden"
             },
             "parentCode": "2"
-        },
-        {
-            "annotations": [],
-            "code": "194",
-            "name": {
-                "de": "Demokratisches Obwalden"
-            }
         },
         {
             "annotations": [],
@@ -1511,14 +892,6 @@
         },
         {
             "annotations": [],
-            "code": "197",
-            "name": {
-                "de": "Gr\u00fcne Obwalden"
-            },
-            "parentCode": "5"
-        },
-        {
-            "annotations": [],
             "code": "198",
             "name": {
                 "de": "Gr\u00fcnliberale Kanton Obwalden"
@@ -1530,13 +903,6 @@
             "code": "199",
             "name": {
                 "de": "Christlichsoziale Partei Obwalden"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "200",
-            "name": {
-                "de": "B\u00fcrgerlich-Demokratische Partei Kanton Obwalden"
             }
         },
         {
@@ -1573,22 +939,6 @@
         },
         {
             "annotations": [],
-            "code": "205",
-            "name": {
-                "de": "Katholisch-konservative Partei Nidwalden"
-            },
-            "parentCode": "10"
-        },
-        {
-            "annotations": [],
-            "code": "206",
-            "name": {
-                "de": "Christlichsoziale Partei Nidwalden"
-            },
-            "parentCode": "10"
-        },
-        {
-            "annotations": [],
             "code": "207",
             "name": {
                 "de": "Gr\u00fcne Nidwalden"
@@ -1602,14 +952,6 @@
                 "de": "Gr\u00fcnliberale Partei Nidwalden"
             },
             "parentCode": "6"
-        },
-        {
-            "annotations": [],
-            "code": "209",
-            "name": {
-                "fr": "Pr\u00e9curseurs du parti des paysans, artisans et ind\u00e9pendants",
-                "de": "Vorl\u00e4ufer der Bauern-, Gewerbe und B\u00fcrgerpartei"
-            }
         },
         {
             "annotations": [],
@@ -1645,14 +987,6 @@
         },
         {
             "annotations": [],
-            "code": "214",
-            "name": {
-                "de": "Christlichdemokratische Volkspartei des Kantons Glarus"
-            },
-            "parentCode": "4"
-        },
-        {
-            "annotations": [],
             "code": "215",
             "name": {
                 "de": "Gr\u00fcne des Kantons Glarus"
@@ -1674,28 +1008,6 @@
                 "de": "Eidgen\u00f6ssisch-Demokratische Union Kanton Glarus"
             },
             "parentCode": "8"
-        },
-        {
-            "annotations": [],
-            "code": "218",
-            "name": {
-                "de": "B\u00fcrgerlich-Demokratische Partei des Kantons Glarus"
-            },
-            "parentCode": "4"
-        },
-        {
-            "annotations": [],
-            "code": "219",
-            "name": {
-                "de": "Demokraten Glarus"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "220",
-            "name": {
-                "de": "Glarner Gr\u00fctliverein"
-            }
         },
         {
             "annotations": [],
@@ -1736,14 +1048,6 @@
                 "de": "Alternative \u2013 die Gr\u00fcnen Zug"
             },
             "parentCode": "5"
-        },
-        {
-            "annotations": [],
-            "code": "226",
-            "name": {
-                "de": "Sozialistisch Gr\u00fcne Alternative Zug"
-            },
-            "parentCode": "43"
         },
         {
             "annotations": [],
@@ -1796,15 +1100,6 @@
         },
         {
             "annotations": [],
-            "code": "233",
-            "name": {
-                "de": "Freisinnig-Demokratische Partei des Kantons Freiburg",
-                "fr": "Parti radical-d\u00e9mocratique fribourgeois"
-            },
-            "parentCode": "9"
-        },
-        {
-            "annotations": [],
             "code": "234",
             "name": {
                 "de": "FDP.Die Liberalen des Kantons Freiburg",
@@ -1814,38 +1109,12 @@
         },
         {
             "annotations": [],
-            "code": "235",
-            "name": {
-                "fr": "Parti lib\u00e9ral fribourgeois",
-                "de": "Liberale Partei des Kantons Freiburg"
-            },
-            "parentCode": "15"
-        },
-        {
-            "annotations": [],
-            "code": "236",
-            "name": {
-                "de": "Die Mitte Freiburg",
-                "fr": "Le Centre Fribourg"
-            },
-            "parentCode": "4"
-        },
-        {
-            "annotations": [],
             "code": "237",
             "name": {
                 "de": "Die Mitte Freiburg",
                 "fr": "Le Centre Fribourg"
             },
             "parentCode": "4"
-        },
-        {
-            "annotations": [],
-            "code": "238",
-            "name": {
-                "fr": "Parti \u00e9cologiste fribourgeois"
-            },
-            "parentCode": "5"
         },
         {
             "annotations": [],
@@ -1885,29 +1154,12 @@
         },
         {
             "annotations": [],
-            "code": "243",
-            "name": {
-                "fr": "Parti ind\u00e9pendant chr\u00e9tien-social",
-                "de": "Unabh\u00e4ngig-Christlichsoziale Partei des Kantons Freiburg"
-            }
-        },
-        {
-            "annotations": [],
             "code": "244",
             "name": {
                 "de": "Eidgen\u00f6ssisch-Demokratische Union des Kantons Freiburg",
                 "fr": "Union D\u00e9mocratique F\u00e9derale du canton de Fribourg"
             },
             "parentCode": "8"
-        },
-        {
-            "annotations": [],
-            "code": "245",
-            "name": {
-                "de": "Bu\u0308rgerlich-Demokratische Partei Kanton Freiburg",
-                "fr": "Parti Bourgeois-D\u00e9mocratique du canton de Fribourg"
-            },
-            "parentCode": "4"
         },
         {
             "annotations": [],
@@ -1920,22 +1172,6 @@
         },
         {
             "annotations": [],
-            "code": "247",
-            "name": {
-                "fr": "Ecologie et Solidarit\u00e9"
-            },
-            "parentCode": "43"
-        },
-        {
-            "annotations": [],
-            "code": "248",
-            "name": {
-                "de": "Gr\u00fctliverein",
-                "fr": "Soci\u00e9t\u00e9 du Grutli"
-            }
-        },
-        {
-            "annotations": [],
             "code": "249",
             "name": {
                 "de": "Schweizerische Volkspartei des Kantons Solothurn"
@@ -1944,25 +1180,9 @@
         },
         {
             "annotations": [],
-            "code": "250",
-            "name": {
-                "de": "Bauern-, Gewerbe- und B\u00fcrgerpartei Kanton Solothurn"
-            },
-            "parentCode": "11"
-        },
-        {
-            "annotations": [],
             "code": "251",
             "name": {
                 "de": "Sozialdemokratische Partei des Kantons Solothurn"
-            },
-            "parentCode": "2"
-        },
-        {
-            "annotations": [],
-            "code": "252",
-            "name": {
-                "de": "Solothurner Sektion der Sozialdemokratischen Partei der Schweiz"
             },
             "parentCode": "2"
         },
@@ -1984,13 +1204,6 @@
         },
         {
             "annotations": [],
-            "code": "255",
-            "name": {
-                "de": "B\u00fcrgerlich-Demokratische Partei Kanton Solothurn"
-            }
-        },
-        {
-            "annotations": [],
             "code": "256",
             "name": {
                 "de": "Gr\u00fcne Kanton Solothurn"
@@ -2007,14 +1220,6 @@
         },
         {
             "annotations": [],
-            "code": "258",
-            "name": {
-                "de": "Evangelische Volkspartei Kanton Solothurn"
-            },
-            "parentCode": "7"
-        },
-        {
-            "annotations": [],
             "code": "259",
             "name": {
                 "de": "Evangelische Volkspartei Kanton Solothurn"
@@ -2023,35 +1228,11 @@
         },
         {
             "annotations": [],
-            "code": "260",
-            "name": {
-                "de": "Eidgen\u00f6ssisch-Demokratische Union Kanton Solothurn"
-            },
-            "parentCode": "8"
-        },
-        {
-            "annotations": [],
             "code": "261",
             "name": {
                 "de": "Eidgen\u00f6ssisch-Demokratische Union Kanton Solothurn"
             },
             "parentCode": "8"
-        },
-        {
-            "annotations": [],
-            "code": "262",
-            "name": {
-                "de": "Nationale Aktion Kanton Solothurn"
-            },
-            "parentCode": "33"
-        },
-        {
-            "annotations": [],
-            "code": "263",
-            "name": {
-                "de": "Schweizer Demokraten Kanton Solothurn"
-            },
-            "parentCode": "33"
         },
         {
             "annotations": [],
@@ -2076,21 +1257,6 @@
                 "de": "Sozialdemokratische Partei des Kantons Schaffhausen"
             },
             "parentCode": "2"
-        },
-        {
-            "annotations": [],
-            "code": "267",
-            "name": {
-                "de": "Sozialdemokratische Partei"
-            },
-            "parentCode": "2"
-        },
-        {
-            "annotations": [],
-            "code": "268",
-            "name": {
-                "de": "Kommunistische Partei-Opposition"
-            }
         },
         {
             "annotations": [],
@@ -2134,49 +1300,11 @@
         },
         {
             "annotations": [],
-            "code": "274",
-            "name": {
-                "de": "Evangelisch-soziale Vereinigung"
-            },
-            "parentCode": "7"
-        },
-        {
-            "annotations": [],
-            "code": "275",
-            "name": {
-                "de": "Liberal-demokratische Partei des Kantons Schaffhausen"
-            }
-        },
-        {
-            "annotations": [],
             "code": "276",
             "name": {
                 "de": "Eidgen\u00f6ssisch-Demokratische Union des Kantons Schaffhausen"
             },
             "parentCode": "8"
-        },
-        {
-            "annotations": [],
-            "code": "277",
-            "name": {
-                "de": "Gr\u00fcnes B\u00fcndnis Schaffhausen"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "278",
-            "name": {
-                "de": "Standesring Schaffhausen"
-            },
-            "parentCode": "34"
-        },
-        {
-            "annotations": [],
-            "code": "279",
-            "name": {
-                "de": "Progressive Organisationen Schaffhausen"
-            },
-            "parentCode": "408"
         },
         {
             "annotations": [],
@@ -2193,14 +1321,6 @@
                 "de": "Sozialdemokratische Partei des Kantons Appenzell Ausserrhoden"
             },
             "parentCode": "2"
-        },
-        {
-            "annotations": [],
-            "code": "282",
-            "name": {
-                "de": "Freisinnig-demokratische Partei von Appenzell A.Rh."
-            },
-            "parentCode": "9"
         },
         {
             "annotations": [],
@@ -2244,29 +1364,6 @@
         },
         {
             "annotations": [],
-            "code": "288",
-            "name": {
-                "de": "Gr\u00fctliverein Appenzell"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "289",
-            "name": {
-                "de": "Freisinnig-demokratischer\u00a0Verein"
-            },
-            "parentCode": "9"
-        },
-        {
-            "annotations": [],
-            "code": "290",
-            "name": {
-                "de": "Katholisch-Konservativen Partei Appenzell Innerrhoden"
-            },
-            "parentCode": "10"
-        },
-        {
-            "annotations": [],
             "code": "291",
             "name": {
                 "de": "Gruppe f\u00fcr Innerrhoden"
@@ -2295,14 +1392,6 @@
                 "de": "Die Mitte des Kantons Appenzell Innerrhoden"
             },
             "parentCode": "4"
-        },
-        {
-            "annotations": [],
-            "code": "295",
-            "name": {
-                "de": "Gr\u00fcnes Appenzellerland"
-            },
-            "parentCode": "5"
         },
         {
             "annotations": [],
@@ -2370,14 +1459,6 @@
         },
         {
             "annotations": [],
-            "code": "304",
-            "name": {
-                "de": "Evangelische Volkspartei des Kantons St. Gallen"
-            },
-            "parentCode": "7"
-        },
-        {
-            "annotations": [],
             "code": "305",
             "name": {
                 "de": "Evangelische Volkspartei des Kantons St.Gallen"
@@ -2394,78 +1475,11 @@
         },
         {
             "annotations": [],
-            "code": "307",
-            "name": {
-                "de": "B\u00fcrgerlich-Demokratische Partei Kanton St. Gallen"
-            },
-            "parentCode": "13"
-        },
-        {
-            "annotations": [],
-            "code": "308",
-            "name": {
-                "de": "Partei der Arbeit Kanton St. Gallen"
-            },
-            "parentCode": "14"
-        },
-        {
-            "annotations": [],
-            "code": "309",
-            "name": {
-                "de": "Partei der Arbeit St.Gallen"
-            },
-            "parentCode": "14"
-        },
-        {
-            "annotations": [],
-            "code": "310",
-            "name": {
-                "de": "Auto-Partei St.Gallen"
-            },
-            "parentCode": "356"
-        },
-        {
-            "annotations": [],
-            "code": "311",
-            "name": {
-                "de": "Bu\u0308rgerlich-Demokratische Partei Kanton Graubu\u0308nden"
-            }
-        },
-        {
-            "annotations": [],
             "code": "312",
             "name": {
                 "de": "Schweizerische Volkspartei des Kantons Graub\u00fcnden"
             },
             "parentCode": "1"
-        },
-        {
-            "annotations": [],
-            "code": "313",
-            "name": {
-                "de": "Liberaler Verein Kanton St. Gallen"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "314",
-            "name": {
-                "de": "Fortschrittliche B\u00fcrgerpartei"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "315",
-            "name": {
-                "de": "Demokratische und Arbeiterpartei des Kantons St. Gallen"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "316",
-            "name": {
-                "de": "Demokratische Fortschrittspartei"
-            }
         },
         {
             "annotations": [],
@@ -2494,26 +1508,11 @@
         },
         {
             "annotations": [],
-            "code": "320",
-            "name": {
-                "de": "Christlichdemokratische Volkspartei Graub\u00fcnden"
-            },
-            "parentCode": "4"
-        },
-        {
-            "annotations": [],
             "code": "321",
             "name": {
                 "de": "GR\u00dcNE Graub\u00fcnden"
             },
             "parentCode": "5"
-        },
-        {
-            "annotations": [],
-            "code": "322",
-            "name": {
-                "de": "La Verda"
-            }
         },
         {
             "annotations": [],
@@ -2530,22 +1529,6 @@
                 "de": "Evangelische Volkspartei Graub\u00fcnden"
             },
             "parentCode": "7"
-        },
-        {
-            "annotations": [],
-            "code": "325",
-            "name": {
-                "de": "Christlichsoziale Partei Graub\u00fcnden"
-            },
-            "parentCode": "66"
-        },
-        {
-            "annotations": [],
-            "code": "326",
-            "name": {
-                "de": "Christlichsoziale Partei von Graub\u00fcnden"
-            },
-            "parentCode": "320"
         },
         {
             "annotations": [],
@@ -2584,22 +1567,6 @@
             "code": "331",
             "name": {
                 "de": "Die Mitte Aargau"
-            },
-            "parentCode": "4"
-        },
-        {
-            "annotations": [],
-            "code": "332",
-            "name": {
-                "de": "Christlichdemokratische Volkspartei Aargau"
-            },
-            "parentCode": "4"
-        },
-        {
-            "annotations": [],
-            "code": "333",
-            "name": {
-                "de": "B\u00fcrgerlich-Demokratische Partei des Kantons Aargau"
             },
             "parentCode": "4"
         },
@@ -2645,14 +1612,6 @@
         },
         {
             "annotations": [],
-            "code": "339",
-            "name": {
-                "de": "Union der Freisinnigen und Liberalen",
-                "fr": "Union Lib\u00e9rale-Radicale"
-            }
-        },
-        {
-            "annotations": [],
             "code": "340",
             "name": {
                 "de": "Schweizerische Volkspartei des Kantons Thurgau"
@@ -2677,33 +1636,9 @@
         },
         {
             "annotations": [],
-            "code": "343",
-            "name": {
-                "de": "Christlichdemokratische Volkspartei des Kantons Thurgau"
-            },
-            "parentCode": "10"
-        },
-        {
-            "annotations": [],
             "code": "344",
             "name": {
                 "de": "Die Mitte Thurgau"
-            },
-            "parentCode": "4"
-        },
-        {
-            "annotations": [],
-            "code": "345",
-            "name": {
-                "de": "Christlich-Soziale Partei Thurgau"
-            },
-            "parentCode": "10"
-        },
-        {
-            "annotations": [],
-            "code": "346",
-            "name": {
-                "de": "B\u00fcrgerlich-Demokratische Partei Kanton Thurgau"
             },
             "parentCode": "4"
         },
@@ -2741,49 +1676,11 @@
         },
         {
             "annotations": [],
-            "code": "351",
-            "name": {
-                "de": "Partei der Arbeit Kanton Thurgau"
-            },
-            "parentCode": "14"
-        },
-        {
-            "annotations": [],
-            "code": "352",
-            "name": {
-                "de": "Demokratisch-Volkswirtschaftliche Partei des Kantons Thurgau"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "354",
-            "name": {
-                "de": "Sozialdemokratische Partei von Appenzell"
-            },
-            "parentCode": "2"
-        },
-        {
-            "annotations": [],
-            "code": "355",
-            "name": {
-                "de": "Oberegger Verein"
-            }
-        },
-        {
-            "annotations": [],
             "code": "356",
             "name": {
                 "de": "auto-partei.ch",
                 "fr": "parti-des-automobilistes.ch",
                 "it": "partito-degli-automobilisti.ch"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "357",
-            "name": {
-                "de": "Republikanische Partei der Schweiz",
-                "fr": "Mouvement national d'action r\u00e9publicaine et sociale suisse"
             }
         },
         {
@@ -2811,27 +1708,11 @@
         },
         {
             "annotations": [],
-            "code": "361",
-            "name": {
-                "fr": "Parti radical-d\u00e9mocratique vaudois"
-            },
-            "parentCode": "3"
-        },
-        {
-            "annotations": [],
             "code": "362",
             "name": {
                 "fr": "PLR.Les Lib\u00e9raux-Radicaux Vaud"
             },
             "parentCode": "3"
-        },
-        {
-            "annotations": [],
-            "code": "363",
-            "name": {
-                "fr": "Parti lib\u00e9ral vaudois"
-            },
-            "parentCode": "15"
         },
         {
             "annotations": [],
@@ -2843,58 +1724,11 @@
         },
         {
             "annotations": [],
-            "code": "365",
-            "name": {
-                "fr": "Le Centre Vaud"
-            },
-            "parentCode": "4"
-        },
-        {
-            "annotations": [],
-            "code": "366",
-            "name": {
-                "fr": "Parti Bourgeois D\u00e9mocratique du Canton de Vaud"
-            },
-            "parentCode": "4"
-        },
-        {
-            "annotations": [],
-            "code": "367",
-            "name": {
-                "fr": "Mouvement pour l'environment vaudois"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "368",
-            "name": {
-                "fr": "Groupement pour la protection de l'environment"
-            },
-            "parentCode": "5"
-        },
-        {
-            "annotations": [],
             "code": "369",
             "name": {
                 "fr": "Les Vert\u00b7e\u00b7s, mouvement \u00e9cologiste vaudois"
             },
             "parentCode": "5"
-        },
-        {
-            "annotations": [],
-            "code": "370",
-            "name": {
-                "de": "ASV \u2013 Les Verts alternatifs"
-            },
-            "parentCode": "43"
-        },
-        {
-            "annotations": [],
-            "code": "371",
-            "name": {
-                "fr": "Autrement Vaud"
-            },
-            "parentCode": "43"
         },
         {
             "annotations": [],
@@ -2919,14 +1753,6 @@
                 "fr": "Union D\u00e9mocratique F\u00e9d\u00e9rale Canton de Vaud"
             },
             "parentCode": "8"
-        },
-        {
-            "annotations": [],
-            "code": "375",
-            "name": {
-                "fr": "Mouvement Citoyens Vaudois"
-            },
-            "parentCode": "377"
         },
         {
             "annotations": [],
@@ -2961,50 +1787,11 @@
         },
         {
             "annotations": [],
-            "code": "380",
-            "name": {
-                "fr": "Parti radical-d\u00e9mocratique neuch\u00e2telois"
-            },
-            "parentCode": "9"
-        },
-        {
-            "annotations": [],
             "code": "381",
             "name": {
                 "fr": "Parti lib\u00e9ral-radical neuch\u00e2telois"
             },
             "parentCode": "3"
-        },
-        {
-            "annotations": [],
-            "code": "382",
-            "name": {
-                "fr": "Parti lib\u00e9ral - PPN neuch\u00e2telois"
-            },
-            "parentCode": "15"
-        },
-        {
-            "annotations": [],
-            "code": "383",
-            "name": {
-                "fr": "Parti lib\u00e9ral neuch\u00e2telois"
-            },
-            "parentCode": "15"
-        },
-        {
-            "annotations": [],
-            "code": "384",
-            "name": {
-                "fr": "Parti progressiste national"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "385",
-            "name": {
-                "fr": "Parti d\u00e9mocratique populaire"
-            },
-            "parentCode": "10"
         },
         {
             "annotations": [],
@@ -3048,22 +1835,6 @@
         },
         {
             "annotations": [],
-            "code": "391",
-            "name": {
-                "fr": "Mouvement Citoyens Neuch\u00e2telois"
-            },
-            "parentCode": "377"
-        },
-        {
-            "annotations": [],
-            "code": "392",
-            "name": {
-                "fr": "Parti Bourgeois D\u00e9mocratique du canton de Neuch\u00e2tel"
-            },
-            "parentCode": "13"
-        },
-        {
-            "annotations": [],
             "code": "393",
             "name": {
                 "fr": "Parti Ouvrier et Populaire Neuch\u00e2telois"
@@ -3088,25 +1859,9 @@
         },
         {
             "annotations": [],
-            "code": "396",
-            "name": {
-                "fr": "Parti Radical Genevois"
-            },
-            "parentCode": "3"
-        },
-        {
-            "annotations": [],
             "code": "397",
             "name": {
                 "fr": "Parti lib\u00e9ral-radical genevois"
-            },
-            "parentCode": "3"
-        },
-        {
-            "annotations": [],
-            "code": "398",
-            "name": {
-                "fr": "Parti Lib\u00e9ral Genevois"
             },
             "parentCode": "3"
         },
@@ -3160,14 +1915,6 @@
         },
         {
             "annotations": [],
-            "code": "405",
-            "name": {
-                "fr": "Parti Citoyen D\u00e9mocratique de Gen\u00e8ve"
-            },
-            "parentCode": "4"
-        },
-        {
-            "annotations": [],
             "code": "406",
             "name": {
                 "fr": "Parti du Travail genevois"
@@ -3176,88 +1923,9 @@
         },
         {
             "annotations": [],
-            "code": "407",
-            "name": {
-                "fr": "Parti communiste genevois"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "408",
-            "name": {
-                "de": "Progressive Organisationen der Schweiz",
-                "fr": "Organisations progressistes suisses"
-            }
-        },
-        {
-            "annotations": [],
             "code": "409",
             "name": {
                 "de": "Revolution\u00e4r Marxistische Liga BS"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "410",
-            "name": {
-                "de": "Vorl\u00e4ufer der SP",
-                "fr": "Pr\u00e9curseurs du PS"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "411",
-            "name": {
-                "de": "Kommunistische Partei der Schweiz",
-                "fr": "Parti communiste suisse"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "413",
-            "name": {
-                "de": "Vorl\u00e4ufer der LPS",
-                "fr": "Pr\u00e9curseurs du PLS"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "414",
-            "name": {
-                "de": "Vorl\u00e4ufer des LdU",
-                "fr": "Pr\u00e9curseurs d'AdI"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "415",
-            "name": {
-                "de": "Kommunistische Partei Kanton Z\u00fcrich"
-            },
-            "parentCode": "411"
-        },
-        {
-            "annotations": [],
-            "code": "416",
-            "name": {
-                "de": "Liberalsozialistische Partei der Schweiz",
-                "fr": "Parti lib\u00e9ral-socialiste Suisse"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "417",
-            "name": {
-                "de": "Jungbauern",
-                "fr": "Jeunes Paysans"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "418",
-            "name": {
-                "de": "Sozialistische Arbeiterpartei",
-                "fr": "Parti socialiste ouvrier"
             }
         },
         {
@@ -3270,80 +1938,11 @@
         },
         {
             "annotations": [],
-            "code": "420",
-            "name": {
-                "de": "F\u00f6deration SP / Gr\u00fctliverein Schweiz"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "421",
-            "name": {
-                "de": "Freiwirtschaftliche Bewegung der Schweiz"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "422",
-            "name": {
-                "de": "Demokratisch-Soziale Partei der Schweiz"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "423",
-            "name": {
-                "de": "Demokratisch-Soziale Partei Baselland"
-            },
-            "parentCode": "422"
-        },
-        {
-            "annotations": [],
-            "code": "424",
-            "name": {
-                "de": "Demokratisch-Soziale Partei Graub\u00fcnden"
-            },
-            "parentCode": "422"
-        },
-        {
-            "annotations": [],
-            "code": "425",
-            "name": {
-                "de": "Bewegung \u00d6ffnung",
-                "fr": "Mouvement Ouverture"
-            },
-            "parentCode": "422"
-        },
-        {
-            "annotations": [],
             "code": "426",
             "name": {
                 "de": "Christlich-soziale Partei Z\u00fcrich"
             },
             "parentCode": "66"
-        },
-        {
-            "annotations": [],
-            "code": "427",
-            "name": {
-                "de": "Parti chr\u00e9tien-social ind\u00e9pendant du Bas-Valais"
-            },
-            "parentCode": "65"
-        },
-        {
-            "annotations": [],
-            "code": "428",
-            "name": {
-                "de": "Vorl\u00e4ufer der KKVP Oberwallis"
-            }
-        },
-        {
-            "annotations": [],
-            "code": "429",
-            "name": {
-                "de": "Christlichsoziale Partei Oberwallis"
-            },
-            "parentCode": "152"
         },
         {
             "annotations": [],
@@ -3355,27 +1954,11 @@
         },
         {
             "annotations": [],
-            "code": "431",
-            "name": {
-                "de": "Christlich-soziale Partei Glarus Nord"
-            },
-            "parentCode": "214"
-        },
-        {
-            "annotations": [],
             "code": "432",
             "name": {
                 "de": "GLP Glarus Nord"
             },
             "parentCode": "216"
-        },
-        {
-            "annotations": [],
-            "code": "433",
-            "name": {
-                "fr": "Parti d\u00e9mocrate-chr\u00e9tien neuch\u00e2telois"
-            },
-            "parentCode": "10"
         },
         {
             "annotations": [],
