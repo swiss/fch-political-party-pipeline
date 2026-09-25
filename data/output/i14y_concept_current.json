@@ -1,0 +1,71 @@
+{
+  "data": {
+    "codeListEntryDefaultSortProperty": "Code",
+    "codeListEntryValueMaxLength": 30,
+    "codeListEntryValueType": "String",
+    "conceptType": "CodeList",
+    "conformsTo": [],
+    "description": {
+      "de": "Alle politischen Parteien der Schweiz auf Stufe Bund und Kantone.",
+      "en": "All political parties of Switzerland at federal and cantonal level.",
+      "fr": "Tous les partis politiques de Suisse au niveau fédéral et cantonal.",
+      "it": "Tutti i partiti politici della Svizzera a livello federale e cantonale.",
+      "rm": "Tuts ils partis politics da la Svizra a livel federal e cantunal."
+    },
+    "id": "01a0d84a-1c4e-7c3c-8315-777aafa2e66e",
+    "identifiers": [
+      "political-parties"
+    ],
+    "isLocked": false,
+    "keywords": [],
+    "name": {
+      "de": "Politische Parteien",
+      "en": "Political Parties",
+      "fr": "Partis politiques",
+      "it": "Partiti politici",
+      "rm": "Partis politics"
+    },
+    "replaces": [],
+    "isReplacedBy": [],
+    "publicationLevel": "Public",
+    "publisher": {
+      "id": "91e3dbaf-8a56-470b-a666-f043fc6da46a",
+      "identifier": "CH_BK",
+      "images": [],
+      "name": {
+        "de": "Bundeskanzlei BK",
+        "en": "Federal Chancellery FCh",
+        "fr": "Chancellerie fédérale ChF",
+        "it": "Cancelleria federale CaF",
+        "rm": "Chanzlia federala ChF"
+      },
+      "prefLabel": {},
+      "system": {
+        "createdAt": "0001-01-01T00:00:00+00:00",
+        "modifiedAt": "2023-03-22T13:56:44.55856+00:00"
+      },
+      "spatial": [],
+      "spatialCH": [],
+      "subAgents": []
+    },
+    "registrationStatus": "Incomplete",
+    "system": {
+      "createdAt": "2026-09-25T11:18:50.702688+00:00",
+      "creationType": "Manual",
+      "modifiedAt": "2026-09-25T11:29:55.087635+00:00"
+    },
+    "themes": [
+      {
+        "code": "107",
+        "name": {
+          "de": "Politische Aktivitäten",
+          "en": "Political activities",
+          "fr": "Activités politiques",
+          "it": "Attività politiche"
+        }
+      }
+    ],
+    "validFrom": "2026-09-04T00:00:00+00:00",
+    "version": "0.0.3"
+  }
+}
