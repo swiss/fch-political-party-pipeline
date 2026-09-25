@@ -1,16 +1,6 @@
 # Political Party Pipeline
 
-This repository contains all the necessary code to convert the **CSV Party Atlas** from the University of Bern into RDF format using https://version.link schema.
-
-## Architecture
-
-### Generic Overview
-
-- The University of Bern provides the Party Atlas as a set of CSV files.
-- In this repository, a Docker container is created that contains all the necessary code.
-- Running the Docker container will convert the CSV files 
-  - on the one hand into RDF, that is uploaded to LINDAS
-  - on the other hand uploads it to I14Y
+This repository contains all the necessary code to convert the **CSV Party Atlas** from the University of Bern into RDF format using https://version.link schema and create a [I14Y](https://i14y.admin.ch) concept.
 
 ## Understanding the RAW CSV files
 
@@ -48,8 +38,4 @@ This repository contains all the necessary code to convert the **CSV Party Atlas
 
 - create function for pandas lookup in other tables, e.g. for party_name_id, party_code_id, etc.
 - create function to convert dictionary keys into RDF predicates and classes, e.g. for party_name_id, party_code_id, etc.
-
-## Unsolved Errors
-
-- Party 158: Has a version 2019-10-08 that should not exist. --> Problem is 158 has dissolution 1990-07-01 but has a successor (Party 159) in 2019-10-08. Same problem for 194 (only one day in between, so probably data error) and probably some others.
   
