@@ -12,7 +12,7 @@
       "it": "Tutti i partiti politici della Svizzera a livello federale e cantonale.",
       "rm": "Tuts ils partis politics da la Svizra a livel federal e cantunal."
     },
-    "id": "01a0d84a-1c4e-7c3c-8315-777aafa2e66e",
+    "id": "01a0d88b-f93e-7d9b-956c-51ddcb70a5a3",
     "identifiers": [
       "political-parties"
     ],
@@ -50,9 +50,9 @@
     },
     "registrationStatus": "Incomplete",
     "system": {
-      "createdAt": "2026-09-25T11:18:50.702688+00:00",
+      "createdAt": "2026-09-25T12:30:47.102788+00:00",
       "creationType": "Manual",
-      "modifiedAt": "2026-09-25T11:29:55.087635+00:00"
+      "modifiedAt": "2026-09-25T12:30:56.737989+00:00"
     },
     "themes": [
       {
@@ -65,7 +65,7 @@
         }
       }
     ],
-    "validFrom": "2026-09-04T00:00:00+00:00",
-    "version": "0.0.3"
+    "validFrom": "2026-09-25T14:30:46.958983+00:00",
+    "version": "2026.9.25"
   }
 }
