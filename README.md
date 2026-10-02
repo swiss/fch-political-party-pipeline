@@ -1,41 +1,20 @@
 # Political Party Pipeline
 
-This repository contains all the necessary code to convert the **CSV Party Atlas** from the University of Bern into RDF format using https://version.link schema and create a [I14Y](https://i14y.admin.ch) concept.
+This repository contains all the necessary code to convert the **CSV Party Atlas** from the project [Année Politique Suisse](https://anneepolitique.swiss) from the [University of Bern](https://www.unibe.ch) for two different outlets:
 
-## Understanding the RAW CSV files
+- a [LINDAS](https://ld.admin.ch) *Shared Dimension* in RDF format using the [version.link](https://version.link) schema
+- an [I14Y](https://i14y.admin.ch) *Concept*
 
-### party.csv
+## Methodology
 
-- This is the main file.
-- Each line represents a *vl:Identity* of a party.
-- In the field `party_name_id` are some versions of the same party with different names.
+The conversion is done by using Jupyter notebooks in the folder `notebooks`. The code is intentionally quite verbose and not optimized for performance, as the main goal is to have a clear and understandable code that can be easily modified and extended.
 
-## To Remember
-
-- What about the different identifiers from `party_code_id`. In the CSV, these are only given for the *identity* but we should not have information on the *identity* that is not present in a *version* --> current solution, only add identifiers to the vl:Identity to not make it complicated.
-- Tried a complete new approach: Only one version per identity. The version has got all the history, the identity only the currently valid data. This aproach is tried in `1_convert_b.ipynb`. --> The problem is, that this approach makes it difficult to build vl:successor and vl:predecessor relationships, because the vl:successor can be the same party (if a split happens, the new party is one follower, but the existing party is also a follower, because it is still existing). So we need to have a vl:successor and vl:predecessor relationship for each version, not only for the identity. So we need to have multiple versions per identity.
-
-## Questions to the University of Bern
-
-- Why use for all dates the same time `12:00:00`? Would it not be better to use only dates and then schema:validFrom 2001-01-01 and schema:validThrough 2001-12-31?
-- What is happening, if on the same day, a new party is forming from the split-ofs of two other parties?
-
-## Possible Data Errors
-
-- Party ID 248 "Grütliverein", was associated with SP from 1901 to 1916 (according to HLS). However, in the CSV it is listed as associated with SP from 1901 to 1906.
-- Relation ID 126 / Name ID 137: to_date should probably be 2021-01-01 instead of 2020-12-31.
-- Party ID 65: Missing name for dates after 1980-01-01.
-- https://politics.ld.admin.ch/party-version/123_1979-07-01: empty space in front of the name
-- Party ID 62: Dissolution in 2010-07-01 but name ends in 2015-07-01
-- Party ID 194: Dissolution on 1998-01-31, successor on 1998-02-02
-- Party ID 226: Dissolution on 2005-08-27 but name only valid until 2005-07-01
+- `1_json.ipynb` converts the multipleCSV files from the University of Bern into a single JSON file that resembles the version.link schema.
+- `2a_I14Y.ipynb` contains all the necessary code to convert the JSON file from `1_json.ipynb` into an I14Y concept and upload it to the I14Y platform. It also contains the logic to decide whether a new version of the concept needs to be pushed to the I14Y platform or not.
+- `2b_LINDAS.ipynb` contains all the necessary code to convert the JSON file from `1_json.ipynb` into a LINDAS Shared Dimension in RDF according to the version.link schema and upload it to the LINDAS platform.
+- `3_queries.ipynb` contains some example queries to work with the LINDAS data.
+- `4_delete.ipynb` contains the code to delete the LINDAS Shared Dimension and the I14Y concept from the respective platforms.
 
 ## Good Examples
 
 - For different child-of relationships: Party 49
-
-## To Do
-
-- create function for pandas lookup in other tables, e.g. for party_name_id, party_code_id, etc.
-- create function to convert dictionary keys into RDF predicates and classes, e.g. for party_name_id, party_code_id, etc.
-  
