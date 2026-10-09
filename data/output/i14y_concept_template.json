@@ -1,7 +1,7 @@
 {
   "data": {
     "conceptType": "CodeList",
-    "codeListEntryDefaultSortProperty": "Code",
+    "codeListEntryDefaultSortProperty": "Position",
     "codeListEntryValueType": "String",
     "codeListEntryValueMaxLength": 30,
     "conformsTo": [],
@@ -17,11 +17,11 @@
     ],
     "keywords": [],
     "name": {
-      "de": "Politische Parteien",
-      "en": "Political Parties",
-      "fr": "Partis politiques",
-      "it": "Partiti politici",
-      "rm": "Partis politics"
+      "de": "Liste der Identifikatoren politischer Parteien",
+      "en": "List of identifiers of political parties",
+      "fr": "Liste des identifiants des partis politiques",
+      "it": "Elenco degli identificatori dei partiti politici",
+      "rm": "Lista dals identificaturs da las partidas politicas"
     },
     "publisher": {
       "identifier": "CH_BK"
