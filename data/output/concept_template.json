@@ -26,11 +26,8 @@
     "publisher": {
       "identifier": "CH_BK"
     },
-    "responsibleDeputy": {
-      "email": "michael.luggen@bk.admin.ch"
-    },
     "responsiblePerson": {
-      "email": "benedikt.hitz@bfh.ch"
+      "email": "michael.luggen@bk.admin.ch"
     },
     "themes": [
       {
