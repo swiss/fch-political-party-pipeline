@@ -26,9 +26,9 @@ source_comment: ",de-CH,Kantonsratsmitglied Zürich,,,,,,,,,,
 notes: 
 source_full_citation: Wikipedia. (2025). Regierungsrat (Zürich). Abgerufen am 06. Oktober 2025 von https://de.wikipedia.org/wiki/Regierungsrat_(Z%C3%BCrich)
 source_comment: ",de-CH,Regierungsratsmitglied Zürich,,,,,,,,,,
-5,5,ch-fedgov-member,1,[],[8],,,de-CH,Bundesratsmitglied,,,fr-CH,Membre du Conseil fédéral,,,en-US,Member of the Federal Council,,
-6,6,be-cantparl-member,1,"[162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187]",[9],,,de-CH,Grossratsmitglied Bern,,,,,,,,,,
-7,7,be-cantgov-member,1,"[188,189,190,191,192,193,194,195,196,197,198]","[10,11]",,"page_number_string: 
+5,5,ch-fedgov-member,1,"[2024,2025]",[8],,,de-CH,Bundesratsmitglied,,,fr-CH,Membre du Conseil fédéral,,,en-US,Member of the Federal Council,,
+6,6,be-cantparl-member,1,"[162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,2012]","[9,402,403,405,406,407,408,409]",,,de-CH,Grossratsmitglied Bern,,,,,,,,,,
+7,7,be-cantgov-member,1,"[188,189,190,191,192,193,194,195,196,197,198,2013]","[10,11]",,"page_number_string: 
 notes: 
 source_full_citation: Wikipedia. (2025). Regierungsrat (Bern). Abgerufen am 25. November 2025 von https://de.wikipedia.org/wiki/Regierungsrat_(Bern)
 source_comment: ",de-CH,Regierungsratsmitglied Bern,,,,,,,,,,
@@ -54,8 +54,8 @@ notes:
 source_full_citation: Wikipedia. (2026). Landrat (Basel-Landschaft). Abgerufen am 05. Februar 2026 von https://de.wikipedia.org/wiki/Landrat_(Basel-Landschaft)
 source_comment: ",de-CH,Landratsmitglied Basel-Landschaft,,,,,,,,,,
 15,15,bl-cantgov-member,1,"[505,506,507,508,509,510,511,512,513,514,515]",[36],,,de-CH,Regierungsratsmitglied Basel-Landschaft,,,,,,,,,,
-16,16,ju-cantparl-member,1,"[540,541,542,543,544,545,546,547,548,549,550]",[37],,,fr-CH,Membre du Parlement jurassien,,,,,,,,,,
-17,17,ju-cantgov-member,1,"[551,552,553,554,555,556,557,558,559,560]",[38],,,fr-CH,Membre du Gouvernement jurassien,,,,,,,,,,
+16,16,ju-cantparl-member,1,"[540,541,542,543,544,545,546,547,548,549,550,2020]",[37],,,fr-CH,Membre du Parlement jurassien,,,,,,,,,,
+17,17,ju-cantgov-member,1,"[551,552,553,554,555,556,557,558,559,560,2021]",[38],,,fr-CH,Membre du Gouvernement jurassien,,,,,,,,,,
 18,18,ti-cantparl-member,1,"[603,604,605,606,607,608,609,610,611,612,613,614,615,616,617,618,619,620,621,622,623,624,625,626,627,628,629]","[39,40,41]",,"page_number_string: 
 notes: 
 source_full_citation: Wikipedia. (2026). Grosser Rat (Tessin). Abgerufen amm 03. März 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Tessin)
@@ -70,7 +70,7 @@ notes:
 source_full_citation: Wikipedia. (2026). Kantonsrat (Schwyz). Abgerufen am 19. März 2026 von https://de.wikipedia.org/wiki/Kantonsrat_(Schwyz)
 source_comment: ",de-CH,Kantonsratsmitglied Schwyz,,,,,,,,,,
 22,22,sz-cantgov-member,1,"[715,716,717,718,719,720,721,722,723,724,725,726]",[51],,,de-CH,Regierungsratsmitglied Schwyz,,,,,,,,,,
-23,23,ow-cantparl-member,1,"[769,770,771,772,773,774,775,776,777,778,779,780,781,782,783,784]","[52,53,54,55]",,"page_number_string: 
+23,23,ow-cantparl-member,1,"[769,770,771,772,773,774,775,776,777,778,779,780,781,782,783,784]","[52,53,54,55,404]",,"page_number_string: 
 notes: 
 source_full_citation: Wikipedia. (2026). Kantonsrat (Obwalden). Abgerufen am 26. März 2026 von https://de.wikipedia.org/wiki/Kantonsrat_(Obwalden)
 source_comment: ",de-CH,Kantonsratsmitglied Obwalden,,,,,,,,,,
@@ -83,11 +83,11 @@ notes:
 source_full_citation: Wikipedia. (2026). Landrat (Nidwalden). Abgerufen am 27. März 2026 von https://de.wikipedia.org/wiki/Landrat_(Nidwalden)
 source_comment: ",de-CH,Landratsmitglied Nidwalden,,,,,,,,,,
 26,26,nw-cantgov-member,1,"[861,862,863,864,865,866,867,868,869,870,871,872]","[60,398,399]",,,de-CH,Regierungsratsmitglied Nidwalden,,,,,,,,,,
-27,27,gl-cantparl-member,1,"[915,916,917,918,919,920,921,922,923,924,925,926,927,928,929,930,931,932,933,934,935,936,937,938,939,940]","[61,62]",,"page_number_string: 
+27,27,gl-cantparl-member,1,"[915,916,917,918,919,920,921,922,923,924,925,926,927,928,929,930,931,932,933,934,935,936,937,938,939,940,2014]","[61,62]",,"page_number_string: 
 notes: 
 source_full_citation: Wikipedia. (2026). Landrat (Glarus). Abgerufen am 07. April 2026 von https://de.wikipedia.org/wiki/Landrat_(Glarus)
 source_comment: ",de-CH,Landratsmitglied Glarus,,,,,,,,,,
-28,28,gl-cantgov-member,1,"[941,942,943,944,945,946,947,948,949,950,951]","[63,64]",,"page_number_string: 
+28,28,gl-cantgov-member,1,"[941,942,943,944,945,946,947,948,949,950,951,2015]","[63,64]",,"page_number_string: 
 notes: 
 source_full_citation: Wikipedia. (2026). Liste der Regierungsräte des Kantons Glarus. Abgerufen am 07. April 2026 von https://de.wikipedia.org/wiki/Liste_der_Regierungsr%C3%A4te_des_Kantons_Glarus
 source_comment: ",de-CH,Regierungsratsmitglied Glarus,,,,,,,,,,
@@ -101,11 +101,11 @@ notes:
 source_full_citation: Wikipedia. (2026). Grosser Rat (Freiburg). Abgerufen am 20. April 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Freiburg)
 source_comment: ",de-CH,Grossratsmitglied Kanton Freiburg,,,fr-CH,Membre du Grand Conseil du canton de Fribourg,,,,,,
 32,32,fr-cantgov-member,1,"[1092,1093,1094,1095,1096,1097,1098,1099,1100]",[80],,,de-CH,Staatsratsmitglied Freiburg,,,fr-CH,Conseillers d'État du canton de Fribourg,,,,,,
-33,33,so-cantparl-member,1,"[1143,1144,1145,1146,1147,1148,1149,1150,1151,1152,1153,1154,1155,1156,1157,1158,1159,1160,1161,1162,1163,1164,1165,1166,1167,1168,1169,1170,1171,1172,1173,1174]","[81,82,83,84,85,86,87,88,89,90]",,"page_number_string: 
+33,33,so-cantparl-member,1,"[1143,1144,1145,1146,1147,1148,1149,1150,1151,1152,1153,1154,1155,1156,1157,1158,1159,1160,1161,1162,1163,1164,1165,1166,1167,1168,1169,1170,1171,1172,1173,1174,2016]","[81,82,83,84,85,86,87,88,89,90]",,"page_number_string: 
 notes: 
 source_full_citation: Wikipedia. (2026). Kantonsrat (Solothurn). Abgerufen am 22. April 2026 von https://de.wikipedia.org/wiki/Kantonsrat_(Solothurn)
 source_comment: ",de-CH,Kantonsratsmitglied Solothurn,,,,,,,,,,
-34,34,so-cantgov-member,1,"[1175,1176,1177,1178,1179,1180,1181,1182,1183,1184,1185]",[91],,"page_number_string: 
+34,34,so-cantgov-member,1,"[1175,1176,1177,1178,1179,1180,1181,1182,1183,1184,1185,2017]",[91],,"page_number_string: 
 notes: 
 source_full_citation: Wikipedia. (2026). Liste der Regierungsräte des Kantons Solothurn. Abgerufen am 22. April 2026 von https://de.wikipedia.org/wiki/Liste_der_Regierungsr%C3%A4te_des_Kantons_Solothurn
 source_comment: ",de-CH,Regierungsratsmitglied Solothurn,,,,,,,,,,
@@ -129,11 +129,11 @@ notes:
 source_full_citation: Wikipedia. (2026). Kantonsrat (St. Gallen). Abgerufen am 12. Mai 2026 von https://de.wikipedia.org/wiki/Kantonsrat_(St._Gallen)
 source_comment: ",de-CH,Kantonsratsmitglied St. Gallen,,,,,,,,,,
 42,42,sg-cantgov-member,1,"[1499,1500,1501,1502,1503,1504,1505,1506,1507,1508,1509,1510]",[117],,,de-CH,Regierungsratsmitglied St. Gallen,,,,,,,,,,
-43,43,gr-cantparl-member,1,"[1567,1568,1569,1570,1571,1572,1573,1574,1575,1576,1577,1578,1579,1580,1581,1582,1583,1584,1585,1586,1587,1588,1589,1590,1591,1592,1593,1594,1595,1596,1597,1598,1599,1600,1601,1602,1603,1604,1605,1606,1607,1608,1609,1610,1611,1612]","[118,119,120,121,122,123,124,125,126,127,128,129,130,131,132]",,"page_number_string: 
+43,43,gr-cantparl-member,1,"[1567,1568,1569,1570,1571,1572,1573,1574,1575,1576,1577,1578,1579,1580,1581,1582,1583,1584,1585,1586,1587,1588,1589,1590,1591,1592,1593,1594,1595,1596,1597,1598,1599,1600,1601,1602,1603,1604,1605,1606,1607,1608,1609,1610,1611,1612,2022]","[118,119,120,121,122,123,124,125,126,127,128,129,130,131,132]",,"page_number_string: 
 notes: 
 source_full_citation: Wikipedia. (2026). Grosser Rat (Graubünden). Abgerufen am 19. Mai 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Graub%C3%BCnden)
 source_comment: ",de-CH,Grossratsmitglied Graubünden,,,,,,,,,,
-44,44,gr-cantgov-member,1,"[1613,1614,1615,1616,1617,1618,1619,1620,1621,1622,1623]",[133],,,de-CH,Regierungsratsmitglied Graubünden,,,,,,,,,,
+44,44,gr-cantgov-member,1,"[1613,1614,1615,1616,1617,1618,1619,1620,1621,1622,1623,2023]",[133],,,de-CH,Regierungsratsmitglied Graubünden,,,,,,,,,,
 45,45,ag-cantparl-member,1,"[1666,1667,1668,1669,1670,1671,1672,1673,1674,1675,1676,1677,1678,1679,1680,1681,1682,1683,1684,1685,1686,1687,1688,1689]","[155,156,157,158,159,160]",,"page_number_string: 
 notes: 
 source_full_citation: Wikipedia. (2026). Grosser Rat (Aargau). Abgerufen am 21. Mai 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Aargau)
@@ -285,11 +285,11 @@ source_comment: ",de-CH,Nationalratsmitglied für den Kanton Genf,,,fr-CH,Déput
 notes: 
 source_full_citation: Bundesamt für Statistik. (2025). Verteilung der Nationalratssitze auf die Kantone. Abgerufen am 27. Mai 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.36198965.html
 source_comment: ",de-CH,Nationalratsmitglied für den Kanton Jura,,,fr-CH,Député au Conseil national pour le canton de Jura,,,,,,
-103,51,ne-cantparl-member,1,"[1901,1902,1903,1904,1905,1906,1907,1908,1909,1910,1911,1912,1913,1914,1915,1916,1917,1918]","[371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392]",,"page_number_string: 
+103,51,ne-cantparl-member,1,"[1901,1902,1903,1904,1905,1906,1907,1908,1909,1910,1911,1912,1913,1914,1915,1916,1917,1918,2018]","[371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392]",,"page_number_string: 
 notes: 
 source_full_citation: Wikipedia. (2026). Grosser Rat (Neuenburg). Abgerufen am 18. Juni 2026 von https://de.wikipedia.org/wiki/Grosser_Rat_(Neuenburg)
 source_comment: ",fr-CH,Membre du Grand Conseil du canton de Neuchâtel,,,,,,,,,,
-104,52,ne-cantgov-member,1,"[1919,1920,1921,1922,1923,1924,1925,1926,1927,1928,1929]",[393],,"page_number_string: 
+104,52,ne-cantgov-member,1,"[1919,1920,1921,1922,1923,1924,1925,1926,1927,1928,1929,2019]",[393],,"page_number_string: 
 notes: 
 source_full_citation: Wikipédia. (2026). Conseil d'État du canton de Neuchâtel. Consulté le 18 juin 2026, sur https://fr.wikipedia.org/wiki/Conseil_d%27%C3%89tat_du_canton_de_Neuch%C3%A2tel
 source_comment: ",fr-CH,Membre du Conseil d'État du canton de Neuchâtel,,,,,,,,,,

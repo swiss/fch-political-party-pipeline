@@ -1405,7 +1405,7 @@ source_comment: ",multiyear,1996-01-01T12:00:00,,
 325,226,76848,actual,,"page_number_string: 
 notes: 
 source_full_citation: SGA Kanton Zug. (2000). Jahresbericht 2000. Abgerufen am 13. April 2026 von https://web.archive.org/web/20040305191821/http://www.sga-zug.ch/pdf_file/jahresbericht_2000.pdf
-source_comment: ",year,1999-07-01T00:00:00,,
+source_comment: ",year,1999-07-02T00:00:00,,
 326,226,102250,budgeted,,"page_number_string: 
 notes: 
 source_full_citation: SGA Kanton Zug. (2000). Jahresbericht 2000. Abgerufen am 13. April 2026 von https://web.archive.org/web/20040305191821/http://www.sga-zug.ch/pdf_file/jahresbericht_2000.pdf
@@ -1718,7 +1718,7 @@ source_comment: ",year,1996-07-01T00:00:00,,
 395,1,1400000,budgeted,,"page_number_string: 135
 notes: 
 source_full_citation: Ladner, A. (2001). Swiss Political Parties: Between Persistence and Change. West European Politics, 24(2), 123-144.
-source_comment: ",year,1999-07-01T00:00:00,,
+source_comment: ",year,1999-07-02T00:00:00,,
 396,1,2400000,budgeted,,"page_number_string: 80
 notes: 
 source_full_citation: Gunzinger, M. (2008). Analyse comparative des ressources financières des partis politiques suisses. Cahier de l'IDHEAP 240. Institut de hautes études en administration publique, Lausanne.
@@ -2626,11 +2626,11 @@ source_comment: ",year,1996-07-01T00:00:00,,
 note: Anhand der Angaben wurden die Wahlkampfausgaben nicht einbezogen.","page_number_string: 11
 notes: 
 source_full_citation: Ladner, A. & Brändle, M. (1999b). Parteienförderung in der Schweiz: Analysen und Vorschläge. Schlussbericht. Institut für Politikwissenschaft der Universität Bern.
-source_comment: ",year,1999-07-01T00:00:00,,
+source_comment: ",year,1999-07-02T00:00:00,,
 628,2,3200000,budgeted,,"page_number_string: 80
 notes: 
 source_full_citation: Gunzinger, M. (2008). Analyse comparative des ressources financières des partis politiques suisses. Cahier de l'IDHEAP 240. Institut de hautes études en administration publique, Lausanne.
-source_comment: ",year,1999-07-01T00:00:00,,
+source_comment: ",year,1999-07-02T00:00:00,,
 629,2,2518843,actual,,"page_number_string: 
 notes: 
 source_full_citation: SP Schweiz. (2002). Jahresrechnung 2002 der SP Schweiz. Abgerufen am 12. August 2026 von https://web.archive.org/web/20030826152635/http://al.sp-ps.ch/data/DIV/DV/Jahresrechnung-2002.pdf
@@ -2862,11 +2862,11 @@ source_comment: ",year,1996-07-01T00:00:00,,
 note: Ohne Kosten für Wahlen.","page_number_string: 135
 notes: 
 source_full_citation: Ladner, A. (2001). Swiss Political Parties: Between Persistence and Change. West European Politics, 24(2), 123-144.
-source_comment: ",year,1999-07-01T00:00:00,,
+source_comment: ",year,1999-07-02T00:00:00,,
 685,9,2700000,actual,,"page_number_string: 126
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
-source_comment: ",year,1999-07-01T00:00:00,,
+source_comment: ",year,1999-07-02T00:00:00,,
 686,9,4500000,budgeted,,"page_number_string: 80
 notes: 
 source_full_citation: Gunzinger, M. (2008). Analyse comparative des ressources financières des partis politiques suisses. Cahier de l'IDHEAP 240. Institut de hautes études en administration publique, Lausanne.
@@ -2972,11 +2972,11 @@ source_comment: ",year,1996-07-01T00:00:00,,
 note: Ohne Ausgaben für Wahlen.","page_number_string: 135
 notes: 
 source_full_citation: Ladner, A. (2001). Swiss Political Parties: Between Persistence and Change. West European Politics, 24(2), 123-144.
-source_comment: ",year,1999-07-01T00:00:00,,
+source_comment: ",year,1999-07-02T00:00:00,,
 710,10,3300000,budgeted,,"page_number_string: 80
 notes: 
 source_full_citation: Gunzinger, M. (2008). Analyse comparative des ressources financières des partis politiques suisses. Cahier de l'IDHEAP 240. Institut de hautes études en administration publique, Lausanne.
-source_comment: ",year,1999-07-01T00:00:00,,
+source_comment: ",year,1999-07-02T00:00:00,,
 711,10,4000000,budgeted,,"page_number_string: 80
 notes: 
 source_full_citation: Gunzinger, M. (2008). Analyse comparative des ressources financières des partis politiques suisses. Cahier de l'IDHEAP 240. Institut de hautes études en administration publique, Lausanne.
@@ -3314,3 +3314,90 @@ source_comment: ",year,2025-07-01T00:00:00,,
 notes: 
 source_full_citation: EVP Schweiz. (2026). Budget 2026 - EVP Schweiz. Abgerufen am 31. August 2026 von https://www.evppev.ch/fileadmin/user_upload/evppev/Events/20251129_DV_Langenthal/Budget_2026_de.pdf
 source_comment: ",year,2026-07-01T00:00:00,,
+795,14,130000,budgeted,"note_translations: languages_code: de-CH
+note: Ausgaben in einem Wahljahr.","page_number_string: 178
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",multiyear,1995-01-01T12:00:00,,
+796,14,90000,budgeted,"note_translations: languages_code: de-CH
+note: Ausgaben in einem Jahr ohne Wahlen.","page_number_string: 178
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",multiyear,1996-01-01T12:00:00,,
+797,33,90000,budgeted,"note_translations: languages_code: de-CH
+note: Die Angabe bezieht sich ausnahmsweise auf die Einnahmen.","page_number_string: 36
+notes: 
+source_full_citation: Simmen, L. & Suter, E. (1985). Die nationale Aktion: 1961-1970 [Seminararbeit]. Universität Zürich.
+source_comment: ",year,1967-07-01T12:00:00,,
+798,33,87000,budgeted,"note_translations: languages_code: de-CH
+note: Die Angabe bezieht sich ausnahmsweise auf die Einnahmen.","page_number_string: 50
+notes: 
+source_full_citation: Simmen, L. & Suter, E. (1985). Die nationale Aktion: 1961-1970 [Seminararbeit]. Universität Zürich.
+source_comment: ",year,1968-07-01T12:00:00,,
+799,33,158000,budgeted,"note_translations: languages_code: de-CH
+note: Die Angabe bezieht sich ausnahmsweise auf die Einnahmen.","page_number_string: 50
+notes: 
+source_full_citation: Simmen, L. & Suter, E. (1985). Die nationale Aktion: 1961-1970 [Seminararbeit]. Universität Zürich.
+source_comment: ",year,1969-07-01T12:00:00,,
+800,33,443000,budgeted,"note_translations: languages_code: de-CH
+note: Die Angabe bezieht sich ausnahmsweise auf die Einnahmen.","page_number_string: 50
+notes: 
+source_full_citation: Simmen, L. & Suter, E. (1985). Die nationale Aktion: 1961-1970 [Seminararbeit]. Universität Zürich.
+source_comment: ",year,1970-07-01T12:00:00,,
+801,33,500000,budgeted,"note_translations: languages_code: de-CH
+note: Tschäni (1979) nennt einen Betrag von 200'000-800'000 Schweizer Franken.","page_number_string: 97
+notes: 
+source_full_citation: Tschäni, H. (1979). Parteien, Programme, Parolen. Sauerländer & Ex-Libris-Verlag.
+source_comment: ",year,1979-07-01T12:00:00,,
+802,33,175000,budgeted,"note_translations: languages_code: de-CH
+note: Ladner und Brändle (2001) nennen einen Betrag zwischen 150'000 - 200'000 Schweizer Franken.","page_number_string: 178
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1984-07-01T12:00:00,,
+803,15,50000,budgeted,,"page_number_string: 178
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1975-07-01T12:00:00,,
+804,15,50000,budgeted,"note_translations: languages_code: de-CH
+note: Umsatz ohne Wahl- und Abstimmungskampagnen","page_number_string: 85
+notes: 
+source_full_citation: Tschäni, H. (1979). Parteien, Programme, Parolen. Sauerländer & Ex-Libris-Verlag.
+source_comment: ",year,1979-07-01T12:00:00,,
+805,15,150000,budgeted,,"page_number_string: 178
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1984-07-01T12:00:00,,
+806,34,3000000,budgeted,,"page_number_string: 178
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1984-07-01T12:00:00,,
+807,34,3000000,budgeted,"note_translations: languages_code: de-CH
+note: Ausgaben in einem Wahljahr.","page_number_string: 178
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1995-07-01T12:00:00,,
+808,34,1600000,budgeted,"note_translations: languages_code: de-CH
+note: Ausgaben in einem Jahr ohne Wahlen.","page_number_string: 178
+notes: 
+source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
+source_comment: ",year,1996-07-01T12:00:00,,
+809,224,120000,budgeted,,"page_number_string: 
+notes: 
+source_full_citation: Blum, R. (04. September 2026). Trotz Überlastung und Bedeutungsverlust: Die Parteien wachsen wieder. Neue Zürcher Zeitung. Abgerufen am 08. September 2026 von https://www.nzz.ch/schweiz/trotz-ueberlastung-und-bedeutungsverlust-die-parteien-wachsen-wieder-ld.10021080
+source_comment: ",year,2025-07-01T12:00:00,,
+810,251,535000,budgeted,,"page_number_string: 
+notes: 
+source_full_citation: Blum, R. (04. September 2026). Trotz Überlastung und Bedeutungsverlust: Die Parteien wachsen wieder. Neue Zürcher Zeitung. Abgerufen am 08. September 2026 von https://www.nzz.ch/schweiz/trotz-ueberlastung-und-bedeutungsverlust-die-parteien-wachsen-wieder-ld.10021080
+source_comment: ",year,2026-07-01T12:00:00,,
+811,232,277000,budgeted,,"page_number_string: 
+notes: 
+source_full_citation: Blum, R. (04. September 2026). Trotz Überlastung und Bedeutungsverlust: Die Parteien wachsen wieder. Neue Zürcher Zeitung. Abgerufen am 08. September 2026 von https://www.nzz.ch/schweiz/trotz-ueberlastung-und-bedeutungsverlust-die-parteien-wachsen-wieder-ld.10021080
+source_comment: ",year,2024-07-01T12:00:00,,
+812,234,174000,budgeted,,"page_number_string: 
+notes: 
+source_full_citation: Blum, R. (04. September 2026). Trotz Überlastung und Bedeutungsverlust: Die Parteien wachsen wieder. Neue Zürcher Zeitung. Abgerufen am 08. September 2026 von https://www.nzz.ch/schweiz/trotz-ueberlastung-und-bedeutungsverlust-die-parteien-wachsen-wieder-ld.10021080
+source_comment: ",year,2024-07-01T12:00:00,,
+813,242,30000,budgeted,,"page_number_string: 
+notes: 
+source_full_citation: Blum, R. (04. September 2026). Trotz Überlastung und Bedeutungsverlust: Die Parteien wachsen wieder. Neue Zürcher Zeitung. Abgerufen am 08. September 2026 von https://www.nzz.ch/schweiz/trotz-ueberlastung-und-bedeutungsverlust-die-parteien-wachsen-wieder-ld.10021080
+source_comment: ",year,2024-07-01T12:00:00,,

@@ -179,7 +179,12 @@ source_comment: ",exact,2016-04-16T12:00:00,,,exact,2021-10-02T12:00:00,,
 41,317,3,1,,,"page_number_string: 
 notes: 
 source_full_citation: Weber, S. (5. Oktober 2021). Sie diskutieren den Formstand ihrer Partei. Willisauer Bote. Abgerufen am 16. September 2025 von https://essentials.swissdox.ch/
-source_comment: ",exact,2021-10-02T12:00:00,,,,,,
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: FDP.Die Liberalen Schweiz. (2025). Gemeinsam für die Schweiz. Abgerufen am 29. September 2026 von https://www.fdp.ch/aktuell/medienmitteilungen/medienmitteilung-detail/news/gemeinsam-fuer-die-schweiz
+source_comment: ",exact,2021-10-02T12:00:00,,,exact,2025-10-18T12:00:00,,
 42,1434,4,1,,,"page_number_string: 
 notes: 
 source_full_citation: Wikipedia. (2025). Gerhard Pfister (Politiker). Abgerufen am 16. September 2025 von https://de.wikipedia.org/wiki/Gerhard_Pfister_(Politiker)
@@ -2460,7 +2465,7 @@ source_comment: ",multiyear,1972-01-01T12:00:00,,,unknown,1976-01-01T12:00:00,,
 562,743,1,,5,,"page_number_string: 730ff.
 notes: 
 source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
-source_comment: ",exact,1971-09-22T12:00:00,,,exact,1979-12-31T12:00:00,,
+source_comment: ",exact,1966-01-01T12:00:00,,,exact,1979-12-31T12:00:00,,
 563,1652,1,,5,,"page_number_string: 630ff.
 notes: 
 source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
@@ -2477,7 +2482,7 @@ source_comment:
 page_number_string: 
 notes: 
 source_full_citation: ap. (30. Juni 2008). Bundesrat Schmid bekräftigt Übertritt zur BDP. Neue Zürcher Zeitung. 
-source_comment: ",exact,2001-01-01T12:00:00,,,exact,2008-07-05T12:00:00,,
+source_comment: ",exact,2001-01-01T12:00:00,,,exact,2008-12-31T12:00:00,,
 566,195,1,,5,,"page_number_string: 630ff.
 notes: 
 source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
@@ -2486,7 +2491,7 @@ source_comment: ",exact,2004-04-01T12:00:00,,,exact,2007-12-31T12:00:00,,
 note: Formeller Entscheid SVP CH am 1.6.2008, Statuten-Beschluss der SVP GR am 16.6.2008.","page_number_string: 630ff.
 notes: 
 source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
-source_comment: ",exact,2008-01-01T12:00:00,,,exact,2008-06-16T12:00:00,,
+source_comment: ",exact,2008-01-01T12:00:00,,,exact,2015-12-31T12:00:00,,
 568,1218,1,,5,,"page_number_string: 630ff.
 notes: 
 source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
@@ -2881,7 +2886,7 @@ source_comment: ",exact,2022-09-01T12:00:00,,,exact,2026-01-13T12:00:00,,
 note: ad interim","page_number_string: 
 notes: 
 source_full_citation: Bregy, A. (15. Januar 2026). Philipp Loretan übernimmt neo-Präsidium – zumindest vorläufig. Walliser Bote. Abgerufen am 23. Februar 2026 von https://essentials.swissdox.ch/
-source_comment: ",exact,2026-01-13T12:00:00,,,,,,
+source_comment: ",exact,2026-01-13T12:00:00,,,exact,2026-04-29T12:00:00,,
 644,1952,152,1,,,"page_number_string: 
 notes: 
 source_full_citation: Wikipedia. (2026). Die Mitte Oberwallis. Abgerufen am 23. Februar 2026 von https://de.wikipedia.org/wiki/Die_Mitte_Oberwallis
@@ -3655,3 +3660,753 @@ page_number_string:
 notes: 
 source_full_citation: auto-partei.ch. (2020). Präsidium auto-partei.ch. Abgerufen am 26. August 2026 von https://web.archive.org/web/20200921101512/https://www.auto-partei.info/partei/organisation/praesidium-schweiz/
 source_comment: ",exact,2017-09-02T12:00:00,,,year,2021-07-01T12:00:00,,
+803,2227,344,1,,,"page_number_string: 
+notes: 
+source_full_citation: Staatsarchiv des Kantons Thurgau. (2026). Katholische Kantonalparteien im Thurgau (1906-2006). Abgerufen am 25. Mai 2026 von https://archivportal.tg.ch/records/289117
+source_comment: ",year,1996-07-01T12:00:00,,,year,1998-07-01T12:00:00,,
+804,2227,344,2,,,"page_number_string: 
+notes: 
+source_full_citation: Staatsarchiv des Kantons Thurgau. (2026). Katholische Kantonalparteien im Thurgau (1906-2006). Abgerufen am 25. Mai 2026 von https://archivportal.tg.ch/records/289117
+source_comment: ",year,1998-07-01T12:00:00,,,year,2003-07-01T12:00:00,,
+805,2228,3,1,,,"page_number_string: 
+notes: 
+source_full_citation: FDP.Die Liberalen Schweiz. (2025). Gemeinsam für die Schweiz. Abgerufen am 29. September 2026 von https://www.fdp.ch/aktuell/medienmitteilungen/medienmitteilung-detail/news/gemeinsam-fuer-die-schweiz
+source_comment: ",exact,2025-10-18T12:00:00,,,,,,
+806,2229,3,1,,,"page_number_string: 
+notes: 
+source_full_citation: FDP.Die Liberalen Schweiz. (2025). Gemeinsam für die Schweiz. Abgerufen am 29. September 2026 von https://www.fdp.ch/aktuell/medienmitteilungen/medienmitteilung-detail/news/gemeinsam-fuer-die-schweiz
+source_comment: ",exact,2025-10-18T12:00:00,,,,,,
+807,2230,444,1,,,"page_number_string: 
+notes: 
+source_full_citation: EDU Schweiz. (2026). EDU Kanton Luzern gegründet. Abgerufen am 2. Oktober 2026 von https://web.archive.org/web/20261002114021/https://www.edu-schweiz.ch/aktuelles/neuigkeiten/edu-kanton-luzern-gegruendet/
+source_comment: ",exact,2026-08-19T12:00:00,,,,,,
+808,2231,445,1,,,"page_number_string: 
+notes: 
+source_full_citation: EDU Schweiz. (2026). EDU Kanton Schwyz gegründet. Abgerufen am 2. Oktober 2026 von https://web.archive.org/web/20261002114205/https://www.edu-schweiz.ch/aktuelles/neuigkeiten/edu-kanton-schwyz-gegruendet/
+source_comment: ",exact,2026-09-01T12:00:00,,,,,,
+809,2232,445,2,,,"page_number_string: 
+notes: 
+source_full_citation: EDU Schweiz. (2026). EDU Kanton Schwyz gegründet. Abgerufen am 2. Oktober 2026 von https://web.archive.org/web/20261002114205/https://www.edu-schweiz.ch/aktuelles/neuigkeiten/edu-kanton-schwyz-gegruendet/
+source_comment: ",exact,2026-09-01T12:00:00,,,,,,
+810,2233,153,1,,,"page_number_string: 
+notes: 
+source_full_citation: Chillier, G. (1. Mai 2026). Les jaunes de Neo tentent de se relancer. Le Nouvelliste.
+source_comment: ",exact,2026-04-29T12:00:00,,,,,,
+811,2234,105,1,,,"page_number_string: 
+notes: 
+source_full_citation: Blum, R. (02. August 2019). Proporz und Landesstreik einigten Freisinn. In BZ Basel.
+source_comment: ",exact,1919-08-03T12:00:00,,,unknown,1925-01-01T12:00:00,,
+812,2235,425,1,,,"page_number_string: 
+notes: 
+source_full_citation: FN/Lib. (04. Juli 2009). DSP/Öffnung: Die Chronik. Abgerufen am 08. Oktober 2026 von https://freiburger-nachrichten.ch/story/57965/dsp%C3%B6ffnung-die-chronik.
+source_comment: ",exact,1989-05-03T12:00:00,,,unknown,1995-01-01T12:00:00,,
+813,1801,2,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1984-01-01T12:00:00,,,exact,1995-10-31T12:00:00,,
+814,589,2,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1988-01-01T12:00:00,,,exact,1993-03-31T12:00:00,,
+815,495,2,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1994-04-01T12:00:00,,,exact,2002-12-31T12:00:00,,
+816,1122,2,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1995-11-01T12:00:00,,,exact,2010-10-31T12:00:00,,
+817,336,2,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,2003-01-01T12:00:00,,,exact,2011-12-31T12:00:00,,
+818,1744,2,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,2010-11-01T12:00:00,,,exact,2022-12-31T12:00:00,,
+819,150,2,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,2012-01-01T12:00:00,,,exact,2023-12-31T12:00:00,,
+820,122,2,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Elisabeth Baume-Schneider. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Elisabeth_Baume-Schneider
+source_comment: ",exact,2023-01-01T12:00:00,,,,,,
+821,952,2,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Beat Jans. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Beat_Jans
+source_comment: ",exact,2024-01-01T12:00:00,,,,,,
+822,679,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Jonas Furrer. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Jonas_Furrer
+source_comment: ",exact,1848-11-21T12:00:00,,,exact,1861-07-25T12:00:00,,
+823,1378,19,,5,,"page_number_string: 38ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1848-11-21T12:00:00,,,exact,1854-12-31T12:00:00,,
+824,497,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Henri Druey. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Henri_Druey
+source_comment: ",exact,1848-11-21T12:00:00,,,exact,1855-03-29T12:00:00,,
+825,1336,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Josef Munzinger. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Josef_Munzinger
+source_comment: ",exact,1848-11-21T12:00:00,,,exact,1855-02-06T12:00:00,,
+826,629,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Stefano Franscini. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Stefano_Franscini
+source_comment: ",exact,1848-11-21T12:00:00,,,exact,1857-07-19T12:00:00,,
+827,654,19,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1848-11-21T12:00:00,,,exact,1866-12-31T12:00:00,,
+828,1345,19,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1848-11-21T12:00:00,,,exact,1875-12-31T12:00:00,,
+829,1776,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Jakob Stämpfli. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Jakob_St%C3%A4mpfli
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",month,1855-03-26T12:00:00,,,exact,1863-12-31T12:00:00,,
+830,621,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Constant Fornerod. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Constant_Fornerod
+source_comment: ",exact,1855-07-11T12:00:00,,,exact,1867-10-31T12:00:00,,
+831,1026,19,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",month,1855-07-15T12:00:00,,,exact,1875-12-31T12:00:00,,
+832,1450,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Giovanni Battista Pioda. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Giovanni_Battista_Pioda
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1857-07-30T12:00:00,,,month,1864-01-15T12:00:00,,
+833,500,19,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",year,1861-07-01T12:00:00,,,exact,1872-05-28T12:00:00,,
+834,1619,19,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1864-01-01T12:00:00,,,exact,1895-07-18T12:00:00,,
+835,368,19,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",year,1864-07-01T12:00:00,,,exact,1872-12-31T12:00:00,,
+836,1992,19,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Emil Welti. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Emil_Welti
+source_comment: ",exact,1867-01-01T12:00:00,,,exact,1891-12-31T12:00:00,,
+837,1558,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Victor Ruffy (Politiker, 1823). Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Victor_Ruffy_(Politiker,_1823)
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1868-01-01T12:00:00,,,exact,1869-12-29T12:00:00,,
+838,364,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Paul Cérésole. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Paul_C%C3%A9r%C3%A9sole
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",year,1870-07-01T12:00:00,,,exact,1875-12-31T12:00:00,,
+839,1626,19,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Johann Jakob Scherer. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Johann_Jakob_Scherer
+source_comment: ",year,1872-07-01T12:00:00,,,exact,1878-12-23T12:00:00,,
+840,227,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Eugène Borel. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Eug%C3%A8ne_Borel
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1873-01-01T12:00:00,,,exact,1875-12-31T12:00:00,,
+841,852,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Joachim Heer. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Joachim_Heer
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1876-01-01T12:00:00,,,exact,1878-12-31T12:00:00,,
+842,50,19,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1876-01-01T12:00:00,,,exact,1880-12-25T12:00:00,,
+843,829,19,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Bernhard Hammer. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Bernhard_Hammer_(Politiker)
+source_comment: ",exact,1876-01-01T12:00:00,,,exact,1890-12-31T12:00:00,,
+844,496,19,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Numa Droz. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Numa_Droz
+source_comment: ",exact,1876-01-01T12:00:00,,,exact,1892-12-31T12:00:00,,
+845,131,19,,5,,"page_number_string: 171f.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1879-01-01T12:00:00,,,month,1883-01-15T12:00:00,,
+846,861,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Wilhelm Hertenstein. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Wilhelm_Hertenstein
+source_comment: ",year,1879-07-01T12:00:00,,,exact,1888-11-27T12:00:00,,
+847,1542,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Louis Ruchonnet. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Louis_Ruchonnet
+source_comment: ",year,1881-07-01T12:00:00,,,exact,1893-09-14T12:00:00,,
+848,471,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Altermatt, U. (2023). Bundesrat. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 15. Oktober 2026 von https://hls-dhs-dss.ch/de/articles/010085/2023-12-13/
+source_comment: ",year,1883-07-01T12:00:00,,,exact,1912-07-10T12:00:00,,
+849,845,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Walter Hauser (Politiker, 1837). Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Walter_Hauser_(Politiker,_1837)
+source_comment: ",exact,1889-01-01T12:00:00,,,exact,1902-10-22T12:00:00,,
+850,649,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Emil Frey (Politiker, 1838). Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Emil_Frey_(Politiker,_1838)
+source_comment: ",exact,1891-01-01T12:00:00,,,exact,1897-03-31T12:00:00,,
+851,1073,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Adrien Lachenal. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Adrien_Lachenal
+source_comment: ",exact,1893-01-01T12:00:00,,,exact,1899-12-31T12:00:00,,
+852,1619,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Altermatt, U. (2023). Bundesrat. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 15. Oktober 2026 von https://hls-dhs-dss.ch/de/articles/010085/2023-12-13/
+source_comment: ",exact,1864-01-01T12:00:00,,,exact,1895-07-18T12:00:00,,
+853,471,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Altermatt, U. (2023). Bundesrat. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 15. Oktober 2026 von https://hls-dhs-dss.ch/de/articles/010085/2023-12-13/
+source_comment: ",exact,1883-07-01T12:00:00,,,exact,1912-07-10T12:00:00,,
+854,845,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Walter Hauser (Politiker, 1837). Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Walter_Hauser_(Politiker,_1837)
+source_comment: ",exact,1889-01-01T12:00:00,,,exact,1902-10-22T12:00:00,,
+855,649,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Emil Frey (Politiker, 1838). Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Emil_Frey_(Politiker,_1838)
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Altermatt, U. (2023). Bundesrat. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 15. Oktober 2026 von https://hls-dhs-dss.ch/de/articles/010085/2023-12-13/
+source_comment: ",exact,1891-01-01T12:00:00,,,exact,1897-03-31T12:00:00,,
+856,1073,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Adrien Lachenal. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Adrien_Lachenal
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1893-01-01T12:00:00,,,exact,1899-12-31T12:00:00,,
+857,1557,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Eugène Ruffy. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Eug%C3%A8ne_Ruffy
+source_comment: ",exact,1894-01-01T12:00:00,,,exact,1899-12-31T12:00:00,,
+858,1557,19,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Eugène Ruffy. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Eug%C3%A8ne_Ruffy
+source_comment: ",exact,1894-01-01T12:00:00,,,exact,1899-12-31T12:00:00,,
+859,1311,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",year,1895-07-01T12:00:00,,,exact,1919-11-09T12:00:00,,
+860,265,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",year,1897-07-01T12:00:00,,,exact,1911-03-11T12:00:00,,
+861,400,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Robert Comtesse. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Robert_Comtesse
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1900-01-01T12:00:00,,,exact,1912-03-04T12:00:00,,
+862,1541,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1900-01-01T12:00:00,,,month,1912-07-15T12:00:00,,
+863,622,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Ludwig Forrer. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Ludwig_Forrer
+source_comment: ",exact,1903-01-01T12:00:00,,,exact,1917-12-31T12:00:00,,
+864,886,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Arthur Hoffmann (Politiker). Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Arthur_Hoffmann_(Politiker)
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1911-05-08T12:00:00,,,year,1917-07-01T12:00:00,,
+865,1424,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Louis Perrier. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Louis_Perrier
+source_comment: ",exact,1912-04-15T12:00:00,,,exact,1913-05-16T12:00:00,,
+866,447,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",year,1912-07-01T12:00:00,,,exact,1919-12-31T12:00:00,,
+867,1704,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Edmund Schulthess. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Edmund_Schulthess
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1912-08-19T12:00:00,,,exact,1935-04-15T12:00:00,,
+868,337,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Felix Calonder. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Felix_Calonder
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1913-07-21T12:00:00,,,exact,1920-02-12T12:00:00,,
+869,812,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Robert Haab. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Robert_Haab
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1918-01-01T12:00:00,,,exact,1929-12-31T12:00:00,,
+870,1638,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Karl Scheurer. Abgerufen ma 15. Oktober 2026 von https://de.wikipedia.org/wiki/Karl_Scheurer
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1920-01-01T12:00:00,,,exact,1929-11-14T12:00:00,,
+871,385,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Ernest Chuard. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Ernest_Chuard
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1920-01-01T12:00:00,,,exact,1928-12-31T12:00:00,,
+872,815,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Heinrich Häberlin. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Heinrich_H%C3%A4berlin
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1920-02-12T12:00:00,,,exact,1934-04-30T12:00:00,,
+873,1444,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Marcel Pilet-Golaz. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Marcel_Pilet-Golaz
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1929-01-01T12:00:00,,,exact,1944-12-31T12:00:00,,
+874,1255,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Albert Meyer (Politiker, 1870). Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Albert_Meyer_(Politiker,_1870)
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1930-01-01T12:00:00,,,exact,1938-12-31T12:00:00,,
+875,116,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Johannes Baumann. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Johannes_Baumann
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1934-05-01T12:00:00,,,exact,1940-12-31T12:00:00,,
+876,1376,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1935-04-16T12:00:00,,,exact,1940-07-31T12:00:00,,
+877,2000,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1939-01-01T12:00:00,,,exact,1943-12-31T12:00:00,,
+878,1778,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Walther Stampfli. Abgerufen am 15. Oktober 2026 von https://de.wikipedia.org/wiki/Walther_Stampfli
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1940-08-01T12:00:00,,,exact,1947-12-31T12:00:00,,
+879,1027,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1941-01-01T12:00:00,,,exact,1954-12-31T12:00:00,,
+880,1428,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1945-01-01T12:00:00,,,exact,1961-06-30T12:00:00,,
+881,1540,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1948-01-01T12:00:00,,,exact,1954-12-31T12:00:00,,
+882,1822,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1954-02-01T12:00:00,,,exact,1959-12-31T12:00:00,,
+883,372,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Paul Chaudet. Abgerufen am 16. Oktober 2026 von https://de.wikipedia.org/wiki/Paul_Chaudet
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1955-01-01T12:00:00,,,exact,1966-12-31T12:00:00,,
+884,1590,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1961-07-01T12:00:00,,,exact,1969-12-31T12:00:00,,
+885,363,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1967-01-01T12:00:00,,,exact,1973-12-31T12:00:00,,
+886,275,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1970-01-01T12:00:00,,,exact,1978-01-31T12:00:00,,
+887,374,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1974-01-01T12:00:00,,,exact,1983-12-31T12:00:00,,
+888,896,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1978-02-01T12:00:00,,,exact,1982-12-31T12:00:00,,
+889,664,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1983-01-01T12:00:00,,,exact,1984-10-20T12:00:00,,
+890,453,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1984-01-01T12:00:00,,,exact,1998-03-30T12:00:00,,
+891,1043,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1984-10-21T12:00:00,,,exact,1989-01-12T12:00:00,,
+892,1907,9,,5,,"page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Kaspar Villiger. Abgerufen am 16. Oktober 2026 von https://de.wikipedia.org/wiki/Kaspar_Villiger
+source_comment: 
+
+page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",month,1989-02-15T12:00:00,,,exact,2003-12-31T12:00:00,,
+893,415,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1998-04-01T12:00:00,,,exact,2009-10-31T12:00:00,,
+894,1241,9,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,2004-01-01T12:00:00,,,exact,2010-10-31T12:00:00,,
+895,415,3,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1998-04-01T12:00:00,,,exact,2009-10-31T12:00:00,,
+896,1241,3,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,2004-01-01T12:00:00,,,exact,2010-10-31T12:00:00,,
+897,318,3,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,2009-11-01T12:00:00,,,exact,2017-10-31T12:00:00,,
+898,1679,3,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,2010-11-01T12:00:00,,,exact,2018-12-31T12:00:00,,
+899,351,3,,5,,"page_number_string: 
+notes: 
+source_full_citation: Altermatt, U. (2023). Bundesrat. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 15. Oktober 2026 von https://hls-dhs-dss.ch/de/articles/010085/2023-12-13/
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Ignazio Cassis. Abgerufen am 16. Oktober 2026 von https://de.wikipedia.org/wiki/Ignazio_Cassis
+source_comment: ",exact,2017-11-01T12:00:00,,,,,,
+900,1005,3,,5,,"page_number_string: 
+notes: 
+source_full_citation: Altermatt, U. (2023). Bundesrat. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 15. Oktober 2026 von https://hls-dhs-dss.ch/de/articles/010085/2023-12-13/
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Karin Keller-Sutter. Abgerufen am 16. Oktober 2026 von https://de.wikipedia.org/wiki/Karin_Keller-Sutter
+source_comment: ",exact,2019-01-01T12:00:00,,,,,,
+901,37,4,,5,,"page_number_string: 
+notes: 
+source_full_citation: Altermatt, U. (2023). Bundesrat. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 15. Oktober 2026 von https://hls-dhs-dss.ch/de/articles/010085/2023-12-13/
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Viola Amherd. Abgerufen am 16. Oktober 2026 von https://de.wikipedia.org/wiki/Viola_Amherd
+source_comment: ",exact,2019-01-01T12:00:00,,,exact,2025-03-31T12:00:00,,
+902,1436,4,,5,,"page_number_string: 
+notes: 
+source_full_citation: Altermatt, U. (2023). Bundesrat. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 15. Oktober 2026 von https://hls-dhs-dss.ch/de/articles/010085/2023-12-13/
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Martin Pfister. Abgerufen am 16. Oktober 2026 von https://de.wikipedia.org/wiki/Martin_Pfister
+source_comment: ",exact,2025-04-01T12:00:00,,,,,,
+903,2064,22,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Josef Zemp. Abgerufen am 16. Oktober 2026 von https://de.wikipedia.org/wiki/Josef_Zemp
+source_comment: ",exact,1892-01-01T12:00:00,,,exact,1908-06-17T12:00:00,,
+904,1685,22,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",month,1908-06-15T12:00:00,,,exact,1911-11-27T12:00:00,,
+905,1273,209,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Rudolf Minger. Abgerufen am 16. Oktober 2026 von https://de.wikipedia.org/wiki/Rudolf_Minger
+source_comment: ",exact,1929-12-12T12:00:00,,,exact,1940-12-31T12:00:00,,
+906,1273,11,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1929-12-12T12:00:00,,,exact,1940-12-31T12:00:00,,
+907,1928,11,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1941-01-01T12:00:00,,,exact,1951-12-31T12:00:00,,
+908,590,11,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1952-01-01T12:00:00,,,exact,1958-11-03T12:00:00,,
+909,1942,11,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1959-01-01T12:00:00,,,exact,1965-12-31T12:00:00,,
+910,743,11,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Rudolf Gnägi. Abgerufen am 16. Oktober 2026 von https://de.wikipedia.org/wiki/Rudolf_Gn%C3%A4gi
+source_comment: ",exact,1966-01-01T12:00:00,,,exact,1979-12-31T12:00:00,,
+911,2011,13,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Bühlmann, M. & Hohl, S. (2025). Ausgewählte Beiträge zur Schweizer Politik: Dossier: Gründung und Entwicklung der BDP, 2007 - 2014. Année Politique Suisse. Abgerufen am 30. September 2025 von https://anneepolitique.swiss/dossiers/416-dossier-grundung-und-entwicklung-der-bdp
+source_comment: ",exact,2008-01-01T12:00:00,,,exact,2015-12-31T12:00:00,,
+912,1661,13,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: ap. (30. Juni 2008). Bundesrat Schmid bekräftigt Übertritt zur BDP. Neue Zürcher Zeitung. 
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Samuel Schmid. Abgerufen am 16. Oktober 2026 von https://de.wikipedia.org/wiki/Samuel_Schmid
+source_comment: ",exact,2001-01-01T12:00:00,,,exact,2008-12-31T12:00:00,,
+913,10,15,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",month,1917-06-15T12:00:00,,,exact,1919-12-31T12:00:00,,
+914,1299,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Giuseppe Motta. Abgerufen am 22. Oktober 2026 von https://de.wikipedia.org/wiki/Giuseppe_Motta
+source_comment: ",exact,1912-01-01T12:00:00,,,exact,1940-01-23T12:00:00,,
+915,1340,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Jean-Marie Musy. Abgerufen am 22. Oktober 2026 von https://de.wikipedia.org/wiki/Jean-Marie_Musy
+source_comment: ",exact,1920-01-01T12:00:00,,,exact,1934-04-30T12:00:00,,
+916,571,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Philipp Etter. Abgerufen am 22. Oktober 2026 von https://de.wikipedia.org/wiki/Philipp_Etter
+source_comment: ",exact,1934-05-01T12:00:00,,,exact,1959-12-31T12:00:00,,
+917,362,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Enrico Celio. Abgerufen am 22. Oktober 2026 von https://de.wikipedia.org/wiki/Enrico_Celio
+source_comment: ",exact,1940-02-22T12:00:00,,,exact,1950-10-05T12:00:00,,
+918,563,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Josef Escher. Abgerufen am 22. Oktober 2026 von https://de.wikipedia.org/wiki/Josef_Escher
+source_comment: ",exact,1950-10-16T12:00:00,,,exact,1954-12-09T12:00:00,,
+919,891,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1955-01-01T12:00:00,,,exact,1959-12-31T12:00:00,,
+920,1118,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1955-01-01T12:00:00,,,exact,1959-12-31T12:00:00,,
+921,245,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Jean Bourgknecht. Abgerufen am 22. Oktober 2026 von https://de.wikipedia.org/wiki/Jean_Bourgknecht
+source_comment: ",exact,1960-01-01T12:00:00,,,exact,1962-09-30T12:00:00,,
+922,1925,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1960-01-01T12:00:00,,,exact,1971-12-31T12:00:00,,
+923,225,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Roger Bonvin. Abgerufen am 22. Oktober 2026 von https://de.wikipedia.org/wiki/Roger_Bonvin
+source_comment: ",exact,1962-10-01T12:00:00,,,exact,1973-12-31T12:00:00,,
+924,677,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1972-01-01T12:00:00,,,exact,1986-12-31T12:00:00,,
+925,919,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1974-01-01T12:00:00,,,exact,1982-12-31T12:00:00,,
+926,535,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1983-01-01T12:00:00,,,exact,1986-12-31T12:00:00,,
+927,1039,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1987-01-01T12:00:00,,,exact,1999-04-30T12:00:00,,
+928,411,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1987-01-01T12:00:00,,,exact,1999-04-30T12:00:00,,
+929,1252,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1999-05-01T12:00:00,,,exact,2003-12-31T12:00:00,,
+930,451,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,1999-05-01T12:00:00,,,exact,2006-07-31T12:00:00,,
+931,1127,10,,5,,"page_number_string: 730ff.
+notes: 
+source_full_citation: Altermatt, U. (2019). Das Bundesratslexikon. NZZ Libro.
+source_comment: ",exact,2006-08-01T12:00:00,,,exact,2018-12-31T12:00:00,,
+932,37,10,,5,,"page_number_string: 
+notes: 
+source_full_citation: Altermatt, U. (2023). Bundesrat. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 15. Oktober 2026 von https://hls-dhs-dss.ch/de/articles/010085/2023-12-13/
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Viola Amherd. Abgerufen am 16. Oktober 2026 von https://de.wikipedia.org/wiki/Viola_Amherd
+source_comment: ",exact,2019-01-01T12:00:00,,,exact,2025-03-31T12:00:00,,

@@ -1,6 +1,12 @@
 ﻿id,election_id,party1_id,party2_id,canton_count,all_possible_cantons_count,notes,sources
-1,1,3,4,5,20,,
-2,1,3,1,9,20,,
+1,1,3,4,5,20,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+2,1,3,1,9,20,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
 4,1,3,7,2,,,"page_number_string: 
 notes: 
 source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
@@ -77,3 +83,383 @@ source_comment: "
 notes: 
 source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
 source_comment: "
+28,1,1,8,7,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+29,1,1,12,1,1,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+30,1,1,404,1,1,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+31,1,3,404,1,1,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+32,1,4,404,1,1,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+33,2,1,8,9,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+34,2,1,12,1,1,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+35,2,1,404,1,1,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+36,3,1,8,8,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+37,3,1,12,1,1,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+38,3,1,404,1,1,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+41,4,1,8,7,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+42,4,1,12,1,1,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+43,5,1,15,3,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+44,5,1,8,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+45,6,1,15,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+46,6,1,8,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+47,6,1,12,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+48,5,1,12,0,1,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+49,3,10,1,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+50,7,10,1,5,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+51,7,9,1,8,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+52,7,1,15,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+53,7,1,7,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+54,7,1,356,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+55,7,1,12,1,1,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+56,5,9,1,9,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+57,6,9,1,7,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+58,6,10,1,3,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+59,5,10,1,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+60,8,9,1,6,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+61,8,10,1,4,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+62,8,1,15,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+63,8,1,33,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+64,8,1,356,3,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+65,4,10,1,0,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+66,8,9,15,6,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+67,8,10,15,3,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+68,7,9,15,4,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+69,7,10,15,3,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+70,7,15,8,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+71,6,9,15,4,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+72,6,10,15,3,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+73,5,9,15,5,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+74,5,10,15,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+75,1,2,7,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+76,1,2,66,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+77,1,2,6,5,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+78,1,2,14,4,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+79,1,2,5,20,20,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+80,1,7,6,8,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+81,1,7,5,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+82,1,66,5,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+83,1,6,5,5,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+84,1,14,5,4,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+85,1,4,1,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+86,1,4,7,13,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+87,1,4,6,10,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+88,1,8,33,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+89,2,10,7,11,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+90,2,10,6,12,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+91,2,10,13,10,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+92,2,10,8,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+93,2,2,7,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+94,2,2,66,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+95,2,2,6,3,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+96,2,2,14,6,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+97,2,2,5,19,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+98,3,10,7,8,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+99,3,10,6,11,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+100,3,10,13,12,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+101,3,10,8,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+102,3,2,7,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+103,3,2,66,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+104,3,2,6,3,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+105,3,2,14,6,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+106,3,2,5,18,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+107,3,7,5,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+108,3,66,5,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+109,3,6,5,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+110,3,14,5,4,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+111,4,10,7,7,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+112,4,10,6,8,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+113,4,10,13,6,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+114,4,10,8,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+115,4,2,7,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+116,4,2,66,3,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+117,4,2,6,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+118,4,2,14,5,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+119,4,2,5,17,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 1995-2023: Listenverbindungen nach Parteien, ohne Majorzkantone. Abgerufen am 27. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546296.html
+source_comment: "
+120,5,9,10,4,,,
+121,5,10,7,5,,,
+122,5,10,6,1,,,
+123,5,10,8,3,,,
+124,5,2,7,1,,,
+125,5,2,66,3,,,
+126,5,2,14,5,,,
+127,5,2,5,16,,,
+128,5,7,5,2,,,
+129,5,66,5,3,,,
+130,5,6,5,1,,,
+131,5,14,5,5,,,
+132,5,6,8,1,,,
+133,6,9,10,6,,,
+134,6,10,7,3,,,
+135,6,10,5,1,,,
+136,6,2,5,14,,,
+137,6,2,7,1,,,
+138,6,2,66,1,,,
+139,6,2,14,2,,,

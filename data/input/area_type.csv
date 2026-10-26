@@ -2,6 +2,6 @@
 1,country,,,de-CH,Land,,
 2,intercantonal,,,de-CH,Interkantonal,,
 3,canton,,,de-CH,Kanton,,
-4,region,,,de-CH,Subkantonale Region,,
+4,part-of-canton,,,de-CH,"Kantonsteil, subkantonale Region",,
 5,municipality,,,de-CH,Gemeinde,,
 6,district,,,de-CH,Bezirk,,

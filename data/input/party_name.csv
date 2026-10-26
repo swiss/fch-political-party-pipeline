@@ -2,7 +2,7 @@
 1,1,,"page_number_string: 
 notes: 
 source_full_citation: SVP Schweiz. (2022). Statuten der SVP Schweiz. Abgerufen am 09. September 2025 von https://www.svp.ch/wp-content/uploads/Statuten_2022-def-d.pdf
-source_comment: ",de-CH,SVP,Schweizerische Volkspartei,SVP,,,,fr-CH,UDC,Union Démocratique du Centre,UDC,,,,en-US,,Schweizerische Volkspartei,SVP,,,,exact,1971-09-22T12:00:00,,,,,,,,,,,,,
+source_comment: ",de-CH,SVP,Schweizerische Volkspartei,SVP,,,,fr-CH,UDC,Union Démocratique du Centre,UDC,,,,en-US,SVP,Swiss People's Party,SVP,,,,exact,1971-09-22T12:00:00,,,,,,,,,,,,,
 2,2,,"page_number_string: 
 notes: 
 source_full_citation: SP Schweiz. (2022). Statuten der SP Schweiz. Abgerufen am 09. September 2025 von https://www.sp-ps.ch/wp-content/uploads/2022/07/sp-statuten_a5_d_2022_3.pdf
@@ -210,7 +210,7 @@ source_comment: ",de-CH,LPS,Liberale Partei der Schweiz,LPS,,,,fr-CH,PLS,Parti l
 notes: 
 source_full_citation: Bürgi, M. (2010). Demokratische Partei. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 03. Oktober 2025 von https://hls-dhs-dss.ch/de/articles/017383/2010-05-07/
 source_comment: ",de-CH,,Demokratische Partei der Schweiz,Dem. (1941),,,,fr-CH,,Parti démocratique suisse,Dém. (1941),,,,,,,,,,,year,1941-07-01T12:00:00,,,exact,1971-09-22T12:00:00,,,,,,,,,
-27,19,,,de-CH,,Vorläufer der FDP,Vorläufer der FDP,,,,fr-CH,,Précurseurs du PRD,Précurseurs du PRD,,,,,,,,,,,unknown,1848-01-01T12:00:00,,,exact,1894-02-25T12:00:00,,,,,,,,,
+27,19,,,de-CH,,Freisinnige Vorläufer,Freisinnige Vorläufer,,,,fr-CH,,Précurseurs du PRD,Précurseurs du PRD,,,,,,,,,,,unknown,1848-01-01T12:00:00,,,exact,1894-02-25T12:00:00,,,,,,,,,
 28,20,,"page_number_string: 
 notes: 
 source_full_citation: Staatsarchiv des Kantons Zürich. (2025). Schweizerische Volkspartei SVP des Kantons Zürich, 1917-2013. Abgerufen am 20. Oktober 2025 von https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=4910710
@@ -227,7 +227,7 @@ source_comment: ",de-CH,SVP des Kantons Zürich,Schweizerische Volkspartei des K
 notes: 
 source_full_citation: SP Kanton Zürich. (2025). Statuten der SP Kanton Zürich. Abgerufen am 09. Oktober 2025 von https://spzuerich.ch/wp-content/uploads/2023/06/Statuten-der-SP-Kanton-Zuerich-vom-8.-Juli-2025.pdf
 source_comment: ",de-CH,SP Kanton Zürich,Sozialdemokratische Partei des Kantons Zürich,SP ZH,,,,,,,,,,,,,,,,,,exact,1902-04-13T12:00:00,,,,,,,,,,,,,
-32,22,,,de-CH,,Vorläufer der CVP,Vorläufer der CVP,,,,fr-CH,,Précurseurs du PDC,Précurseurs du PDC,,,,,,,,,,,exact,1840-11-05T12:00:00,,,exact,1912-04-22T12:00:00,,,,,,,,,
+32,22,,,de-CH,,Katholisch-konservative Vorläufer,Kath.-kons. Vorläufer,,,,fr-CH,,Précurseurs du PDC,Précurseurs du PDC,,,,,,,,,,,exact,1840-11-05T12:00:00,,,exact,1912-04-22T12:00:00,,,,,,,,,
 33,23,,"page_number_string: 
 notes: 
 source_full_citation: Suter, M. (2017). Zürich (Kanton). In Historisches Lexikon der Schweiz (HLS). Abgerufen am 09. Oktober 2025 von https://hls-dhs-dss.ch/de/articles/007381/2017-08-24/
@@ -317,6 +317,11 @@ source_comment: ",de-CH,Grüne ZH,Grüne Kanton Zürich,Grüne ZH,,,,,,,,,,,,,,,
 43,27,,"page_number_string: 2
 notes: 
 source_full_citation: Bernath, M., Bühlmann, M., Hohl, S., Schaub, H.-P. & Schoenholtz, S. (2025). Ausgewählte Beiträge zur Schweizer Politik: Dossier: Gründung und Entwicklung der GLP, 2004 - 2022. Année Politique Suisse. Abgerufen am 19. September 2025 von https://anneepolitique.swiss/dossiers/471-dossier-grundung-und-entwicklung-der-glp
+source_comment: 
+
+page_number_string: 124
+notes: 
+source_full_citation: Seitz, W. (2013). Die Grünliberale Partei (GLP): Sind die Grünliberalen eine Rechtsabspaltung der Grünen? In O. Mazzoleni, Oscar & O. Meuwly (Hrsg.), Schweizerische Parteien in Bewegung. Nachbarschaft und Konflikte (S. 123-155). NZZ Libro.
 source_comment: ",de-CH,GLiZ,Grün-Liberale Zürich,GLiZ ZH,,,,,,,,,,,,,,,,,,exact,2004-06-25T12:00:00,,,exact,2004-11-02T12:00:00,,,,,,,,,
 44,27,,"page_number_string: 
 notes: 
@@ -502,8 +507,14 @@ page_number_string: 33
 notes: 
 source_full_citation: Bütikofer, S. & Seitz, W. (Hrsg.). (2023). Die Grünen in der Schweiz. Entwicklung - Wirken - Perspektiven. Seismo.
 source_comment: ",de-CH,GB,Grünes Bündnis Bern,GB BE,,,,,,,,,,,,,,,,,,exact,1987-06-03T12:00:00,,,exact,2006-05-15T12:00:00,,,,,,,,,
-72,43,,,de-CH,GRAS,Grüne Alternative Schweiz,GRAS,,,,fr-CH,AVS,Alternative verte de Suisse,AVeS,,,,,,,,,,,month,1983-06-15T12:00:00,,,year,1987-07-01T12:00:00,,,,,,,,,
-73,43,,,de-CH,GBS,[Alternative Grüne/] Grünes Bündnis Schweiz,GBS,,,,fr-CH,AVeS,[Vert-e-s alternatives/]Alliance verte et sociale,AVeS,,,,,,,,,,,year,1987-07-01T12:00:00,,,year,2005-07-01T12:00:00,,,,,,,,,
+72,43,,"page_number_string: 18-23
+notes: 
+source_full_citation: Seitz, W. (2008). ""Melonengrüne und Gurkengrüne"": Die Geschichte der Grünen in der Schweiz. In M. Baer & W. Seitz (Hrsg.), Die Grünen in der Schweiz: Ihre Politik, ihre Geschichte, ihre Basis (S. 15-37). Rüegger Verlag.
+source_comment: ",de-CH,GRAS,Grüne Alternative Schweiz,GRAS,,,,fr-CH,AVS,Alternative verte de Suisse,AVS,,,,,,,,,,,month,1983-06-15T12:00:00,,,year,1987-07-01T12:00:00,,,,,,,,,
+73,43,,"page_number_string: 18-23
+notes: 
+source_full_citation: Seitz, W. (2008). ""Melonengrüne und Gurkengrüne"": Die Geschichte der Grünen in der Schweiz. In M. Baer & W. Seitz (Hrsg.), Die Grünen in der Schweiz: Ihre Politik, ihre Geschichte, ihre Basis (S. 15-37). Rüegger Verlag.
+source_comment: ",de-CH,GBS,Grünes Bündnis Schweiz,GBS,,,,fr-CH,AVeS,Alliance verte et sociale,AVeS,,,,,,,,,,,year,1987-07-01T12:00:00,,,year,1991-07-01T12:00:00,,,,,,,,,
 74,44,,"page_number_string: 19
 notes: 
 source_full_citation: Bütikofer, S. & Seitz, W. (Hrsg.). (2023). Die Grünen in der Schweiz. Entwicklung - Wirken - Perspektiven. Seismo.
@@ -690,7 +701,7 @@ source_comment:
 page_number_string: 
 notes: 
 source_full_citation: PCS Suisse. (2014). Statuts du Centre Gauche - PCS Suisse. Consulté le 8 décembre 2025, sur http://www.csp-pcs.ch/csp/ablage/pdf/berichte/1-114-admin_1409554608-2.pdf
-source_comment: ",de-CH,Mitte links – CSP Schweiz,Mitte Links – Christlich-soziale Partei Schweiz,ML-CSP,,,,fr-CH,Centre Gauche – PCS Suisse,Centre Gauche – Parti Chrétien-social suisse,CG-PCS,,,,,,,,,,,exact,2014-01-11T12:00:00,,"page_number_string: 
+source_comment: ",de-CH,Mitte Links – CSP Schweiz,Mitte Links – Christlich-soziale Partei Schweiz,ML-CSP,,,,fr-CH,Centre Gauche – PCS Suisse,Centre Gauche – Parti Chrétien-social suisse,CG-PCS,,,,,,,,,,,exact,2014-01-11T12:00:00,,"page_number_string: 
 notes: 
 source_full_citation: Rouleau, C. (13. Januar 2014). Le «Centre-Gauche PCS» est né. La Liberté. Abgerufen am 10. August 2026 von https://essentials.swissdox.ch/de/research?q=eyJmbHQiOlt7ImZsIjoicXVlcnlfdGV4dCIsInZhbCI6WyJDZW50cmUgR2F1Y2hlLVBDUyBGcmlib3VyZyJdfSx7ImZsIjoiZGF0ZXRpbWUiLCJ2YWwiOlsiMTkxMS0xMS0zMFQyMzowMDowMC4wMDBaIiwiMjAxNS0wOS0zMFQyMTo1OTowMC4wMDBaIl19XSwiZXh0Ijp0cnVlLCJzcnQiOnsiZmwiOiJkYXRldGltZSIsImRpciI6ImRlc2MifX0%3D&articleId=994904&articleView=text
 source_comment: ",,,,,,,,,,,
@@ -851,7 +862,7 @@ source_comment: ",de-CH,EVP Basel-Stadt,Evangelische Volkspartei Basel-Stadt,EVP
 141,83,,"page_number_string: 
 notes: 
 source_full_citation: EVP Kanton Basel-Stadt. (2007). Geschichte. Abgerufen am 12. Januar 2026 von https://www.evp-bs.ch/partei/geschichte
-source_comment: ",de-CH,VEW,Vereinigung evangelischer WählerInnen,VEW BS (1948),,,,,,,,,,,,,,,,,,exact,1948-12-17T12:00:00,,,exact,2006-11-29T12:00:00,,,,,,,,,
+source_comment: ",de-CH,VEW,Vereinigung Evangelischer Wähler,VEW BS (1948),,,,,,,,,,,,,,,,,,exact,1948-12-17T12:00:00,,,year,1975-07-01T12:00:00,,,,,,,,,
 142,83,,"page_number_string: 
 notes: 
 source_full_citation: EVP Kanton Basel-Stadt. (2021). Statuten der Evangelischen Volkspartei Kanton Basel-Stadt EVP. Abgerufen am 12. Januar 2026 von https://www.evp-bs.ch/fileadmin/user_upload/basel-stadt/Partei/Statuten/Statuten_EVP_BS_2021.pdf
@@ -1045,7 +1056,7 @@ source_comment: ",de-CH,SP BL,Sozialdemokratische Partei Baselland,SP BL,,,,,,,,
 175,105,,"page_number_string: 
 notes: 
 source_full_citation: Rudin-Bühlmann, S. (2017). Basel-Landschaft: Der Staat, Verfassungs- und politische Geschichte. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 29. Januar 2026 von https://hls-dhs-dss.ch/de/articles/007477/2017-05-29/#HVerfassungs-undpolitischeGeschichte
-source_comment: ",de-CH,,Demokratische Fortschrittspartei,DF BL,,,,,,,,,,,,,,,,,,exact,1919-08-03T12:00:00,,,year,1927-07-01T12:00:00,,,,,,,,,
+source_comment: ",de-CH,,Demokratische Fortschrittspartei,DFP BL,,,,,,,,,,,,,,,,,,exact,1919-08-03T12:00:00,,,year,1927-07-01T12:00:00,,,,,,,,,
 176,105,,"page_number_string: 
 notes: 
 source_full_citation: Rudin-Bühlmann, S. (2017). Basel-Landschaft: Der Staat, Verfassungs- und politische Geschichte. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 29. Januar 2026 von https://hls-dhs-dss.ch/de/articles/007477/2017-05-29/#HVerfassungs-undpolitischeGeschichte
@@ -1187,7 +1198,7 @@ note: Aucune source trouvée pour le nom officiel du parti",,de-CH,,Kommunistisc
 197,121,,"page_number_string: 
 notes: 
 source_full_citation: Grüne Kanton Basel-Stadt. (2007). Zeitlicher Abriss in tabellarischer Form. Abgerufen am 09. Januar 2026 von https://web.archive.org/web/20071015130217/http:/bs.gruene.ch/index/geschichte_gruene_bs.htm
-source_comment: ",de-CH,,Grüne Partei Nordwestschweiz,GP Nordwestschweiz,,,,,,,,,,,,,,,,,,exact,1979-12-06T12:00:00,,,exact,1986-06-17T12:00:00,,,,,,,,,
+source_comment: ",de-CH,,Grüne Partei Nordwestschweiz,GP Nordwest,,,,,,,,,,,,,,,,,,exact,1979-12-06T12:00:00,,,exact,1986-06-17T12:00:00,,,,,,,,,
 198,122,,"page_number_string: 
 notes: 
 source_full_citation: Grüne Kanton Basel-Stadt. (2007). Zeitlicher Abriss in tabellarischer Form. Abgerufen am 09. Januar 2026 von https://web.archive.org/web/20071015130217/http:/bs.gruene.ch/index/geschichte_gruene_bs.htm
@@ -1215,11 +1226,11 @@ source_comment: ",de-CH,PLRJ,Parti libéral-radical jurassien,PLR JU,,,,,,,,,,,,
 205,126,,"page_number_string: 
 notes: 
 source_full_citation: Maillard, F. (2026). Parti libéral jurassien (PLJ). In Dictionnaire du Jura (DIJU). Consulté le 12 février 2026, sur https://diju.ch/f/notices/detail/1003430-parti-liberal-jurassien-plj
-source_comment: ",fr-CH,PLRI,Parti libéral-radical indépendant,PLRI JU,,,,,,,,,,,,,,,,,,year,1966-07-01T12:00:00,,,multiyear,1974-01-01T12:00:00,,,,,,,,,
+source_comment: ",fr-CH,PLRI,Parti libéral-radical indépendant,PLRI BE,,,,,,,,,,,,,,,,,,year,1966-07-01T12:00:00,,,multiyear,1974-01-01T12:00:00,,,,,,,,,
 206,126,,"page_number_string: 
 notes: 
 source_full_citation: Maillard, F. (2026). Parti libéral jurassien (PLJ). In Dictionnaire du Jura (DIJU). Consulté le 12 février 2026, sur https://diju.ch/f/notices/detail/1003430-parti-liberal-jurassien-plj
-source_comment: ",fr-CH,PLJ,Parti libéral jurassien,PL JU,,,,,,,,,,,,,,,,,,multiyear,1974-01-01T12:00:00,,,,,,,,,,,,,
+source_comment: ",fr-CH,PLJ,Parti libéral jurassien,PLJ BE,,,,,,,,,,,,,,,,,,multiyear,1974-01-01T12:00:00,,,,,,,,,,,,,
 207,127,,"page_number_string: 
 notes: 
 source_full_citation: Maillard, F. (2026). Parti radical-réformiste jurassien (PRR). In Dictionnaire du Jura (DIJU). Consulté le 12 février 2026, sur https://diju.ch/f/notices/detail/1003472-parti-radical-reformiste-jurassien-prr
@@ -1296,7 +1307,7 @@ source_comment: ",fr-CH,PCSI Jura,Parti chrétien-social indépendant,PCSI JU,,,
 225,136,,"page_number_string: 
 notes: 
 source_full_citation: POP canton du Jura. (2026). Accueil. Consulté le 13 février 2026, sur https://popjura.ch/
-source_comment: ",fr-CH,POP Jura,Parti Ouvrier Populaire Jurassien,POP JU,,,,,,,,,,,,,,,,,,year,1967-07-01T12:00:00,,,month,2013-01-15T12:00:00,,,,,,,,,
+source_comment: ",fr-CH,POP Jura,Parti Ouvrier Populaire Jurassien,POP JU (1967),,,,,,,,,,,,,,,,,,year,1967-07-01T12:00:00,,,month,2013-01-15T12:00:00,,,,,,,,,
 226,137,,"page_number_string: 
 notes: 
 source_full_citation: Gaume, I. (2026). Combat socialiste (CS). In Dictionnaire du Jura (DIJU). Consulté le 13 février 2026, sur https://diju.ch/f/notices/detail/1003527-combat-socialiste-cs
@@ -1435,7 +1446,7 @@ source_comment:
 page_number_string: 
 notes: 
 source_full_citation: Salzmann, J. (2026). Seit 1857 bestimmen die Konservativen die Walliser Politik. In Trotz der Vispa, dank  der Vispa - eine Chronik von Visp. Abgerufen am 10. August 2026 von https://www.visper-chronik.ch/kapitel/seit-1857-bestimmen-die-konservativen-die-walliser-politik-142
-source_comment: ",de-CH,CSPO,Christlichsoziale Volkspartei Oberwallis,CSPO VS 2,«Die Gelben»,,,,,,,,,,,,,,,,,year,1949-07-01T12:00:00,,,exact,2023-03-01T12:00:00,,,,,,,,,
+source_comment: ",de-CH,CSPO,Christlichsoziale Volkspartei Oberwallis,CSPO VS (1949),«Die Gelben»,,,,,,,,,,,,,,,,,year,1949-07-01T12:00:00,,,exact,2023-03-01T12:00:00,,,,,,,,,
 249,153,,"page_number_string: 
 notes: 
 source_full_citation: Woeffray, A. (02. März 2023). Die CSPO ist nicht mehr – Alles ist neu, alles ist «neo». Walliser Bote. Abgerufen am 23. Februar 2026 von https://essentials.swissdox.ch/
@@ -1502,11 +1513,21 @@ source_comment: ",fr-CH,PLV,Parti libéral valaisan,PL VS,,,,de-CH,LPW,Liberale 
 264,161,,"page_number_string: 
 notes: 
 source_full_citation: UDC cantone Ticino. (2026). Storia e Statuti. Consultato il 25 febbraio 2026 da https://udc-ti.ch/il-partito/il-partito-2/
-source_comment: ",it-CH,,Partito Agrario Ticinese,PA TI,,,,,,,,,,,,,,,,,,exact,1919-12-19T12:00:00,,,unknown,1970-01-01T12:00:00,,,,,,,,,
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Lob, G. (07. Oktober 2026). Ein Triumph für die Tessiner SVP: Piero Marchesi als Nachfolger von Claudio Zali vereidigt. NZZ. Abgerufen am 09. Oktober 2026 von https://www.nzz.ch/schweiz/ein-triumph-fuer-die-tessiner-svp-piero-marchesi-als-nachfolger-von-claudio-zali-vereidigt-ld.10027207
+source_comment: ",it-CH,,Partito Agrario Ticinese,PA TI,,,,,,,,,,,,,,,,,,exact,1919-12-19T12:00:00,,,year,1971-07-01T12:00:00,,,,,,,,,
 265,161,,"page_number_string: 
 notes: 
 source_full_citation: UDC cantone Ticino. (2024). Statuti dell'Unione Democratica di Centro, UDC Ticino. Consultato il 25 febbraio 2026 dal https://udc-ti.ch/wp-content/uploads/sites/17/Statuto-2024_firmato-compresso.pdf
-source_comment: ",it-CH,UDC Ticino,Unione Democratica di Centro del Canton Ticino,UDC TI,,,,,,,,,,,,,,,,,,unknown,1970-01-01T12:00:00,,,,,,,,,,,,,
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Lob, G. (07. Oktober 2026). Ein Triumph für die Tessiner SVP: Piero Marchesi als Nachfolger von Claudio Zali vereidigt. NZZ. Abgerufen am 09. Oktober 2026 von https://www.nzz.ch/schweiz/ein-triumph-fuer-die-tessiner-svp-piero-marchesi-als-nachfolger-von-claudio-zali-vereidigt-ld.10027207
+source_comment: ",it-CH,UDC Ticino,Unione Democratica di Centro del Canton Ticino,UDC TI,,,,,,,,,,,,,,,,,,year,1971-07-01T12:00:00,,,,,,,,,,,,,
 266,163,,"page_number_string: 144
 notes: 
 source_full_citation: Vatter, A. (2002). Kantonale Demokratien im Vergleich: Entstehungsgründe, Interaktionen und Wirkungen politischer Institutionen in den Schweizer Kantonen. Leske + Budrich.
@@ -1561,7 +1582,7 @@ source_comment:
 page_number_string: 
 notes: 
 source_full_citation: Centro cantone Ticino. (2022). Statuto del Centro. Consultato il 27 febbraio 2026 dal https://il-centro.ch/wp-content/uploads/sites/249/2023/02/Statuto-il-Centro.pdf
-source_comment: ",it-CH,,il Centro,Centro TI,,,,,,,,,,,,,,,,,,exact,2022-06-25T12:00:00,,,,,,,,,,,,,
+source_comment: ",it-CH,,Il Centro,Centro TI,,,,,,,,,,,,,,,,,,exact,2022-06-25T12:00:00,,,,,,,,,,,,,
 276,169,,"page_number_string: 
 notes: 
 source_full_citation: Verdi cantone Ticino. (2019). Statuto dei Verdi del Cantone Ticino (I Verdi). Consultato il 27 febbraio 2026 dal https://verditicino.ch/wp-content/uploads/2021/01/statuto-02.06.2019.pdf
@@ -1778,7 +1799,7 @@ source_comment: ",de-CH,,Die Mitte Nidwalden,Mitte NW,,,,,,,,,,,,,,,,,,exact,202
 328,204,,"page_number_string: 
 notes: 
 source_full_citation: CVP Kanton Nidwalden. (2009). Statuten der Christlichdemokratischen Volkspartei Nidwalden (CVP Nidwalden). Abgerufen am 27. März 2026 von https://web.archive.org/web/20191012004038/http:/www.cvp-nw.ch/wp-content/uploads/Statuten-CVP-Nidwalden-ab-10-Juni-2010.pdf
-source_comment: ",de-CH,CVP Nidwalden,Christlichdemokratischen Volkspartei Nidwalden,CVP NW,,,,,,,,,,,,,,,,,,year,1970-07-01T12:00:00,,,exact,2021-05-12T12:00:00,,,,,,,,,
+source_comment: ",de-CH,CVP Nidwalden,Christlichdemokratische Volkspartei Nidwalden,CVP NW,,,,,,,,,,,,,,,,,,year,1970-07-01T12:00:00,,,exact,2021-05-12T12:00:00,,,,,,,,,
 329,205,,"page_number_string: 
 notes: 
 source_full_citation: Schleifer-Stöckli, K. (2017). Kanton Nidwalden: Der Staat im 19. und 20. Jahrhundert, Politische Geschichte und Verfassungsentwicklung. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 27. März 2026 von https://hls-dhs-dss.ch/de/articles/007411/2017-05-11/#HPolitischeGeschichteundVerfassungsentwicklung
@@ -2067,7 +2088,7 @@ source_comment:
 page_number_string: 
 notes: 
 source_full_citation: PDC canton Fribourg. (2018). Statuts. Consulté le 16 avril 2026, sur https://web.archive.org/web/20191012002251/https:/pdc-fr.ch/wp-content/uploads/2018/02/2018.02.01-statuts_PDC_FR.pdf
-source_comment: ",de-CH,,Die Mitte Freiburg,Mitte FR,,,,fr-CH,,Le Centre Fribourg,Centre FR,,,,,,,,,,,exact,2021-03-15T12:00:00,,,,,,,,,,,,,
+source_comment: ",de-CH,,Die Mitte Freiburg,CVP FR,,,,fr-CH,,Le Centre Fribourg,PDC FR,,,,,,,,,,,exact,2021-03-15T12:00:00,,,,,,,,,,,,,
 384,237,,"page_number_string: 
 notes: 
 source_full_citation: CVP Kanton Freiburg. (22. Februar 2021). Das CVP Freiburg wird zur Mitte. Abgerufen am 16. April 2026 von https://web.archive.org/web/20210917110227/https:/fr.le-centre.ch/wp-content/uploads/2021/02/Das-CVP-Freiburg-wird-zur-Mitte-.pdf
@@ -2429,7 +2450,7 @@ source_comment: ",de-CH,,Freisinnig-demokratische Partei von Appenzell Ausserrho
 457,283,,"page_number_string: 
 notes: 
 source_full_citation: FDP.Die Liberalen Kanton Appenzell Ausserrhoden. (2026). Geschichte der FDP AR. Abgerufen am 04. Mai 2026 von https://www.fdp-ar.ch/partei/geschichte-der-fdp-ar
-source_comment: ",de-CH,,Fortschrittliche Bürgerpartei,Fortsch. BP AR,,,,,,,,,,,,,,,,,,year,1919-07-01T12:00:00,,,year,1946-07-01T12:00:00,,,,,,,,,
+source_comment: ",de-CH,,Fortschrittliche Bürgerpartei,FBP AR,,,,,,,,,,,,,,,,,,year,1919-07-01T12:00:00,,,year,1946-07-01T12:00:00,,,,,,,,,
 458,284,,"page_number_string: 
 notes: 
 source_full_citation: Mitte Kanton Appenzell Ausserrhoden. (2021). Statuten. Abgerufen am 04. Mai 2026 von https://ar.die-mitte.ch/wp-content/uploads/sites/10/2021/06/Statuten-Die-Mitte-AR-4.pdf
@@ -2481,7 +2502,7 @@ source_comment: ",de-CH,,Freisinnig-demokratischer Verein,FDV AI,,,,,,,,,,,,,,,
 468,290,,"page_number_string: 493
 notes: 
 source_full_citation: Grosser, H. & Hangartner, N. (1993). Appenzell Innerrhoden (Band 3). In Regierungen der beiden Halbkantone Appenzell (Hrsg.), Appenzeller Geschichte: Zur 450-Jahrfeier des Appenzellerbundes 1513-1963. Kantonskanzlei.
-source_comment: ",de-CH,,Katholisch-Konservativen Partei Appenzell Innerrhoden,KKP AI,,,,,,,,,,,,,,,,,,exact,1914-03-29T12:00:00,,,unknown,1988-01-01T12:00:00,,,,,,,,,
+source_comment: ",de-CH,,Katholisch-Konservative Partei Appenzell Innerrhoden,KKP AI,,,,,,,,,,,,,,,,,,exact,1914-03-29T12:00:00,,,unknown,1988-01-01T12:00:00,,,,,,,,,
 469,291,,"page_number_string: 
 notes: 
 source_full_citation: Küng, J. (2001). Appenzell Innerrhoden: Der Kanton im 19. und 20. Jahrhundert, Staat und Politik, Politisches Leben. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 05. Mai 2026 von https://hls-dhs-dss.ch/de/articles/007475/2019-10-25/#HDerKantonim19.und20.Jahrhundert
@@ -2515,15 +2536,15 @@ source_comment:
 page_number_string: 
 notes: 
 source_full_citation: Grüne Appenzellerland. (2004). Statuten. Abgerufen am 06. Mai 2026 von https://web.archive.org/web/20160215213552/http:/www.gruenes-appenzellerland.ch/?page_id=191
-source_comment: ",de-CH,GRAL,Grünes Appenzellerland,GRAL Appenz.,,,,,,,,,,,,,,,,,,exact,2004-08-14T12:00:00,,,exact,2016-02-12T12:00:00,,,,,,,,,
+source_comment: ",de-CH,GRAL,Grünes Appenz.,GRAL AR/AI,,,,,,,,,,,,,,,,,,exact,2004-08-14T12:00:00,,,exact,2016-02-12T12:00:00,,,,,,,,,
 475,296,,"page_number_string: 
 notes: 
 source_full_citation: GLP Appenzellerland. (2021). Statuten der GLP Appenzellerland. Abgerufen am 06. Mai 2026 von https://appenzellerland.grunliberale.ch/wp-content/uploads/sites/4/2025/09/Statuten-der-GLP-Appenzellerland.pdf
-source_comment: ",de-CH,GLP Appenzellerland,Grünliberale Partei Appenzellerland,GLP Appenz,,,,,,,,,,,,,,,,,,exact,2021-08-30T12:00:00,,,,,,,,,,,,,
+source_comment: ",de-CH,GLP Appenzellerland,Grünliberale Partei Appenzellerland,GLP AR/AI,,,,,,,,,,,,,,,,,,exact,2021-08-30T12:00:00,,,,,,,,,,,,,
 476,297,,"page_number_string: 
 notes: 
 source_full_citation: EDU Appenzellerland. (2017). Statuten der EDU Appenzellerland. Abgerufen am 06. Mai 2026 von https://www.edu-ar.ch/wp-content/uploads/sites/31/2022/07/EDU-Statuten_Appenzellerland_2017.pdf
-source_comment: ",de-CH,EDU Appenzellerland,Eidgenössisch-Demokratische Union Appenzellerland,EDU Appenz,,,,,,,,,,,,,,,,,,year,1997-07-01T12:00:00,,,,,,,,,,,,,
+source_comment: ",de-CH,EDU Appenzellerland,Eidgenössisch-Demokratische Union Appenzellerland,EDU AR/AI,,,,,,,,,,,,,,,,,,year,1997-07-01T12:00:00,,,,,,,,,,,,,
 477,298,,"page_number_string: 
 notes: 
 source_full_citation: SVP Kanton St. Gallen. (2016). Statuten der Schweizerischen Volkspartei des Kantons St. Gallen. Abgerufen am 06. Mai 2026 von https://www.svp-sg.ch/wp-content/uploads/sites/29/Statuten-SVP-Kanton-St.Gallen-3.pdf
@@ -2638,6 +2659,11 @@ source_comment: ",de-CH,BPS Graubünden,Bürgerliche Partei Schweiz Graubünden,
 500,311,,"page_number_string: 
 notes: 
 source_full_citation: BDP Kanton Graubünden. (2008). Statuten. Abgerufen am 13. Mai 2026 von https://web.archive.org/web/20191012000149/https:/www.bdp.info/data/uploads/gr/textdokumente/statuten_bdp_graubuenden.pdf
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Die Mitte Graubünden. Abgerufen am 13. Mai 2026 von https://de.wikipedia.org/wiki/Die_Mitte_Graub%C3%Bcnden
 source_comment: ",de-CH,BDP Graubünden,Bürgerlich-Demokratische Partei Kanton Graubünden,BDP GR,,,,,,,,,,,,,,,,,,exact,2008-07-02T12:00:00,,,exact,2021-06-06T12:00:00,,,,,,,,,
 501,312,,"page_number_string: 
 notes: 
@@ -2814,15 +2840,6 @@ source_comment: ",de-CH,,FDP.Die Liberalen Thurgau,FDPLIB TG,,,,,,,,,,,,,,,,,,mu
 notes: 
 source_full_citation: FDP Kanton Thurgau. (2001). Statuten der Freisinnig-Demokratischen Partei des Kantons Thurgau. Abgerufen am 25. Mai 2026 von https://web.archive.org/web/20070821220839/http:/www.fdpthurgau.ch/mandant/files/doc/69/Statuten%20FDP%20TG.pdf
 source_comment: ",de-CH,FDP des Kantons Thurgau,Freisinnig-Demokratische Partei des Kantons Thurgau,FDP TG,,,,,,,,,,,,,,,,,,exact,1890-12-28T12:00:00,,,multiyear,2009-01-01T12:00:00,,,,,,,,,
-545,343,,"page_number_string: 
-notes: 
-source_full_citation: Staatsarchiv des Kantons Thurgau. (2026). Katholische Kantonalparteien im Thurgau (1906-2006). Abgerufen am 25. Mai 2026 von https://archivportal.tg.ch/records/289117
-source_comment: ",de-CH,KKP,Katholisch-Konservative Partei Thurgau,KKP TG,,,,,,,,,,,,,,,,,,year,1905-07-01T12:00:00,,,year,1912-07-01T12:00:00,,,,,,,,,
-546,343,,"page_number_string: 
-notes: 
-source_full_citation: Staatsarchiv des Kantons Thurgau. (2026). Katholische Kantonalparteien im Thurgau (1906-2006). Abgerufen am 25. Mai 2026 von https://archivportal.tg.ch/records/289117
-source_comment: ",de-CH,KVP,Katholische Volkspartei Thurgau,KVP TG,,,,,,,,,,,,,,,,,,year,1912-07-01T12:00:00,,,exact,1971-02-28T12:00:00,,,,,,,,,
-547,343,,,de-CH,CVP Thurgau,Christlichdemokratische Volkspartei des Kantons Thurgau,CVP TG,,,,,,,,,,,,,,,,,,exact,1971-02-18T12:00:00,,,exact,1973-06-28T12:00:00,,,,,,,,,
 548,345,,"page_number_string: 
 notes: 
 source_full_citation: Staatsarchiv des Kantons Thurgau. (2026). Katholische Kantonalparteien im Thurgau (1906-2006). Abgerufen am 25. Mai 2026 von https://archivportal.tg.ch/records/289117
@@ -2830,7 +2847,7 @@ source_comment: ",de-CH,CSP Thurgau,Christlich-Soziale Partei Thurgau,CSP TG,,,,
 549,344,,"page_number_string: 
 notes: 
 source_full_citation: CVP Kanton Thurgau. (2014). Statuten der Christlichdemokratischen Volkspartei des Kantons Thurgau. Abgerufen am 25. Mai 2026 von https://web.archive.org/web/20191012004902/http:/www.cvp-thurgau.ch/wp-content/uploads/2016/05/2014-09-03-Statuten-CVP-Thurgau.pdf
-source_comment: ",de-CH,CVP Thurgau,Christlichdemokratische Volkspartei des Kantons Thurgau,CVP TG,,,,,,,,,,,,,,,,,,exact,1973-06-28T12:00:00,,,exact,2021-09-01T12:00:00,,,,,,,,,
+source_comment: ",de-CH,CVP Thurgau,Christlichdemokratische Volkspartei des Kantons Thurgau,CVP TG,,,,,,,,,,,,,,,,,,exact,1971-02-18T12:00:00,,,exact,2021-09-01T12:00:00,,,,,,,,,
 550,344,,"page_number_string: 
 notes: 
 source_full_citation: Mitte Kanton Thurgau. (2021). Statuten. Abgerufen am 25. Mai 2026 von https://tg.die-mitte.ch/wp-content/uploads/sites/36/2021/11/Statuten-die-Mitte-Thurgau-210901.pdf
@@ -2935,7 +2952,7 @@ source_comment:
 page_number_string: 479
 notes: 
 source_full_citation: Papadopoulos. (1998). Suisse. In G. Hermet, J. T. Hottinger & D-L. Seiler (Eds.), Les partis politiques en Europe de l'ouest (pp. 451-485). Economica.
-source_comment: ",de-CH,,Auto-Partei Schweiz,APS,,,,fr-CH,,Parti de l'Auto,Auto,,,,,,,,,,,exact,1985-02-25T12:00:00,,,year,1990-07-01T12:00:00,,,,,,,,,
+source_comment: ",de-CH,APS,Auto-Partei Schweiz,APS,,,,fr-CH,,Parti de l'Auto,Auto,,,,,,,,,,,exact,1985-02-25T12:00:00,,,year,1990-07-01T12:00:00,,,,,,,,,
 566,357,,"page_number_string: 45
 notes: 
 source_full_citation: Skenderovic, D. & D'Amato, G. (2008). Mit dem Fremden politisieren: Rechtspopulistische Parteien und Migrationspolitik in der Schweiz seit den 1960er Jahren. Chronos.
@@ -3027,7 +3044,7 @@ source_comment: ",fr-CH,Le Centre-VD,Le Centre Vaud,Centre VD,,,,,,,,,,,,,,,,,,e
 580,365,,"page_number_string: 
 notes: 
 source_full_citation: Centre canton de Vaud. (2021). Statuts parti Le Centre Vaud. Consulté le 03 juin 2026, sur https://www.vd.ch/fileadmin/user_upload/themes/etat_droit/votations_elections/fichiers_pdf/Statuts-Le-Centre-Vaud-22012021.pdf
-source_comment: ",fr-CH,Le Centre-VD,Le Centre Vaud,Centre VD,,,,,,,,,,,,,,,,,,exact,2021-01-22T12:00:00,,,exact,2021-04-30T12:00:00,,,,,,,,,
+source_comment: ",fr-CH,Le Centre-VD,Le Centre Vaud,PDC VD,,,,,,,,,,,,,,,,,,exact,2021-01-22T12:00:00,,,exact,2021-04-30T12:00:00,,,,,,,,,
 581,365,,"page_number_string: 
 notes: 
 source_full_citation: PDC canton de Vaud. (2004). Parti. Consulté le 02 juin 2026, sur https://web.archive.org/web/20040503030654/http:/www.pdc-vd.ch/parti.htm
@@ -3048,11 +3065,11 @@ source_comment: ",fr-CH,PBD Vaud,Parti Bourgeois Démocratique du Canton de Vaud
 584,367,,"page_number_string: 3
 notes: 
 source_full_citation: Grüne Schweiz (2023). Geschichte der Grünen in der Schweiz. Abgerufen am 09. September 2025 von https://gruene.ch/wp-content/uploads/2023/07/230509_Geschichte-der-Gruenen_d.pdf
-source_comment: ",fr-CH,MPE,Mouvement pour l'environment vaudois,MPE VD,,,,,,,,,,,,,,,,,,year,1973-07-01T12:00:00,,,multimonth,1974-02-01T12:00:00,,,,,,,,,
+source_comment: ",fr-CH,MPE,Mouvement pour l'environnement vaudois,MPE VD,,,,,,,,,,,,,,,,,,year,1973-07-01T12:00:00,,,multimonth,1974-02-01T12:00:00,,,,,,,,,
 585,368,,"page_number_string: 23
 notes: 
 source_full_citation: Grüne Schweiz (2023). Geschichte der Grünen in der Schweiz. Abgerufen am 09. September 2025 von https://gruene.ch/wp-content/uploads/2023/07/230509_Geschichte-der-Gruenen_d.pdf
-source_comment: ",fr-CH,GPE,Groupement pour la protection de l'environment,GPE VD,,,,,,,,,,,,,,,,,,multimonth,1974-02-01T12:00:00,,,exact,1997-03-08T12:00:00,,,,,,,,,
+source_comment: ",fr-CH,GPE,Groupement pour la protection de l'environnement,GPE VD,,,,,,,,,,,,,,,,,,multimonth,1974-02-01T12:00:00,,,exact,1997-03-08T12:00:00,,,,,,,,,
 586,369,,"page_number_string: 
 notes: 
 source_full_citation: Vert-e-s canton de Vaud. (2025). Statuts des Vert·e·s vaudois·es. Consulté le 03 juin 2026, sur https://vert-e-s-vd.ch/wp-content/uploads/sites/2/2025/11/Statuts_VertsVD_DERNIEREVERSION_2025.pdf
@@ -3143,7 +3160,7 @@ source_comment: ",fr-CH,PLRN,Parti libéral-radical neuchâtelois,PLR NE,,,,,,,,
 605,382,,"page_number_string: 
 notes: 
 source_full_citation: Wikipédia. (2025). Parti libéral suisse. Consulté le 1 octobre 2025, sur https://fr.wikipedia.org/wiki/Parti_lib%C3%A9ral_suisse
-source_comment: ",fr-CH,,Parti libéral - PPN neuchâtelois,PPN NE,,,,,,,,,,,,,,,,,,year,1981-07-01T12:00:00,,,exact,2008-04-10T12:00:00,,,,,,,,,
+source_comment: ",fr-CH,,Parti libéral - PPN neuchâtelois,PL-PPN NE,,,,,,,,,,,,,,,,,,year,1981-07-01T12:00:00,,,exact,2008-04-10T12:00:00,,,,,,,,,
 606,383,,"page_number_string: 
 notes: 
 source_full_citation: Eidgenössisches Statistisches Amt. (1929). Statistik der Nationalratswahlen 1919, 1922, 1925 und 1928. A. Francke.
@@ -3378,8 +3395,8 @@ source_comment: ",de-CH,,Revolutionär Marxistische Liga BS,RML BS,,,,,,,,,,,,,,
 655,138,,"page_number_string: 
 notes: 
 source_full_citation: POP canton du Jura. (2026). Histoire POP Jura. Consulté le 13 juillet 2026, sur https://popjura.ch/lhistoire-pop-jura/
-source_comment: ",fr-CH,,Parti Ouvrier Populaire Jurassien,POP JU,,,,,,,,,,,,,,,,,,unknown,2020-01-01T12:00:00,,,,,,,,,,,,,
-656,410,,,de-CH,,Vorläufer der SP,Vorläufer der SP,,,,fr-CH,,Précurseurs du PS,Précurseurs du PS,,,,,,,,,,,unknown,1850-01-01T12:00:00,,,exact,1888-10-21T12:00:00,,,,,,,,,
+source_comment: ",fr-CH,,Parti Ouvrier Populaire Jurassien,POP JU (2013),,,,,,,,,,,,,,,,,,unknown,2020-01-01T12:00:00,,,,,,,,,,,,,
+656,410,,,de-CH,,Sozialdemokratische Vorläufer,Sozialdemokratische Vorläufer,,,,fr-CH,,Précurseurs du PS,Précurseurs du PS,,,,,,,,,,,unknown,1850-01-01T12:00:00,,,exact,1888-10-21T12:00:00,,,,,,,,,
 657,411,,"page_number_string: 700
 notes: 
 source_full_citation: Linder, W., Bolliger, C. & Rielle, Y. (Hrsg.). (2010). Handbuch der eidgenössischen Volksabstimmungen 1848 bis 2007. Haupt Verlag.
@@ -3389,7 +3406,7 @@ page_number_string:
 notes: 
 source_full_citation: Papadopoulos. (1998). Suisse. In G. Hermet, J. T. Hottinger & D-L. Seiler (Eds.), Les partis politiques en Europe de l'ouest (pp. 451-485). Economica.
 source_comment: ",de-CH,KP,Kommunistische Partei der Schweiz,KP,,,,fr-CH,PC,Parti communiste suisse,PC,,,,,,,,,,,exact,1921-03-06T12:00:00,,,exact,1940-11-26T12:00:00,,,,,,,,,
-659,413,,,de-CH,,Vorläufer der LPS,Vorläufer der LPS,,,,fr-CH,,Précurseurs du PLS,Précurseurs du PLS,,,,,,,,,,,unknown,1850-01-01T12:00:00,,,exact,1913-10-08T12:00:00,,,,,,,,,
+659,413,,,de-CH,,Liberale Vorläufer,Liberale Vorläufer,,,,fr-CH,,Précurseurs du PLS,Précurseurs du PLS,,,,,,,,,,,unknown,1850-01-01T12:00:00,,,exact,1913-10-08T12:00:00,,,,,,,,,
 660,414,,,de-CH,,Vorläufer des LdU,Vorläufer des LdU,,,,fr-CH,,Précurseurs d'AdI,Précurseurs d'AdI,,,,,,,,,,,unknown,1930-01-01T12:00:00,,,exact,1936-12-30T12:00:00,,,,,,,,,
 661,415,,"page_number_string: 
 notes: 
@@ -3416,6 +3433,11 @@ source_comment: ",de-CH,,Jungbauern,Jungbauern BE,Bauernheimatbewegung,,,fr-CH,,
 664,418,,"page_number_string: 700
 notes: 
 source_full_citation: Linder, W., Bolliger, C. & Rielle, Y. (Hrsg.). (2010). Handbuch der eidgenössischen Volksabstimmungen 1848 bis 2007. Haupt Verlag.
+source_comment: 
+
+page_number_string: 106
+notes: 
+source_full_citation: Gilg, P. (1974). Jugendliches Drängen in der schweizerischen Politik: Struktur, Ziele und Aktionsformen von politischen Gruppen der jungen Generation. Francke Verlag.
 source_comment: ",de-CH,RML,Revolutionäre Marxistische Liga,RML,,,,fr-CH,LMR,Ligue marxiste révolutionnaire,LMR,,,,,,,,,,,month,1969-10-15T12:00:00,,,year,1980-07-01T12:00:00,,,,,,,,,
 665,418,,"page_number_string: 
 notes: 
@@ -3493,11 +3515,16 @@ source_comment:
 page_number_string: 
 notes: 
 source_full_citation: wb/az/hus. (28. August 2007). Noch nie so viele Kandidierende. Berner Zeitung. Abgerufen am 28. Juli 2026 von https://essentials.swissdox.ch
-source_comment: ",de-CH,,Bewegung Öffnung,DSP FR,,,,fr-CH,MO,Mouvement Ouverture,MO FR,,,,,,,,,,,year,2000-07-01T12:00:00,,,unknown,2009-01-01T12:00:00,,,,,,,,,
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: FN/Lib. (04. Juli 2009). DSP/Öffnung: Die Chronik. Abgerufen am 08. Oktober 2026 von https://freiburger-nachrichten.ch/story/57965/dsp%C3%B6ffnung-die-chronik.
+source_comment: ",de-CH,,Bewegung Öffnung,DSP FR,,,,fr-CH,MO,Mouvement Ouverture,MO FR,,,,,,,,,,,month,2000-09-15T12:00:00,,,exact,2009-06-02T12:00:00,,,,,,,,,
 676,425,,"page_number_string: 
 notes: 
 source_full_citation: ?. (06. Mai 1989). Freiburger DSP. Berner Tagwacht. Abgerufen am 28. Juli 2026 von https://www.e-newspaperarchives.ch/?a=d&d=TGW19890506-01.2.12.1
-source_comment: ",de-CH,DSP des Kantons Freiburg,Demokratisch-Soziale Partei des Kantons Freiburg,DSP FR,,,,fr-CH,PSD Fribourg,Parti social-démocrate Fribourg,PSD FR,,,,,,,,,,,exact,1989-05-03T12:00:00,,,year,2000-07-01T12:00:00,,,,,,,,,
+source_comment: ",de-CH,DSP des Kantons Freiburg,Demokratisch-Soziale Partei des Kantons Freiburg,DSP FR,,,,fr-CH,PSD Fribourg,Parti social-démocrate Fribourg,PSD FR,,,,,,,,,,,exact,1989-05-03T12:00:00,,,month,2000-09-15T12:00:00,,,,,,,,,
 677,39,,"page_number_string: 
 notes: 
 source_full_citation: Kanton Bern (2026). Sitzverteilung seit 1926. Abgerufen am 5. August 2026 von https://www.gr.be.ch/de/start/grosser-rat/mitglieder/infografiken/sitzverteilung_seit_1926.html
@@ -3592,4 +3619,155 @@ source_comment:
 page_number_string: 
 notes: 
 source_full_citation: Staehelin, H. (2001). Aargau: Der Staat im 19. und 20. Jahrhundert, Politische Geschichte und Verfassungsentwicklung. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 20. Mai 2026 von https://hls-dhs-dss.ch/de/articles/007392/2018-02-06/#HPolitischeGeschichteundVerfassungsentwicklung
-source_comment: ",de-CH,,Auto-Partei Aargau,APS AG,,,,,,,,,,,,,,,,,,exact,1987-01-17T12:00:00,,,,,,,,,,,,,
+source_comment: ",de-CH,,Auto-Partei Aargau,AP AG,,,,,,,,,,,,,,,,,,exact,1987-01-17T12:00:00,,,,,,,,,,,,,
+692,435,,"page_number_string: 
+notes: 
+source_full_citation: ?. (08. Juni 1988). Auto-Partei neu organisiert. Neue Zürcher Zeitung. Abgerufen am 02. September 2026 von https://www.e-newspaperarchives.ch/?a=d&d=NZN19880608-01.2.11.1.1
+source_comment: ",de-CH,,Auto-Partei Zürich,AP ZH,,,,,,,,,,,,,,,,,,exact,1985-02-25T12:00:00,,,multiyear,1995-01-01T12:00:00,,,,,,,,,
+693,435,,"page_number_string: 
+notes: 
+source_full_citation: sda. (13. Juli 1998). Zürcher haben wieder eine Freiheitspartei. Thurgauer Zeitung. Abgerufen am 02. September 2026 von https://www.e-newspaperarchives.ch/?a=d&d=TGZ19980713-01.2.13.3
+source_comment: ",de-CH,,Freiheits-Partei Kanton Zürich,FP ZH,,,,,,,,,,,,,,,,,,multiyear,1995-01-01T12:00:00,,,unknown,2011-01-01T12:00:00,,,,,,,,,
+694,436,,"page_number_string: 
+notes: 
+source_full_citation: Wegmann, H. (23. April 1990). «Höchstmass an Freiheit». Thuner Tagblatt. Abgerufen am 03. September 2026 von https://www.e-newspaperarchives.ch/?a=d&d=TTB19900423-01.2.26.1.3
+source_comment: ",de-CH,,Auto-Partei des Kantons Bern,AP BE,,,,,,,,,,,,,,,,,,exact,1987-05-02T12:00:00,,,multiyear,1995-01-01T12:00:00,,,,,,,,,
+695,436,,"page_number_string: 
+notes: 
+source_full_citation: sda. (14. Februar 1996). Berner FPS: Spycher folgt auf Liechti. Thuner Tagblatt. Abgerufen am 03. September 2026 von https://www.e-newspaperarchives.ch/?a=d&d=TTB19960214-01.2.16.4
+source_comment: ",de-CH,,Freiheits-Partei Kanton Bern,FP BE,,,,,,,,,,,,,,,,,,multiyear,1995-01-01T12:00:00,,,multiyear,2010-01-01T12:00:00,,,,,,,,,
+696,436,,"page_number_string: 
+notes: 
+source_full_citation: sda. (31. März 2010). Wegen Telefonierens auf Velo von der Auto-Partei angezeigt. Tages-Anzeiger. Abgerufen am 03. September 2026 von https://essentials.swissdox.ch/de/research?q=eyJmbHQiOlt7ImZsIjoicXVlcnlfdGV4dCIsInZhbCI6WyJcImF1dG8tcGFydGVpIGRlcyBrYW50b25zIGJlcm5cIiJdfSx7ImZsIjoiZGF0ZXRpbWUiLCJ2YWwiOlsiMTkxMS0xMS0zMFQyMzowMDowMC4wMDBaIiwiMjAyNi0wOS0wM1QyMTo1OTowMC4wMDBaIl19XSwiZXh0Ijp0cnVlLCJzcnQiOnsiZmwiOiJkYXRldGltZSIsImRpciI6ImRlc2MifX0%3D&articleId=6106343&articleView=text
+source_comment: ",de-CH,,Auto-Partei des Kantons Bern,AP BE,,,,,,,,,,,,,,,,,,multiyear,2010-01-01T12:00:00,,,unknown,2012-01-01T12:00:00,,,,,,,,,
+697,437,,"page_number_string: 33
+notes: 
+source_full_citation: Skenderovic, D. & D'Amato, G. (2008). Mit dem Fremden politisieren: Rechtspopulistische Parteien und Migrationspolitik in der Schweiz seit den 1960er Jahren. Chronos.
+source_comment: ",fr-CH,,Vigilance,Vig. GE,,,,,,,,,,,,,,,,,,year,1964-07-01T12:00:00,,,year,1993-07-01T12:00:00,,,,,,,,,
+698,83,,"page_number_string: 
+notes: 
+source_full_citation: EVP Kanton Basel-Stadt. (2007). Geschichte. Abgerufen am 12. Januar 2026 von https://www.evp-bs.ch/partei/geschichte
+source_comment: ",de-CH,VEW,Vereinigung Evangelischer Wähler und Wählerinnen,VEW BS (1948),,,,,,,,,,,,,,,,,,year,1975-07-01T12:00:00,,,exact,2006-11-29T12:00:00,,,,,,,,,
+699,438,,,de-CH,,Auto-Partei Sektion Luzern,AP LU,,,,,,,,,,,,,,,,,,exact,1989-04-04T12:00:00,,,multiyear,1995-01-01T12:00:00,,,,,,,,,
+700,438,,,de-CH,,Freiheits-Partei Kanton Luzern,FP LU,,,,,,,,,,,,,,,,,,multiyear,1995-01-01T12:00:00,,,exact,1999-11-29T12:00:00,,,,,,,,,
+701,439,,"page_number_string: 
+notes: 
+source_full_citation: ?. (31. März 1989). Schwyzer gründen Demokratische Autopartei. Thuner Tagblatt. Abgerufen am 07. September 2026 von https://www.e-newspaperarchives.ch/?a=d&d=TTB19890331-01.2.19.9
+source_comment: ",de-CH,DAP,Demokratische Autopartei des Kantons Schwyz,DAP SZ,,,,,,,,,,,,,,,,,,exact,1989-03-29T12:00:00,,,unknown,1994-01-01T12:00:00,,,,,,,,,
+702,440,,,de-CH,,Auto-Partei Kanton Zug,AP ZG,,,,,,,,,,,,,,,,,,year,1993-07-01T12:00:00,,,multiyear,1995-01-01T12:00:00,,,,,,,,,
+703,440,,"page_number_string: 
+notes: 
+source_full_citation: Krähenbühl, E. (06. November 1999). Partei ist unter die Räder gekommen. Neue Luzerner Zeitung. Abgerufen am 07. September 2026 von https://essentials.swissdox.ch/de/research?q=eyJmbHQiOlt7ImZsIjoicXVlcnlfdGV4dCIsInZhbCI6WyJmcmVpaGVpdHMtcGFydGVpIHNjaGFmZmhhdXNlbiJdfSx7ImZsIjoiZGF0ZXRpbWUiLCJ2YWwiOlsiMTkxMS0xMS0zMFQyMzowMDowMC4wMDBaIiwiMjAwMS0wMS0zMVQyMjo1OTowMC4wMDBaIl19XSwiZXh0Ijp0cnVlLCJzcnQiOnsiZmwiOiJkYXRldGltZSIsImRpciI6ImRlc2MifX0%3D&articleId=15487661&articleView=text
+source_comment: ",de-CH,,Freiheits-Partei Zug,FP ZG,,,,,,,,,,,,,,,,,,multiyear,1995-01-01T12:00:00,,,multiyear,1997-01-01T12:00:00,,,,,,,,,
+704,441,,"page_number_string: 
+notes: 
+source_full_citation: comm-gru. (11 avril 1995). Une section à Fribourg. La Gruyère. Consulté le 07 septembre 2026, sur https://www.e-newspaperarchives.ch/?a=d&d=LGE19950411-01.2.63
+source_comment: ",fr-CH,PLS-Fribourg,Parti de la liberté fribourgeois,PL FR,,,,,,,,,,,,,,,,,,exact,1995-03-22T12:00:00,,,unknown,2007-01-01T12:00:00,,,,,,,,,
+705,135,"note_translations: languages_code: fr-CH
+note: Aucune source trouvée pour le nom officiel du parti
+
+languages_code: de-CH
+note: Keine Quellen für offiziellen Parteinamen gefunden
+
+languages_code: en-US
+note: No sources found for official party name","page_number_string: 
+notes: 
+source_full_citation: Gaume, I. (2026). Parti ouvrier et populaire jurassien (POP JU). In Dictionnaire du Jura (DIJU). Consulté le 13 février 2026, sur https://www.diju.ch/f/notices/detail/1003528-parti-ouvrier-et-populaire-jurassien-pop-ju
+source_comment: ",de-CH,,Section jurassienne du Parti suisse du travail,PST JU,,,,fr-CH,,Section jurassienne du Parti suisse du travail,PST JU,,,,,,,,,,,year,1945-07-01T12:00:00,,,multiyear,1950-01-01T12:00:00,,,,,,,,,
+706,442,,"page_number_string: 
+notes: 
+source_full_citation: Billeter, C. (22. April 1989). Der Hauskrach in der Auto-Partei erschüttert die Innerschweiz. Neue Zürcher Zeitung. Abgerufen am 07. September 2026 von https://www.e-newspaperarchives.ch/?a=d&d=NZN19890422-01.2.27.4
+source_comment: ",de-CH,,Auto-Partei Sektion Innerschweiz,AP Innerschweiz,,,,,,,,,,,,,,,,,,exact,1987-04-16T12:00:00,,,unknown,1990-01-01T12:00:00,,,,,,,,,
+707,439,,"page_number_string: 
+notes: 
+source_full_citation: Steinegger, F. (28. Februar 2000). Autopartei auf dem Parkplatz. Neue Luzerner Zeitung. Abgerufen am 16. September 2026 von https://essentials.swissdox.ch/de/research?q=eyJmbHQiOlt7ImZsIjoicXVlcnlfdGV4dCIsInZhbCI6WyJhdXRvIl19LHsiZmwiOiJkYXRldGltZSIsInZhbCI6WyIyMDAwLTAyLTI3VDIzOjAwOjAwLjAwMFoiLCIyMDAwLTAyLTI4VDIyOjU5OjAwLjAwMFoiXX0seyJmbCI6Im5ld3NwYXBlciIsInZhbCI6WyJOTFoiXX1dLCJleHQiOnRydWUsInNydCI6eyJmbCI6ImRhdGV0aW1lIiwiZGlyIjoiZGVzYyJ9fQ%3D%3D&articleId=15350274&articleView=text
+source_comment: ",de-CH,,Freiheitspartei des Kantons Schwyz,FP SZ,,,,,,,,,,,,,,,,,,year,1994-07-01T12:00:00,,,year,2000-07-01T12:00:00,,,,,,,,,
+708,443,,"page_number_string: 
+notes: 
+source_full_citation: sda. (15. Juni 1989). Kurzmeldungen. Neue Zürcher Zeitung. Abgerufen am 16. September 2026 von https://www.e-newspaperarchives.ch/?a=d&d=NZZ19890615-01.2.32.3
+source_comment: ",de-CH,,Autopartei Obwalden,AP OW,,,,,,,,,,,,,,,,,,exact,1989-06-10T12:00:00,,,unknown,1996-01-01T12:00:00,,,,,,,,,
+709,344,,"page_number_string: 
+notes: 
+source_full_citation: Staatsarchiv des Kantons Thurgau. (2026). Katholische Kantonalparteien im Thurgau (1906-2006). Abgerufen am 25. Mai 2026 von https://archivportal.tg.ch/records/289117
+source_comment: ",de-CH,KKP,Katholisch-Konservative Partei Thurgau,KKP TG,,,,,,,,,,,,,,,,,,year,1905-07-01T12:00:00,,,year,1912-07-01T12:00:00,,,,,,,,,
+710,344,,"page_number_string: 
+notes: 
+source_full_citation: Staatsarchiv des Kantons Thurgau. (2026). Katholische Kantonalparteien im Thurgau (1906-2006). Abgerufen am 25. Mai 2026 von https://archivportal.tg.ch/records/289117
+source_comment: ",de-CH,KVP,Katholische Volkspartei Thurgau,KVP TG,,,,,,,,,,,,,,,,,,year,1912-07-01T12:00:00,,,exact,1971-02-18T12:00:00,,,,,,,,,
+711,444,,"page_number_string: 
+notes: 
+source_full_citation: EDU Schweiz. (2026). EDU Kanton Luzern gegründet. Abgerufen am 2. Oktober 2026 von https://web.archive.org/web/20261002114021/https://www.edu-schweiz.ch/aktuelles/neuigkeiten/edu-kanton-luzern-gegruendet/
+source_comment: ",de-CH,EDU Luzern,Eidgenössisch-Demokratische Union Kanton Luzern,EDU LU,,,,,,,,,,,,,,,,,,exact,2026-08-19T12:00:00,,,,,,,,,,,,,
+712,445,,"page_number_string: 
+notes: 
+source_full_citation: EDU Schweiz. (2026). EDU Kanton Schwyz gegründet. Abgerufen am 2. Oktober 2026 von https://web.archive.org/web/20261002114205/https://www.edu-schweiz.ch/aktuelles/neuigkeiten/edu-kanton-schwyz-gegruendet/
+source_comment: ",de-CH,EDU Schwyz,Eidgenössisch-Demokratische Union Kanton Schwyz,EDU SZ,,,,,,,,,,,,,,,,,,exact,2026-09-01T12:00:00,,,,,,,,,,,,,
+713,446,,"page_number_string: 
+notes: 
+source_full_citation: Kanton Basel-Landschaft. (2024). Freisinnige Spaltung. In Geschichte des Kantons Basel-Landschaft. Abgerufen am 5. Oktober 2026 von https://geschichte.bl.ch/politik/parteienlandschaft/parteienlandschaft-nebentext.html%3Ftx_hfgbl_circuit[article]=562&tx_hfgbl_circuit[mainArticle]=563&tx_hfgbl_circuit[backPid]=352&tx_hfgbl_circuit[action]=default&tx_hfgbl_circuit[controller]=Ci.html
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: FDP.Die Liberalen Kanton Basel-Landschaft. (09. August 2019). FDP Baselland feiert 100 Jahre geeinter Baselbieter Freisinn und schaut mit Zuversicht in die Zukunft. Abgerufen am 29. Januar 2026 von https://www.fdp-bl.ch/fileadmin/groups/210/pdf/medienmitteilungen/2019/August_19/20190810_FDP-MM_100_Jahre_Freisinn.pdf
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Blum, R. (02. August 2019). Proporz und Landesstreik einigten Freisinn. In BZ Basel.
+source_comment: ",de-CH,,Jungfreisinnige Partei,JFP BL,"Landratspartei, Bewegungspartei",,,,,,,,,,,,,,,,,year,1905-07-01T12:00:00,,,year,1908-07-01T12:00:00,,,,,,,,,
+714,446,,"page_number_string: 
+notes: 
+source_full_citation: Kanton Basel-Landschaft. (2024). Freisinnige Spaltung. In Geschichte des Kantons Basel-Landschaft. Abgerufen am 5. Oktober 2026 von https://geschichte.bl.ch/politik/parteienlandschaft/parteienlandschaft-nebentext.html%3Ftx_hfgbl_circuit[article]=562&tx_hfgbl_circuit[mainArticle]=563&tx_hfgbl_circuit[backPid]=352&tx_hfgbl_circuit[action]=default&tx_hfgbl_circuit[controller]=Ci.html
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: FDP.Die Liberalen Kanton Basel-Landschaft. (09. August 2019). FDP Baselland feiert 100 Jahre geeinter Baselbieter Freisinn und schaut mit Zuversicht in die Zukunft. Abgerufen am 29. Januar 2026 von https://www.fdp-bl.ch/fileadmin/groups/210/pdf/medienmitteilungen/2019/August_19/20190810_FDP-MM_100_Jahre_Freisinn.pdf
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Blum, R. (02. August 2019). Proporz und Landesstreik einigten Freisinn. In BZ Basel.
+source_comment: ",de-CH,,Freisinnige Volkspartei,FVP BL,"Landratspartei, Bewegungspartei",,,,,,,,,,,,,,,,,year,1908-07-01T12:00:00,,,exact,1919-08-03T12:00:00,,,,,,,,,
+715,447,,"page_number_string: 
+notes: 
+source_full_citation: Kanton Basel-Landschaft. (2024). Freisinnige Spaltung. In Geschichte des Kantons Basel-Landschaft. Abgerufen am 5. Oktober 2026 von https://geschichte.bl.ch/politik/parteienlandschaft/parteienlandschaft-nebentext.html%3Ftx_hfgbl_circuit[article]=562&tx_hfgbl_circuit[mainArticle]=563&tx_hfgbl_circuit[backPid]=352&tx_hfgbl_circuit[action]=default&tx_hfgbl_circuit[controller]=Ci.html
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Kanton Basel-Landschaft. (2024). Die Demokratische Fortschrittspartei. In Geschichte des Kantons Basel-Landschaft. Abgerufen am 5. Oktober 2026 von https://geschichte.bl.ch/politik/parteienlandschaft/parteienlandschaft-nebentext.html%3Ftx_hfgbl_circuit[article]=560&tx_hfgbl_circuit[mainArticle]=563&tx_hfgbl_circuit[backPid]=352&tx_hfgbl_circuit[action]=default&tx_hfgbl_circuit[controller]=Ci.html
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: FDP.Die Liberalen Kanton Basel-Landschaft. (09. August 2019). FDP Baselland feiert 100 Jahre geeinter Baselbieter Freisinn und schaut mit Zuversicht in die Zukunft. Abgerufen am 29. Januar 2026 von https://www.fdp-bl.ch/fileadmin/groups/210/pdf/medienmitteilungen/2019/August_19/20190810_FDP-MM_100_Jahre_Freisinn.pdf
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Blum, R. (02. August 2019). Proporz und Landesstreik einigten Freisinn. In BZ Basel.
+source_comment: ",de-CH,,Demokratisch-volkswirtschaftliche Vereinigung,DVV BL,"Regierungspartei, Ordnungspartei",,,,,,,,,,,,,,,,,year,1910-07-01T12:00:00,,,year,1919-07-01T12:00:00,,,,,,,,,
+716,447,,"page_number_string: 
+notes: 
+source_full_citation: Blum, R. (02. August 2019). Proporz und Landesstreik einigten Freisinn. In BZ Basel.
+source_comment: ",de-CH,,Demokratische Partei,DP BL,"Regierungspartei, Ordnungspartei",,,,,,,,,,,,,,,,,year,1919-07-01T12:00:00,,,exact,1919-08-03T12:00:00,,,,,,,,,
+717,43,,,de-CH,DACH,Die alternative Schweiz,DACH,,,,fr-CH,LAS,L'Autre Suisse,LAS,,,,,,,,,,,year,1991-07-01T12:00:00,,,year,1995-07-01T12:00:00,,,,,,,,,
+718,43,"note_translations: languages_code: de-CH
+note: Nach den Wahlen 1991 gab es keine offizielle, einheitliche Selbstbezeichnung mehr auf nationaler Ebene. ""Alternative Grüne"" hat sich als geläufigste Fremdbezeichnung etabliert.","page_number_string: 18-23
+notes: 
+source_full_citation: Seitz, W. (2008). ""Melonengrüne und Gurkengrüne"": Die Geschichte der Grünen in der Schweiz. In M. Baer & W. Seitz (Hrsg.), Die Grünen in der Schweiz: Ihre Politik, ihre Geschichte, ihre Basis (S. 15-37). Rüegger Verlag.
+source_comment: ",de-CH,,Alternative Grüne,Alternative Grüne,,,,fr-CH,,Vert-e-s alternativ-e-s,Vert-e-s alternativ-e-s,,,,,,,,,,,year,1995-07-01T12:00:00,,,year,2005-07-01T12:00:00,,,,,,,,,
+719,448,,"page_number_string: 
+notes: 
+source_full_citation: kfr. (25. Januar 1990). Offener Streit in der Solothurner Autopartei. Neue Zürcher Zeitung. Abgerufen am 26. Oktober 2026 von https://www.e-newspaperarchives.ch/?a=d&d=NZZ19900125-01.2.32.20
+source_comment: ",de-CH,,Solothurner Autopartei,AP SO,,,,,,,,,,,,,,,,,,multiyear,1987-01-01T12:00:00,,,year,1994-07-01T12:00:00,,,,,,,,,
+720,448,,"page_number_string: 
+notes: 
+source_full_citation: ?. (27. Mai 1994). Kurz. Die Wochenzeitung. Abgerufen am 26. Oktober 2026 von https://essentials.swissdox.ch/de/research?q=eyJmbHQiOlt7ImZsIjoicXVlcnlfdGV4dCIsInZhbCI6WyJhdXRvLXBhcnRlaSBzb2xvdGh1cm4iXX0seyJmbCI6ImRhdGV0aW1lIiwidmFsIjpbIjE5MTEtMTEtMzBUMjM6MDA6MDAuMDAwWiIsIjE5OTUtMTAtMzFUMjI6NTk6MDAuMDAwWiJdfV0sImV4dCI6dHJ1ZSwic3J0Ijp7ImZsIjoiZGF0ZXRpbWUiLCJkaXIiOiJkZXNjIn19&articleId=17209880&articleView=text
+source_comment: ",de-CH,,Solothurner Freiheitspartei,FP SO,,,,,,,,,,,,,,,,,,year,1994-07-01T12:00:00,,,unknown,2000-01-01T12:00:00,,,,,,,,,
+721,449,,"page_number_string: 
+notes: 
+source_full_citation: sc. (05. Dezember 1991). Autoparteisektion nun auch in Basel. Neue Zürcher Zeitung. Abgerufen am 26. Oktober 2026 von https://www.e-newspaperarchives.ch/?a=d&d=NZZ19911205-01.2.31.7
+source_comment: ",de-CH,,Autopartei Basel-Stadt,AP BS,,,,,,,,,,,,,,,,,,exact,1991-12-04T12:00:00,,,,,,,,,,,,,

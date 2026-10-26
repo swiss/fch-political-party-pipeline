@@ -57,7 +57,7 @@
 56,56,zh-cantparl-1987,,,,year,1987-07-01T00:00:00,,
 57,57,zh-cantparl-1991,,,,year,1991-07-01T00:00:00,,
 58,58,zh-cantparl-1995,,,,year,1995-07-01T00:00:00,,
-59,59,zh-cantparl-1999,,,,year,1999-07-01T00:00:00,,
+59,59,zh-cantparl-1999,,,,year,1999-07-02T00:00:00,,
 60,60,zh-cantparl-2003,,,,year,2003-07-01T00:00:00,,
 61,61,zh-cantparl-2007,,,,year,2007-07-01T00:00:00,,
 62,62,zh-cantparl-2011,,,,year,2011-07-01T00:00:00,,
@@ -68,7 +68,7 @@
 67,67,zh-cantgov-1987,,,,year,1987-07-01T00:00:00,,
 68,68,zh-cantgov-1991,,,,year,1991-07-01T00:00:00,,
 69,69,zh-cantgov-1995,,,,year,1995-07-01T00:00:00,,
-70,70,zh-cantgov-1999,,,,year,1999-07-01T00:00:00,,
+70,70,zh-cantgov-1999,,,,year,1999-07-02T00:00:00,,
 71,71,zh-cantgov-2003,,,,year,2003-07-01T00:00:00,,
 72,72,zh-cantgov-2007,,,,year,2007-07-01T00:00:00,,
 73,73,zh-cantgov-2011,,,,year,2011-07-01T00:00:00,,
@@ -158,7 +158,7 @@
 265,163,be-cantparl-1926,,,,year,1926-07-01T00:00:00,,
 266,164,be-cantparl-1930,,,,year,1930-07-01T00:00:00,,
 267,165,be-cantparl-1934,,,,year,1934-07-01T00:00:00,,
-268,166,be-cantparl-1938,,,,year,1938-07-01T00:00:00,,
+268,166,be-cantparl-1938,,,,year,1938-07-02T12:00:00,,
 269,167,be-cantparl-1942,,,,year,1942-07-01T00:00:00,,
 270,168,be-cantparl-1946,,,,year,1946-07-01T00:00:00,,
 271,169,be-cantparl-1950,,,,year,1950-07-01T00:00:00,,
@@ -175,14 +175,14 @@
 282,180,be-cantparl-1994,,,,year,1994-07-01T12:00:00,,
 283,181,be-cantparl-1998,,,,year,1998-07-01T00:00:00,,
 284,182,be-cantparl-2002,,,,year,2002-07-01T00:00:00,,
-285,183,be-cantparl-2006,,,,year,2006-07-01T00:00:00,,
+285,183,be-cantparl-2006,,,,exact,2006-04-09T12:00:00,,
 286,184,be-cantparl-2010,,,,year,2010-07-01T00:00:00,,
-287,185,be-cantparl-2014,,,,year,2014-07-01T00:00:00,,
-288,186,be-cantparl-2018,,,,year,2018-07-01T12:00:00,,
-289,187,be-cantparl-2022,,,,year,2022-07-01T00:00:00,,
+287,185,be-cantparl-2014,,,,exact,2014-03-30T12:00:00,,
+288,186,be-cantparl-2018,,,,exact,2018-03-25T12:00:00,,
+289,187,be-cantparl-2022,,,,exact,2022-03-27T12:00:00,,
 290,188,be-cantgov-1982,,,,year,1982-07-01T00:00:00,,
 291,189,be-cantgov-1986,,,,year,1986-07-01T00:00:00,,
-292,190,be-cantgov-1990,,,,year,1990-07-01T00:00:00,,
+292,190,be-cantgov-1990,,,,exact,1990-04-29T12:00:00,,
 293,191,be-cantgov-1994,,,,year,1994-07-01T12:00:00,,
 294,192,be-cantgov-1998,,,,year,1998-07-01T00:00:00,,
 295,193,be-cantgov-2002,,,,year,2002-07-01T00:00:00,,
@@ -234,7 +234,7 @@
 341,240,lu-fedparl-states-1979,,,,exact,1979-10-21T12:00:00,,
 342,241,lu-fedparl-states-1975,,,,exact,1975-10-26T12:00:00,,
 343,242,lu-fedparl-states-1971,,,,exact,1971-10-31T12:00:00,,
-344,243,lu-cantparl-1911,,,,year,1911-07-01T00:00:00,,
+344,243,lu-cantparl-1911,,,,year,1911-07-02T00:00:00,,
 345,244,lu-cantparl-1915,,,,year,1915-07-01T00:00:00,,
 346,245,lu-cantparl-1919,,,,year,1919-07-01T00:00:00,,
 347,246,lu-cantparl-1923,,,,year,1923-07-01T00:00:00,,
@@ -256,7 +256,7 @@
 363,262,lu-cantparl-1987,,,,year,1987-07-01T00:00:00,,
 364,263,lu-cantparl-1991,,,,year,1991-07-01T00:00:00,,
 365,264,lu-cantparl-1995,,,,year,1995-07-01T00:00:00,,
-366,265,lu-cantparl-1999,,,,year,1999-07-01T00:00:00,,
+366,265,lu-cantparl-1999,,,,year,1999-07-02T00:00:00,,
 367,266,lu-cantparl-2003,,,,year,2003-07-01T00:00:00,,
 368,267,lu-cantparl-2007,,,,year,2007-07-01T00:00:00,,
 369,268,lu-cantparl-2011,,,,year,2011-07-01T00:00:00,,
@@ -267,7 +267,7 @@
 374,273,lu-cantgov-1987,,,,year,1987-07-01T00:00:00,,
 375,274,lu-cantgov-1991,,,,year,1991-07-01T00:00:00,,
 376,275,lu-cantgov-1995,,,,year,1995-07-01T00:00:00,,
-377,276,lu-cantgov-1999,,,,year,1999-07-01T00:00:00,,
+377,276,lu-cantgov-1999,,,,year,1999-07-02T00:00:00,,
 378,277,lu-cantgov-2003,,,,year,2003-07-01T00:00:00,,
 379,278,lu-cantgov-2007,,,,year,2007-07-01T00:00:00,,
 380,279,lu-cantgov-2011,,,,year,2011-07-01T00:00:00,,
@@ -488,7 +488,7 @@
 595,495,bl-cantparl-1987,,,,year,1987-07-01T00:00:00,,
 596,496,bl-cantparl-1991,,,,year,1991-07-01T00:00:00,,
 597,497,bl-cantparl-1995,,,,year,1995-07-01T00:00:00,,
-598,498,bl-cantparl-1999,,,,year,1999-07-01T00:00:00,,
+598,498,bl-cantparl-1999,,,,year,1999-07-02T00:00:00,,
 599,499,bl-cantparl-2003,,,,year,2003-07-01T00:00:00,,
 600,500,bl-cantparl-2007,,,,year,2007-07-01T00:00:00,,
 601,501,bl-cantparl-2011,,,,year,2011-07-01T00:00:00,,
@@ -499,7 +499,7 @@
 606,506,bl-cantgov-1987,,,,year,1987-07-01T00:00:00,,
 607,507,bl-cantgov-1991,,,,year,1991-07-01T00:00:00,,
 608,508,bl-cantgov-1995,,,,year,1995-07-01T00:00:00,,
-609,509,bl-cantgov-1999,,,,year,1999-07-01T00:00:00,,
+609,509,bl-cantgov-1999,,,,year,1999-07-02T00:00:00,,
 610,510,bl-cantgov-2003,,,,year,2003-07-01T00:00:00,,
 611,511,bl-cantgov-2007,,,,year,2007-07-01T00:00:00,,
 612,512,bl-cantgov-2011,,,,year,2011-07-01T00:00:00,,
@@ -539,8 +539,8 @@
 646,546,ju-cantparl-2002,,,,year,2002-07-01T00:00:00,,
 647,547,ju-cantparl-2006,,,,year,2006-07-01T00:00:00,,
 648,548,ju-cantparl-2010,,,,year,2010-07-01T00:00:00,,
-649,549,ju-cantparl-2014,,,,year,2014-07-01T00:00:00,,
-650,550,ju-cantparl-2018,,,,year,2018-07-01T12:00:00,,
+649,549,ju-cantparl-2015,,,,year,2014-07-01T00:00:00,,
+650,550,ju-cantparl-2020,,,,year,2018-07-01T12:00:00,,
 651,551,ju-cantgov-1982,,,,year,1982-07-01T00:00:00,,
 652,552,ju-cantgov-1986,,,,year,1986-07-01T00:00:00,,
 653,553,ju-cantgov-1990,,,,year,1990-07-01T00:00:00,,
@@ -613,7 +613,7 @@
 720,620,ti-cantparl-1987,,,,year,1987-07-01T00:00:00,,
 721,621,ti-cantparl-1991,,,,year,1991-07-01T00:00:00,,
 722,622,ti-cantparl-1995,,,,year,1995-07-01T00:00:00,,
-723,623,ti-cantparl-1999,,,,year,1999-07-01T00:00:00,,
+723,623,ti-cantparl-1999,,,,year,1999-07-02T00:00:00,,
 724,624,ti-cantparl-2003,,,,year,2003-07-01T00:00:00,,
 725,625,ti-cantparl-2007,,,,year,2007-07-01T00:00:00,,
 726,626,ti-cantparl-2011,,,,year,2011-07-01T00:00:00,,
@@ -624,7 +624,7 @@
 731,631,ti-cantgov-1987,,,,year,1987-07-01T00:00:00,,
 732,632,ti-cantgov-1991,,,,year,1991-07-01T00:00:00,,
 733,633,ti-cantgov-1995,,,,year,1995-07-01T00:00:00,,
-734,634,ti-cantgov-1999,,,,year,1999-07-01T00:00:00,,
+734,634,ti-cantgov-1999,,,,year,1999-07-02T00:00:00,,
 735,635,ti-cantgov-2003,,,,year,2003-07-01T00:00:00,,
 736,636,ti-cantgov-2007,,,,year,2007-07-01T00:00:00,,
 737,637,ti-cantgov-2011,,,,year,2011-07-01T00:00:00,,
@@ -774,7 +774,10 @@
 881,781,ow-cantparl-2014,,,,year,2014-07-01T00:00:00,,
 882,782,ow-cantparl-2018,,,,year,2018-07-01T12:00:00,,
 883,783,ow-cantparl-2022,,,,year,2022-07-01T00:00:00,,
-884,784,ow-cantparl-2026,,,,year,2026-07-01T00:00:00,,
+884,784,ow-cantparl-2026,54.8,,"page_number_string: 
+notes: 
+source_full_citation: Kanton Obwalden. (2026). Gesamterneuerungswahl des Kantonsrats 2026. Abgerufen am 14. Oktober 2026 von https://www.wahlen.ow.ch/Redesign_Wahlen_OW/wp-content/uploads/Stimmbeteiligung.pdf
+source_comment: ",exact,2026-03-08T12:00:00,,
 885,785,ow-cantgov-1978,,,,year,1978-07-01T00:00:00,,
 886,786,ow-cantgov-1982,,,,year,1982-07-01T00:00:00,,
 887,787,ow-cantgov-1986,,,,year,1986-07-01T00:00:00,,
@@ -787,7 +790,10 @@
 894,794,ow-cantgov-2014,,,,year,2014-07-01T00:00:00,,
 895,795,ow-cantgov-2018,,,,year,2018-07-01T12:00:00,,
 896,796,ow-cantgov-2022,,,,year,2022-07-01T00:00:00,,
-897,797,ow-cantgov-2026,,,,year,2026-07-01T00:00:00,,
+897,797,ow-cantgov-2026,59.2,,"page_number_string: 
+notes: 
+source_full_citation: Kanton Obwalden. (2026). Volksabstimmung und Gesamterneuerungswahlen vom 8. März 2026. Abgerufen am 14. Oktober 2026 von https://www.ow.ch/abstimmungen/termine/88052
+source_comment: ",exact,2026-03-08T12:00:00,,
 898,798,nw-fedparl-nat-1919,,,,year,1919-07-01T12:00:00,,
 899,799,nw-fedparl-nat-1922,,,,year,1922-07-01T00:00:00,,
 900,800,nw-fedparl-nat-1925,,,,year,1925-07-01T00:00:00,,
@@ -850,7 +856,10 @@
 957,857,nw-cantparl-2014,,,,year,2014-07-01T00:00:00,,
 958,858,nw-cantparl-2018,,,,year,2018-07-01T12:00:00,,
 959,859,nw-cantparl-2022,,,,year,2022-07-01T00:00:00,,
-960,860,nw-cantparl-2026,,,,year,2026-07-01T00:00:00,,
+960,860,nw-cantparl-2026,56.26631023,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Parteistärken mit Zuteilung der Mischlisten auf die Parteien. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654122.html
+source_comment: ",exact,2026-03-08T12:00:00,,
 961,861,nw-cantgov-1982,,,,year,1982-07-01T00:00:00,,
 962,862,nw-cantgov-1986,,,,year,1986-07-01T00:00:00,,
 963,863,nw-cantgov-1990,,,,year,1990-07-01T00:00:00,,
@@ -862,7 +871,8 @@
 969,869,nw-cantgov-2014,,,,year,2014-07-01T00:00:00,,
 970,870,nw-cantgov-2018,,,,year,2018-07-01T12:00:00,,
 971,871,nw-cantgov-2022,,,,year,2022-07-01T00:00:00,,
-972,872,nw-cantgov-2026,,,,year,2026-07-01T00:00:00,,
+972,872,nw-cantgov-2026,-,"note_translations: languages_code: de-CH
+note: Stille Wahlen",,exact,2026-03-08T12:00:00,,
 973,873,gl-fedparl-nat-1919,,,,year,1919-07-01T12:00:00,,
 974,874,gl-fedparl-nat-1922,,,,year,1922-07-01T00:00:00,,
 975,875,gl-fedparl-nat-1925,,,,year,1925-07-01T00:00:00,,
@@ -937,7 +947,7 @@
 1044,944,gl-cantgov-1994,,,,year,1994-07-01T12:00:00,,
 1045,945,gl-cantgov-1998,,,,year,1998-07-01T00:00:00,,
 1046,946,gl-cantgov-2002,,,,year,2002-07-01T00:00:00,,
-1047,947,gl-cantgov-2006,,,,year,2006-07-01T00:00:00,,
+1047,947,gl-cantgov-2006,,,,exact,2006-02-12T12:00:00,,
 1048,948,gl-cantgov-2010,,,,year,2010-07-01T00:00:00,,
 1049,949,gl-cantgov-2014,,,,year,2014-07-01T00:00:00,,
 1050,950,gl-cantgov-2018,,,,year,2018-07-01T12:00:00,,
@@ -1326,7 +1336,7 @@
 1434,1333,ar-cantgov-1996,,,,year,1996-07-01T00:00:00,,
 1435,1334,ar-cantgov-1997,,,,year,1997-07-01T00:00:00,,
 1436,1335,ar-cantgov-1998,,,,year,1998-07-01T00:00:00,,
-1437,1336,ar-cantgov-1999,,,,year,1999-07-01T00:00:00,,
+1437,1336,ar-cantgov-1999,,,,year,1999-07-02T00:00:00,,
 1438,1337,ai-fedparl-nat-1919,,,,year,1919-07-01T12:00:00,,
 1439,1338,ai-fedparl-nat-1922,,,,year,1922-07-01T00:00:00,,
 1440,1339,ai-fedparl-nat-1925,,,,year,1925-07-01T00:00:00,,
@@ -1388,7 +1398,7 @@
 1496,1395,ai-cantgov-1996,,,,year,1996-07-01T00:00:00,,
 1497,1396,ai-cantgov-1997,,,,year,1997-07-01T00:00:00,,
 1498,1397,ai-cantgov-1998,,,,year,1998-07-01T00:00:00,,
-1499,1398,ai-cantgov-1999,,,,year,1999-07-01T00:00:00,,
+1499,1398,ai-cantgov-1999,,,,year,1999-07-02T00:00:00,,
 1500,1399,ai-cantgov-2000,,,,year,2000-07-01T00:00:00,,
 1501,1400,ai-cantgov-2001,,,,year,2001-07-01T00:00:00,,
 1502,1401,ai-cantgov-2002,,,,year,2002-07-01T00:00:00,,
@@ -1674,7 +1684,7 @@
 1782,1681,ag-cantparl-1993,,,,year,1993-07-01T00:00:00,,
 1783,1682,ag-cantparl-1997,,,,year,1997-07-01T00:00:00,,
 1784,1683,ag-cantparl-2001,,,,year,2001-07-01T00:00:00,,
-1785,1684,ag-cantparl-2005,,,,year,2005-07-01T00:00:00,,
+1785,1684,ag-cantparl-2005,,,,exact,2005-02-20T12:00:00,,
 1786,1685,ag-cantparl-2009,,,,year,2009-07-01T00:00:00,,
 1787,1686,ag-cantparl-2012,,,,year,2012-07-01T00:00:00,,
 1788,1687,ag-cantparl-2016,,,,year,2016-07-01T00:00:00,,
@@ -1908,7 +1918,7 @@
 2016,1915,ne-cantparl-2009,,,,year,2009-07-01T00:00:00,,
 2017,1916,ne-cantparl-2013,,,,year,2013-07-01T00:00:00,,
 2018,1917,ne-cantparl-2017,,,,year,2017-07-01T00:00:00,,
-2019,1918,ne-cantparl-2021,,,,year,2021-07-01T00:00:00,,
+2019,1918,ne-cantparl-2021,,,,exact,2021-04-18T12:00:00,,
 2020,1919,ne-cantgov-1981,,,,year,1981-07-01T00:00:00,,
 2021,1920,ne-cantgov-1985,,,,year,1985-07-01T00:00:00,,
 2022,1921,ne-cantgov-1989,,,,year,1989-07-01T00:00:00,,
@@ -2002,3 +2012,66 @@
 2110,2009,ge-cantgov-2013,,,,year,2013-07-01T00:00:00,,
 2111,2010,ge-cantgov-2018,,,,year,2018-07-01T12:00:00,,
 2112,2011,ge-cantgov-2023,,,,year,2023-07-01T00:00:00,,
+2113,2012,be-cantparl-2026,34.3,,"page_number_string: 
+notes: 
+source_full_citation: Kanton Bern. (2026). Grossratswahlen vom 29. März 2026. Abgerufen am 17. September 2026 von https://www.bewas.sites.be.ch/2026/2026-03-29/WAHL_GROSSRAT/
+source_comment: ",exact,2026-03-29T12:00:00,,
+2114,2013,be-cantgov-2026,33.8,,"page_number_string: 
+notes: 
+source_full_citation: Kanton Bern. (2026). Regierungsratswahl vom 29. März 2026. Abgerufen am 17. September 2026 von https://www.bewas.sites.be.ch/2026/2026-03-29/WAHL_REGIERUNGSRAT/resultat-A-de.html
+source_comment: ",exact,2026-03-29T12:00:00,,
+2115,2014,gl-cantparl-2026,45.7964853683531,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Parteistärken mit Zuteilung der Mischlisten auf die Parteien. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654122.html
+source_comment: ",exact,2026-06-14T12:00:00,,
+2116,2015,gl-cantgov-2026,40.63,,"page_number_string: 
+notes: 
+source_full_citation: Kanton Glarus. (2026). Regierungsratswahlen vom 8. März 2026. Abgerufen am 14. Oktober 2026 von https://www.gl.ch/public/upload/assets/64330/Resultate%20Gesamterneuerungswaheln%20Regierungsrat%20vom%208.%20M%C3%A4rz%202026.pdf?fp=1
+source_comment: ",exact,2026-03-08T12:00:00,,
+2117,2016,so-cantparl-2025,35.7372396130695,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Parteistärken mit Zuteilung der Mischlisten auf die Parteien. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654122.html
+source_comment: ",exact,2025-03-09T12:00:00,,
+2118,2017,so-cantgov-2025-rd1,35.46,,"page_number_string: 
+notes: 
+source_full_citation: Kanton Solothurn. (2025). Wahlprotokoll. Abgerufen am 16. Oktober 2026 von https://so.ch/fileadmin/internet/staatskanzlei/stk-regierungsdienste/pdf/abstimmungen-wahlen/2025/9._Maerz/20250309_Wahlprotokoll_Kanton.pdf
+source_comment: ",exact,2025-03-09T12:00:00,,
+2119,2017,so-cantgov-2025-rd2,36.53,,"page_number_string: 
+notes: 
+source_full_citation: Kanton Solothurn. (2025). Wahlprotokoll. Abgerufen am 16. Oktober 2026 von https://so.ch/fileadmin/internet/staatskanzlei/stk-regierungsdienste/pdf/abstimmungen-wahlen/2025/13._April/20250413_Wahlprotokoll_Kanton.pdf
+source_comment: ",exact,2025-04-13T12:00:00,,
+2120,2018,ne-cantparl-2025,31.6095878104,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Parteistärken mit Zuteilung der Mischlisten auf die Parteien. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654122.html
+source_comment: ",exact,2025-03-23T12:00:00,,
+2121,2019,ne-cantgov-2025,32.43,,"page_number_string: 
+notes: 
+source_full_citation: RTS. (23 mars 2025). La gauche neuchâteloise signe un résultat historique avec l'élection au 1er tour de Frédéric Mairy et Florence Nater. Consulté le 16 octobre 2026, sur https://www.rts.ch/info/dossiers/2025/elections-neuchateloises/2025/minute-par-minute/28822265.html
+source_comment: ",exact,2025-03-23T12:00:00,,
+2122,2020,ju-cantparl-2025,40.2387016079206,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Parteistärken mit Zuteilung der Mischlisten auf die Parteien. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654122.html
+source_comment: ",exact,2025-10-19T12:00:00,,
+2123,2021,ju-cantgov-2025-rd1,41.5,,"page_number_string: 
+notes: 
+source_full_citation: Canton du Jura. (2025). Résultats du premier tour de l'élection au Gouvernement. Consulté le 16 octobre 2026, sur https://www.jura.ch/fr/Autorites/Elections-2025/Resultats-de-l-election-au-Gouvernement-1er-tour/Resultats-du-premier-tour-de-l-election-au-Gouvernement.html
+source_comment: ",exact,2025-10-19T12:00:00,,
+2124,2021,ju-cantgov-2025-rd2,45.7,,"page_number_string: 
+notes: 
+source_full_citation: Canton du Jura. (2025). Résultats du second tour de l'élection au Gouvernement. Consulté le 16 octobre 2026, sur https://www.jura.ch/fr/Autorites/Elections-2025/Resultats-de-l-election-au-Gouvernement-2e-tour/Resultats-du-second-tour-de-l-election-au-Gouvernement.html
+source_comment: ",exact,2025-11-09T12:00:00,,
+2125,2022,gr-cantparl-2026,47.9306495499895,,"page_number_string: 
+notes: 
+source_full_citation: Kanton Graubünden. (2026). Protokoll der Grossratswahlen vom 14. Juni 2026. Abgerufen am 22. Oktober 2026 von https://www.gr.ch/DE/publikationen/abstimmungenwahlen/grw26/Resultate1/20260614_Wahlprotokoll_Kanton_Proporzwahl_kantonal.pdf
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Parteistärken mit Zuteilung der Mischlisten auf die Parteien. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654122.html
+source_comment: ",exact,2026-06-14T12:00:00,,
+2126,2023,gr-cantgov-2026,49.59,,"page_number_string: 
+notes: 
+source_full_citation: Kanton Graubünden. (2026). Regierungswahlen 2026. Abgerufen am 22. Oktober 2026 von https://abstimmungen.gr.ch/election/rw2026/candidates
+source_comment: ",exact,2026-06-14T12:00:00,,
+2127,2024,ch-fedgov-2023,,,,exact,2023-12-13T12:00:00,,
+2128,2025,ch-fedgov-2025,,,,exact,2025-03-12T12:00:00,,
