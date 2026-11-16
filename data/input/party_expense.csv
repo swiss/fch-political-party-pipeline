@@ -66,12 +66,12 @@ source_comment: ",year,2014-07-01T00:00:00,,
 note: Jahresbericht der EVP Zürich aus dem Jahr 2014.","page_number_string: 
 notes: 
 source_full_citation: EVP Kanton Zürich. (2025). EVP Jahresbericht. Abgerufen am 20. Oktober 2025 von https://evpzh.ch/publikationen/jahresberichte
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 15,28,643809,actual,"note_translations: languages_code: de-CH
 note: Jahresbericht der EVP Zürich aus dem Jahr 2015.","page_number_string: 
 notes: 
 source_full_citation: EVP Kanton Zürich. (2025). EVP Jahresbericht. Abgerufen am 20. Oktober 2025 von https://evpzh.ch/publikationen/jahresberichte
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 16,28,432900,budgeted,"note_translations: languages_code: de-CH
 note: Jahresbericht der EVP Zürich aus dem Jahr 2015.","page_number_string: 
 notes: 
@@ -188,7 +188,7 @@ source_comment: ",year,2014-07-01T00:00:00,,
 40,36,1497632,actual,,"page_number_string: 
 notes: 
 source_full_citation: SP Kanton Bern. (2025). Über uns. Abgerufen am 07. November 2025 von https://spbe.ch/partei/ueber-uns/
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 41,36,1471319,actual,,"page_number_string: 
 notes: 
 source_full_citation: SP Kanton Bern. (2025). Über uns. Abgerufen am 07. November 2025 von https://spbe.ch/partei/ueber-uns/
@@ -509,11 +509,11 @@ source_comment: ",year,2014-07-01T00:00:00,,
 116,78,157500,budgeted,,"page_number_string: 
 notes: 
 source_full_citation: Grüne Kanton Basel-Stadt. (2015). Jahresbericht 2015. Abgerufen am 09. Januar 2026 von https://web.archive.org/web/20170203202532/http:/gruene-bs.ch/dokumente/jahresberichte/Jahresbericht%202015.pdf
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 117,78,143627,actual,,"page_number_string: 
 notes: 
 source_full_citation: Grüne Kanton Basel-Stadt. (2015). Jahresbericht 2015. Abgerufen am 09. Januar 2026 von https://web.archive.org/web/20170203202532/http:/gruene-bs.ch/dokumente/jahresberichte/Jahresbericht%202015.pdf
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 118,78,198500,budgeted,,"page_number_string: 
 notes: 
 source_full_citation: Grüne Kanton Basel-Stadt. (2015). Jahresbericht 2015. Abgerufen am 09. Januar 2026 von https://web.archive.org/web/20170203202532/http:/gruene-bs.ch/dokumente/jahresberichte/Jahresbericht%202015.pdf
@@ -720,11 +720,11 @@ source_comment: ",year,2014-07-01T00:00:00,,
 168,104,666500,actual,,"page_number_string: 
 notes: 
 source_full_citation: SP Kanton Basel-Landschaft. (2015). Jahresbericht 2015. Abgerufen am 28. Januar 2026 von https://sp-bl.ch/wp-content/uploads/2022/12/jahresbericht_2015-web_0.pdf
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 169,104,651892,budgeted,,"page_number_string: 
 notes: 
 source_full_citation: SP Kanton Basel-Landschaft. (2015). Jahresbericht 2015. Abgerufen am 28. Januar 2026 von https://sp-bl.ch/wp-content/uploads/2022/12/jahresbericht_2015-web_0.pdf
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 170,104,319700,actual,,"page_number_string: 
 notes: 
 source_full_citation: SP Kanton Basel-Landschaft. (2015). Jahresbericht 2015. Abgerufen am 28. Januar 2026 von https://sp-bl.ch/wp-content/uploads/2022/12/jahresbericht_2015-web_0.pdf
@@ -1648,7 +1648,7 @@ source_comment: ",multiyear,1996-01-01T12:00:00,,
 378,292,3041,actual,,"page_number_string: 
 notes: 
 source_full_citation: SP Kanton Appenzell Innerrhoden. (2015). Jahresrechnung 01.01.2015 bis 31.12.15. Abgerufen am 15. August 2024 von https://sp-ai.ch/sites/sp-ai.ch/files/documents/sp_ai_jahresrechnung_16_0.pdf
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 379,292,5984,actual,,"page_number_string: 
 notes: 
 source_full_citation: SP Kanton Appenzell Innerrhoden. (2016). Jahresrechnung 01.01.2016 bis 31.12.16. Abgerufen am 15. August 2024 von https://sp-ai.ch/sites/sp-ai.ch/files/documents/sp_ai_jahresrechnung_16_0.pdf
@@ -1754,15 +1754,15 @@ source_comment: ",year,2014-07-01T00:00:00,,
 404,1,5672775,actual,,"page_number_string: 
 notes: 
 source_full_citation: SVP Schweiz. (2017). Rechnung 2016 / Budget 2017. Abgerufen am 05. Mai 2026 von https://www.svp.ch/
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 405,1,5298000,budgeted,,"page_number_string: 
 notes: 
 source_full_citation: SVP Schweiz. (2017). Rechnung 2016 / Budget 2017. Abgerufen am 05. Mai 2026 von https://www.svp.ch/
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 406,1,10600000,actual,,"page_number_string: 126
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 407,1,3384435,actual,,"page_number_string: 
 notes: 
 source_full_citation: SVP Schweiz. (2017). Rechnung 2016 / Budget 2017. Abgerufen am 05. Mai 2026 von https://www.svp.ch/
@@ -2029,7 +2029,7 @@ source_comment: ",multiyear,1996-01-01T12:00:00,,
 466,347,127542,actual,,"page_number_string: 
 notes: 
 source_full_citation: Grüne Kanton Thurgau. (2016). Erfolgsrechnung 2016 Grüne Partei Thurgau. Abgerufen am 26. Mai 2026 von https://gruene-tg.ch/wp-content/uploads/2021/02/GPTG_Rechnung16_Budget17-Web.pdf
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 467,347,86150,budgeted,,"page_number_string: 
 notes: 
 source_full_citation: Grüne Kanton Thurgau. (2016). Erfolgsrechnung 2016 Grüne Partei Thurgau. Abgerufen am 26. Mai 2026 von https://gruene-tg.ch/wp-content/uploads/2021/02/GPTG_Rechnung16_Budget17-Web.pdf
@@ -2131,11 +2131,11 @@ source_comment: ",year,2014-07-01T00:00:00,,
 491,360,1055330,budgeted,,"page_number_string: 
 notes: 
 source_full_citation: PS canton de Vaud. (2015). Rapport de gestion 2015. Consulté le 02 juin 2026, sur https://ps-vd.ch/wp-content/uploads/2018/11/160000_RAPPORT-DE-GESTION_2015_HD.pdf
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 492,360,935518,actual,,"page_number_string: 
 notes: 
 source_full_citation: PS canton de Vaud. (2015). Rapport de gestion 2015. Consulté le 02 juin 2026, sur https://ps-vd.ch/wp-content/uploads/2018/11/160000_RAPPORT-DE-GESTION_2015_HD.pdf
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 493,360,956519,budgeted,,"page_number_string: 
 notes: 
 source_full_citation: PS canton de Vaud. (2016). Rapport de gestion 2016. Consulté le 02 juin 2026, sur https://ps-vd.ch/wp-content/uploads/2018/11/170000_RAPPORT-DE-GESTION_2016.pdf
@@ -2180,7 +2180,7 @@ source_comment: ",year,2014-07-01T00:00:00,,
 503,369,334893,actual,,"page_number_string: 
 notes: 
 source_full_citation: Verts canton de Vaud. (2015). 2015 Compte d'Exploitation. Consulté le 03 juin 2026, sur https://vert-e-s-vd.ch/wp-content/uploads/sites/2/2018/03/Exploitation-2015.pdf
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 504,369,327045,actual,,"page_number_string: 
 notes: 
 source_full_citation: Verts canton de Vaud. (2016). 2016 Compte d'Exploitation. Consulté le 03 juin 2026, sur https://vert-e-s-vd.ch/wp-content/uploads/sites/2/2018/03/Exploitation-2016.pdf
@@ -2244,11 +2244,11 @@ source_comment: ",year,2014-07-01T00:00:00,,
 519,379,501525,budgeted,,"page_number_string: 
 notes: 
 source_full_citation: PS canton de Neuchâtel. (2015). Budget 2016. Consulté le 11 juin 2026, sur https://www.psn.ch/uploads/be76f91a20fcd80e73e266f91bf391fa18311186.pdf
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 520,379,519205,actual,,"page_number_string: 
 notes: 
 source_full_citation: PS canton de Neuchâtel. (2016). Comptes 2015. Consulté le 11 juin 2026, sur https://www.psn.ch/uploads/5163ed42d7380f175c3f8e28d690e05fed6bfdd3.pdf
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 521,379,467525,budgeted,,"page_number_string: 
 notes: 
 source_full_citation: PS canton de Neuchâtel. (2015). Budget 2016. Consulté le 11 juin 2026, sur https://www.psn.ch/uploads/be76f91a20fcd80e73e266f91bf391fa18311186.pdf
@@ -2712,15 +2712,15 @@ source_comment: ",year,2014-07-01T00:00:00,,
 648,2,4917019,budgeted,,"page_number_string: 
 notes: 
 source_full_citation: SP Schweiz. (2015). Budget 2015. Abgerufen am 12. August 2026 von https://web.archive.org/web/20191012002900/https://www.sp-ps.ch/sites/default/files/documents/vorlage_online_budget_d.pdf
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 649,2,4990060,actual,,"page_number_string: 
 notes: 
 source_full_citation: SP Schweiz. (2018). Schlussdokumentation Delegiertenversammlung 24. Februar 2018. Abgerufen am 12. August 2026 von https://www.sp-ps.ch/wp-content/uploads/2018/01/schlussdoku_d.pdf
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 650,2,2500000,actual,,"page_number_string: 126
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 651,2,3810409,budgeted,,"page_number_string: 
 notes: 
 source_full_citation: SP Schweiz. (2017). Schlussdokumentation Delegiertenversammlung 1. April 2017. Abgerufen am 12. August 2026 von https://web.archive.org/web/20191012002252/https://www.sp-ps.ch/sites/default/files/documents/schlussdokumentation_d_2.pdf
@@ -2886,7 +2886,7 @@ source_comment: ",year,2011-07-01T00:00:00,,
 690,3,9100000,actual,,"page_number_string: 126
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 691,3,9200000,actual,,"page_number_string: 126
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
@@ -3000,7 +3000,7 @@ source_comment: ",year,2011-07-01T00:00:00,,
 716,10,3300000,budgeted,,"page_number_string: 126
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 717,10,5300000,budgeted,,"page_number_string: 126
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
@@ -3084,15 +3084,15 @@ source_comment: ",year,2014-07-01T00:00:00,,
 737,5,900000,budgeted,,"page_number_string: 126
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 738,5,1217958,budgeted,,"page_number_string: 
 notes: 
 source_full_citation: Grüne Schweiz. (2015). Rechnung 2015. Abgerufen am 27. August 2026 von https://web.archive.org/web/20191012001939/https://gruene.ch/wp-content/uploads/2019/01/Jahresrechnung_2015_GRUENE.pdf
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 739,5,1257275,actual,,"page_number_string: 
 notes: 
 source_full_citation: Grüne Schweiz. (2016). Rechnung 2016. Abgerufen am 27. August 2026 von https://web.archive.org/web/20191012001939/https://gruene.ch/wp-content/uploads/2019/01/Jahresrechnung_2016_GRUENE.pdf
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 740,5,1128578,budgeted,,"page_number_string: 
 notes: 
 source_full_citation: Grüne Schweiz. (2016). Rechnung 2016. Abgerufen am 27. August 2026 von https://web.archive.org/web/20191012001939/https://gruene.ch/wp-content/uploads/2019/01/Jahresrechnung_2016_GRUENE.pdf
@@ -3229,7 +3229,7 @@ source_comment: ",year,1996-07-01T00:00:00,,
 773,7,1023899,actual,,"page_number_string: 
 notes: 
 source_full_citation: EVP Schweiz. (2016). Jahresrechnung per 31. Dezember 2016. Abgerufen am 31. August 2026 von https://www.evppev.ch/fileadmin/user_upload/evppev/Events/DV_Luzern_2017/EVPCH_Jahresrechnung_2016.pdf
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 774,7,744700,budgeted,,"page_number_string: 
 notes: 
 source_full_citation: EVP Schweiz. (2016). Jahresrechnung per 31. Dezember 2016. Abgerufen am 31. August 2026 von https://www.evppev.ch/fileadmin/user_upload/evppev/Events/DV_Luzern_2017/EVPCH_Jahresrechnung_2016.pdf
@@ -3401,3 +3401,18 @@ source_comment: ",year,2024-07-01T12:00:00,,
 notes: 
 source_full_citation: Blum, R. (04. September 2026). Trotz Überlastung und Bedeutungsverlust: Die Parteien wachsen wieder. Neue Zürcher Zeitung. Abgerufen am 08. September 2026 von https://www.nzz.ch/schweiz/trotz-ueberlastung-und-bedeutungsverlust-die-parteien-wachsen-wieder-ld.10021080
 source_comment: ",year,2024-07-01T12:00:00,,
+814,357,80000,budgeted,"note_translations: languages_code: de-CH
+note: Budget für Wahlen","page_number_string: 118
+notes: 
+source_full_citation: Tschäni, H. (1979). Parteien, Programme, Parolen. Sauerländer & Ex-Libris-Verlag.
+source_comment: ",year,1975-07-01T12:00:00,,
+815,357,100000,budgeted,"note_translations: languages_code: de-CH
+note: Umsatz ohne Wahlen","page_number_string: 117
+notes: 
+source_full_citation: Tschäni, H. (1979). Parteien, Programme, Parolen. Sauerländer & Ex-Libris-Verlag.
+source_comment: ",year,1979-07-01T12:00:00,,
+816,416,95000,budgeted,"note_translations: languages_code: de-CH
+note: Zwischen 90'000 - 100'000","page_number_string: 91
+notes: 
+source_full_citation: Tschäni, H. (1979). Parteien, Programme, Parolen. Sauerländer & Ex-Libris-Verlag.
+source_comment: ",year,1979-07-01T12:00:00,,

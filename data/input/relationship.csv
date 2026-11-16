@@ -18,7 +18,7 @@ source_full_citation: Bühlmann, M. & Hohl, S. (2025). Ausgewählte Beiträge zu
 source_comment: ",exact,2008-11-01T12:00:00,,,,,,
 6,3,15,2,,,exact,2009-01-01T12:00:00,,,,,,
 7,17,16,2,,,exact,1905-03-19T12:00:00,,,,,,
-8,18,17,2,,,year,1941-07-01T12:00:00,,"page_number_string: 101
+8,18,17,2,,,month,1941-12-15T12:00:00,,"page_number_string: 101
 notes: 
 source_full_citation: Gruner, E. (1977). Die Parteien in der Schweiz (2. Auflage). Francke.
 source_comment: ",,,,
@@ -96,7 +96,12 @@ source_comment: ",exact,2021-03-24T12:00:00,,,,,,
 45,41,5,1,,"page_number_string: 25
 notes: 
 source_full_citation: Bütikofer, S. & Seitz, W. (Hrsg.). (2023). Die Grünen in der Schweiz. Entwicklung - Wirken - Perspektiven. Seismo.
-source_comment: ",year,1984-07-01T12:00:00,,,exact,2006-05-15T12:00:00,,
+source_comment: 
+
+page_number_string: 17
+notes: 
+source_full_citation: Grüne Schweiz. (1989). Kriterien grüner Politik, Programm-Richtlinien, Geschichte, Daten. Grüne Partei der Schweiz.
+source_comment: ",exact,1984-10-07T12:00:00,,,exact,2006-05-15T12:00:00,,
 46,41,37,3,,"page_number_string: 
 notes: 
 source_full_citation: Seitz, W. (2024). Präzisierung zu den organisatorischen Etappen der Grünen Basel-Landschaft und Bern. Unveröffentlichtes Dokument, per E-Mail vom 8.6.2024 von Werner Seitz erhalten.
@@ -124,11 +129,21 @@ source_comment: ",year,1983-07-01T12:00:00,,,year,1986-07-01T12:00:00,,
 53,44,5,1,,"page_number_string: 35
 notes: 
 source_full_citation: Baer, M. & Seitz, W. (Hrsg.). (2008). Die Grünen in der Schweiz: Ihre Politik, ihre Geschichte, ihre Basis. Rüegger Verlag.
-source_comment: ",year,1986-07-01T12:00:00,,,year,1990-07-01T12:00:00,,
+source_comment: 
+
+page_number_string: 17
+notes: 
+source_full_citation: Grüne Schweiz. (1989). Kriterien grüner Politik, Programm-Richtlinien, Geschichte, Daten. Grüne Partei der Schweiz.
+source_comment: ",exact,1986-10-26T12:00:00,,,year,1990-07-01T12:00:00,,
 54,44,5,5,,"page_number_string: 35
 notes: 
 source_full_citation: Baer, M. & Seitz, W. (Hrsg.). (2008). Die Grünen in der Schweiz: Ihre Politik, ihre Geschichte, ihre Basis. Rüegger Verlag.
-source_comment: ",year,1985-07-01T12:00:00,,,year,1986-07-01T12:00:00,,
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Grüne Schweiz. (1989). Kriterien grüner Politik, Programm-Richtlinien, Geschichte, Daten. Grüne Partei der Schweiz.
+source_comment: ",exact,1985-11-17T12:00:00,,,exact,1986-10-26T12:00:00,,
 55,45,44,2,,"page_number_string: 
 notes: 
 source_full_citation: Wikipedia. (2025). Grün alternative Partei. Abgerufen am 17. November 2025 von https://de.wikipedia.org/wiki/Gr%C3%BCn_alternative_Partei
@@ -199,9 +214,14 @@ source_comment:
 page_number_string: 112
 notes: 
 source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
+source_comment: 
+
+page_number_string: 196
+notes: 
+source_full_citation: Gehrig, O. (1969). Das Christlichsoziale in der Politik, unter besonderer Berücksichtigung des Christlichsozialen Arbeiterbundes der Schweiz 1919-1939. Winterthur.
 source_comment: ",year,1909-07-01T12:00:00,,,year,1956-07-01T12:00:00,,
 83,62,57,3,"note_translations: languages_code: de-CH
-note: In der Stadt Luzern hatten sich die Christlichsozialen bereits 1939 abgespalten (Rölli-Alkemper 1993: 172).","page_number_string: 
+note: In der Stadt Luzern hatten sich die Christlichsozialen bereits 1939 abgespalten (Gehrig 1969: 196; Rölli-Alkemper 1993: 172).","page_number_string: 
 notes: 
 source_full_citation: Staatsarchiv Luzern. (2025). CSP (Christlich-soziale Partei) des Kantons und der Stadt Luzern (Provenienz). Abgerufen am 08. Dezember 2025 von https://query-staatsarchiv.lu.ch/detail.aspx?ID=1587955
 source_comment: 
@@ -214,6 +234,11 @@ source_comment:
 page_number_string: 74
 notes: 
 source_full_citation: Altermatt, U. (2000). Die Christlichdemokratische Volkspartei der Schweiz 1945-1999. In H.-J. Veen (Hrsg.), Christlich-demokratische und konservative Parteien in Westeuropa 5 (S. 35-115). Schöningh.
+source_comment: 
+
+page_number_string: 196
+notes: 
+source_full_citation: Gehrig, O. (1969). Das Christlichsoziale in der Politik, unter besonderer Berücksichtigung des Christlichsozialen Arbeiterbundes der Schweiz 1919-1939. Winterthur.
 source_comment: ",year,1956-07-01T12:00:00,,,,,,
 84,66,65,2,,,exact,1997-06-21T12:00:00,,,,,,
 85,66,10,3,,"page_number_string: 
@@ -265,7 +290,10 @@ source_comment: ",year,2008-07-01T12:00:00,,,,,,
 99,75,2,1,,,exact,1890-06-26T12:00:00,,,,,,
 100,76,9,1,,,exact,1894-09-19T12:00:00,,,exact,2009-01-01T12:00:00,,
 101,76,3,1,,,exact,2009-01-01T12:00:00,,,,,,
-102,77,10,1,,,exact,1912-04-22T12:00:00,,,exact,2021-01-01T12:00:00,,
+102,77,10,1,,"page_number_string: 123
+notes: 
+source_full_citation: Meier-Kern, P. (1997). Zwischen Isolation und Integration: die Geschichte der Katholischen Volkspartei Basel–Stadt 1870–1914. Helbing & Lichtenhahn.
+source_comment: ",exact,1912-04-22T12:00:00,,,exact,2021-01-01T12:00:00,,
 103,77,4,1,,,exact,2021-01-01T12:00:00,,,,,,
 104,78,5,1,,,exact,1991-02-05T12:00:00,,,,,,
 105,79,5,5,,"page_number_string: 
@@ -587,12 +615,18 @@ source_comment: ",exact,2005-09-03T12:00:00,,,exact,2023-06-15T12:00:00,,
 218,153,10,1,,"page_number_string: 
 notes: 
 source_full_citation: Arlettaz, S. (2022). Wallis: Der Kanton vom 19. Jahrhundert bis zur Gegenwart, Verfassungsgeschichte und politische Geschichte von 1798 bis zur Gegenwart. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 19. Februar 2026 von https://hls-dhs-dss.ch/de/articles/007396/2022-04-04/#HVerfassungsgeschichteundpolitischeGeschichtevon1798biszurGegenwart
+source_comment: 
+
+page_number_string: 210
+notes: 
+source_full_citation: Gehrig, O. (1969). Das Christlichsoziale in der Politik, unter besonderer Berücksichtigung des Christlichsozialen Arbeiterbundes der Schweiz 1919-1939. Winterthur.
 source_comment: ",year,1949-07-01T12:00:00,,,exact,2021-01-01T12:00:00,,
 219,153,4,1,,"page_number_string: 
 notes: 
-source_full_citation: Keystone-SDA. (20. Februar 2026). Die Oberwalliser Partei Neo trennt sich von der Mitte. Abgerufen am 23. Februar 2026 von https://www.swissinfo.ch/ger/die-oberwalliser-partei-neo-trennt-sich-von-der-mitte/90972601
+source_full_citation: Keystone-SDA. (20. Februar 2026). Die Oberwalliser Partei Neo trennt sich von der Mitte. Abgerufen am 23. Februar 2026 von https://web.archive.org/web/20260220221822/https://www.swissinfo.ch/ger/die-oberwalliser-partei-neo-trennt-sich-von-der-mitte/90972601
 source_comment: ",exact,2021-01-01T12:00:00,,,exact,2026-02-19T12:00:00,,
-220,153,152,3,,"page_number_string: 
+220,153,152,3,"note_translations: languages_code: de-CH
+note: Bei Gehrig (1969: 210) wird die Trennung hingegen auf das Jahr 1951 datiert.","page_number_string: 
 notes: 
 source_full_citation: Wikipedia. (2026). Die Mitte Oberwallis. Abgerufen am 23. Februar 2026 von https://de.wikipedia.org/wiki/Die_Mitte_Oberwallis
 source_comment: ",year,1949-07-01T12:00:00,,,,,,
@@ -674,7 +708,7 @@ source_comment: ",exact,1990-10-26T12:00:00,,,year,1994-07-01T12:00:00,,
 249,170,5,1,,"page_number_string: 
 notes: 
 source_full_citation: Rinderknecht, M. (1991). Ausschluss und Aufnahme von Sektionen und Gruppen bei der GPS 1991. In Année Politique Suisse. Abgerufen am 02. Februar 2026 von https://anneepolitique.swiss/prozesse/60465-ausschluss-und-aufnahme-von-sektionen-und-gruppen-bei-der-gps-1991
-source_comment: ",year,1985-07-01T12:00:00,,,exact,1991-05-04T12:00:00,,
+source_comment: ",exact,1985-04-21T12:00:00,,,exact,1991-05-04T12:00:00,,
 250,173,6,1,,,exact,2013-02-22T12:00:00,,,,,,
 251,174,8,1,,,year,2005-07-01T12:00:00,,,,,,
 252,175,14,1,,"page_number_string: 
@@ -729,7 +763,12 @@ source_comment: ",year,1989-07-01T12:00:00,,,year,1999-07-01T12:00:00,,
 271,188,5,5,,"page_number_string: 35
 notes: 
 source_full_citation: Baer, M. & Seitz, W. (Hrsg.). (2008). Die Grünen in der Schweiz: Ihre Politik, ihre Geschichte, ihre Basis. Rüegger Verlag.
-source_comment: ",year,1988-07-01T12:00:00,,,year,1999-07-01T12:00:00,,
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Grüne Schweiz. (1989). Kriterien grüner Politik, Programm-Richtlinien, Geschichte, Daten. Grüne Partei der Schweiz.
+source_comment: ",exact,1988-11-05T12:00:00,,,year,1989-07-01T12:00:00,,
 272,187,188,2,,,exact,2007-06-21T12:00:00,,,,,,
 273,189,6,1,,,exact,2012-08-22T12:00:00,,,,,,
 274,190,7,1,,,exact,2009-08-31T12:00:00,,,,,,
@@ -754,6 +793,11 @@ source_comment:
 page_number_string: 
 notes: 
 source_full_citation: CSP Kanton Obwalden. (2026). Geschichte. Abgerufen am 5. August 2026 von https://web.archive.org/web/20260412020146/https://www.csp-ow.ch/partei/geschichte/
+source_comment: 
+
+page_number_string: 198-199
+notes: 
+source_full_citation: Gehrig, O. (1969). Das Christlichsoziale in der Politik, unter besonderer Berücksichtigung des Christlichsozialen Arbeiterbundes der Schweiz 1919-1939. Winterthur.
 source_comment: ",year,1956-07-01T12:00:00,,,,,,
 286,199,10,1,,"page_number_string: 
 notes: 
@@ -773,6 +817,11 @@ source_comment:
 page_number_string: 79
 notes: 
 source_full_citation: Altermatt, U. (2000). Die Christlichdemokratische Volkspartei der Schweiz 1945-1999. In H.-J. Veen (Hrsg.), Christlich-demokratische und konservative Parteien in Westeuropa 5 (S. 35-115). Schöningh.
+source_comment: 
+
+page_number_string: 198
+notes: 
+source_full_citation: Gehrig, O. (1969). Das Christlichsoziale in der Politik, unter besonderer Berücksichtigung des Christlichsozialen Arbeiterbundes der Schweiz 1919-1939. Winterthur.
 source_comment: ",year,1956-07-01T12:00:00,,,year,2002-07-01T12:00:00,,
 287,201,1,1,,,exact,1999-08-28T12:00:00,,,,,,
 288,202,2,1,,,year,1942-07-01T12:00:00,,,,,,
@@ -791,6 +840,11 @@ source_comment: ",year,1970-07-01T12:00:00,,,,,,
 295,206,205,3,,"page_number_string: 148
 notes: 
 source_full_citation: Vatter, A. (2002). Kantonale Demokratien im Vergleich: Entstehungsgründe, Interaktionen und Wirkungen politischer Institutionen in den Schweizer Kantonen. Leske + Budrich.
+source_comment: 
+
+page_number_string: 199
+notes: 
+source_full_citation: Gehrig, O. (1969). Das Christlichsoziale in der Politik, unter besonderer Berücksichtigung des Christlichsozialen Arbeiterbundes der Schweiz 1919-1939. Winterthur.
 source_comment: ",year,1946-07-01T12:00:00,,,,,,
 296,204,206,2,,"page_number_string: 
 notes: 
@@ -806,7 +860,7 @@ source_full_citation: Baer, M. & Seitz, W. (Hrsg.). (2008). Die Grünen in der S
 source_comment: ",year,2001-07-01T12:00:00,,,exact,2005-04-16T12:00:00,,
 299,208,6,1,,,exact,2021-06-21T12:00:00,,,,,,
 300,11,209,2,,,exact,1936-12-23T12:00:00,,,,,,
-301,210,18,1,,,year,1941-07-01T12:00:00,,,exact,1971-09-22T12:00:00,,
+301,210,18,1,,,month,1941-12-15T12:00:00,,,exact,1971-09-22T12:00:00,,
 302,210,1,1,,"page_number_string: 
 notes: 
 source_full_citation: Ehinger, P. (1972). Parteien. In Année Politique Suisse 1972. Abgerufen am 31. März 2026 von https://anneepolitique.swiss/APS/de/APS_1972/APS1972_III_a.html
@@ -824,7 +878,12 @@ source_comment: ",exact,2021-05-12T12:00:00,,,,,,
 310,215,5,1,,"page_number_string: 
 notes: 
 source_full_citation: Grüne Kanton Glarus. (2014). Grüne des Kantons Glarus. Abgerufen am 31. März 2026 von https://web.archive.org/web/20141115175112/http:/gruene-gl.ch/?id=1388709234
-source_comment: ",month,1988-04-15T12:00:00,,,,,,
+source_comment: 
+
+page_number_string: 18
+notes: 
+source_full_citation: Grüne Schweiz. (1989). Kriterien grüner Politik, Programm-Richtlinien, Geschichte, Daten. Grüne Partei der Schweiz.
+source_comment: ",exact,1988-05-08T12:00:00,,,,,,
 311,216,6,1,,,exact,2013-03-14T12:00:00,,,,,,
 312,217,8,1,,,year,1991-07-01T12:00:00,,,,,,
 313,218,13,1,,,exact,2008-11-01T12:00:00,,,exact,2021-01-01T12:00:00,,
@@ -876,6 +935,11 @@ source_comment: ",exact,2005-08-27T12:00:00,,,,,,
 330,206,10,1,,"page_number_string: 112
 notes: 
 source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
+source_comment: 
+
+page_number_string: 199
+notes: 
+source_full_citation: Gehrig, O. (1969). Das Christlichsoziale in der Politik, unter besonderer Berücksichtigung des Christlichsozialen Arbeiterbundes der Schweiz 1919-1939. Winterthur.
 source_comment: ",year,1946-07-01T12:00:00,,,year,1970-07-01T12:00:00,,
 331,199,66,5,"note_translations: languages_code: de-CH
 note: Die CSP OW war gemäss ihrer eigenen Website (CSP Kanton Obwalden 2026) und Bühlmann (2013) zwischen 2005 und 2009 ein ""assoziiertes Mitglied"" der CSP Schweiz.","page_number_string: 
@@ -890,6 +954,11 @@ source_comment: ",year,2005-07-01T12:00:00,,,year,2009-07-01T12:00:00,,
 332,185,10,1,,"page_number_string: 112
 notes: 
 source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
+source_comment: 
+
+page_number_string: 198
+notes: 
+source_full_citation: Gehrig, O. (1969). Das Christlichsoziale in der Politik, unter besonderer Berücksichtigung des Christlichsozialen Arbeiterbundes der Schweiz 1919-1939. Winterthur.
 source_comment: ",year,1946-07-01T12:00:00,,,exact,1971-11-27T12:00:00,,
 333,228,7,1,,,exact,2021-12-09T12:00:00,,,,,,
 334,230,8,1,,,exact,2025-01-24T12:00:00,,,,,,
@@ -922,11 +991,21 @@ source_comment: ",year,2006-07-01T12:00:00,,,,,,
 349,238,5,1,,"page_number_string: 35
 notes: 
 source_full_citation: Baer, M. & Seitz, W. (Hrsg.). (2008). Die Grünen in der Schweiz: Ihre Politik, ihre Geschichte, ihre Basis. Rüegger Verlag.
-source_comment: ",year,1987-07-01T12:00:00,,,year,1990-07-01T12:00:00,,
+source_comment: 
+
+page_number_string: 18
+notes: 
+source_full_citation: Grüne Schweiz. (1989). Kriterien grüner Politik, Programm-Richtlinien, Geschichte, Daten. Grüne Partei der Schweiz.
+source_comment: ",exact,1987-09-13T12:00:00,,,year,1990-07-01T12:00:00,,
 350,238,5,5,,"page_number_string: 35
 notes: 
 source_full_citation: Baer, M. & Seitz, W. (Hrsg.). (2008). Die Grünen in der Schweiz: Ihre Politik, ihre Geschichte, ihre Basis. Rüegger Verlag.
-source_comment: ",year,1986-07-01T12:00:00,,,year,1987-07-01T12:00:00,,
+source_comment: 
+
+page_number_string: 17
+notes: 
+source_full_citation: Grüne Schweiz. (1989). Kriterien grüner Politik, Programm-Richtlinien, Geschichte, Daten. Grüne Partei der Schweiz.
+source_comment: ",exact,1986-10-26T12:00:00,,,exact,1987-09-13T12:00:00,,
 351,239,238,2,,"page_number_string: 
 notes: 
 source_full_citation: Verts canton Fribourg. (2010). Historique. Consulté le 20 avril 2026, sur https://web.archive.org/web/20100409053902/http:/www.verts-fr.ch/cms/le-parti/historique/
@@ -950,7 +1029,12 @@ source_comment: ",exact,1997-06-21T12:00:00,,,,,,
 358,243,236,3,,"page_number_string: 
 notes: 
 source_full_citation: Dorand, J.-P. (2005). Fribourg (canton) : Le canton aux XIXe et XXe siècles, Histoire politique et constitutionnelle, Des crises à l'ouverture économique (1921-1966). In Dictionnaire historique de la Suisse (DHS). Consulté le  15 avril 2026, sur https://hls-dhs-dss.ch/fr/articles/007379/2023-03-09/
-source_comment: ",year,1966-07-01T12:00:00,,,,,,
+source_comment: 
+
+page_number_string: 202
+notes: 
+source_full_citation: Gehrig, O. (1969). Das Christlichsoziale in der Politik, unter besonderer Berücksichtigung des Christlichsozialen Arbeiterbundes der Schweiz 1919-1939. Winterthur.
+source_comment: ",year,1966-06-02T12:00:00,,,,,,
 359,243,65,1,,"page_number_string: 123
 notes: 
 source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
@@ -1167,7 +1251,7 @@ source_comment: ",year,1971-07-01T12:00:00,,,,,,
 456,308,14,1,,,year,1944-07-01T12:00:00,,,multiyear,1985-01-01T12:00:00,,
 457,309,308,2,,,exact,2003-02-28T12:00:00,,,,,,
 458,309,14,1,,,exact,2003-02-28T12:00:00,,,unknown,2020-01-01T12:00:00,,
-459,311,18,1,,,year,1941-07-01T12:00:00,,,exact,1971-09-22T12:00:00,,
+459,311,18,1,,,month,1941-12-15T12:00:00,,,exact,1971-09-22T12:00:00,,
 460,311,1,1,"note_translations: languages_code: de-CH
 note: Formeller Ausschlussbeschluss von Mutterpartei mit 30-tägiger Rekursfrist. Am 16. Juni wurde die neue Partei gegründet.","page_number_string: 
 notes: 
@@ -1235,6 +1319,11 @@ source_comment: ",exact,1987-11-07T12:00:00,,,month,1989-05-15T12:00:00,,
 486,326,320,3,,"page_number_string: 148
 notes: 
 source_full_citation: Vatter, A. (2002). Kantonale Demokratien im Vergleich: Entstehungsgründe, Interaktionen und Wirkungen politischer Institutionen in den Schweizer Kantonen. Leske + Budrich.
+source_comment: 
+
+page_number_string: 206
+notes: 
+source_full_citation: Gehrig, O. (1969). Das Christlichsoziale in der Politik, unter besonderer Berücksichtigung des Christlichsozialen Arbeiterbundes der Schweiz 1919-1939. Winterthur.
 source_comment: ",exact,1936-11-15T12:00:00,,,,,,
 487,325,326,2,,"page_number_string: 55
 notes: 
@@ -1284,7 +1373,10 @@ source_comment: ",,,,
 501,333,4,1,,,exact,2021-01-01T12:00:00,,,exact,2021-01-19T12:00:00,,
 502,331,333,2,,,exact,2021-01-19T12:00:00,,,,,,
 503,334,43,1,,,exact,1983-08-13T12:00:00,,,year,1988-07-01T12:00:00,,
-504,334,5,1,,,year,1988-07-01T12:00:00,,,,,,
+504,334,5,1,,"page_number_string: 19
+notes: 
+source_full_citation: Grüne Schweiz. (1989). Kriterien grüner Politik, Programm-Richtlinien, Geschichte, Daten. Grüne Partei der Schweiz.
+source_comment: ",exact,1988-11-05T12:00:00,,,,,,
 505,335,6,1,,,exact,2008-06-27T12:00:00,,,,,,
 506,336,7,1,,,month,1921-10-15T12:00:00,,,,,,
 507,337,8,1,,,year,1987-07-01T12:00:00,,,,,,
@@ -1305,7 +1397,12 @@ source_comment: ",year,2022-07-01T12:00:00,,,,,,
 522,347,5,1,,"page_number_string: 35
 notes: 
 source_full_citation: Baer, M. & Seitz, W. (Hrsg.). (2008). Die Grünen in der Schweiz: Ihre Politik, ihre Geschichte, ihre Basis. Rüegger Verlag.
-source_comment: ",year,1984-07-01T12:00:00,,,,,,
+source_comment: 
+
+page_number_string: 17
+notes: 
+source_full_citation: Grüne Schweiz. (1989). Kriterien grüner Politik, Programm-Richtlinien, Geschichte, Daten. Grüne Partei der Schweiz.
+source_comment: ",exact,1984-03-25T12:00:00,,,,,,
 523,348,6,1,,,exact,2008-01-09T12:00:00,,,,,,
 524,349,7,1,,,year,1955-07-01T12:00:00,,,,,,
 525,350,8,1,,,year,1997-07-01T12:00:00,,,,,,
@@ -1499,6 +1596,11 @@ source_comment: ",month,1974-05-15T12:00:00,,,year,1987-07-01T12:00:00,,
 616,243,10,1,,"page_number_string: 116, 123
 notes: 
 source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
+source_comment: 
+
+page_number_string: 202
+notes: 
+source_full_citation: Gehrig, O. (1969). Das Christlichsoziale in der Politik, unter besonderer Berücksichtigung des Christlichsozialen Arbeiterbundes der Schweiz 1919-1939. Winterthur.
 source_comment: ",year,1966-07-01T12:00:00,,,exact,1976-05-22T12:00:00,,
 617,65,10,3,,,exact,1976-05-22T12:00:00,,"page_number_string: 116
 notes: 
@@ -1513,7 +1615,7 @@ source_comment: ",exact,1921-03-06T12:00:00,,,,,,
 621,96,411,1,,,year,1921-07-01T12:00:00,,,multimonth,1940-11-26T12:00:00,,
 622,120,411,1,,,year,1921-07-01T12:00:00,,,multimonth,1940-11-26T12:00:00,,
 626,6,5,3,"note_translations: languages_code: de-CH
-note: Wir folgen hier Vatter (2024: 107), der von einer Abspaltung ausgeht. Es ist indessen nicht eindeutig, ob die GLP auf nationaler Ebene als Abspaltung der Grünen zu gelten hat. Seitz (2013) diskutiert diese Frage differenziert. Fest steht, dass die GLP im Kanton Zürich als Abspaltung der kantonalen Grünen entstand und zur Keimzelle der nationalen GLP wurde.","page_number_string: 107
+note: Wir folgen hier Vatter (2024: 107), der von einer Abspaltung ausgeht. Es ist indessen Auslegungssache, ob die GLP auf nationaler Ebene als Abspaltung der Grünen zu gelten hat. Seitz (2013) diskutiert diese Frage differenziert. Fest steht, dass die GLP im Kanton Zürich 2004 als Abspaltung der kantonalen Grünen entstand und zur Keimzelle der nationalen GLP wurde; auch die St.Galler Kantonalpartei entstand 2006 als Abspaltung von den dortigen Grünen. Danach und in den übrigen Kantonen kann gemäss Seitz (2013) nicht von Grünen-Abspaltungen gesprochen werden.","page_number_string: 107
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
 source_comment: ",exact,2007-07-19T12:00:00,,,,,,
@@ -1573,6 +1675,11 @@ source_comment: ",exact,1989-05-03T12:00:00,,,,,,
 645,62,10,1,,"page_number_string: 112
 notes: 
 source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
+source_comment: 
+
+page_number_string: 196
+notes: 
+source_full_citation: Gehrig, O. (1969). Das Christlichsoziale in der Politik, unter besonderer Berücksichtigung des Christlichsozialen Arbeiterbundes der Schweiz 1919-1939. Winterthur.
 source_comment: ",year,1956-07-01T12:00:00,,,exact,1976-05-22T12:00:00,,
 646,62,65,1,,"page_number_string: 
 notes: 
@@ -1596,6 +1703,11 @@ source_comment:
 page_number_string: 112
 notes: 
 source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
+source_comment: 
+
+page_number_string: 197-198
+notes: 
+source_full_citation: Gehrig, O. (1969). Das Christlichsoziale in der Politik, unter besonderer Berücksichtigung des Christlichsozialen Arbeiterbundes der Schweiz 1919-1939. Winterthur.
 source_comment: ",year,1946-07-01T12:00:00,,"page_number_string: 112
 notes: 
 source_full_citation: Casetti, G. (1979). Partei und Christlichsoziale: Die heilsame Unruh. In U. Altermatt & H. P. Fagagnini (Hrsg.), Die CVP zwischen Programm und Wirklichkeit (S. 106-123). Benziger.
@@ -1606,8 +1718,8 @@ notes:
 source_full_citation: Altermatt, U. (2000). Die Christlichdemokratische Volkspartei der Schweiz 1945-1999. In H.-J. Veen (Hrsg.), Christlich-demokratische und konservative Parteien in Westeuropa 5 (S. 35-115). Schöningh.
 source_comment: ",,,,
 648,326,320,1,"note_translations: languages_code: de-CH
-note: Gemäss Rölli-Alkemper (1993: 175) handelte die CSP auch nach dem Ausgleich von 1938 ""in den folgenden Jahren als eigenständige Partei"" und er präsentiert Graubünden als Beispiel für ein Modell «mit zwei selbständigen Parteien», im Gegensatz zum St. Galler Modell «mit der Einordnung der Christlichsozialen in eine katholisch-konservative Rahmenpartei».
-Gemäss Collenberg (2004) und CVP Graubünden (2003: 54-55) kamen aber «die Vertreter der CSP [nach dem Kompromiss von 1938] nach wie vor den Pflichten der Gesamtpartei nach» bzw. «reorganisierte» sich die vormalige KDP zur «Konservativen Volkspartei (KVP) und arrangierte sich mit der Tochterpartei CSP».","page_number_string: 54-55
+note: Zum Zeitpunkt der Reintegration der CSP in die Konservative Partei gibt es in der Literatur unterschiedliche Darstellungen (1938 vs. 1951). Wir folgen hier Gehrig (1969: 207), bei dem es heisst: «Im Jahre 1951 wurde die CSP in die konservative Partei inregriert (gegenseitiges Verhältnis ungefähr wie in St. Gallen), vorher war die CSP praktisch selbständig». Auch gemäss Rölli-Alkemper (1993: 175) handelte die CSP über den Ausgleich von 1938 hinaus «in den folgenden Jahren als eigenständige Partei» und er präsentiert Graubünden als Beispiel für ein Modell «mit zwei selbständigen Parteien», im Gegensatz zum St. Galler Modell «mit der Einordnung der Christlichsozialen in eine katholisch-konservative Rahmenpartei».
+Gemäss Collenberg (2004) und CVP Graubünden (2003: 54-55) kamen hingegen «die Vertreter der CSP [nach dem Kompromiss von 1938] nach wie vor den Pflichten der Gesamtpartei nach» bzw. «reorganisierte» sich die vormalige KDP 1938 zur «Konservativen Volkspartei (KVP) und arrangierte sich mit der Tochterpartei CSP».","page_number_string: 54-55
 notes: 
 source_full_citation: CVP Kanton Graubünden. (2003). 100 jahre cvp graubünden. Spescha & Grünenfelder.
 source_comment: 
@@ -1615,7 +1727,12 @@ source_comment:
 page_number_string: 
 notes: 
 source_full_citation: Collenberg, A. (2004). Graubünden; Der Staat im 19. und 20. Jahrhundert. In Historisches Lexikon der Schweiz (HLS). Abgerufen am 7. August 2026 von https://hls-dhs-dss.ch/de/articles/007391/2023-08-29/#HDerStaatim19.und20.Jahrhundert
-source_comment: ",year,1938-07-01T12:00:00,,,multiyear,1972-01-01T12:00:00,,
+source_comment: 
+
+page_number_string: 207
+notes: 
+source_full_citation: Gehrig, O. (1969). Das Christlichsoziale in der Politik, unter besonderer Berücksichtigung des Christlichsozialen Arbeiterbundes der Schweiz 1919-1939. Winterthur.
+source_comment: ",year,1951-07-01T12:00:00,,,multiyear,1972-01-01T12:00:00,,
 649,426,66,1,,"page_number_string: 
 notes: 
 source_full_citation: Christlich-soziale Partei Zürich. (2026). Christlich-soziale Partei Zürich. Abgerufen am 10. August 2026 von https://web.archive.org/web/20260809225754/https://www.csp-zh.ch/
@@ -1680,6 +1797,11 @@ source_comment:
 page_number_string: 
 notes: 
 source_full_citation: Landolt, F. (2026). Auskunft zur Parteigeschichte der CSP Glarus Nord. Unveröffentlicht,per E-Mail vom 29.7.2026 an Hans-Peter Schaub erhalten.
+source_comment: 
+
+page_number_string: 200
+notes: 
+source_full_citation: Gehrig, O. (1969). Das Christlichsoziale in der Politik, unter besonderer Berücksichtigung des Christlichsozialen Arbeiterbundes der Schweiz 1919-1939. Winterthur.
 source_comment: ",multimonth,1947-02-01T12:00:00,,,exact,2012-03-16T12:00:00,,
 660,432,431,2,,"page_number_string: 
 notes: 
@@ -1796,3 +1918,54 @@ notes:
 source_full_citation: Seitz, W. (2013). Die Grünliberale Partei (GLP): Sind die Grünliberalen eine Rechtsabspaltung der Grünen? In O. Mazzoleni, Oscar & O. Meuwly (Hrsg.), Schweizerische Parteien in Bewegung. Nachbarschaft und Konflikte (S. 123-155). NZZ Libro.
 source_comment: ",year,2006-07-01T12:00:00,,,,,,
 693,448,356,1,,,multiyear,1987-01-01T12:00:00,,,unknown,2000-01-01T12:00:00,,
+694,450,9,1,,"page_number_string: 25, 35
+notes: 
+source_full_citation: Jent, V. (1967). Kämpfe, Erfolge, Schlappen. Hundert Jahre Demokratische Partei des Kantons Zürich. Gemsberg-Verlag Winterthur.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Wikipedia. (2026). Demokratische Partei (Schweiz). Abgerufen am 27. Oktober 2026 von https://de.wikipedia.org/wiki/Demokratische_Partei_(Schweiz)#Kanton_Z%C3%BCrich
+source_comment: ",exact,1894-02-25T12:00:00,,,exact,1941-11-01T12:00:00,,
+695,450,18,1,,"page_number_string: 35f.
+notes: 
+source_full_citation: Jent, V. (1967). Kämpfe, Erfolge, Schlappen. Hundert Jahre Demokratische Partei des Kantons Zürich. Gemsberg-Verlag Winterthur.
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: ?. (13. November 1941). Eine schweizerische demokratische Partei. Anzeiger von Uster. Abgerufen am 27. Oktober 2026 von https://www.e-newspaperarchives.ch/?a=d&d=AVU19411113-01.2.11
+source_comment: ",month,1941-12-15T12:00:00,,,exact,1971-08-18T12:00:00,,
+696,24,450,2,,"page_number_string: 11
+notes: 
+source_full_citation: FDP Schweiz. (2006). FDP Partei & Organisation. FDP Schweiz Generalsekretariat.
+source_comment: ",exact,1971-08-18T12:00:00,,,,,,
+697,326,10,1,,"page_number_string: 207
+notes: 
+source_full_citation: Gehrig, O. (1969). Das Christlichsoziale in der Politik, unter besonderer Berücksichtigung des Christlichsozialen Arbeiterbundes der Schweiz 1919-1939. Winterthur.
+source_comment: ",exact,1936-11-15T12:00:00,,,multiyear,1972-01-01T12:00:00,,
+698,345,344,3,,"page_number_string: 208
+notes: 
+source_full_citation: Gehrig, O. (1969). Das Christlichsoziale in der Politik, unter besonderer Berücksichtigung des Christlichsozialen Arbeiterbundes der Schweiz 1919-1939. Winterthur.
+source_comment: ",year,1947-07-01T12:00:00,,,,,,
+699,449,356,1,,,exact,1991-12-04T12:00:00,,,exact,2003-01-01T12:00:00,,
+700,451,356,1,,,multiyear,1987-01-01T12:00:00,,,unknown,2000-01-01T12:00:00,,
+701,454,356,1,,,month,1988-10-15T12:00:00,,,year,2000-07-01T12:00:00,,
+702,455,356,1,,,exact,1991-06-18T12:00:00,,,unknown,2000-01-01T12:00:00,,
+703,456,356,1,,,exact,1987-07-13T12:00:00,,,year,1995-07-15T12:00:00,,
+704,457,356,1,,,month,1987-09-15T12:00:00,,,exact,2001-04-23T12:00:00,,
+705,458,356,1,,,exact,2003-01-20T12:00:00,,,unknown,2009-01-01T12:00:00,,
+706,458,457,2,,"page_number_string: 
+notes: 
+source_full_citation: Lenz, S. (24. Januar 2003). Im Thurgau gibt es wieder eine Freiheits-Partei. Thurgauer Zeitung. Abgerufen am 04. November 2026 von https://www.e-newspaperarchives.ch/?a=d&d=TGZ20030124-01.2.18.5
+source_comment: ",exact,2003-01-20T12:00:00,,,,,,
+707,459,356,1,,,exact,1989-03-29T12:00:00,,,unknown,1995-01-01T12:00:00,,
+708,460,356,1,,,exact,1989-03-29T12:00:00,,,unknown,1995-01-01T12:00:00,,
+710,170,5,5,,"page_number_string: 17
+notes: 
+source_full_citation: Grüne Schweiz. (1989). Kriterien grüner Politik, Programm-Richtlinien, Geschichte, Daten. Grüne Partei der Schweiz.
+source_comment: ",exact,1984-10-07T12:00:00,,,exact,1985-04-21T12:00:00,,
+711,334,5,5,,"page_number_string: 18
+notes: 
+source_full_citation: Grüne Schweiz. (1989). Kriterien grüner Politik, Programm-Richtlinien, Geschichte, Daten. Grüne Partei der Schweiz.
+source_comment: ",exact,1987-09-13T12:00:00,,,exact,1988-11-05T12:00:00,,

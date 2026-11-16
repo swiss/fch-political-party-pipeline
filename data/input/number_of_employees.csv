@@ -26,7 +26,7 @@ source_comment: ",year,2012-07-01T00:00:00,,
 7,1,12.6,,"page_number_string: 124
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 8,1,15.5,,"page_number_string: 124
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
@@ -66,7 +66,7 @@ source_comment: ",year,2012-07-01T00:00:00,,
 17,2,14.5,,"page_number_string: 124
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 18,20,1.5,,"page_number_string: 359
 notes: 
 source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
@@ -155,12 +155,30 @@ source_comment: ",year,1990-07-01T00:00:00,,
 notes: 
 source_full_citation: Ladner, A. & Brändle, M. (2001). Die Schweizer Parteien im Wandel: Von Mitgliederparteien zu professionalisierten Wählerorganisationen? Seismo Verlag.
 source_comment: ",year,1997-07-01T00:00:00,,
-40,37,2.2,,,year,2018-07-01T12:00:00,,
-41,37,2.2,,,year,2019-07-01T00:00:00,,
-42,37,2.25,,,year,2020-07-01T00:00:00,,
-43,37,2.25,,,year,2021-07-01T00:00:00,,
-44,37,2.2,,,year,2022-07-01T00:00:00,,
-45,37,2.2,,,year,2023-07-01T00:00:00,,
+40,37,2.2,,"page_number_string: 
+notes: 
+source_full_citation: FDP.Die Liberalen Kanton Bern. (2019). Jahresbericht 2018. Abgerufen am 07. November 2025 von https://www.fdp-be.ch/fileadmin/groups/145/pdf/Jahresbericht_Bern_2018_DEF_20190408.pdf
+source_comment: ",exact,2018-12-31T12:00:00,,
+41,37,2.2,,"page_number_string: 
+notes: 
+source_full_citation: FDP.Die Liberalen Kanton Bern. (2020). Jahresbericht 2019. Abgerufen am 07. November 2025 von https://www.fdp-be.ch/fileadmin/groups/145/pdf/Jahresberichte/Jahresbericht_Bern_2019_DEF.pdf
+source_comment: ",exact,2019-12-31T12:00:00,,
+42,37,2.25,,"page_number_string: 
+notes: 
+source_full_citation: FDP.Die Liberalen Kanton Bern. (2021). Jahresbericht 2020. Abgerufen am 07. November 2025 von https://www.fdp-be.ch/fileadmin/groups/145/pdf/Jahresbericht_FDP.Die_Liberalen_Kanton_Bern_2020_def..pdf
+source_comment: ",exact,2020-12-31T12:00:00,,
+43,37,2.25,,"page_number_string: 
+notes: 
+source_full_citation: FDP.Die Liberalen Kanton Bern. (2022). Jahresbericht 2021. Abgerufen am 07. November 2025 von https://www.fdp-be.ch/fileadmin/groups/145/pdf/Jahresberichte/Jahresbericht_FDP.Die_Liberalen_Kanton_Bern_2021_def..pdf
+source_comment: ",exact,2021-12-31T12:00:00,,
+44,37,2.2,,"page_number_string: 
+notes: 
+source_full_citation: FDP.Die Liberalen Kanton Bern. (2023). Jahresbericht 2022. Abgerufen am 07. November 2025 von https://www.fdp-be.ch/fileadmin/groups/145/pdf/Jahresberichte/Jahresbericht_FDP.Die_Liberalen_Kanton_Bern_2022_def.pdf
+source_comment: ",exact,2022-12-31T12:00:00,,
+45,37,2.2,,"page_number_string: 
+notes: 
+source_full_citation: FDP.Die Liberalen Kanton Bern. (2024). Jahresbericht 2023. Abgerufen am 07. November 2025 von https://www.fdp-be.ch/fileadmin/groups/145/pdf/Jahresberichte/Jahresbericht_FDP.Die_Liberalen_Kanton_Bern_2023_def.pdf
+source_comment: ",exact,2023-12-31T12:00:00,,
 46,47,1.45,,,year,2019-07-01T12:00:00,,"page_number_string: 
 notes: 
 source_full_citation: EVP Kanton Bern. (2021). Die Anfänge der EVP: Erfolgreicher Start und langer Atem. Abgerufen am 24. November 2025 von https://www.evp-be.ch/fileadmin/user_upload/bern/PDF/Geschichte/Geschichte_EVP_BE_Anfaenge.pdf
@@ -1123,7 +1141,7 @@ source_comment: ",year,2012-07-01T00:00:00,,
 317,3,22,,"page_number_string: 124
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 318,3,25,,"page_number_string: 124
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
@@ -1175,7 +1193,7 @@ source_comment: ",year,2012-07-01T00:00:00,,
 330,10,17,,"page_number_string: 124
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 331,10,17.45,,"page_number_string: 124
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
@@ -1199,7 +1217,7 @@ source_comment: ",year,2012-07-01T00:00:00,,
 336,5,7.2,,"page_number_string: 124
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.
-source_comment: ",year,2015-07-01T00:00:00,,
+source_comment: ",exact,2015-03-08T00:00:00,,
 337,5,8.6,,"page_number_string: 124
 notes: 
 source_full_citation: Vatter, A. (2024). Das politische System der Schweiz (5. Auflage). Nomos.

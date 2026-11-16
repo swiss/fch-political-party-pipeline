@@ -55740,7 +55740,7 @@ source_comment: "
 notes: 
 source_full_citation: Bundesamt für Statistik. (2020). Kanton Waadt: nationale und kantonale Wahlen seit 1919. Abgerufen am 05. Juni 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.12047161.html
 source_comment: "
-14071,1,0.333333333,2,360,1815,1,,,"page_number_string: 
+14071,1,33.3333333,2,360,1815,1,,,"page_number_string: 
 notes: 
 source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 2023: Mandate, gewählte Frauen und Männer, Parteistärke sowie Veränderung zu den letzten Wahlen und stärkste Partei (Schweiz, Kantone, Gemeinden). Abgerufen am 10. November 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.28845352.html
 source_comment: "
@@ -55796,7 +55796,7 @@ source_comment: "
 notes: 
 source_full_citation: Bundesamt für Statistik. (2020). Kanton Waadt: nationale und kantonale Wahlen seit 1919. Abgerufen am 05. Juni 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.12047161.html
 source_comment: "
-14085,2,99.66666667,4,360,1815,1,,,"page_number_string: 
+14085,2,66.6666666667,4,360,1815,1,,,"page_number_string: 
 notes: 
 source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen 2023: Mandate, gewählte Frauen und Männer, Parteistärke sowie Veränderung zu den letzten Wahlen und stärkste Partei (Schweiz, Kantone, Gemeinden). Abgerufen am 10. November 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.28845352.html
 source_comment: "
@@ -66534,7 +66534,7 @@ source_comment: "
 notes: 
 source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen: Zeitreihen zu Listen, Kandidierenden, Parteistärken, Mandaten, gewählten Frauen und Männern, stärkste Partei (Schweiz und Kantone). Abgerufen am 10. November 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.28845369.html
 source_comment: "
-16772,1,0,0,358,1766,1,,,
+16772,1,0,0,358,,1,,,
 16773,1,0,0,358,1778,1,,,
 16774,1,0,0,435,57,1,,,"page_number_string: 
 notes: 
@@ -67141,10 +67141,14 @@ source_comment: "
 notes: 
 source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
 source_comment: "
-16926,2,42.85714285714286,3,2,,1,2,,
-16927,1,57.14285714285714,4,2,,1,3,,
-16928,1,50,4,2,,1,4,,
-16929,2,50,4,2,,1,5,,
+16926,2,42.85714285714286,3,2,,1,2,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Die Fraktionen. Abgerufen am 29. Oktober 2026 von https://www.parlament.ch/de/organe/fraktionen
+source_comment: "
+16927,1,57.14285714285714,4,2,,1,3,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Die Fraktionen. Abgerufen am 29. Oktober 2026 von https://www.parlament.ch/de/organe/fraktionen
+source_comment: "
 16930,1,10,1,195,784,1,,,"page_number_string: 
 notes: 
 source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
@@ -67960,4 +67964,794 @@ source_comment: "
 17145,2,71.42857143,5,448,1122,2,,,"page_number_string: 
 notes: 
 source_full_citation: Bundesamt für Statistik. (2017). Kanton Solothurn: nationale und kantonale Wahlen seit 1896. Abgerufen am 22. April 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.2162847.html
+source_comment: "
+17146,1,0,0,450,52,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2019). Kanton Zürich: nationale und kantonale Wahlen seit 1919. Abgerufen am 06. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.7806622.html
+source_comment: "
+17147,2,100,3,450,52,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2019). Kanton Zürich: nationale und kantonale Wahlen seit 1919. Abgerufen am 06. Oktober 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.7806622.html
+source_comment: "
+17148,2,100,2,335,,1,20,,"page_number_string: 
+notes: 
+source_full_citation: GLP Schweiz. (2025). Nationalrat Matthias Jauslin wechselt zur GLP. Abgerufen am 13. September 2026 von https://glp.swiss/nationalrat-matthias-jauslin-wechselt-zur-glp/
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Schaffner, J. (9. Januar 2025). FDP-Nationalrat Matthias Jauslin wechselt zur GLP. In Blick online. Abgerufen am 13. September 2026 von https://www.blick.ch/politik/dieselben-haltungen-und-werte-fdp-nationalrat-matthias-jauslin-wechselt-zur-glp-id20476879.html
+source_comment: "
+17149,1,0,0,335,,1,21,,
+17150,1,50,1,335,,1,22,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17151,2,50,1,335,,1,23,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17152,1,63.63636363636364,7,6,,1,24,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17153,2,36.36363636363636,4,6,,1,25,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17154,1,54.54545454545455,6,6,,1,26,,"page_number_string: 
+notes: 
+source_full_citation: Schaffner, J. (9. Januar 2025). FDP-Nationalrat Matthias Jauslin wechselt zur GLP. In Blick online. Abgerufen am 13. September 2026 von https://www.blick.ch/politik/dieselben-haltungen-und-werte-fdp-nationalrat-matthias-jauslin-wechselt-zur-glp-id20476879.html
+source_comment: "
+17155,2,45.45454545454545,5,6,,1,27,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Schaffner, J. (9. Januar 2025). FDP-Nationalrat Matthias Jauslin wechselt zur GLP. In Blick online. Abgerufen am 13. September 2026 von https://www.blick.ch/politik/dieselben-haltungen-und-werte-fdp-nationalrat-matthias-jauslin-wechselt-zur-glp-id20476879.html
+source_comment: "
+17156,1,63.41463415,26,2,,1,28,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Sozialdemokratische Fraktion (S). Abgerufen am 29. Oktober 2026 von https://www.parlament.ch/de/organe/fraktionen/sp-fraktion
+source_comment: "
+17157,2,36.58536585,15,2,,1,29,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Sozialdemokratische Fraktion (S). Abgerufen am 29. Oktober 2026 von https://www.parlament.ch/de/organe/fraktionen/sp-fraktion
+source_comment: "
+17158,1,100,2,104,,1,30,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17159,2,0,0,104,,1,31,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17160,1,50,1,299,,1,32,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17161,2,50,1,299,,1,33,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17162,1,17.74193548,11,1,,1,34,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17163,2,82.25806452,51,1,,1,35,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17164,1,19.35483871,12,1,,1,36,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17165,2,80.64516129,50,1,,1,37,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17166,1,20.96774194,13,1,,1,38,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17167,2,79.03225806,49,1,,1,39,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17168,1,100,1,379,,1,40,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17169,2,0,0,379,,1,41,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17170,1,14.28571429,1,328,,1,42,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17171,2,85.71428571,6,328,,1,43,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17172,1,30,3,20,,1,44,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17173,2,70,7,20,,1,45,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17174,1,50,1,161,,1,46,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17175,2,50,1,161,,1,47,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17176,1,40.74074074,11,3,,1,48,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Die Fraktionen. Abgerufen am 29. Oktober 2026 von https://www.parlament.ch/de/organe/fraktionen
+source_comment: "
+17177,2,59.25925926,16,3,,1,49,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Die Fraktionen. Abgerufen am 29. Oktober 2026 von https://www.parlament.ch/de/organe/fraktionen
+source_comment: "
+17178,1,100,1,330,,1,50,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Die Fraktionen. Abgerufen am 29. Oktober 2026 von https://www.parlament.ch/de/organe/fraktionen
+source_comment: "
+17179,2,0,0,330,,1,51,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Die Fraktionen. Abgerufen am 29. Oktober 2026 von https://www.parlament.ch/de/organe/fraktionen
+source_comment: "
+17180,1,0,0,318,,1,52,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17181,2,100,1,318,,1,53,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17182,1,39.28571429,11,3,,1,54,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: 
+
+page_number_string: 
+notes: 
+source_full_citation: Gerber, E. (2025). Nationalratswahlen 2023 – Schwyz. Politchronik, Année Politique Suisse, Version vom 19.09.2025. Abgerufen am 29. Oktober 2026 von https://politchronik.swiss/de/prozesse/67672/versionen/dc22d0d8-d6ba-4033-aca6-9add0d3480eb
+source_comment: "
+17183,2,60.71428571,17,3,,1,55,,"page_number_string: 
+notes: 
+source_full_citation: Gerber, E. (2025). Nationalratswahlen 2023 – Schwyz. Politchronik, Année Politique Suisse, Version vom 19.09.2025. Abgerufen am 29. Oktober 2026 von https://politchronik.swiss/de/prozesse/67672/versionen/dc22d0d8-d6ba-4033-aca6-9add0d3480eb
+source_comment: "
+17184,1,37.03703704,10,3,,1,56,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17185,2,62.96296296,17,3,,1,57,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Mutationen im Nationalrat. Abgerufen am 23. Oktober 2026 von https://www.parlament.ch/de/organe/nationalrat/mutationen-nr
+source_comment: "
+17186,1,0,0,183,,1,58,,"page_number_string: 
+notes: 
+source_full_citation: Gerber, E. (2025). Nationalratswahlen 2023 – Schwyz. Politchronik, Année Politique Suisse, Version vom 19.09.2025. Abgerufen am 29. Oktober 2026 von https://politchronik.swiss/de/prozesse/67672/versionen/dc22d0d8-d6ba-4033-aca6-9add0d3480eb
+source_comment: "
+17187,2,100,1,183,,1,59,,"page_number_string: 
+notes: 
+source_full_citation: Gerber, E. (2025). Nationalratswahlen 2023 – Schwyz. Politchronik, Année Politique Suisse, Version vom 19.09.2025. Abgerufen am 29. Oktober 2026 von https://politchronik.swiss/de/prozesse/67672/versionen/dc22d0d8-d6ba-4033-aca6-9add0d3480eb
+source_comment: "
+17188,1,60,6,6,,1,60,"note_translations: languages_code: de-CH
+note: Am Wahltag waren 3 Männer und 7 Frauen gewählt, doch noch vor Legislaturbeginn rückte Patrick Hässig für die in den Ständerat gewählte Tiana Angelina Moser nach.",
+17189,2,40,4,6,,1,61,"note_translations: languages_code: de-CH
+note: Am Wahltag waren 3 Männer und 7 Frauen gewählt, doch noch vor Legislaturbeginn rückte Patrick Hässig für die in den Ständerat gewählte Tiana Angelina Moser nach.",
+17190,1,50,2,27,,1,62,"note_translations: languages_code: de-CH
+note: Am Wahltag waren 1 Mann und 3 Frauen gewählt, doch schon per Legislaturbeginn rückte Patrick Hässig für die unterdessen in den Ständerat gewählte Tiana Angelina Moser nach.",
+17191,2,50,2,27,,1,63,"note_translations: languages_code: de-CH
+note: Am Wahltag waren 1 Mann und 3 Frauen gewählt, doch schon per Legislaturbeginn rückte Patrick Hässig für die unterdessen in den Ständerat gewählte Tiana Angelina Moser nach.",
+17192,1,50,3,360,,1,64,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Sozialdemokratische Fraktion (S). Abgerufen am 29. Oktober 2026 von https://www.parlament.ch/de/organe/fraktionen/sp-fraktion
+source_comment: "
+17193,2,50,3,360,,1,65,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Sozialdemokratische Fraktion (S). Abgerufen am 29. Oktober 2026 von https://www.parlament.ch/de/organe/fraktionen/sp-fraktion
+source_comment: "
+17194,1,0,0,449,422,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17195,2,100,3,449,422,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Basel-Stadt: nationale und kantonale Wahlen seit 1919. Abgerufen am 12. Januar 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14836245.html
+source_comment: "
+17196,1,0,0,449,423,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17197,2,100,2,449,423,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Basel-Stadt: nationale und kantonale Wahlen seit 1919. Abgerufen am 12. Januar 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14836245.html
+source_comment: "
+17198,1,33.3333333333333,1,449,381,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Basel-Stadt: nationale und kantonale Wahlen seit 1919. Abgerufen am 12. Januar 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14836245.html
+source_comment: "
+17199,2,66.666666667,2,449,381,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Basel-Stadt: nationale und kantonale Wahlen seit 1919. Abgerufen am 12. Januar 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14836245.html
+source_comment: "
+17200,1,,0,449,381,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen: Zeitreihen zu Listen, Kandidierenden, Parteistärken, Mandaten, gewählten Frauen und Männern, stärkste Partei (Schweiz und Kantone). Abgerufen am 10. November 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.28845369.html
+source_comment: "
+17201,2,,0,449,381,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen: Zeitreihen zu Listen, Kandidierenden, Parteistärken, Mandaten, gewählten Frauen und Männern, stärkste Partei (Schweiz und Kantone). Abgerufen am 10. November 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.28845369.html
+source_comment: "
+17202,1,100,1,453,,1,66,,"page_number_string: 
+notes: 
+source_full_citation: Sander, M. (25. September 2026). Für fast jeden etwas dabei. Neue Zürcher Zeitung.
+source_comment: "
+17203,1,33.33333333,1,5,,1,67,,"page_number_string: 
+notes: 
+source_full_citation: Parlament.ch. (2026). Mutationen im Ständerat. Abgerufen am 11. September 2026 von https://www.parlament.ch/de/organe/staenderat/mutationen-sr
+source_comment: "
+17204,2,66.66666667,2,5,,1,68,,"page_number_string: 
+notes: 
+source_full_citation: Parlament.ch. (2026). Mutationen im Ständerat. Abgerufen am 11. September 2026 von https://www.parlament.ch/de/organe/staenderat/mutationen-sr
+source_comment: "
+17205,1,,0,387,,1,69,,"page_number_string: 
+notes: 
+source_full_citation: Parlament.ch. (2026). Mutationen im Ständerat. Abgerufen am 11. September 2026 von https://www.parlament.ch/de/organe/staenderat/mutationen-sr
+source_comment: "
+17206,2,,1,387,,1,70,,"page_number_string: 
+notes: 
+source_full_citation: Parlament.ch. (2026). Mutationen im Ständerat. Abgerufen am 11. September 2026 von https://www.parlament.ch/de/organe/staenderat/mutationen-sr
+source_comment: "
+17207,1,50,4,2,,1,71,,"page_number_string: 
+notes: 
+source_full_citation: Parlament.ch. (2026). Mutationen im Ständerat. Abgerufen am 11. September 2026 von https://www.parlament.ch/de/organe/staenderat/mutationen-sr
+source_comment: "
+17208,2,50,4,2,,1,72,,"page_number_string: 
+notes: 
+source_full_citation: Parlament.ch. (2026). Mutationen im Ständerat. Abgerufen am 11. September 2026 von https://www.parlament.ch/de/organe/staenderat/mutationen-sr
+source_comment: "
+17209,2,,0,266,,1,73,,"page_number_string: 
+notes: 
+source_full_citation: Parlament.ch. (2026). Mutationen im Ständerat. Abgerufen am 11. September 2026 von https://www.parlament.ch/de/organe/staenderat/mutationen-sr
+source_comment: "
+17210,1,,0,266,,1,74,,"page_number_string: 
+notes: 
+source_full_citation: Parlament.ch. (2026). Mutationen im Ständerat. Abgerufen am 11. September 2026 von https://www.parlament.ch/de/organe/staenderat/mutationen-sr
+source_comment: "
+17211,1,,0,21,,1,75,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Die Fraktionen. Abgerufen am 29. Oktober 2026 von https://www.parlament.ch/de/organe/fraktionen
+source_comment: "
+17212,2,,0,21,,1,76,,"page_number_string: 
+notes: 
+source_full_citation: Die Bundesversammlung. (2026). Die Fraktionen. Abgerufen am 29. Oktober 2026 von https://www.parlament.ch/de/organe/fraktionen
+source_comment: "
+17213,1,,0,269,,1,77,,"page_number_string: 
+notes: 
+source_full_citation: Parlament.ch. (2026). Mutationen im Ständerat. Abgerufen am 11. September 2026 von https://www.parlament.ch/de/organe/staenderat/mutationen-sr
+source_comment: "
+17214,2,,1,269,,1,78,,"page_number_string: 
+notes: 
+source_full_citation: Parlament.ch. (2026). Mutationen im Ständerat. Abgerufen am 11. September 2026 von https://www.parlament.ch/de/organe/staenderat/mutationen-sr
+source_comment: "
+17215,1,16.66666667,2,3,,1,79,,"page_number_string: 
+notes: 
+source_full_citation: Parlament.ch. (2026). Mutationen im Ständerat. Abgerufen am 11. September 2026 von https://www.parlament.ch/de/organe/staenderat/mutationen-sr
+source_comment: "
+17216,2,83.33333333,10,3,,1,80,,"page_number_string: 
+notes: 
+source_full_citation: Parlament.ch. (2026). Mutationen im Ständerat. Abgerufen am 11. September 2026 von https://www.parlament.ch/de/organe/staenderat/mutationen-sr
+source_comment: "
+17217,1,,0,451,496,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17218,2,,0,451,496,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17219,1,,0,451,497,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17220,2,,0,451,497,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17221,1,0,0,451,461,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17222,2,100,1,451,461,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2019). Kanton Basel-Landschaft: nationale und kantonale Wahlen seit 1919. Abgerufen am 05. Februar 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.8286100.html
+source_comment: "
+17223,1,,0,451,461,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17224,2,,0,451,461,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17225,1,0,0,451,462,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17226,2,100,4,451,462,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2019). Kanton Basel-Landschaft: nationale und kantonale Wahlen seit 1919. Abgerufen am 05. Februar 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.8286100.html
+source_comment: "
+17227,1,,0,451,462,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17228,2,,0,451,462,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17229,1,33.3333333333333,2,451,463,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2019). Kanton Basel-Landschaft: nationale und kantonale Wahlen seit 1919. Abgerufen am 05. Februar 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.8286100.html
+source_comment: "
+17230,2,66.6666666667,4,451,463,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2019). Kanton Basel-Landschaft: nationale und kantonale Wahlen seit 1919. Abgerufen am 05. Februar 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.8286100.html
+source_comment: "
+17231,1,,0,451,463,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17232,2,,0,451,463,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17233,1,0,0,451,464,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17234,2,100,2,451,464,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2019). Kanton Basel-Landschaft: nationale und kantonale Wahlen seit 1919. Abgerufen am 05. Februar 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.8286100.html
+source_comment: "
+17235,1,,0,451,464,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17236,2,,0,451,464,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17237,1,,0,451,465,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17238,2,,0,451,465,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17239,1,0,0,451,465,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17240,2,100,4,451,465,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2019). Kanton Basel-Landschaft: nationale und kantonale Wahlen seit 1919. Abgerufen am 05. Februar 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.8286100.html
+source_comment: "
+17241,1,0,0,454,1241,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17242,2,100,8,454,1241,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Schaffhausen: nationale und kantonale Wahlen seit 1919. Abgerufen am 28. April 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14687821.html
+source_comment: "
+17243,1,0,0,454,1242,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17244,2,100,7,454,1242,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Schaffhausen: nationale und kantonale Wahlen seit 1919. Abgerufen am 28. April 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14687821.html
+source_comment: "
+17245,1,0,0,454,1243,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17246,2,100,3,454,1243,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Schaffhausen: nationale und kantonale Wahlen seit 1919. Abgerufen am 28. April 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14687821.html
+source_comment: "
+17247,1,0,0,454,1205,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17248,2,100,2,454,1205,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Schaffhausen: nationale und kantonale Wahlen seit 1919. Abgerufen am 28. April 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14687821.html
+source_comment: "
+17249,1,,0,454,1205,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17250,2,,0,454,1205,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17251,1,0,0,454,1206,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17252,2,100,2,454,1206,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Schaffhausen: nationale und kantonale Wahlen seit 1919. Abgerufen am 28. April 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14687821.html
+source_comment: "
+17253,1,,0,454,1206,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17254,2,,0,454,1206,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17255,1,0,0,455,1282,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen: Kandidierende nach Parteien, Geschlecht und Kantonen. Abgerufen am 30. September 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546313.html
+source_comment: "
+17256,2,100,1,455,1282,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen: Kandidierende nach Parteien, Geschlecht und Kantonen. Abgerufen am 30. September 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546313.html
+source_comment: "
+17257,1,,0,455,1282,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17258,2,,0,455,1282,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17259,1,,0,455,1283,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17260,2,,0,455,1283,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17261,1,0,0,455,1283,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen: Kandidierende nach Parteien, Geschlecht und Kantonen. Abgerufen am 30. September 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546313.html
+source_comment: "
+17262,2,100,1,455,1283,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2023). Nationalratswahlen: Kandidierende nach Parteien, Geschlecht und Kantonen. Abgerufen am 30. September 2025 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.27546313.html
+source_comment: "
+17263,1,0,0,434,1680,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17264,2,100,12,434,1680,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Aargau: nationale und kantonale Wahlen seit 1919. Abgerufen am 20. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14796574.html
+source_comment: "
+17265,1,5.26315789473684,1,434,1681,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Aargau: nationale und kantonale Wahlen seit 1919. Abgerufen am 20. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14796574.html
+source_comment: "
+17266,2,94.73684211,18,434,1681,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Aargau: nationale und kantonale Wahlen seit 1919. Abgerufen am 20. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14796574.html
+source_comment: "
+17267,1,0,0,434,1682,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17268,2,100,4,434,1682,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Aargau: nationale und kantonale Wahlen seit 1919. Abgerufen am 20. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14796574.html
+source_comment: "
+17269,1,0,0,434,1683,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17270,2,100,1,434,1683,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Aargau: nationale und kantonale Wahlen seit 1919. Abgerufen am 20. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14796574.html
+source_comment: "
+17271,1,,0,434,1684,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17272,2,,0,434,1684,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17273,1,7.14285714285714,1,434,1642,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Aargau: nationale und kantonale Wahlen seit 1919. Abgerufen am 20. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14796574.html
+source_comment: "
+17274,2,92.85714286,13,434,1642,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Aargau: nationale und kantonale Wahlen seit 1919. Abgerufen am 20. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14796574.html
+source_comment: "
+17275,1,,0,434,1642,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17276,2,,0,434,1642,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17277,1,14.2857142857143,2,434,1643,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Aargau: nationale und kantonale Wahlen seit 1919. Abgerufen am 20. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14796574.html
+source_comment: "
+17278,2,85.71428571,12,434,1643,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Aargau: nationale und kantonale Wahlen seit 1919. Abgerufen am 20. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14796574.html
+source_comment: "
+17279,1,0,0,434,1643,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17280,2,100,2,434,1643,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Aargau: nationale und kantonale Wahlen seit 1919. Abgerufen am 20. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14796574.html
+source_comment: "
+17281,1,13.3333333333333,2,434,1644,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Aargau: nationale und kantonale Wahlen seit 1919. Abgerufen am 20. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14796574.html
+source_comment: "
+17282,2,86.66666667,13,434,1644,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Aargau: nationale und kantonale Wahlen seit 1919. Abgerufen am 20. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14796574.html
+source_comment: "
+17283,1,0,0,434,1644,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17284,2,100,2,434,1644,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Aargau: nationale und kantonale Wahlen seit 1919. Abgerufen am 20. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14796574.html
+source_comment: "
+17285,1,,0,434,1645,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17286,2,,0,434,1645,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17287,1,26.6666666666667,4,434,1645,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Aargau: nationale und kantonale Wahlen seit 1919. Abgerufen am 20. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14796574.html
+source_comment: "
+17288,2,73.33333333,11,434,1645,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Aargau: nationale und kantonale Wahlen seit 1919. Abgerufen am 20. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14796574.html
+source_comment: "
+17289,1,8.33333333333333,1,434,1646,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Aargau: nationale und kantonale Wahlen seit 1919. Abgerufen am 20. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14796574.html
+source_comment: "
+17290,2,91.66666667,11,434,1646,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Aargau: nationale und kantonale Wahlen seit 1919. Abgerufen am 20. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.14796574.html
+source_comment: "
+17291,1,,0,434,1646,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17292,2,,0,434,1646,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17293,1,,0,457,1721,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17294,2,,0,457,1721,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17295,1,0,0,457,1721,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17296,2,100,6,457,1721,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Thurgau: nationale und kantonale Wahlen seit 1919. Abgerufen am 26. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.12467429.html
+source_comment: "
+17297,1,,0,457,1722,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17298,2,,0,457,1722,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17299,1,8.33333333333333,1,457,1722,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Thurgau: nationale und kantonale Wahlen seit 1919. Abgerufen am 26. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.12467429.html
+source_comment: "
+17300,2,91.66666667,11,457,1722,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Thurgau: nationale und kantonale Wahlen seit 1919. Abgerufen am 26. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.12467429.html
+source_comment: "
+17301,1,0,0,457,1723,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17302,2,100,1,457,1723,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Thurgau: nationale und kantonale Wahlen seit 1919. Abgerufen am 26. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.12467429.html
+source_comment: "
+17303,1,16.6666666666667,1,457,1723,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Thurgau: nationale und kantonale Wahlen seit 1919. Abgerufen am 26. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.12467429.html
+source_comment: "
+17304,2,83.33333333,5,457,1723,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Thurgau: nationale und kantonale Wahlen seit 1919. Abgerufen am 26. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.12467429.html
+source_comment: "
+17305,1,,0,457,1724,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17306,2,,0,457,1724,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17307,1,16.6666666666667,1,457,1724,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Thurgau: nationale und kantonale Wahlen seit 1919. Abgerufen am 26. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.12467429.html
+source_comment: "
+17308,2,83.33333333,5,457,1724,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Thurgau: nationale und kantonale Wahlen seit 1919. Abgerufen am 26. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.12467429.html
+source_comment: "
+17309,1,,0,458,1725,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17310,2,,0,458,1725,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17311,1,33.3333333333333,1,458,1725,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Thurgau: nationale und kantonale Wahlen seit 1919. Abgerufen am 26. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.12467429.html
+source_comment: "
+17312,2,66.6666667,2,458,1725,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Thurgau: nationale und kantonale Wahlen seit 1919. Abgerufen am 26. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.12467429.html
+source_comment: "
+17313,1,0,0,457,1766,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17314,2,100,10,457,1766,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Thurgau: nationale und kantonale Wahlen seit 1919. Abgerufen am 26. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.12467429.html
+source_comment: "
+17315,1,0,0,457,1767,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17316,2,100,10,457,1767,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Thurgau: nationale und kantonale Wahlen seit 1919. Abgerufen am 26. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.12467429.html
+source_comment: "
+17317,1,0,0,457,1768,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17318,2,100,7,457,1768,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Thurgau: nationale und kantonale Wahlen seit 1919. Abgerufen am 26. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.12467429.html
+source_comment: "
+17319,1,0,0,457,1769,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17320,2,100,1,457,1769,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Thurgau: nationale und kantonale Wahlen seit 1919. Abgerufen am 26. Mai 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.12467429.html
+source_comment: "
+17321,1,,0,459,1807,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17322,2,,0,459,1807,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17323,1,0,0,459,1807,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Waadt: nationale und kantonale Wahlen seit 1919. Abgerufen am 05. Juni 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.12047161.html
+source_comment: "
+17324,2,100,1,459,1807,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2020). Kanton Waadt: nationale und kantonale Wahlen seit 1919. Abgerufen am 05. Juni 2026 von https://www.bfs.admin.ch/bfs/rm/home.assetdetail.12047161.html
+source_comment: "
+17325,1,,0,460,1949,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17326,2,,0,460,1949,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2025). Nationalratswahlen (Anzahl Kandidaturen und Gewählte seit 1971). Abgerufen am 25. November 2025 von https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/-/px-x-1702020000_103.px/
+source_comment: "
+17327,1,9.09090909090909,1,460,1949,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2018). Kanton Genf: nationale und kantonale Wahlen seit 1919. Abgerufen am 26. Juni 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.5247423.html
+source_comment: "
+17328,2,90.90909091,10,460,1949,2,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2018). Kanton Genf: nationale und kantonale Wahlen seit 1919. Abgerufen am 26. Juni 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.5247423.html
+source_comment: "
+17329,1,27.27272727,6,398,1992,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2018). Kanton Genf: nationale und kantonale Wahlen seit 1919. Abgerufen am 26. Juni 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/katalog.assetdetail.5247423.html
+source_comment: "
+17330,1,,0,460,1992,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17331,2,,0,460,1992,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17332,1,10,1,461,2000,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17333,2,90,9,461,2000,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Parlamentswahlen: Mandatsverteilung nach Parteien, Geschlecht und Kantonen. Abgerufen am 17. September 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsparlamente.assetdetail.36654112.html
+source_comment: "
+17334,1,,0,461,2011,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Regierungswahlen: Mandatsverteilung nach Partei, Geschlecht und Kanton. Abgerufen am 14. Oktober 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsregierungen.assetdetail.36879288.html
+source_comment: "
+17335,2,,1,461,2011,1,,,"page_number_string: 
+notes: 
+source_full_citation: Bundesamt für Statistik. (2026). Kantonale Regierungswahlen: Mandatsverteilung nach Partei, Geschlecht und Kanton. Abgerufen am 14. Oktober 2026 von https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-wahlen/kantonsregierungen.assetdetail.36879288.html
+source_comment: "
+17336,2,100,1,12,,1,81,,"page_number_string: 
+notes: 
+source_full_citation: Keystone-SDA. (7. Oktober 2026). SVP-Politiker Marchesi übernimmt Regierungssitz von Lega-Mann Zali. Abgerufen am 15. November 2026 von https://web.archive.org/web/20261115210546/https://www.swissinfo.ch/ger/svp-politiker-marchesi-%C3%BCbernimmt-regierungssitz-von-lega-mann-zali/92181490
+source_comment: "
+17337,1,0,0,12,,1,82,,"page_number_string: 
+notes: 
+source_full_citation: Keystone-SDA. (7. Oktober 2026). SVP-Politiker Marchesi übernimmt Regierungssitz von Lega-Mann Zali. Abgerufen am 15. November 2026 von https://web.archive.org/web/20261115210546/https://www.swissinfo.ch/ger/svp-politiker-marchesi-%C3%BCbernimmt-regierungssitz-von-lega-mann-zali/92181490
+source_comment: "
+17338,2,100,1,161,,1,83,,"page_number_string: 
+notes: 
+source_full_citation: Keystone-SDA. (7. Oktober 2026). SVP-Politiker Marchesi übernimmt Regierungssitz von Lega-Mann Zali. Abgerufen am 15. November 2026 von https://web.archive.org/web/20261115210546/https://www.swissinfo.ch/ger/svp-politiker-marchesi-%C3%BCbernimmt-regierungssitz-von-lega-mann-zali/92181490
+source_comment: "
+17339,1,0,0,161,,1,84,,"page_number_string: 
+notes: 
+source_full_citation: Keystone-SDA. (7. Oktober 2026). SVP-Politiker Marchesi übernimmt Regierungssitz von Lega-Mann Zali. Abgerufen am 15. November 2026 von https://web.archive.org/web/20261115210546/https://www.swissinfo.ch/ger/svp-politiker-marchesi-%C3%BCbernimmt-regierungssitz-von-lega-mann-zali/92181490
 source_comment: "
