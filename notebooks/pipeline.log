@@ -1,0 +1,106 @@
+2026-11-16 16:49:35,068 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 5_1983-05-28: ['exact', 'year']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,068 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 5_1986-05-24: ['exact', 'year']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:35,128 | 1_json | DATA_ERROR | Naming: Party with id 10 has a name with id 12 that has a valid_through date of 1970-07-01, but the next name with id 13 has a valid_from date of 1970-12-12.
+2026-11-16 16:49:35,191 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 17_1905-03-19: ['year', 'year', 'month']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,211 | 1_json | DATA_ERROR | Naming: Party with id 24 has a name with id 35 that has a valid_through date of 2008-01-01, but the next name with id 36 has a valid_from date of 2009-01-01.
+2026-11-16 16:49:35,213 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 24_2008-01-01: ['multiyear', 'exact', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,213 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 24_2009-01-01: ['multiyear', 'exact', 'exact']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:35,236 | 1_json | DATA_ERROR | Naming: Party with id 31 has a name with id 50 that has a valid_through date of 2009-01-01, but the next name with id 51 has a valid_from date of 2009-05-02.
+2026-11-16 16:49:35,313 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 51_1945-01-01: ['multiyear', 'multiyear', 'multiyear', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,315 | 1_json | DATA_ERROR | Naming: Party with id 53 has no names.
+2026-11-16 16:49:35,352 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 65_1976-05-22: ['multiyear', 'multiyear', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,362 | 1_json | DATA_ERROR | Naming: Party with id 68 has a founding date of 1907-10-06, but the first name with id 108 has a valid_from date of 1907-10-16.
+2026-11-16 16:49:35,367 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 69_1912-07-01: ['year', 'unknown', 'year']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:35,388 | 1_json | DATA_ERROR | Naming: Party with id 76 has a founding date of 1894-09-19, but the first name with id 123 has a valid_from date of 1894-07-01.
+2026-11-16 16:49:35,390 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 76_1973-02-10: ['multiyear', 'multiyear', 'exact', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,390 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 76_2009-01-01: ['multiyear', 'multiyear', 'exact', 'exact']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:35,433 | 1_json | DATA_ERROR | Naming: Party with id 90 has a founding date of 2019-06-15, but the first name with id 156 has a valid_from date of 2019-07-01.
+2026-11-16 16:49:35,440 | 1_json | DATA_ERROR | Naming: Party with id 93 has a dissolution date of 1999-12-04, but the last name with id 653 has a valid_through date of nan.
+2026-11-16 16:49:35,449 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 96_1921-07-01: ['multimonth', 'multimonth', 'multimonth', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,456 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 100_1932-07-01: ['year', 'multiyear']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,478 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 107_1926-07-01: ['exact', 'year']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,478 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 107_1961-07-01: ['exact', 'year']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:35,491 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 111_1990-07-01: ['exact', 'year', 'year', 'year']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,522 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 125_1979-01-01: ['unknown', 'unknown', 'exact', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,522 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 125_2009-01-01: ['unknown', 'unknown', 'exact', 'exact']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:35,541 | 1_json | DATA_ERROR | Naming: Party with id 130 has a name with id 219 that has a valid_through date of 2021-07-01, but the next name with id 220 has a valid_from date of 2021-08-13.
+2026-11-16 16:49:35,550 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 135_1945-07-01: ['multiyear', 'multiyear', 'multiyear', 'year']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,614 | 1_json | DATA_ERROR | Naming: Party with id 157 has a founding date of 2008-01-09, but the first name with id 260 has a valid_from date of 2009-01-09.
+2026-11-16 16:49:35,618 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 158_1944-07-01: ['year', 'year', 'year', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,625 | 1_json | DATA_ERROR | Naming: Party with id 161 has a founding date of 1920-12-19, but the first name with id 264 has a valid_from date of 1919-12-19.
+2026-11-16 16:49:35,634 | 1_json | DATA_ERROR | Naming: Party with id 165 has a dissolution date of 1988-01-24, but the last name with id 269 has a valid_through date of nan.
+2026-11-16 16:49:35,665 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 175_1944-08-15: ['month', 'exact']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:35,682 | 1_json | DATA_ERROR | Naming: Party with id 183 has a founding date of 1833-07-01, but the first name with id 293 has a valid_from date of 1912-07-01.
+2026-11-16 16:49:35,698 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 188_1989-07-01: ['year', 'year', 'year', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,709 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 194_1992-10-15: ['month', 'month', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,713 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 195_1950-01-01: ['multiyear', 'multiyear', 'exact', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,713 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 195_2009-01-01: ['multiyear', 'multiyear', 'exact', 'exact']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:35,736 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 203_2000-01-01: ['multiyear', 'multiyear', 'exact', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,736 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 203_2009-01-01: ['multiyear', 'multiyear', 'exact', 'exact']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:35,762 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 212_1975-01-01: ['multiyear', 'multiyear', 'exact', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,762 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 212_2009-01-01: ['multiyear', 'multiyear', 'exact', 'exact']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:35,801 | 1_json | DATA_ERROR | Naming: Party with id 224 has a name with id 357 that has a valid_through date of 1930-01-01, but the next name with id 358 has a valid_from date of 1970-01-01.
+2026-11-16 16:49:35,807 | 1_json | DATA_ERROR | Naming: Party with id 226 has a dissolution date of 2005-08-27, but the last name with id 362 has a valid_through date of 2005-07-01.
+2026-11-16 16:49:35,834 | 1_json | DATA_ERROR | Naming: Party with id 236 has a dissolution date of 2021-07-01, but the last name with id 383 has a valid_through date of nan.
+2026-11-16 16:49:35,859 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 243_1966-06-02: ['exact', 'exact', 'year']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:35,862 | 1_json | DATA_ERROR | Naming: Party with id 245 has a dissolution date of 2021-07-01, but the last name with id 397 has a valid_through date of nan.
+2026-11-16 16:49:35,876 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 250_1944-07-01: ['year', 'year', 'year', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,880 | 1_json | DATA_ERROR | Naming: Party with id 252 has a founding date of 1883-02-15, but the first name with id 403 has a valid_from date of 1883-02-25.
+2026-11-16 16:49:35,898 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 258_1989-11-14: ['year', 'year', 'year', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,902 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 260_1987-10-07: ['year', 'year', 'year', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,906 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 262_1969-01-01: ['year', 'year', 'year', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,910 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 263_1990-07-01: ['year', 'year', 'year', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,930 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 269_1918-12-19: ['multiyear', 'multiyear', 'exact', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,930 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 269_2009-01-01: ['multiyear', 'multiyear', 'exact', 'exact']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:35,955 | 1_json | DATA_ERROR | Naming: Party with id 278 has a dissolution date of 1999-12-04, but the last name with id 448 has a valid_through date of nan.
+2026-11-16 16:49:35,969 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 283_1946-07-01: ['multiyear', 'multiyear', 'exact', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:35,970 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 283_2009-01-01: ['multiyear', 'multiyear', 'exact', 'exact']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:36,028 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 308_1944-07-01: ['multiyear', 'multiyear', 'multiyear', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:36,035 | 1_json | DATA_ERROR | Naming: Party with id 311 has a dissolution date of 2021-06-07, but the last name with id 500 has a valid_through date of 2021-06-06.
+2026-11-16 16:49:36,054 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 318_1934-07-01: ['multiyear', 'multiyear', 'exact', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:36,054 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 318_2009-01-01: ['multiyear', 'multiyear', 'exact', 'exact']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:36,069 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 322_1993-07-01: ['year', 'year', 'year', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:36,073 | 1_json | DATA_ERROR | Naming: Party with id 325 has a founding date of 1987-11-07, but the first name with id 520 has a valid_from date of 1987-07-01.
+2026-11-16 16:49:36,079 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 326_1936-11-15: ['exact', 'month', 'exact', 'exact']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:36,079 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 326_1951-07-01: ['multiyear', 'multiyear', 'multiyear', 'multiyear', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:36,091 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 330_1895-03-08: ['exact', 'multiyear', 'exact', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:36,091 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 330_2009-01-01: ['exact', 'multiyear', 'exact', 'exact']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:36,114 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 340_1985-04-23: ['exact', 'year', 'exact', 'exact']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:36,119 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 342_1894-02-25: ['multiyear', 'multiyear', 'exact', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:36,119 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 342_2009-01-01: ['multiyear', 'multiyear', 'exact', 'exact']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:36,141 | 1_json | DATA_ERROR | Naming: Party with id 353 has no names.
+2026-11-16 16:49:36,166 | 1_json | DATA_ERROR | Naming: Party with id 358 has a dissolution date of 1985-04-23, but the last name with id 571 has a valid_through date of nan.
+2026-11-16 16:49:36,167 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 358_1919-07-01: ['exact', 'exact', 'year', 'year', 'year', 'year']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:36,243 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 386_2004-02-15: ['month', 'month', 'month', 'exact']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:36,247 | 1_json | DATA_ERROR | Naming: Party with id 387 has a founding date of 1984-01-24, but the first name with id 615 has a valid_from date of 1984-07-01.
+2026-11-16 16:49:36,304 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 407_1921-03-06: ['year', 'year', 'year', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:36,319 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 415_1921-03-06: ['multimonth', 'multimonth', 'multimonth', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:36,323 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for starting events of version 416_1915-07-04: ['year', 'exact']. Setting valid_from_precision to 'unknown'.
+2026-11-16 16:49:36,350 | 1_json | DATA_ERROR | Naming: Party with id 429 has a dissolution date of 1949-01-01, but the last name with id 684 has a valid_through date of nan.
+2026-11-16 16:49:36,353 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 433_1997-03-03: ['unknown', 'unknown', 'unknown', 'exact']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:36,370 | 1_json | DATA_ERROR | Naming: Party with id 439 has a name with id 701 that has a valid_through date of 1994-01-01, but the next name with id 707 has a valid_from date of 1994-07-01.
+2026-11-16 16:49:36,391 | 1_json | DATA_ERROR | Naming: Party with id 449 has a name with id 721 that has no valid_through date, but there is a next name with id 726.
+2026-11-16 16:49:36,392 | 1_json | DATA_ERROR | Date-Precision: Different date precisions for stopping events of version 449_1995-01-01: ['unknown', 'exact', 'unknown']. Setting valid_through_precision to 'unknown'.
+2026-11-16 16:49:36,403 | 1_json | DATA_ERROR | Naming: Party with id 455 has a name with id 734 that has no valid_through date, but there is a next name with id 735.
+2026-11-16 16:49:36,544 | 1_json | DATA_ERROR | Event-Merging: Events ['334', '335', '48', '49'] have different date precisions: {'exact', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,544 | 1_json | DATA_ERROR | Event-Merging: Events ['72', '73'] have different date precisions: {'month', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,544 | 1_json | DATA_ERROR | Event-Merging: Events ['137', '1759'] have different date precisions: {'exact', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,544 | 1_json | DATA_ERROR | Event-Merging: Events ['263', '267'] have different date precisions: {'exact', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,544 | 1_json | DATA_ERROR | Event-Merging: Events ['449', '482'] have different date precisions: {'exact', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,544 | 1_json | DATA_ERROR | Event-Merging: Events ['536', '541', '547', '549'] have different date precisions: {'year', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,544 | 1_json | DATA_ERROR | Event-Merging: Events ['635', '636'] have different date precisions: {'year', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,544 | 1_json | DATA_ERROR | Event-Merging: Events ['723', '724'] have different date precisions: {'exact', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,545 | 1_json | DATA_ERROR | Event-Merging: Events ['832', '840'] have different date precisions: {'exact', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,545 | 1_json | DATA_ERROR | Event-Merging: Events ['846', '848'] have different date precisions: {'exact', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,545 | 1_json | DATA_ERROR | Event-Merging: Events ['1043', '1044', '1083'] have different date precisions: {'year', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,545 | 1_json | DATA_ERROR | Event-Merging: Events ['1105', '1107'] have different date precisions: {'exact', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,545 | 1_json | DATA_ERROR | Event-Merging: Events ['1150', '1151'] have different date precisions: {'exact', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,545 | 1_json | DATA_ERROR | Event-Merging: Events ['1153', '1154'] have different date precisions: {'exact', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,545 | 1_json | DATA_ERROR | Event-Merging: Events ['1156', '1157'] have different date precisions: {'exact', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,545 | 1_json | DATA_ERROR | Event-Merging: Events ['1160', '1161'] have different date precisions: {'exact', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,545 | 1_json | DATA_ERROR | Event-Merging: Events ['1345', '1346'] have different date precisions: {'exact', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,546 | 1_json | DATA_ERROR | Event-Merging: Events ['1397', '1398', '1433'] have different date precisions: {'exact', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,546 | 1_json | DATA_ERROR | Event-Merging: Events ['1408', '1420'] have different date precisions: {'exact', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,546 | 1_json | DATA_ERROR | Event-Merging: Events ['1424', '1425', '1438'] have different date precisions: {'exact', 'unknown'}. Using 'unknown' as date precision.
+2026-11-16 16:49:36,546 | 1_json | DATA_ERROR | Event-Merging: Events ['1483', '1545'] have different dates: {'2008-07-01', '1985-04-23'}. Using the earliest date.
+2026-11-16 16:49:36,546 | 1_json | DATA_ERROR | Event-Merging: Events ['1736', '1744'] have different date precisions: {'exact', 'unknown'}. Using 'unknown' as date precision.
